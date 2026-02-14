@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(powershell -Command \"Move-Item -Path square-shepherd\\\\* -Destination . -Force; Remove-Item -Path square-shepherd -Recurse -Force\")",
+      "Bash(npm install:*)",
+      "Bash(npx astro add:*)",
+      "Bash(dir:*)",
+      "Bash(del /Q \"src\\\\content\\\\blog\\\\*.md\" \"src\\\\content\\\\blog\\\\*.mdx\")",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
