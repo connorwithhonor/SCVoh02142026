@@ -15,7 +15,11 @@
       "Bash(git branch:*)",
       "Bash(git remote add:*)",
       "Bash(git push:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "WebFetch(domain:www.agentimage.com)",
+      "WebFetch(domain:www.luxurypresence.com)",
+      "WebFetch(domain:www.convertflow.com)",
+      "WebFetch(domain:www.proven.partners)"
     ]
   }
 }

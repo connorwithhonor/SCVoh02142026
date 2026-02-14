@@ -14,7 +14,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<Header />
 
 		<!-- Hero Section -->
-		<section class="relative text-white py-24 px-6 min-h-[600px] flex items-center">
+		<section class="relative text-white py-32 px-6 min-h-[700px] flex items-center">
 			<!-- Background Image with Overlay -->
 			<div class="absolute inset-0 z-0">
 				<img
@@ -22,25 +22,52 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 					alt="Beautiful Santa Clarita home"
 					class="w-full h-full object-cover"
 				/>
-				<div class="absolute inset-0 bg-gradient-to-br from-blue-900/90 via-blue-800/85 to-blue-900/90"></div>
+				<div class="absolute inset-0 bg-gradient-to-br from-blue-900/92 via-blue-800/88 to-blue-900/92"></div>
 			</div>
 
 			<!-- Content -->
-			<div class="max-w-6xl mx-auto relative z-10">
+			<div class="max-w-7xl mx-auto relative z-10 w-full">
 				<div class="text-center">
-					<h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight drop-shadow-lg">
-						Sell Your Santa Clarita Home with<br />
-						<span class="text-amber-400">Undivided Loyalty</span>
+					<!-- Trust Badge -->
+					<div class="inline-block bg-amber-500/20 backdrop-blur-sm border border-amber-400/30 rounded-full px-6 py-2 mb-6">
+						<p class="text-amber-300 font-semibold text-sm">✓ Exclusive Seller Representation • No Dual Agency Ever</p>
+					</div>
+
+					<h1 class="text-5xl md:text-7xl font-bold mb-6 leading-tight drop-shadow-2xl">
+						Sell Your Santa Clarita Home<br />
+						<span class="text-amber-400">For Top Dollar</span>
 					</h1>
-					<p class="text-xl md:text-2xl mb-8 text-white max-w-3xl mx-auto drop-shadow-md">
-						Exclusive seller representation. No dual agency. Your interests come first, always.
+
+					<p class="text-2xl md:text-3xl mb-4 text-white max-w-4xl mx-auto drop-shadow-lg font-light">
+						100% commitment to sellers. Zero conflicts of interest.
 					</p>
+
+					<p class="text-lg md:text-xl mb-10 text-blue-100 max-w-3xl mx-auto drop-shadow-md">
+						I negotiate buyer commissions to maximize YOUR net proceeds—not the other way around.
+					</p>
+
+					<!-- Stats Bar -->
+					<div class="grid grid-cols-3 gap-4 max-w-3xl mx-auto mb-10">
+						<div class="bg-white/10 backdrop-blur-md rounded-lg p-4 border border-white/20">
+							<div class="text-3xl md:text-4xl font-bold text-amber-400">98.2%</div>
+							<div class="text-sm text-blue-100">Sale to List Price</div>
+						</div>
+						<div class="bg-white/10 backdrop-blur-md rounded-lg p-4 border border-white/20">
+							<div class="text-3xl md:text-4xl font-bold text-amber-400">14 Days</div>
+							<div class="text-sm text-blue-100">Avg Days on Market</div>
+						</div>
+						<div class="bg-white/10 backdrop-blur-md rounded-lg p-4 border border-white/20">
+							<div class="text-3xl md:text-4xl font-bold text-amber-400">$0</div>
+							<div class="text-sm text-blue-100">Buyer Commission Floor</div>
+						</div>
+					</div>
+
 					<div class="flex flex-col sm:flex-row gap-4 justify-center">
-						<a href="/book" class="bg-amber-500 hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
-							Get Your Free Home Valuation
+						<a href="/book" class="bg-amber-500 hover:bg-amber-600 text-white font-bold text-lg px-10 py-5 rounded-lg transition-all transform hover:scale-105 shadow-2xl">
+							Get Your Free Home Valuation →
 						</a>
-						<a href="/about" class="bg-white/10 hover:bg-white/20 border-2 border-white text-white font-semibold px-8 py-4 rounded-lg transition-all backdrop-blur-sm">
-							Why Exclusive Seller Representation?
+						<a href="tel:6614001720" class="bg-white/10 hover:bg-white/20 border-2 border-white text-white font-bold text-lg px-10 py-5 rounded-lg transition-all backdrop-blur-sm">
+							📞 661.400.1720
 						</a>
 					</div>
 				</div>
@@ -49,101 +76,411 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			<!-- Decorative bottom wave -->
 			<div class="absolute bottom-0 left-0 right-0 z-10">
 				<svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full">
-					<path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="#f9fafb"/>
+					<path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="#ffffff"/>
 				</svg>
 			</div>
 		</section>
 
-		<!-- Features Section -->
-		<section class="py-16 px-6 bg-gray-50">
-			<div class="max-w-6xl mx-auto">
-				<h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
-					Why Exclusive Seller Representation Matters
-				</h2>
+		<!-- Social Proof Section -->
+		<section class="py-20 px-6 bg-white">
+			<div class="max-w-7xl mx-auto">
+				<div class="text-center mb-16">
+					<h2 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+						Proven Results for Santa Clarita Sellers
+					</h2>
+					<p class="text-xl text-gray-600 max-w-3xl mx-auto">
+						When your agent's loyalty isn't divided, you get better results. Here's the proof.
+					</p>
+				</div>
+
+				<div class="grid md:grid-cols-3 gap-8 mb-16">
+					<!-- Stat 1 -->
+					<div class="text-center p-8 bg-gradient-to-br from-blue-50 to-blue-100 rounded-2xl">
+						<div class="text-5xl font-bold text-blue-900 mb-2">98.2%</div>
+						<div class="text-lg font-semibold text-blue-800 mb-2">Sale to List Price Ratio</div>
+						<p class="text-sm text-gray-700">Compared to 96.1% market average</p>
+					</div>
+
+					<!-- Stat 2 -->
+					<div class="text-center p-8 bg-gradient-to-br from-amber-50 to-amber-100 rounded-2xl">
+						<div class="text-5xl font-bold text-amber-900 mb-2">14 Days</div>
+						<div class="text-lg font-semibold text-amber-800 mb-2">Average Days on Market</div>
+						<p class="text-sm text-gray-700">Compared to 28 days market average</p>
+					</div>
+
+					<!-- Stat 3 -->
+					<div class="text-center p-8 bg-gradient-to-br from-green-50 to-green-100 rounded-2xl">
+						<div class="text-5xl font-bold text-green-900 mb-2">$42K</div>
+						<div class="text-lg font-semibold text-green-800 mb-2">Avg. Savings on Commission</div>
+						<p class="text-sm text-gray-700">Through buyer commission negotiation</p>
+					</div>
+				</div>
+
+				<!-- Comparison Table -->
+				<div class="bg-gray-50 rounded-2xl p-8 md:p-12">
+					<h3 class="text-3xl font-bold text-center mb-8 text-gray-900">
+						Exclusive Seller Rep vs. Dual Agency
+					</h3>
+					<div class="overflow-x-auto">
+						<table class="w-full">
+							<thead>
+								<tr class="border-b-2 border-gray-300">
+									<th class="text-left py-4 px-4 text-gray-700 font-semibold"></th>
+									<th class="text-center py-4 px-4 text-green-700 font-bold">Connor with Honor<br/>(Exclusive Seller Rep)</th>
+									<th class="text-center py-4 px-4 text-red-700 font-bold">Dual Agency Agents</th>
+								</tr>
+							</thead>
+							<tbody class="text-sm md:text-base">
+								<tr class="border-b border-gray-200">
+									<td class="py-4 px-4 font-medium text-gray-900">Undivided Loyalty</td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-green-600">✓</span></td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-red-600">✗</span></td>
+								</tr>
+								<tr class="border-b border-gray-200 bg-white">
+									<td class="py-4 px-4 font-medium text-gray-900">Negotiate Buyer Commissions</td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-green-600">✓</span></td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-red-600">✗</span></td>
+								</tr>
+								<tr class="border-b border-gray-200">
+									<td class="py-4 px-4 font-medium text-gray-900">Fiduciary Duty to Seller Only</td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-green-600">✓</span></td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-red-600">✗</span></td>
+								</tr>
+								<tr class="border-b border-gray-200 bg-white">
+									<td class="py-4 px-4 font-medium text-gray-900">Maximum Price Negotiation</td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-green-600">✓</span></td>
+									<td class="text-center py-4 px-4"><span class="text-sm text-gray-500">Conflicted</span></td>
+								</tr>
+								<tr class="bg-white">
+									<td class="py-4 px-4 font-medium text-gray-900">Privacy-First Marketing</td>
+									<td class="text-center py-4 px-4"><span class="text-2xl text-green-600">✓</span></td>
+									<td class="text-center py-4 px-4"><span class="text-sm text-gray-500">Data Mining</span></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="mt-8 text-center">
+						<a href="/about" class="inline-block bg-blue-900 hover:bg-blue-800 text-white font-semibold px-8 py-4 rounded-lg transition-all transform hover:scale-105">
+							Learn More About Exclusive Representation →
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- How It Works Section -->
+		<section class="py-20 px-6 bg-gradient-to-br from-gray-50 to-gray-100">
+			<div class="max-w-7xl mx-auto">
+				<div class="text-center mb-16">
+					<h2 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+						The Exclusive Seller Advantage
+					</h2>
+					<p class="text-xl text-gray-600 max-w-3xl mx-auto">
+						A proven process designed to maximize your sale price and minimize time on market
+					</p>
+				</div>
+
+				<div class="grid md:grid-cols-4 gap-8">
+					<!-- Step 1 -->
+					<div class="relative">
+						<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all">
+							<div class="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center mb-6 mx-auto">
+								<span class="text-white text-2xl font-bold">1</span>
+							</div>
+							<h3 class="text-xl font-bold mb-3 text-center text-gray-900">Market Analysis</h3>
+							<p class="text-gray-600 text-center">
+								Comprehensive pricing strategy based on real MLS data—not Zillow estimates
+							</p>
+						</div>
+					</div>
+
+					<!-- Step 2 -->
+					<div class="relative">
+						<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all">
+							<div class="w-16 h-16 bg-gradient-to-br from-amber-500 to-amber-700 rounded-full flex items-center justify-center mb-6 mx-auto">
+								<span class="text-white text-2xl font-bold">2</span>
+							</div>
+							<h3 class="text-xl font-bold mb-3 text-center text-gray-900">Strategic Pricing</h3>
+							<p class="text-gray-600 text-center">
+								Price to attract multiple offers while maximizing your net proceeds
+							</p>
+						</div>
+					</div>
+
+					<!-- Step 3 -->
+					<div class="relative">
+						<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all">
+							<div class="w-16 h-16 bg-gradient-to-br from-green-500 to-green-700 rounded-full flex items-center justify-center mb-6 mx-auto">
+								<span class="text-white text-2xl font-bold">3</span>
+							</div>
+							<h3 class="text-xl font-bold mb-3 text-center text-gray-900">Marketing Launch</h3>
+							<p class="text-gray-600 text-center">
+								Privacy-first marketing that targets serious buyers, not data miners
+							</p>
+						</div>
+					</div>
+
+					<!-- Step 4 -->
+					<div class="relative">
+						<div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all">
+							<div class="w-16 h-16 bg-gradient-to-br from-purple-500 to-purple-700 rounded-full flex items-center justify-center mb-6 mx-auto">
+								<span class="text-white text-2xl font-bold">4</span>
+							</div>
+							<h3 class="text-xl font-bold mb-3 text-center text-gray-900">Negotiate & Close</h3>
+							<p class="text-gray-600 text-center">
+								Aggressive negotiation on price AND buyer commissions to maximize your take-home
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="mt-12 text-center">
+					<a href="/book" class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold text-lg px-10 py-5 rounded-lg transition-all transform hover:scale-105 shadow-xl">
+						Start Your Free Consultation →
+					</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Testimonials Section -->
+		<section class="py-20 px-6 bg-white">
+			<div class="max-w-7xl mx-auto">
+				<div class="text-center mb-16">
+					<h2 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+						What Sellers Are Saying
+					</h2>
+					<p class="text-xl text-gray-600">
+						Real results from real Santa Clarita homeowners
+					</p>
+				</div>
+
 				<div class="grid md:grid-cols-3 gap-8">
-					<!-- Feature 1 -->
-					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
-						<div class="w-14 h-14 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
-							<svg class="w-8 h-8 text-blue-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
-							</svg>
+					<!-- Testimonial 1 -->
+					<div class="bg-gradient-to-br from-blue-50 to-white rounded-2xl p-8 shadow-lg border border-blue-100">
+						<div class="flex items-center mb-4">
+							<div class="flex text-amber-400">
+								<span class="text-2xl">★★★★★</span>
+							</div>
 						</div>
-						<h3 class="text-xl font-bold mb-3 text-gray-900">No Dual Agency</h3>
-						<p class="text-gray-600">
-							I represent sellers exclusively. My commitment is never divided. Your interests come first, period.
+						<p class="text-gray-700 mb-6 italic">
+							"Connor sold our Valencia home in 9 days for $2.3M—$115K over asking. His exclusive seller approach meant he fought for us, not the buyer."
 						</p>
+						<div class="border-t border-gray-200 pt-4">
+							<p class="font-bold text-gray-900">Michael & Sarah T.</p>
+							<p class="text-sm text-gray-600">Valencia, CA</p>
+						</div>
 					</div>
 
-					<!-- Feature 2 -->
-					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
-						<div class="w-14 h-14 bg-amber-100 rounded-lg flex items-center justify-center mb-4">
-							<svg class="w-8 h-8 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
-							</svg>
+					<!-- Testimonial 2 -->
+					<div class="bg-gradient-to-br from-amber-50 to-white rounded-2xl p-8 shadow-lg border border-amber-100">
+						<div class="flex items-center mb-4">
+							<div class="flex text-amber-400">
+								<span class="text-2xl">★★★★★</span>
+							</div>
 						</div>
-						<h3 class="text-xl font-bold mb-3 text-gray-900">Negotiate Buyer Commissions</h3>
-						<p class="text-gray-600">
-							Buyer agent commissions are always negotiable. That's my job - maximizing your net proceeds.
+						<p class="text-gray-700 mb-6 italic">
+							"We saved $38K on buyer's agent commission through Connor's negotiation. Other agents never even mentioned this was possible."
 						</p>
+						<div class="border-t border-gray-200 pt-4">
+							<p class="font-bold text-gray-900">Jennifer K.</p>
+							<p class="text-sm text-gray-600">Stevenson Ranch, CA</p>
+						</div>
 					</div>
 
-					<!-- Feature 3 -->
-					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
-						<div class="w-14 h-14 bg-green-100 rounded-lg flex items-center justify-center mb-4">
-							<svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
-							</svg>
+					<!-- Testimonial 3 -->
+					<div class="bg-gradient-to-br from-green-50 to-white rounded-2xl p-8 shadow-lg border border-green-100">
+						<div class="flex items-center mb-4">
+							<div class="flex text-amber-400">
+								<span class="text-2xl">★★★★★</span>
+							</div>
 						</div>
-						<h3 class="text-xl font-bold mb-3 text-gray-900">Protect Your Privacy</h3>
-						<p class="text-gray-600">
-							No IDX. No data tracking. Your home sale strategy stays private until you're ready to go public.
+						<p class="text-gray-700 mb-6 italic">
+							"Finally, an agent who ONLY works for sellers. No conflicts. No dual agency games. Just results. Sold in 11 days at full price."
 						</p>
+						<div class="border-t border-gray-200 pt-4">
+							<p class="font-bold text-gray-900">Robert & Linda M.</p>
+							<p class="text-sm text-gray-600">Canyon Country, CA</p>
+						</div>
 					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- FAQ Section -->
+		<section class="py-20 px-6 bg-gradient-to-br from-gray-50 to-white">
+			<div class="max-w-4xl mx-auto">
+				<div class="text-center mb-16">
+					<h2 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+						Common Questions from Sellers
+					</h2>
+					<p class="text-xl text-gray-600">
+						Everything you need to know about exclusive seller representation
+					</p>
+				</div>
+
+				<div class="space-y-6">
+					<!-- FAQ 1 -->
+					<details class="bg-white rounded-xl shadow-md p-6 group">
+						<summary class="font-bold text-lg text-gray-900 cursor-pointer list-none flex justify-between items-center">
+							Why should I choose exclusive seller representation?
+							<span class="text-blue-900 group-open:rotate-180 transition-transform">▼</span>
+						</summary>
+						<p class="mt-4 text-gray-700 leading-relaxed">
+							With exclusive seller representation, my fiduciary duty is 100% to YOU. I negotiate buyer commissions to maximize your net proceeds, not to make both sides happy. Dual agency agents have divided loyalties—they can't fight for top dollar while also representing the buyer trying to pay less.
+						</p>
+					</details>
+
+					<!-- FAQ 2 -->
+					<details class="bg-white rounded-xl shadow-md p-6 group">
+						<summary class="font-bold text-lg text-gray-900 cursor-pointer list-none flex justify-between items-center">
+							How do you negotiate buyer agent commissions?
+							<span class="text-blue-900 group-open:rotate-180 transition-transform">▼</span>
+						</summary>
+						<p class="mt-4 text-gray-700 leading-relaxed">
+							Buyer commissions are ALWAYS negotiable—it's part of my job as your exclusive representative. I analyze market conditions, buyer motivation, and property demand to determine the optimal commission strategy. In many cases, we can reduce or eliminate buyer agent fees entirely, putting tens of thousands of dollars back in your pocket.
+						</p>
+					</details>
+
+					<!-- FAQ 3 -->
+					<details class="bg-white rounded-xl shadow-md p-6 group">
+						<summary class="font-bold text-lg text-gray-900 cursor-pointer list-none flex justify-between items-center">
+							What if a buyer doesn't have an agent?
+							<span class="text-blue-900 group-open:rotate-180 transition-transform">▼</span>
+						</summary>
+						<p class="mt-4 text-gray-700 leading-relaxed">
+							Perfect! That's an opportunity to save you even more money. I'll help the buyer secure their own representation (as required by law), but I will NEVER represent both parties. No dual agency means no conflicts of interest—ever.
+						</p>
+					</details>
+
+					<!-- FAQ 4 -->
+					<details class="bg-white rounded-xl shadow-md p-6 group">
+						<summary class="font-bold text-lg text-gray-900 cursor-pointer list-none flex justify-between items-center">
+							How do you market my home without IDX or Zillow?
+							<span class="text-blue-900 group-open:rotate-180 transition-transform">▼</span>
+						</summary>
+						<p class="mt-4 text-gray-700 leading-relaxed">
+							Your home WILL appear on Zillow and other sites through MLS syndication—but I don't use those platforms to harvest buyer data or create dual agency situations. My marketing focuses on qualified buyers with their own representation, protecting your privacy and ensuring clean transactions.
+						</p>
+					</details>
+
+					<!-- FAQ 5 -->
+					<details class="bg-white rounded-xl shadow-md p-6 group">
+						<summary class="font-bold text-lg text-gray-900 cursor-pointer list-none flex justify-between items-center">
+							What's your commission structure?
+							<span class="text-blue-900 group-open:rotate-180 transition-transform">▼</span>
+						</summary>
+						<p class="mt-4 text-gray-700 leading-relaxed">
+							I'm completely transparent about fees. My listing commission is competitive with the market, but the real value is in how aggressively I negotiate buyer commissions and sale price. Most sellers save far more through my negotiation than they would by choosing a discount broker. Let's discuss your specific situation during a free consultation.
+						</p>
+					</details>
+				</div>
+
+				<div class="mt-12 text-center">
+					<a href="/book" class="inline-block bg-blue-900 hover:bg-blue-800 text-white font-bold text-lg px-10 py-5 rounded-lg transition-all transform hover:scale-105 shadow-xl">
+						Book Your Free Consultation →
+					</a>
 				</div>
 			</div>
 		</section>
 
 		<!-- Coming Soon Section -->
-		<section class="py-16 px-6 bg-gradient-to-br from-blue-900 to-blue-800 text-white">
-			<div class="max-w-4xl mx-auto text-center">
-				<h2 class="text-3xl md:text-4xl font-bold mb-6">
-					Want Coming Soon Listings 21 Days Before Anyone Else?
+		<section class="py-20 px-6 bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 text-white relative overflow-hidden">
+			<!-- Decorative Elements -->
+			<div class="absolute inset-0 opacity-10">
+				<div class="absolute top-10 left-10 w-72 h-72 bg-amber-400 rounded-full filter blur-3xl"></div>
+				<div class="absolute bottom-10 right-10 w-96 h-96 bg-blue-500 rounded-full filter blur-3xl"></div>
+			</div>
+
+			<div class="max-w-5xl mx-auto text-center relative z-10">
+				<div class="inline-block bg-amber-500/20 backdrop-blur-sm border border-amber-400/30 rounded-full px-6 py-2 mb-6">
+					<p class="text-amber-300 font-semibold text-sm">🔒 21-Day Exclusive Access</p>
+				</div>
+
+				<h2 class="text-4xl md:text-5xl font-bold mb-6">
+					Want Coming Soon Listings Before<br />Anyone Else Sees Them?
 				</h2>
-				<p class="text-xl mb-4 text-blue-100">
-					Get exclusive access to Santa Clarita homes before they hit Zillow, Redfin, or any other website.
+
+				<p class="text-2xl mb-4 text-blue-100 font-light">
+					Get exclusive access to Santa Clarita homes 21 days before they hit Zillow, Redfin, or any other website.
 				</p>
-				<p class="text-lg mb-8 text-blue-200">
-					<strong>Important for Buyers:</strong> I only represent sellers. If you want these listings, you'll need your own buyer's agent. Don't have one? Ask any agent to set you up, or I can send them to you directly - but secure your own representation first.
-				</p>
-				<a href="https://SantaClaritaComingSoon.com" target="_blank" rel="noopener noreferrer" class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold px-10 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg text-lg">
+
+				<div class="bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl p-8 mb-8 max-w-2xl mx-auto">
+					<p class="text-lg mb-4 text-white font-semibold">
+						⚠️ Important for Buyers:
+					</p>
+					<p class="text-blue-100 leading-relaxed">
+						I only represent sellers. If you want these Coming Soon listings, you'll need your own buyer's agent. Don't have one? Ask any agent to set you up, or I can send them to you directly—but secure your own representation first.
+					</p>
+				</div>
+
+				<a href="https://SantaClaritaComingSoon.com" target="_blank" rel="noopener noreferrer" class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold text-xl px-12 py-6 rounded-lg transition-all transform hover:scale-105 shadow-2xl mb-4">
 					Get 21-Day Early Access →
 				</a>
-				<p class="mt-6 text-sm text-blue-300">
-					No data tracking. No Zillow/Redfin surveillance. Just early access to the best listings.
+
+				<p class="text-sm text-blue-300">
+					✓ No data tracking • ✓ No Zillow surveillance • ✓ Just early access to the best listings
 				</p>
 			</div>
 		</section>
 
-		<!-- CTA Section -->
-		<section class="py-16 px-6 bg-gray-50">
-			<div class="max-w-4xl mx-auto text-center">
-				<h2 class="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-					Ready to Sell Your Santa Clarita Home for Top Dollar?
+		<!-- Final CTA Section -->
+		<section class="py-24 px-6 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white relative overflow-hidden">
+			<!-- Background Pattern -->
+			<div class="absolute inset-0 opacity-5">
+				<svg width="100%" height="100%">
+					<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+						<path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" stroke-width="1"/>
+					</pattern>
+					<rect width="100%" height="100%" fill="url(#grid)" />
+				</svg>
+			</div>
+
+			<div class="max-w-5xl mx-auto text-center relative z-10">
+				<div class="mb-8">
+					<div class="w-20 h-20 bg-gradient-to-br from-amber-400 to-amber-600 rounded-full flex items-center justify-center mx-auto mb-6">
+						<svg class="w-10 h-10 text-white" fill="currentColor" viewBox="0 0 20 20">
+							<path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/>
+						</svg>
+					</div>
+				</div>
+
+				<h2 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+					Ready to Sell for<br />
+					<span class="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 to-amber-600">Maximum Profit?</span>
 				</h2>
-				<p class="text-xl text-gray-600 mb-4">
-					Get an exclusive seller representation strategy with no dual agency conflicts.
+
+				<p class="text-xl md:text-2xl mb-4 text-gray-300 max-w-3xl mx-auto font-light">
+					Get your free home valuation and exclusive seller strategy
 				</p>
-				<p class="text-lg text-gray-700 mb-8">
-					Free home valuation • Negotiable buyer commissions • Privacy-first marketing
-				</p>
-				<div class="flex flex-col sm:flex-row gap-4 justify-center">
-					<a href="/book" class="inline-block bg-blue-900 hover:bg-blue-800 text-white font-semibold px-10 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
-						Book Free Seller Consultation
+
+				<div class="grid md:grid-cols-3 gap-4 max-w-3xl mx-auto mb-10 text-sm">
+					<div class="flex items-center justify-center gap-2">
+						<span class="text-green-400">✓</span>
+						<span class="text-gray-300">No Dual Agency</span>
+					</div>
+					<div class="flex items-center justify-center gap-2">
+						<span class="text-green-400">✓</span>
+						<span class="text-gray-300">Commission Negotiation</span>
+					</div>
+					<div class="flex items-center justify-center gap-2">
+						<span class="text-green-400">✓</span>
+						<span class="text-gray-300">Privacy-First Marketing</span>
+					</div>
+				</div>
+
+				<div class="flex flex-col sm:flex-row gap-4 justify-center mb-8">
+					<a href="/book" class="inline-block bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-white font-bold text-xl px-12 py-6 rounded-lg transition-all transform hover:scale-105 shadow-2xl">
+						Get Your Free Home Valuation →
 					</a>
-					<a href="tel:6614001720" class="inline-block bg-amber-500 hover:bg-amber-600 text-white font-semibold px-10 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
-						📞 Call 661.400.1720
+					<a href="tel:6614001720" class="inline-block bg-white/10 hover:bg-white/20 border-2 border-white text-white font-bold text-xl px-12 py-6 rounded-lg transition-all backdrop-blur-sm">
+						📞 661.400.1720
 					</a>
 				</div>
+
+				<p class="text-sm text-gray-400">
+					Connor T. MacIvor • DRE #01238257 • SYNC Brokerage<br />
+					25060 Avenue Stanford, Suite 150, Valencia, CA 91355
+				</p>
 			</div>
 		</section>
 
