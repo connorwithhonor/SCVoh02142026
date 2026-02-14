@@ -14,14 +14,25 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<Header />
 
 		<!-- Hero Section -->
-		<section class="relative bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 text-white py-24 px-6">
-			<div class="max-w-6xl mx-auto">
+		<section class="relative text-white py-24 px-6 min-h-[600px] flex items-center">
+			<!-- Background Image with Overlay -->
+			<div class="absolute inset-0 z-0">
+				<img
+					src="https://storage.googleapis.com/msgsndr/3z37W4oH1lMfraSObL1X/media/697cbafc1311f61da1eae20f.png"
+					alt="Beautiful Santa Clarita home"
+					class="w-full h-full object-cover"
+				/>
+				<div class="absolute inset-0 bg-gradient-to-br from-blue-900/90 via-blue-800/85 to-blue-900/90"></div>
+			</div>
+
+			<!-- Content -->
+			<div class="max-w-6xl mx-auto relative z-10">
 				<div class="text-center">
-					<h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+					<h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight drop-shadow-lg">
 						Find Your Dream Home in<br />
 						<span class="text-amber-400">Santa Clarita</span>
 					</h1>
-					<p class="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
+					<p class="text-xl md:text-2xl mb-8 text-white max-w-3xl mx-auto drop-shadow-md">
 						Browse open houses without the privacy concerns of syndication sites. Your data stays yours.
 					</p>
 					<div class="flex flex-col sm:flex-row gap-4 justify-center">
@@ -34,8 +45,9 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 					</div>
 				</div>
 			</div>
+
 			<!-- Decorative bottom wave -->
-			<div class="absolute bottom-0 left-0 right-0">
+			<div class="absolute bottom-0 left-0 right-0 z-10">
 				<svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full">
 					<path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="#f9fafb"/>
 				</svg>
