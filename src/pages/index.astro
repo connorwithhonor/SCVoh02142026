@@ -10,40 +10,102 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
-	<body>
+	<body class="bg-gray-50">
 		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
+
+		<!-- Hero Section -->
+		<section class="relative bg-gradient-to-br from-blue-900 via-blue-800 to-blue-900 text-white py-24 px-6">
+			<div class="max-w-6xl mx-auto">
+				<div class="text-center">
+					<h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+						Find Your Dream Home in<br />
+						<span class="text-amber-400">Santa Clarita</span>
+					</h1>
+					<p class="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
+						Browse open houses without the privacy concerns of syndication sites. Your data stays yours.
+					</p>
+					<div class="flex flex-col sm:flex-row gap-4 justify-center">
+						<a href="/blog" class="bg-amber-500 hover:bg-amber-600 text-white font-semibold px-8 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
+							View Open Houses
+						</a>
+						<a href="/about" class="bg-white/10 hover:bg-white/20 border-2 border-white text-white font-semibold px-8 py-4 rounded-lg transition-all backdrop-blur-sm">
+							Learn More
+						</a>
+					</div>
+				</div>
+			</div>
+			<!-- Decorative bottom wave -->
+			<div class="absolute bottom-0 left-0 right-0">
+				<svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full">
+					<path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="#f9fafb"/>
+				</svg>
+			</div>
+		</section>
+
+		<!-- Features Section -->
+		<section class="py-16 px-6 bg-gray-50">
+			<div class="max-w-6xl mx-auto">
+				<h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
+					Why Choose Us?
+				</h2>
+				<div class="grid md:grid-cols-3 gap-8">
+					<!-- Feature 1 -->
+					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
+						<div class="w-14 h-14 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
+							<svg class="w-8 h-8 text-blue-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+							</svg>
+						</div>
+						<h3 class="text-xl font-bold mb-3 text-gray-900">Your Privacy Matters</h3>
+						<p class="text-gray-600">
+							Unlike Zillow and Redfin, we don't track or sell your browsing data to third parties. Browse with confidence.
+						</p>
+					</div>
+
+					<!-- Feature 2 -->
+					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
+						<div class="w-14 h-14 bg-amber-100 rounded-lg flex items-center justify-center mb-4">
+							<svg class="w-8 h-8 text-amber-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+							</svg>
+						</div>
+						<h3 class="text-xl font-bold mb-3 text-gray-900">Local Expertise</h3>
+						<p class="text-gray-600">
+							Detailed neighborhood insights for every Santa Clarita community. Know before you go.
+						</p>
+					</div>
+
+					<!-- Feature 3 -->
+					<div class="bg-white p-8 rounded-xl shadow-md hover:shadow-xl transition-shadow">
+						<div class="w-14 h-14 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+							<svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+								<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+							</svg>
+						</div>
+						<h3 class="text-xl font-bold mb-3 text-gray-900">Always Up to Date</h3>
+						<p class="text-gray-600">
+							Fresh listings updated daily. Be the first to know about new open houses in your area.
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- CTA Section -->
+		<section class="py-16 px-6 bg-white">
+			<div class="max-w-4xl mx-auto text-center">
+				<h2 class="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
+					Ready to Find Your Next Home?
+				</h2>
+				<p class="text-xl text-gray-600 mb-8">
+					Start browsing our latest open house listings in Santa Clarita and surrounding neighborhoods.
+				</p>
+				<a href="/blog" class="inline-block bg-blue-900 hover:bg-blue-800 text-white font-semibold px-10 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
+					Browse Open Houses →
+				</a>
+			</div>
+		</section>
+
 		<Footer />
 	</body>
 </html>

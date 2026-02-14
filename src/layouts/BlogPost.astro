@@ -39,68 +39,163 @@ const jsonLd = {
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<style>
-			main {
-				width: calc(100% - 2em);
-				max-width: 100%;
-				margin: 0;
-			}
 			.hero-image {
-				width: 100%;
+				max-width: 1200px;
+				margin: 0 auto 2rem;
 			}
 			.hero-image img {
-				display: block;
-				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
+				width: 100%;
+				height: 500px;
+				object-fit: cover;
+				border-radius: 0;
 			}
 			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
-				color: rgb(var(--gray-dark));
+				max-width: 800px;
+				margin: 0 auto;
+				padding: 2rem 1.5rem;
+				background: white;
+				border-radius: 12px;
+				box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
 			}
 			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
-				text-align: center;
-				line-height: 1;
+				margin-bottom: 2rem;
+				padding-bottom: 1.5rem;
+				border-bottom: 2px solid #e5e7eb;
 			}
 			.title h1 {
-				margin: 0 0 0.5em 0;
+				font-size: 2.5rem;
+				line-height: 1.2;
+				color: #111827;
+				margin: 1rem 0;
 			}
-			.date {
-				margin-bottom: 0.5em;
-				color: rgb(var(--gray));
+			.meta-info {
+				display: flex;
+				align-items: center;
+				gap: 1rem;
+				flex-wrap: wrap;
+				color: #6b7280;
+				font-size: 0.95rem;
+			}
+			.meta-item {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+			}
+			.neighborhood-badge {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.5rem;
+				background: #fef3c7;
+				color: #92400e;
+				padding: 0.5rem 1rem;
+				border-radius: 9999px;
+				font-weight: 600;
+				font-size: 0.95rem;
+				margin-bottom: 1rem;
 			}
 			.last-updated-on {
 				font-style: italic;
+				color: #9ca3af;
+			}
+
+			/* Article Content Styling */
+			.prose :global(h2) {
+				font-size: 1.875rem;
+				font-weight: 700;
+				margin-top: 2.5rem;
+				margin-bottom: 1rem;
+				color: #111827;
+			}
+			.prose :global(h3) {
+				font-size: 1.5rem;
+				font-weight: 600;
+				margin-top: 2rem;
+				margin-bottom: 0.75rem;
+				color: #1f2937;
+			}
+			.prose :global(p) {
+				margin-bottom: 1.25rem;
+				line-height: 1.8;
+				color: #374151;
+			}
+			.prose :global(ul), .prose :global(ol) {
+				margin: 1.5rem 0;
+				padding-left: 1.5rem;
+			}
+			.prose :global(li) {
+				margin-bottom: 0.5rem;
+				line-height: 1.7;
+			}
+			.prose :global(a) {
+				color: #1e40af;
+				text-decoration: underline;
+			}
+			.prose :global(a:hover) {
+				color: #1e3a8a;
+			}
+			.prose :global(strong) {
+				font-weight: 700;
+				color: #111827;
+			}
+			.prose :global(blockquote) {
+				border-left: 4px solid #f59e0b;
+				padding-left: 1.5rem;
+				margin: 1.5rem 0;
+				font-style: italic;
+				color: #4b5563;
+			}
+			.prose :global(hr) {
+				margin: 2rem 0;
+				border: 0;
+				border-top: 2px solid #e5e7eb;
+			}
+			@media (max-width: 768px) {
+				.title h1 {
+					font-size: 2rem;
+				}
+				.hero-image img {
+					height: 300px;
+				}
 			}
 		</style>
 	</head>
 
-	<body>
+	<body class="bg-gray-50">
 		<Header />
-		<main>
+		<main class="py-8 px-4">
 			<article>
-				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt={title} loading="lazy" decoding="async" />}
-				</div>
+				{heroImage && (
+					<div class="hero-image">
+						<img src={heroImage} alt={title} loading="lazy" decoding="async" />
+					</div>
+				)}
 				<div class="prose">
 					<div class="title">
-						<div class="date">
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
-						</div>
+						{neighborhood && (
+							<div class="neighborhood-badge">
+								<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+									<path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
+								</svg>
+								{neighborhood}
+							</div>
+						)}
 						<h1>{title}</h1>
-						{neighborhood && <p class="text-gray-600 text-lg">📍 {neighborhood}</p>}
-						<hr />
+						<div class="meta-info">
+							<div class="meta-item">
+								<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+								</svg>
+								<FormattedDate date={pubDate} />
+							</div>
+							{updatedDate && (
+								<div class="last-updated-on meta-item">
+									<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+										<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/>
+									</svg>
+									Updated <FormattedDate date={updatedDate} />
+								</div>
+							)}
+						</div>
 					</div>
 					<SyndicationWarning />
 					<slot />

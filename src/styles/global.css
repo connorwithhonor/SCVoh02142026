@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+/* Real Estate Theme Variables */
+:root {
+	--brand-blue: #1e3a8a;
+	--brand-gold: #f59e0b;
+	--brand-gray: #6b7280;
+	--brand-light: #f3f4f6;
+}
+
+/* Base Typography */
+body {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+	line-height: 1.7;
+	color: #1f2937;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+	line-height: 1.2;
+	color: #111827;
+}
+
+/* Smooth Scrolling */
+html {
+	scroll-behavior: smooth;
+}
