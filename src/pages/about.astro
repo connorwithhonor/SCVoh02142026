@@ -1,63 +1,175 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
 ---
 
-<Layout
-	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
-	heroImage={AboutHeroImage}
->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo
-		viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam
-		adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus
-		et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-		vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque
-		sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-	</p>
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`About | ${SITE_TITLE}`} description="Learn about our mission to provide privacy-focused real estate listings in Santa Clarita Valley" />
+	</head>
+	<body class="bg-gray-50">
+		<Header />
 
-	<p>
-		Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non
-		tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non
-		blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna
-		porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis
-		massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-		Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis
-		bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra
-		massa massa ultricies mi.
-	</p>
+		<!-- Page Header -->
+		<section class="bg-gradient-to-r from-blue-900 to-blue-800 text-white py-16 px-6">
+			<div class="max-w-4xl mx-auto text-center">
+				<h1 class="text-4xl md:text-5xl font-bold mb-4">About Us</h1>
+				<p class="text-xl text-blue-100">
+					Your trusted partner in Santa Clarita Valley real estate
+				</p>
+			</div>
+		</section>
 
-	<p>
-		Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl
-		suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet
-		nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae
-		turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem
-		dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat
-		semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-		vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum
-		facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam
-		vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla
-		urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-	</p>
+		<!-- Main Content -->
+		<main class="max-w-4xl mx-auto px-6 py-12">
+			<div class="bg-white rounded-xl shadow-md p-8 md:p-12 mb-8">
+				<!-- Mission Section -->
+				<section class="mb-12">
+					<h2 class="text-3xl font-bold mb-6 text-gray-900">Our Mission</h2>
+					<p class="text-lg text-gray-700 leading-relaxed mb-4">
+						We believe in providing Santa Clarita Valley home buyers with a <strong>privacy-first</strong> alternative to traditional real estate syndication platforms. Unlike Zillow and Redfin, we don't track your searches or sell your browsing data to third parties.
+					</p>
+					<p class="text-lg text-gray-700 leading-relaxed">
+						Our goal is simple: help you find your dream home while keeping your personal information private and secure.
+					</p>
+				</section>
 
-	<p>
-		Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper
-		viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc
-		scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur
-		gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus
-		pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-		blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id
-		cursus metus aliquam eleifend mi.
-	</p>
+				<!-- Agent Info Section - CUSTOMIZE THIS -->
+				<section class="mb-12 bg-blue-50 p-8 rounded-lg">
+					<h2 class="text-3xl font-bold mb-6 text-gray-900">Your Local Expert</h2>
+					<div class="space-y-4 text-gray-700">
+						<p class="text-lg leading-relaxed">
+							<strong>[YOUR NAME]</strong> is a licensed real estate professional serving the Santa Clarita Valley with [X] years of experience helping families find their perfect home.
+						</p>
+						<ul class="list-disc list-inside space-y-2 text-lg">
+							<li>DRE License #: <strong>[YOUR LICENSE NUMBER]</strong></li>
+							<li>Specializing in: Santa Clarita, Valencia, Stevenson Ranch, Canyon Country, Saugus</li>
+							<li>Member of: [Real Estate Associations]</li>
+						</ul>
+						<p class="text-lg leading-relaxed mt-4">
+							Contact: <a href="mailto:info@santaclaritaopenhouses.com" class="text-blue-900 underline">info@santaclaritaopenhouses.com</a>
+						</p>
+					</div>
+				</section>
 
-	<p>
-		Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta
-		nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam
-		tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci
-		ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar
-		proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
-	</p>
-</Layout>
+				<!-- Why Choose Us -->
+				<section class="mb-12">
+					<h2 class="text-3xl font-bold mb-6 text-gray-900">Why Choose Us?</h2>
+					<div class="grid md:grid-cols-2 gap-6">
+						<div class="border-l-4 border-amber-500 pl-4">
+							<h3 class="text-xl font-bold mb-2 text-gray-900">Privacy First</h3>
+							<p class="text-gray-700">No tracking pixels, no data brokers, no selling your information.</p>
+						</div>
+						<div class="border-l-4 border-amber-500 pl-4">
+							<h3 class="text-xl font-bold mb-2 text-gray-900">Local Knowledge</h3>
+							<p class="text-gray-700">Deep expertise in every Santa Clarita Valley neighborhood.</p>
+						</div>
+						<div class="border-l-4 border-amber-500 pl-4">
+							<h3 class="text-xl font-bold mb-2 text-gray-900">Transparent Service</h3>
+							<p class="text-gray-700">Direct communication, no hidden fees, honest guidance.</p>
+						</div>
+						<div class="border-l-4 border-amber-500 pl-4">
+							<h3 class="text-xl font-bold mb-2 text-gray-900">Client-Focused</h3>
+							<p class="text-gray-700">Your goals and timeline drive every decision we make.</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- Legal Disclaimers -->
+				<section class="border-t-2 border-gray-200 pt-8">
+					<h2 class="text-2xl font-bold mb-6 text-gray-900">Legal Information & Disclaimers</h2>
+
+					<div class="space-y-6 text-sm text-gray-600">
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Licensing</h3>
+							<p>
+								This website is operated by [YOUR NAME/BROKERAGE], a licensed California real estate broker/agent.
+								DRE License #: [YOUR LICENSE NUMBER]. All real estate services are provided in accordance with
+								California Department of Real Estate regulations.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Fair Housing Statement</h3>
+							<p>
+								We are pledged to the letter and spirit of U.S. policy for the achievement of equal housing
+								opportunity throughout the Nation. We encourage and support an affirmative advertising and
+								marketing program in which there are no barriers to obtaining housing because of race, color,
+								religion, sex, handicap, familial status, or national origin.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Information Accuracy</h3>
+							<p>
+								While we strive to ensure all property information is accurate and up-to-date, listings are
+								subject to change without notice. Property details, pricing, availability, and other information
+								should be independently verified. We make no guarantees regarding the accuracy of third-party
+								data or MLS information displayed on this site.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">No Financial Advice</h3>
+							<p>
+								Information provided on this website is for informational purposes only and should not be
+								construed as financial, legal, or tax advice. We recommend consulting with qualified
+								professionals (mortgage brokers, attorneys, CPAs) for advice specific to your situation.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Privacy & Data Collection</h3>
+							<p>
+								Unlike syndication platforms, we do not track your browsing behavior, sell your data to
+								third parties, or use aggressive retargeting. We collect only essential contact information
+								when you voluntarily reach out to us. See our Privacy Policy for details.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">MLS Disclaimer</h3>
+							<p>
+								Some property listings may be sourced from the Multiple Listing Service (MLS). MLS data is
+								deemed reliable but not guaranteed. Properties may be sold, pending, or off-market.
+								Information is for consumers' personal, non-commercial use and may not be used for any
+								purpose other than to identify prospective properties.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Limitation of Liability</h3>
+							<p>
+								We are not responsible for any errors, omissions, or outdated information on this website.
+								Your use of this site is at your own risk. We shall not be liable for any damages arising
+								from the use or inability to use this site or its content.
+							</p>
+						</div>
+
+						<div>
+							<h3 class="font-bold text-gray-900 mb-2">Copyright</h3>
+							<p>
+								© {new Date().getFullYear()} {SITE_TITLE}. All rights reserved. Content on this website,
+								including text, images, and design, is protected by copyright law and may not be reproduced
+								without written permission.
+							</p>
+						</div>
+					</div>
+				</section>
+
+				<!-- CTA -->
+				<section class="mt-12 text-center">
+					<h3 class="text-2xl font-bold mb-4 text-gray-900">Ready to Start Your Home Search?</h3>
+					<a href="/blog" class="inline-block bg-blue-900 hover:bg-blue-800 text-white font-semibold px-10 py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg">
+						Browse Open Houses
+					</a>
+				</section>
+			</div>
+		</main>
+
+		<Footer />
+	</body>
+</html>
