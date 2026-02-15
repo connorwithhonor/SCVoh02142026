@@ -1,0 +1,4 @@
+# Paste your URLs here, one per line
+# Example:
+# https://www.santaclaritaopenhouses.com/blog/post-1
+# https://www.santaclaritaopenhouses.com/blog/post-2

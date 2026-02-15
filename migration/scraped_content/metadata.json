@@ -1,0 +1,22 @@
+{
+  "base_url": "https://www.santaclaritaopenhouses.com",
+  "scraped_at": "2026-02-15T07:52:12.615020",
+  "total_pages": 3,
+  "pages": [
+    {
+      "url": "https://www.santaclaritaopenhouses.com",
+      "slug": "page",
+      "title": "First Responder Realtor"
+    },
+    {
+      "url": "https://www.santaclaritaopenhouses.com/blog",
+      "slug": "blog",
+      "title": "Connor with Honor Blog"
+    },
+    {
+      "url": "https://www.santaclaritaopenhouses.com/blog/",
+      "slug": "blog",
+      "title": "Connor with Honor Blog"
+    }
+  ]
+}
