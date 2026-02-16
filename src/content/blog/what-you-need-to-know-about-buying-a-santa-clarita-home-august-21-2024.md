@@ -30,12 +30,6 @@ You have the right to have your own real estate agent when buying a home, in San
 
 You may be charged to buy a home as part of your costs of homeownership. Before the lawsuit and the mandatory changes to the commission structure where now the concessions are a part, but apply to the three "usual" buyer's fees.
 
-	- **Your real estate lender's Fee** (this equates to usually 1% of the purchase price, in some cases, it will be less and in some cases it will be more. This is lender dependent - if you are getting this fee waived (called the origination fee), look for it to re-appear elsewhere in the fees that you are paying, or look for an increase of those fees after you say you can get it done elsewhere for less money).
-
-	- **Your part of the title insurance fee** (the home seller pays some, you pay some - as was customary - this hasn't changed, at least for now. This number is about 1% of the total sales price, but that can also depend on the market and the local area and what is considered "typical and standard".)
-
-	- **Escrow, your part. The seller has their part. **(Again - the 1% rule - or gage. 1% of the purchase price, or thereabouts is the typical lender fee.)
-
 **Closing costs **- that is what the above list is know as. What if you were going to go it without consideration of these fees? Then you will be in for a surprise at the "closing table". That is an "old term" for the times when all the monies are going to be gathered for the home purchase and applied to the balance sheet so it, balances.&nbsp; Closing costs to buy a home are usually about 3% of the purchase price. A home sale price of $500,000.00 can equate to $15,000.00 of closing costs money that a buyer needs to bring in to buy the home.
 
 $500,000.00
@@ -75,37 +69,6 @@ Listen, most know a real estate agent. Most love the agent they select. But some
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -141,26 +104,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

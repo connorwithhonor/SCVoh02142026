@@ -47,22 +47,6 @@ Here’s what really sets this home apart: the extensive upgrades and features t
 
 Among the standout features are:
 
-	- **New Carpet** throughout the home
-
-	- **Brand-New A/C Unit**
-
-	- **Updated Water Heater and Valve**
-
-	- **Modern Kitchen Appliances**: **KitchenAid microwave**, **Bosch dishwasher**, and a sleek **garbage disposal**
-
-	- **State-of-the-Art Pool and Spa** with a brand-new **heater**, **pool jet pump motor**, and **color-changing lights**, all controlled by the **iAqualink system**
-
-	- **New Pool/Spa Heater**—just installed at a cost of $4,000
-
-	- **Modern Lighting and Ceiling Fan Upgrades**
-
-	- **Nest Doorbell Camera** and **Nest Yale Lock** for enhanced security
-
 Not only are these upgrades significant in terms of their cost, but they represent the care and thoughtfulness that the sellers have invested in making this home an incredible deal for its next owners. **These are the kinds of features that make all the difference in a competitive market**, and they’re what buyers are looking for in a move-in-ready home.
 
 ### **Why 27931 Balsam Ct is a Smart Investment**
@@ -94,37 +78,6 @@ Contact me today to schedule a private showing or learn more about this incredib
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -160,26 +113,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

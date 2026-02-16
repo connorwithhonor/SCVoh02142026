@@ -32,12 +32,6 @@ As your Realtor, I make sure that each time you put pen to paper, you know exact
 
 When filling out the RPA, homebuyers need to consider several questions that can directly impact the outcome of their offer. For example:
 
-	- **How much should I offer?** Is your offer competitive but realistic, given the current market conditions?
-
-	- **Should I include contingencies?** These could be related to loan approval, appraisal, or the home inspection—each of which is designed to protect your interests if something goes wrong.
-
-	- **What about the deposit?** A strong initial deposit signals that you’re a serious buyer. But it’s important to ensure your money is protected if the deal falls through due to reasons out of your control.
-
 These decisions are not to be made lightly. Having represented both buyers and sellers, I’ve seen firsthand the difference these details can make. One small oversight can cost you thousands, which is why I guide my clients through every clause, contingency, and consideration. You’re not just filling out a form; you’re shaping your future.
 
 #### **The Power of Disclosures: Know What You're Getting Into**
@@ -49,12 +43,6 @@ But here’s the thing: if you don’t understand what’s being disclosed, you 
 #### **Why Contingencies Matter: Your Safety Net in Real Estate**
 
 The beauty of real estate contingencies is that they offer you protection in case something goes wrong. For example:
-
-	- **Loan Contingency**: If you’re unable to secure financing, this contingency allows you to back out without losing your deposit.
-
-	- **Appraisal Contingency**: If the property doesn’t appraise for the offer price, you have the option to renegotiate or walk away.
-
-	- **Inspection Contingency**: This gives you the right to inspect the property and request repairs—or cancel the contract if significant issues are found.
 
 These aren’t just legal clauses; they’re your safety net. In my role as a First Responder Realtor, I’ve always made it my mission to safeguard my clients from potential pitfalls, just like I did when I wore the badge. I won’t let you walk into a bad deal—ever.
 
@@ -83,37 +71,6 @@ So whether you're buying your first home or selling your fifth, know that I’m 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -149,26 +106,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

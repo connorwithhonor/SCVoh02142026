@@ -27,68 +27,13 @@ At SantaClaritaOpenHouses.com, I’ve integrated a powerful **Google Maps interf
 
 The home search process can be overwhelming, but my goal is to simplify it for you. By embedding a custom Google Maps interface directly into my website, I’ve made it possible for you to explore **current listings**, check out **open house schedules**, and **virtually tour neighborhoods** with ease. Here’s how it works:
 
-	- 
-	**Real-Time Listings**: The map is constantly updated with current homes for sale in Santa Clarita, giving you the most accurate and up-to-date information on available properties.
-
-	
-
-	- 
-	**Explore Neighborhoods**: With the interactive map, you can zoom in on different Santa Clarita neighborhoods to see homes in your preferred area. Want to live near a park or a school? My map lets you spot these amenities with ease.
-
-	
-
-	- 
-	**Open House Schedules**: Looking to visit homes in person? The map interface displays upcoming open houses so you can plan your weekend viewings without any hassle.
-
-	
-
-	- 
-	**Custom Filters**: You can refine your search by price, property type, and other criteria to ensure that you’re only seeing listings that meet your specific needs.
-
-	
-
 #### Why Trust “Connor with Honor” with Your Santa Clarita Real Estate Needs?
 
 As a former LAPD officer, my years of service were spent protecting and serving the community—albeit in Los Angeles, not Santa Clarita, which is governed by the Sheriff’s Department. That same dedication to integrity, transparency, and protecting others carries over into my real estate career. Whether you're buying or selling a home, you can trust that I bring the same attention to detail and commitment to honesty that guided me throughout my law enforcement career.
 
-	- 
-	**Honesty and Integrity**: In both law enforcement and real estate, transparency is key. I’ve built my business on being straightforward with my clients, providing them with the information they need to make informed decisions.
-
-	
-
-	- 
-	**Community Expertise**: While my law enforcement experience was in Los Angeles, I have extensive real estate knowledge of Santa Clarita. I know which neighborhoods are thriving, which areas are up-and-coming, and where you’ll find the best deals.
-
-	
-
-	- 
-	**Commitment to Service**: Much like my role as a first responder, I am dedicated to serving my clients with the utmost care. I’m here to guide you through the real estate process from start to finish, making sure you’re protected and well-informed at every step.
-
-	
-
 #### How to Use the SantaClaritaOpenHouses.com Map Interface
 
 My embedded map interface makes it easy to start your home search. Whether you’re interested in specific neighborhoods, want to check out the open houses happening this weekend, or just want to get a feel for the local market, this tool is designed with you in mind.
-
-	- 
-	**Access the Map**: Head to [SantaClaritaOpenHouses.com](http://www.santaclaritaopenhouses.com) and click on the map interface. It’s user-friendly and fully interactive.
-
-	
-
-	- 
-	**Filter Your Search**: Set your filters based on what you’re looking for—whether it’s a specific price range, number of bedrooms, or proximity to local amenities.
-
-	
-
-	- 
-	**Explore in Real-Time**: Zoom in and out to explore different areas of Santa Clarita. Use Street View to take a virtual stroll through neighborhoods, or click on individual listings to get more details about each property.
-
-	
-
-	- 
-	**Find Open Houses**: Want to visit homes in person? Use the map to find all upcoming open houses, and schedule your visits accordingly. No more scrambling to track down addresses or event times—everything you need is right on the map.
-
-	
 
 #### Contact Connor with Honor
 
@@ -103,37 +48,6 @@ Are you ready to find your next home or investment property? Take the first step
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -169,26 +83,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

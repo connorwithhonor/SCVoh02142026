@@ -38,25 +38,9 @@ Let's start with what everyone knows about: the down payment.
 
 For most conventional loans in Santa Clarita, you're looking at:
 
-	- **20% down** = No PMI (Private Mortgage Insurance), better rates, stronger offers
-
-	- **10-15% down** = PMI required, slightly higher rates, still competitive
-
-	- **5% down** = Higher PMI, higher rates, but gets you in the game
-
-	- **3% down** = First-time buyer programs, FHA, higher costs long-term
-
 **Example:**
 
 $800,000 home purchase:
-
-	- 20% down = $160,000
-
-	- 10% down = $80,000
-
-	- 5% down = $40,000
-
-	- 3% down = $24,000
 
 Most Santa Clarita buyers I work with aim for 10-20% down. Anything less and you're competing with stronger offers in this market, especially in desirable neighborhoods like Valencia Westridge, Stevenson Ranch, or West Creek.
 
@@ -71,8 +55,6 @@ Here's the breakdown:
 **1. Loan Origination Fees**
 
 Your lender charges you to process your loan. Typically 0.5-1% of the loan amount.
-
-	- $800K home, $640K loan (20% down) = $3,200-$6,400
 
 **2. Appraisal Fee**
 
@@ -128,23 +110,13 @@ Here's what you'll prepay at closing:
 
 Your lender will collect 2-6 months of property taxes upfront to ensure there's always a cushion in your escrow account.
 
-	- $800K home = ~$8,000/year property taxes = $667/month
-
-	- Lender collects 3 months upfront = $2,000
-
 **Homeowners Insurance:**
 
 Your lender will collect 2-3 months of insurance premiums upfront.
 
-	- $1,500/year insurance = $125/month
-
-	- Lender collects 2 months upfront = $250
-
 **HOA Dues (if applicable):**
 
 Some lenders impound HOA dues, some don't. If yours does, add another 2-3 months upfront.
-
-	- $150/month HOA = $300-$450 upfront
 
 **TOTAL IMPOUND COSTS AT CLOSING:**
 
@@ -162,12 +134,6 @@ In Santa Clarita, total property tax rates range from **1.1% to 1.3%** depending
 
 $800,000 home:
 
-	- Base tax (1%) = $8,000/year
-
-	- Mello-Roos/assessments (0.1-0.3%) = $800-$2,400/year
-
-	- **TOTAL: $8,800 - $10,400/year**
-
 That's $733 - $867/month.
 
 And here's what many buyers don't realize: **Mello-Roos doesn't go away**. It's a special tax used to fund infrastructure in newer neighborhoods (like Valencia, Stevenson Ranch, parts of Castaic). It typically lasts 20-40 years, and it's ON TOP of your base property tax.
@@ -182,12 +148,6 @@ If you're buying in a planned community (most of Valencia, Stevenson Ranch, part
 
 **Typical Santa Clarita HOA Fees:**
 
-	- Basic HOA (landscaping, common area maintenance): $50-$150/month
-
-	- Mid-tier HOA (pool, parks, clubhouse): $150-$250/month
-
-	- Premium HOA (multiple pools, gyms, events, gated entry): $250-$400/month
-
 **Annual cost:** $600 - $4,800/year
 
 And here's the kicker: **HOAs can (and do) raise dues**. Budget for a 3-5% annual increase.
@@ -200,23 +160,7 @@ Fun times.
 
 Your lender requires homeowners insurance. In Santa Clarita, rates vary based on:
 
-	- Home value
-
-	- Age of home
-
-	- Fire risk zone (parts of Castaic, Sand Canyon, and northern areas have higher fire risk)
-
-	- Deductible amount
-
-	- Coverage limits
-
 **Typical Santa Clarita insurance costs:**
-
-	- $700K home, standard coverage: $1,200-$1,800/year
-
-	- $1M+ home, standard coverage: $2,000-$3,000/year
-
-	- High fire-risk zones: Add 20-50% to premiums
 
 And if you're in a high-fire-risk area, you might need **additional fire insurance** through California FAIR Plan, which can add another $1,000-$2,000/year.
 
@@ -225,16 +169,6 @@ And if you're in a high-fire-risk area, you might need **additional fire insuran
 Owning a home in Santa Clarita means maintaining a home in Santa Clarita. And stuff breaks.
 
 **Annual maintenance costs (conservative estimate):**
-
-	- HVAC servicing: $150-$300/year
-
-	- Landscaping (if not covered by HOA): $1,200-$3,600/year
-
-	- Pest control: $300-$600/year
-
-	- Pool maintenance (if applicable): $1,200-$2,400/year
-
-	- General repairs (plumbing, electrical, appliances): $1,000-$3,000/year
 
 **Total: $3,000 - $10,000/year**
 
@@ -246,14 +180,6 @@ Budget 1-2% of your home's value annually for maintenance and repairs. On an $80
 
 Santa Clarita utilities (electricity, gas, water, trash, internet) typically run:
 
-	- Electricity (SCE): $150-$300/month (higher in summer with AC)
-
-	- Gas (SoCalGas): $30-$80/month (higher in winter with heat)
-
-	- Water/trash (varies by city): $80-$150/month
-
-	- Internet/cable: $60-$150/month
-
 **Total: $320 - $680/month**
 
 And if you've got a pool, add another $50-$100/month in water and electricity.
@@ -261,16 +187,6 @@ And if you've got a pool, add another $50-$100/month in water and electricity.
 **MOVING COSTS: THE $1,000-$5,000 ONE-TIME HIT**
 
 Don't forget the cost of actually moving into your new home:
-
-	- Professional movers (local): $800-$2,500
-
-	- Moving truck rental (DIY): $150-$500
-
-	- Packing supplies: $100-$300
-
-	- Cleaning (old and new home): $200-$600
-
-	- Immediate repairs/upgrades (paint, fixtures, etc.): $500-$3,000
 
 **Total: $1,750 - $6,900**
 
@@ -280,31 +196,7 @@ Let's add it all up for an **$800,000 home purchase in Santa Clarita in 2026:**
 
 **UPFRONT COSTS (CLOSING):**
 
-	- Down payment (20%): $160,000
-
-	- Closing costs: $20,000
-
-	- Impounds: $3,500
-
-	- Moving costs: $3,000
-
-	- **TOTAL UPFRONT: $186,500**
-
 **ONGOING MONTHLY COSTS:**
-
-	- Mortgage payment (P&amp;I): $3,825/month
-
-	- Property taxes: $850/month
-
-	- HOA dues: $200/month
-
-	- Homeowners insurance: $150/month
-
-	- Utilities: $450/month
-
-	- Maintenance reserve: $500/month
-
-	- **TOTAL MONTHLY: $5,975/month**
 
 **That's $71,700/year in housing costs.**
 
@@ -323,16 +215,6 @@ Why? Because if they did, you might realize you can't actually afford that $800K
 I don't work that way. I'm not representing buyers anymore—I run a referral service that connects buyers with the RIGHT agent for their specific situation. And part of that is making sure you understand what you're actually signing up for.
 
 If you're buying in Santa Clarita, you need an agent who:
-
-	- Walks you through the total cost breakdown BEFORE you start shopping
-
-	- Helps you understand neighborhood-specific costs (Mello-Roos, HOA structures, etc.)
-
-	- Negotiates closing cost credits when possible
-
-	- Knows which lenders offer the best terms for your situation
-
-	- Doesn't just qualify you for the MAX—they help you buy what you can COMFORTABLY afford
 
 That's the kind of agent I refer to. Not the ones who just want to close deals.
 
@@ -354,48 +236,11 @@ Because at the end of the day, buying a home is the biggest financial decision m
 
 **INTERNAL LINKS:**
 
-	- [How Can I Tell If A Santa Clarita Real Estate Agent Knows My Neighborhood?](#)
-
-	- [Santa Clarita Property Search](#)
-
-	- [Valencia Homes for Sale](#)
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -431,26 +276,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

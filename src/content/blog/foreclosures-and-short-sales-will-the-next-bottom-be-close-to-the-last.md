@@ -24,36 +24,9 @@ Welcome to our in-depth look at the **Santa Clarita Valley real estate market** 
 
 As of this month, the **Santa Clarita Valley residential market** features **650 active listings**, offering a balanced selection for buyers. This inventory reflects a market where homes are staying on the market for an average of **55 days**, giving buyers a bit more breathing room compared to the ultra-competitive market we've seen in previous years.
 
-	- 
-	**New Listings**: We’ve seen **303 new homes** come onto the market in September. This fresh inventory offers potential buyers a range of new choices, from starter homes to luxury properties.
-
-	
-
-	- 
-	**Average &amp; Median List Price**: The **average list price** for active homes is sitting at **$941,100**, while the **median list price** comes in at **$835,000**. These numbers suggest that while prices remain high, there's a healthy mix of price points, catering to different buyer needs.
-
-	
-
-	- 
-	**Price Adjustments**: It's worth noting that **62 properties** have seen **price changes** this month. This signals that some sellers are adjusting their expectations to meet current market demands. Whether you’re a buyer or seller, this could be an opportunity to reevaluate your strategy.
-
-	
-
 ### **Pending and Closed Sales: Steady Demand Despite Market Shifts**
 
 While the active inventory remains steady, the **pending and closed sales** data gives us a clearer picture of how buyers are responding to market conditions.
-
-	- 
-	**Pending Sales**: This month, **167 new escrows** were opened, adding to the **year-to-date total of 2,110 pending escrows**. Homes are moving relatively quickly, with **pending properties** averaging just **39 days** on the market. The **average list price** for these pending sales is around **$838,000**, showing that demand remains strong, especially in the higher-end market.
-
-	
-
-	- 
-	**Closed Sales**: In September, we saw **226 homes close escrow**, contributing to the **2,011 total closed sales** so far this year. The **total volume of sales** for the month amounted to **$185.15 million**, with an **average sale price** of **$819,200** and a **median sale price** of **$800,000**. These figures highlight the continued buyer demand, with many homes still selling at or near list price.
-
-	Additionally, **60.2% of sales** closed at their **list price**, and **90.7% of all sales** were **cooperative** transactions between buyer and seller agents, indicating a smooth process for most involved.
-
-	
 
 ### **Market Trends and What They Mean for Buyers and Sellers**
 
@@ -61,61 +34,11 @@ The Santa Clarita Valley housing market remains **healthy and balanced**, but th
 
 #### **For Buyers**:
 
-	- 
-	**Opportunities in Price Adjustments**: With **62 properties adjusting prices** this month, there may be room for negotiation, especially on homes that have been on the market for a while. Buyers should also keep an eye on the **23 properties that came back on the market** after falling out of escrow, as these homes might offer additional opportunities.
-
-	
-
-	- 
-	**New Listings to Watch**: With **303 new listings**, the market is constantly shifting, so it's important to stay informed and be ready to act quickly if you find a home that fits your needs.
-
-	
-
-	- 
-	**Competitive Sales**: Although **price changes** are happening, homes are still closing at list price **60.2% of the time**, and the average days on the market for closed sales are just **34 days**. This means well-priced homes are still moving fast, so it’s crucial to be prepared when making an offer.
-
-	
-
 #### **For Sellers**:
-
-	- 
-	**Market Timing is Key**: The average time on market for active listings is **55 days**, and those that move to pending status are taking **39 days** to sell. Pricing your home competitively from the start can help you sell faster and avoid lingering on the market.
-
-	
-
-	- 
-	**Price Sensitivity**: With more than **60% of sales** closing at list price, it's clear that buyers are willing to meet asking prices when the home is priced right. However, the **62 price changes** this month indicate that sellers who overprice may need to adjust to align with buyer expectations.
-
-	
-
-	- 
-	**Market Saturation**: The current active inventory of **650 homes** is enough to provide buyers with options, but not so much that sellers should feel worried about oversupply. It’s still a seller’s market in many price ranges, but pricing and presentation will be key to standing out.
-
-	
 
 ### **Other Key Market Stats: September 2024**
 
 Here are a few additional figures to keep in mind when considering the SCV real estate market this month:
-
-	- 
-	**Back on Market**: **23 homes** that were previously under contract have returned to the market. These homes may present unique opportunities for buyers, particularly if they fell out of escrow due to financing or inspection issues.
-
-	
-
-	- 
-	**Expired Listings**: **7 homes** expired without selling, which typically occurs when homes are priced too high or not marketed effectively.
-
-	
-
-	- 
-	**Canceled Listings**: **12 listings** were canceled, which could mean the sellers have decided to wait for better market conditions or reassess their selling strategy.
-
-	
-
-	- 
-	**Hold and Withdrawn Listings**: **11 properties** are on hold, and **0 were withdrawn**, which means some sellers are temporarily pausing their listings, possibly to make improvements or wait for more favorable conditions.
-
-	
 
 ### **Final Thoughts: Navigating the Santa Clarita Valley Market**
 
@@ -217,16 +140,6 @@ In today’s episode, we take a deep dive into the **Santa Clarita Valley real e
 
 Here’s what you’ll discover:
 
-	- **14 Coming Soon Listings**: What to expect from new properties hitting the market within the next 21 days.
-
-	- **84 New Listings**: The latest homes for sale offering a variety of choices for buyers.
-
-	- **Price Adjustments &amp; Back on Market Properties**: Why these shifts offer prime opportunities for negotiation.
-
-	- **33 Active Under Contract &amp; 48 Pending Sales**: How these numbers reflect the continued strong demand for well-priced homes.
-
-	- **57 Closed Sales**: What these final sales reveal about current market conditions.
-
 We’ll also discuss how **expired, canceled, and hold listings** might impact your buying or selling strategy in the near future.
 
 If you're navigating this competitive real estate market, tune in for the latest data and trends to help you make informed decisions. For more information on foreclosure and short sale opportunities, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](http://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
@@ -243,18 +156,6 @@ Welcome to your **Santa Clarita Valley Real Estate Update for September 2024**! 
 
 Here's what you’ll learn in today’s update:
 
-	- **14 Coming Soon Listings**: New homes hitting the market within the next 21 days – don't miss out!
-
-	- **84 New Listings**: Fresh properties for sale giving buyers more variety and choice.
-
-	- **Price Changes &amp; Back on Market**: How these shifts can offer buyers room to negotiate and sellers a chance to re-strategize.
-
-	- **33 Active Under Contract &amp; 48 Pending Sales**: The market remains active, with high demand for well-priced homes.
-
-	- **57 Closed Sales**: What these sales mean for home values in the SCV.
-
-	- **Expired &amp; Canceled Listings**: Why some sellers are pausing or pulling their homes off the market.
-
 For more details on foreclosures and short sales, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](http://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
 
 Also, check out our latest podcast episode for an even deeper dive into the real estate market trends: **[https://www.buzzsprout.com/298109/episodes/15898336](https://www.buzzsprout.com/298109/episodes/15898336)**.
@@ -267,20 +168,6 @@ Welcome to your **Santa Clarita Real Estate Market Watch for September 2024**! I
 
 Here’s what you’ll learn in this video:
 
-	- The importance of **62 price changes** and how they create negotiation opportunities for buyers.
-
-	- What **23 homes returning to the market** mean for those who missed out on a property earlier.
-
-	- **57 closed sales** and what they signal for home values in the SCV.
-
-	- How **14 coming soon listings** can give buyers the first look at fresh inventory.
-
-	- Why **84 new listings** add more variety and options for those actively house hunting.
-
-	- **33 homes under contract** and **48 pending sales** – proof of continued high demand in Santa Clarita’s real estate scene.
-
-	- The relevance of **expired** and **canceled listings** and how they affect the selling strategy for homeowners.
-
 As always, I’m here to **protect** your interests, just as I did for years in law enforcement. I offer the same vigilance and dedication to real estate that I brought to protecting and serving the public. With a clear understanding of how the market is shifting, I can help you navigate the current conditions with confidence and strategic planning.
 
 For more on foreclosures and short sales, visit:
@@ -290,37 +177,6 @@ For more on foreclosures and short sales, visit:
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -356,26 +212,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -36,14 +36,6 @@ You don’t need to overhaul your life overnight. **Start small.** Break your ro
 
 You have time in your day—it’s just filled with habits. Instead of scrolling social media or diving into a marathon gaming session uninterrupted, set a rule for yourself:
 
-	- Every hour, take **five minutes** to move.
-
-	- Grab some dumbbells (or whatever weight you can hold—water bottles work).
-
-	- Do **something physical**—push-ups, squats, shoulder presses.
-
-	- No excuses. **Honor the commitment to yourself.**
-
 The key isn’t the exercise itself—it’s the **act of discipline**. When you follow through, you reinforce the idea that you are in control of your time, your body, and ultimately, your life.
 
 ## **Why This Matters**
@@ -55,16 +47,6 @@ Fitness isn’t just about aesthetics—it’s about **capability.** Can you run
 ## **A Simple Plan to Start**
 
 No gym? No problem. This isn’t about fancy routines—it’s about **showing up** for yourself. Every hour, take **five minutes** and try:
-
-	- **Push-ups** – Until failure (knees down if needed).
-
-	- **Squats** – Bodyweight, deep and controlled.
-
-	- **Dumbbell (or water bottle) curls** – Until your arms feel like they’re going to fall off.
-
-	- **Tricep extensions** – Behind the head, full range of motion.
-
-	- **Shoulder presses** – Straight up, engaging the entire body.
 
 Don’t count reps. **Go until you can’t.** The soreness will remind you you’re alive, that you’ve done something worthwhile.
 
@@ -83,12 +65,6 @@ For now, **don’t wait until tomorrow.** Start today. Five minutes. One movemen
 And let me know how you feel in a couple of weeks—I guarantee you’ll be a different person.
 
 **Related Reading:**
-
-	- [Young Men: No One is Coming to Save You – But You Can Save Yourself](https://www.santaclaritaopenhouses.com/young-men-no-one-is-coming-to-save-you-but-you-can-save-yourself)
-
-	- [Maybe You Need to Start Your Journey – Even If You’re Scared of the Unknown](https://www.santaclaritaopenhouses.com/maybe-you-need-to-start-your-journey-even-if-you-are-scared-of-the-unknown)
-
-	- [Fat-Torching on Purpose is Hard – But So is Being Fat](https://www.santaclaritaopenhouses.com/fat-torching-on-purpose-is-hard-but-so-is-being-fat)
 
 # **Boys to Men: How to Take Control of Your Life and Build Real Strength – Part 2**
 
@@ -112,12 +88,6 @@ Here’s a simple rule to live by:
 
 **Do the hard thing first.**
 
-	- If you wake up and feel like hitting "snooze," **get up anyway**.
-
-	- If you feel like skipping your workout, **do it anyway**.
-
-	- If you don’t want to have that difficult conversation, **have it anyway**.
-
 The world **rewards** men who can endure, persist, and execute **even when they don’t feel like it.**
 
 ## **Your Body is a Reflection of Your Discipline**
@@ -130,61 +100,6 @@ So let’s up the game a little. If you followed Part 1, you’ve started doing 
 
 ### **The Daily Non-Negotiables**
 
-	- 
-	**Wake Up Early (No Matter What)**
-
-	
-		Winners **own their mornings**. You don’t have to wake up at 4 AM, but if you’re rolling out of bed at noon, you’re already behind.
-
-	
-
-	
-	- 
-	**Cold Showers &amp; Sunlight Exposure**
-
-	
-		Sounds brutal? Good. **Start your day with a win.** Cold showers force discipline. Sunlight resets your body’s natural energy.
-
-	
-
-	
-	- 
-	**Strength Training Every Day**
-
-	
-		No gym? No excuses. **Push-ups, squats, lunges, pull-ups, dead hangs, dips.** You don’t need fancy equipment. You need **effort**.
-
-	
-
-	
-	- 
-	**Walk 30 Minutes Minimum**
-
-	
-		If you’re still sitting all day, you’re accelerating your own **decline**. Walking clears your mind, keeps you moving, and builds endurance.
-
-	
-
-	
-	- 
-	**Eat Like a Man, Not a Child**
-
-	
-		If your diet is made up of junk food, processed garbage, and constant sugar, your body and brain are running at **half power**. Eat real, whole foods. **Protein, fats, and clean carbs.**
-
-	
-
-	
-	- 
-	**One Hard Task Per Day**
-
-	
-		Life isn’t just about fitness. Choose **one difficult thing** every day and **finish it.** Whether it’s reading a book, fixing something in your life, or handling an uncomfortable situation—**attack it.**
-
-	
-
-	
-
 ## **Destroying the Virtual Addiction**
 
 Here’s the hard truth:
@@ -195,12 +110,6 @@ I’m not saying to never play games or use tech, but **you need to control it�
 
 Here’s your challenge: **Set limits.**
 
-	- **No social media before 10 AM.**
-
-	- **No screens 30 minutes before bed.**
-
-	- **Set a daily max for gaming or YouTube.**
-
 These aren’t punishments—they’re **power moves**. Every time you enforce discipline, you’re proving to yourself that **you’re in control**.
 
 ## **How to Develop a Skill and Make Money**
@@ -208,14 +117,6 @@ These aren’t punishments—they’re **power moves**. Every time you enforce d
 A strong man isn’t just physically tough—he has skills that make him **independent and valuable**. The good news? **You can learn any skill online.**
 
 If you’re sitting at home with no job, no direction, and no idea where to start—**pick something and go all in.** Some ideas:
-
-	- **Coding or Tech (AI, Cybersecurity, Web Development)**
-
-	- **Trades (Electrician, Welding, Plumbing—high income, high demand)**
-
-	- **Self-Employment (E-commerce, Fitness Coaching, YouTube, Writing)**
-
-	- **Sales (One of the fastest ways to make money and build confidence)**
 
 Don’t waste another year wondering what to do. **Pick a skill, start learning today, and practice every day.** In six months, you can be making money. In a year, you can be thriving.
 
@@ -229,12 +130,6 @@ If you surround yourself with winners, **you will rise to their level.**
 
 Start looking for **brotherhood**—men who push you, challenge you, and hold you accountable. That might mean:
 
-	- Finding a **real-world** hobby (Martial arts, lifting, hunting, business).
-
-	- Joining a **community of men** who are striving for more.
-
-	- Cutting out **negative influences** who drag you down.
-
 Weak men **tear each other down**. Strong men **build each other up**.
 
 ## **Your Mission Starts Now**
@@ -245,25 +140,11 @@ But here’s the good news—**you don’t need saving.** You already have every
 
 So here’s your mission: **Start today. Not tomorrow. Not next week. Right now.**
 
-	- Get up. Move.
-
-	- Do something difficult.
-
-	- Commit to discipline.
-
-	- Build strength in your body and your mind.
-
 You have a choice: **Stay weak, or build the life you want.** The only thing standing in your way is **you.**
 
 Let me know in a couple of weeks how far you’ve come.
 
 And if you’re serious about changing your life, check these out:
-
-	- [Young Men: No One is Coming to Save You – But You Can Save Yourself](https://www.santaclaritaopenhouses.com/young-men-no-one-is-coming-to-save-you-but-you-can-save-yourself)
-
-	- [Maybe You Need to Start Your Journey – Even If You’re Scared of the Unknown](https://www.santaclaritaopenhouses.com/maybe-you-need-to-start-your-journey-even-if-you-are-scared-of-the-unknown)
-
-	- [Fat-Torching on Purpose is Hard – But So is Being Fat](https://www.santaclaritaopenhouses.com/fat-torching-on-purpose-is-hard-but-so-is-being-fat)
 
 I’m **Connor with Honor.** The choice is yours. See you on the other side.
 
@@ -285,16 +166,6 @@ It’s time to go back to basics and eat **like a man was meant to eat.**
 
 If you want to build a strong, lean, and capable body, **follow this rule: Only eat foods with one ingredient.** That means:
 
-	- **Meat** (Beef, Chicken, Pork, Lamb, Game Meat)
-
-	- **Fish &amp; Seafood** (Salmon, Cod, Sardines, Shrimp, Oysters)
-
-	- **Eggs** (Nature’s multivitamin)
-
-	- **Vegetables** (As close to how they grow in nature)
-
-	- **Fruits** (Rarely, and don’t peel them or juice them)
-
 That’s it. No packaged junk. No "healthy" bars or protein shakes with a laundry list of chemicals. **Just real food.**
 
 If it has a label with more than **one** ingredient? **It’s not food. It’s a science experiment.**
@@ -307,25 +178,11 @@ If you’re serious about getting stronger, leaner, and more focused, **meat sho
 
 ### **Best Choices:**
 
-	- **Grass-fed Beef** (Steak, Ground Beef, Liver)
-
-	- **Wild-Caught Fish** (Salmon, Sardines, Mackerel)
-
-	- **Eggs** (Eat the yolks—that’s where the nutrition is)
-
-	- **Pastured Chicken &amp; Pork**
-
 What to avoid? **Factory-farmed junk pumped full of hormones and antibiotics.** If you can’t afford organic, go for the **fattier cuts** of regular meat—most toxins are stored in fat, so trimming excess fat from cheap meat can reduce exposure.
 
 ## **Why You Should Ditch Processed Foods**
 
 Most food in stores isn’t **food**—it’s a chemical formula designed to make you addicted and keep you coming back for more.
-
-	- **Seed oils** (Canola, Soybean, Corn Oil) cause inflammation and wreck hormones.
-
-	- **Sugar** (Hidden in almost everything) spikes insulin and makes you fat.
-
-	- **Artificial ingredients** (Flavors, colors, preservatives) hijack your brain’s reward system.
 
 If you’ve been eating junk your whole life, quitting won’t be easy. But after **two weeks of eating only real food,** you’ll feel a massive difference in your energy, mood, and strength.
 
@@ -335,37 +192,15 @@ Vegetables are great—but not all are created equal. Some are packed with **ant
 
 ### **Best Vegetables:**
 
-	- **Leafy Greens** (Spinach, Kale, Romaine)
-
-	- **Cruciferous Veggies** (Broccoli, Cauliflower, Brussels Sprouts)
-
-	- **Fermented Vegetables** (Sauerkraut, Kimchi)
-
 ### **Fruit: Only in Moderation**
 
 Fruit isn’t bad—it’s just not meant to be eaten in **massive** quantities like today’s world promotes. Keep it **whole** (never juice it) and eat the **skin**—that’s where the fiber is.
 
 ### **Best Fruits:**
 
-	- **Berries** (Blueberries, Blackberries, Raspberries)
-
-	- **Apples (with the skin on)**
-
-	- **Oranges (Eat them, don’t drink them)**
-
-	- **Avocados** (Yes, they’re a fruit)
-
 ## **The Power of Eating Simply**
 
 When you eat **real food**, something incredible happens:
-
-	- **Your hunger disappears.** Processed foods make you **crave more**. Real food keeps you **satisfied.**
-
-	- **Your energy skyrockets.** No more crashes, brain fog, or bloating.
-
-	- **Your body leans out.** Fat melts off because your insulin isn’t constantly spiking.
-
-	- **Your testosterone and strength increase.** Processed foods kill testosterone—meat, eggs, and animal fat boost it.
 
 You **don’t need to count calories** if you eat this way. Your body will naturally regulate its hunger, and you’ll eat exactly what you need.
 
@@ -383,57 +218,21 @@ If you’re ready to stop eating like a weakling and start fueling your body lik
 
 ### **Morning (Fast or Protein Focused)**
 
-	- Option 1: **Skip breakfast (Intermittent Fasting) and drink black coffee or water.**
-
-	- Option 2: **Eggs with butter and some sautéed greens.**
-
 ### **Lunch (Protein &amp; Fat Heavy)**
-
-	- **Steak and eggs**
-
-	- **Ground beef with avocado**
-
-	- **Salmon and spinach**
 
 ### **Dinner (Meat &amp; Low-Carb Veggies)**
 
-	- **Chicken thighs and roasted broccoli**
-
-	- **Pork chops with sauerkraut**
-
-	- **Grass-fed burger patties (no bun) with cheese and a side salad**
-
 ### **Snacks (Only if Necessary)**
-
-	- Hard-boiled eggs
-
-	- Beef jerky (no added sugar)
-
-	- Cheese (in moderation)
-
-	- Handful of almonds or walnuts
 
 ## **The Takeaway: Eat Like a Man, Not a Slave**
 
 Most modern diets keep you **weak, fat, and dependent.** The food industry wants you **hooked** on sugar and processed garbage. But you have a choice.
-
-	- **Eat real food.**
-
-	- **Cut the junk.**
-
-	- **Fuel your body with what it actually needs.**
 
 If you commit to **just two weeks** of this, you’ll never go back. Your energy, strength, and focus will be on a whole new level.
 
 Are you in?
 
 Let me know how it goes. And if you’re serious about **changing everything**, check out these:
-
-	- [Eat Only One-Ingredient Foods](https://www.santaclaritaopenhouses.com/eat-only-1-ingredient-foods)
-
-	- [Fat-Torching on Purpose is Hard – But So is Being Fat](https://www.santaclaritaopenhouses.com/fat-torching-on-purpose-is-hard-but-so-is-being-fat)
-
-	- [Maybe You Need to Start Your Journey – Even If You’re Scared](https://www.santaclaritaopenhouses.com/maybe-you-need-to-start-your-journey-even-if-you-are-scared-of-the-unknown)
 
 I’m **Connor with Honor.** You’re either getting stronger or getting weaker. The choice is yours.
 
@@ -442,37 +241,6 @@ I’m **Connor with Honor.** You’re either getting stronger or getting weaker.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -508,26 +276,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

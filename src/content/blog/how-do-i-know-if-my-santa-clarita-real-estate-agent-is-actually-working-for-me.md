@@ -46,12 +46,6 @@ If your agent takes 48+ hours to return a call or text, they're either overwhelm
 
 **What you should expect:**
 
-	- Response within 4-6 hours during business hours (9 AM - 6 PM)
-
-	- Evening/weekend response within 24 hours
-
-	- Auto-reply if they're unavailable (with backup contact info)
-
 **Red flag:** They only respond when YOU initiate contact, or they go silent for days at a time.
 
 **Why this matters in Santa Clarita:** Homes in Valencia, Saugus, and Stevenson Ranch are moving fast. If your agent is slow to respond, you'll miss out on [homes for sale in Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca) and [Saugus properties](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca) before you even get a chance to tour them.
@@ -61,12 +55,6 @@ If your agent takes 48+ hours to return a call or text, they're either overwhelm
 Your agent should be sending you properties that match your criteria every single day. If you're finding homes on Zillow that your agent never mentioned, they're not doing their job.
 
 **What you should expect:**
-
-	- Daily or every-other-day emails with new listings
-
-	- Off-market and "coming soon" properties you can't find online
-
-	- Explanations for why certain homes fit (or don't fit) your needs
 
 **Red flag:** You're the one sending THEM listings and asking, "What about this one?"
 
@@ -78,12 +66,6 @@ A real agent doesn't just "show you houses." They build a game plan based on you
 
 **What you should expect:**
 
-	- A written buyer or seller strategy within the first week
-
-	- Clear milestones (e.g., "We'll tour 5-7 homes this week, submit offers by Friday")
-
-	- Regular check-ins to adjust the plan based on market conditions
-
 **Red flag:** They're "winging it" or can't explain why you're looking at certain neighborhoods over others.
 
 **Why this matters in Santa Clarita:** [Neighborhoods like Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca) have different price points, school districts, and HOA structures than [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca). Your agent should know which areas align with your goals and explain the trade-offs.
@@ -93,12 +75,6 @@ A real agent doesn't just "show you houses." They build a game plan based on you
 When you make an offer, your agent should fight for every dollar. If they're immediately agreeing to the seller's terms without pushback, they're rushing to close the deal—not protecting your wallet.
 
 **What you should expect:**
-
-	- Comps and market data to justify your offer price
-
-	- Negotiation on price, repairs, closing costs, and concessions
-
-	- A willingness to walk away if the deal doesn't make sense
 
 **Red flag:** They pressure you to "just accept" the counteroffer or tell you "this is as good as it gets" without showing proof.
 
@@ -110,12 +86,6 @@ Some agents will steer you toward listings that offer higher commissions or are 
 
 **What you should expect:**
 
-	- Access to every listing in your price range and preferred neighborhoods
-
-	- Honest feedback about pros and cons of each property
-
-	- Transparency about commission structures (especially post-NAR settlement)
-
 **Red flag:** They avoid showing you certain homes or say "that one's not a good fit" without a valid reason.
 
 **Why this matters in Santa Clarita:** Whether you're looking at [Castaic homes](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca), [Newhall properties](https://www.santaclaritaopenhouses.com/homes-for-sale-in-newhall-ca), or [Acton land](https://www.santaclaritaopenhouses.com/homes-for-sale-in-acton-ca), you deserve to see everything that matches your needs—not just what's convenient for your agent.
@@ -126,12 +96,6 @@ A great agent will tell you when a home has red flags—even if it means you wal
 
 **What you should expect:**
 
-	- Honest assessments of property condition, neighborhood issues, and resale potential
-
-	- Recommendations for inspections, surveys, and due diligence
-
-	- A willingness to say "I don't think you should buy this"
-
 **Red flag:** They downplay obvious issues or rush you through inspections to "keep the deal moving."
 
 **Why this matters in Santa Clarita:** Homes in areas like [Agua Dulce](https://www.santaclaritaopenhouses.com/homes-for-sale-in-agua-dulce-ca) may have well or septic issues. Homes in fire zones may have insurance challenges. A good agent discloses these risks upfront—not after you're in escrow.
@@ -141,12 +105,6 @@ A great agent will tell you when a home has red flags—even if it means you wal
 Your agent should make you feel like a priority, not an afterthought.
 
 **What you should expect:**
-
-	- Dedicated time for showings, calls, and strategy sessions
-
-	- Availability on weekends and evenings (when most buyers are free)
-
-	- A team or assistant if they're juggling multiple clients (so you're never ignored)
 
 **Red flag:** They cancel showings last-minute, show up late, or seem distracted during appointments.
 
@@ -204,12 +162,6 @@ Here's how I do it differently:
 
 I don't refer you to just any agent. I personally vet each realtor in my [agent network](https://www.santaclaritaopenhouses.com/about) based on:
 
-	- Response time (I test them before I refer)
-
-	- Negotiation skills (I review their past deals)
-
-	- Ethics and transparency (I check their DRE record and reviews)
-
 If an agent doesn't meet my standards, they don't get referrals. Period.
 
 ### 2. I Hold Agents Accountable After the Referral
@@ -260,35 +212,11 @@ Review your buyer broker agreement for termination clauses. Most agreements allo
 
 Don't make the same mistake twice. This time, interview multiple agents and ask the tough questions:
 
-	- What's your communication plan?
-
-	- How many clients are you working with right now?
-
-	- Can I see recent sales data in my target neighborhoods?
-
-	- What's your strategy for finding off-market deals?
-
-	- How do you handle negotiations?
-
 If they can't give clear answers, keep looking.
 
 Or skip the guesswork and [schedule a consultation with me](https://www.santaclaritaopenhouses.com/contact). I'll match you with a vetted agent who meets my standards—or if you prefer, I'll represent you myself.
 
 ## Summary: The 7 Signs Your Agent Is Actually Working for You
-
-	- **They respond within 24 hours** (or have a backup plan if unavailable)
-
-	- **They send you listings proactively** (not the other way around)
-
-	- **They have a clear strategy** (and adjust it based on market conditions)
-
-	- **They negotiate hard** (and can prove it with data)
-
-	- **They show you every home that fits** (no steering or hidden agendas)
-
-	- **They warn you about problems** (even if it costs them the sale)
-
-	- **They make you feel like a priority** (not an afterthought)
 
 If your agent isn't doing these things, it's time to have a conversation—or find someone new.
 
@@ -315,37 +243,6 @@ Former LAPD Officer | Santa Clarita Real Estate Advisor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -381,26 +278,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

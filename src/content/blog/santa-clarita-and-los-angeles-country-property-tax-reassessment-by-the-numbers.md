@@ -50,29 +50,9 @@ Reassessment isn’t an everyday occurrence. In Santa Clarita, the Los Angeles C
 
 When a property changes hands, such as during a sale, it’s typically reassessed at its current market value. For example:
 
-	- 
-	**Sellers**: If you’re selling your home in Saugus or Stevenson Ranch, the buyer will face a new tax bill based on the sale price. This can influence how you price your home, as higher prices mean higher taxes for the buyer.
-
-	
-
-	- 
-	**Buyers**: If you’re purchasing a home in Canyon Country, expect your property taxes to reflect the purchase price, not the seller’s previous tax base.
-
-	
-
 ### 2. New Construction or Major Improvements
 
 Adding a new room, a pool, or other significant improvements can trigger a partial reassessment. For instance:
-
-	- 
-	If you’re selling a home in Valencia with a newly built pool (check listings at https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-valencia-ca), the assessor may increase the tax base to account for the added value.
-
-	
-
-	- 
-	Buyers should ask about recent renovations to anticipate potential tax increases.
-
-	
 
 ### 3. Transfer Between Family Members
 
@@ -90,11 +70,6 @@ California offers several exemptions to soften the blow of reassessment. Here’
 
 If you’re over 55 and selling your home in Santa Clarita to buy another within Los Angeles County (or certain other counties), you may transfer your existing tax base to the new property under **Proposition 60/90**. This can save thousands in taxes. For example:
 
-	- 
-	A seller in a 55+ community in Canyon Country (https://www.santaclaritaopenhouses.com/homes-in-a-55-community-for-sale-in-canyon-country-ca) can move to a new home without facing a massive tax hike.
-
-	
-
 ### Homeowner’s Exemption
 
 Homeowners who live in their Santa Clarita property as their primary residence can claim a **$7,000 exemption** on the assessed value, reducing their tax bill slightly.
@@ -109,51 +84,11 @@ To explore how these exemptions apply to your situation, contact me at 661-888-4
 
 If you’re selling a home in Santa Clarita, reassessment can affect your sale in several ways:
 
-	- 
-	**Buyer Awareness**: Buyers are increasingly savvy about property taxes. A high sale price means a higher tax bill for them, which could deter offers. Pricing your home strategically is key—check out my guide on setting the right price at https://www.santaclaritaopenhouses.com/setting-the-price.
-
-	
-
-	- 
-	**Disclosure Requirements**: As a seller, you must disclose known factors that could lead to reassessment, such as recent renovations. Transparency builds trust and avoids legal issues. Learn more about seller responsibilities at https://www.santaclaritaopenhouses.com/seller-concessions-explained-a-first-responder-realtors-guide-to-selling.
-
-	
-
-	- 
-	**Marketability**: Homes with lower tax bases (e.g., owned for decades) are more attractive to buyers. Highlighting this can give you an edge in competitive areas like Valencia (https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca).
-
-	
-
-	- 
-	**Net Sheet Importance**: Before accepting offers, review a net sheet to understand your proceeds after taxes and fees. My guide at https://www.santaclaritaopenhouses.com/why-is-a-net-sheet-important-to-view-before-accepting-any-offers explains this in detail.
-
-	
-
 As a first-responder-turned-realtor, I bring a no-nonsense approach to pricing and negotiations, ensuring your home sells quickly and fairly. Schedule a free market analysis at https://www.santaclaritaopenhouses.com/free-market-analysis.
 
 ## How Reassessment Impacts Santa Clarita Home Buyers
 
 For buyers, reassessment is a critical factor in budgeting for your new home:
-
-	- 
-	**Budget for Higher Taxes**: If you’re eyeing a $900,000 home in Porter Ranch (https://www.santaclaritaopenhouses.com/homes-for-sale-in-porter-ranch-ca), expect a tax bill of around $9,000 annually, far higher than the seller’s current taxes.
-
-	
-
-	- 
-	**Research Recent Sales**: Check the sale history of properties to estimate your tax liability. My market reports at https://www.santaclaritaopenhouses.com/santa-clarita-market-report provide up-to-date data.
-
-	
-
-	- 
-	**Factor in Improvements**: Homes with recent upgrades, like those in Chatsworth (https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-chatsworth-ca), may face partial reassessments, increasing taxes.
-
-	
-
-	- 
-	**Work with a Realtor**: A knowledgeable agent like me can help you understand tax implications and negotiate seller concessions to offset costs. Learn why a buyer’s agent matters at https://www.santaclaritaopenhouses.com/use-a-buyers-agent.
-
-	
 
 Ready to find your dream home without tax surprises? Book a free consultation at https://www.santaclaritaopenhouses.com/contact or call 661-888-4983.
 
@@ -161,51 +96,11 @@ Ready to find your dream home without tax surprises? Book a free consultation at
 
 As a former LAPD officer, I’ve faced high-pressure situations that taught me to stay calm, think strategically, and protect my clients’ interests. In real estate, that translates to guiding you through complex processes like property tax reassessment with clarity and honesty. Here’s how I can help:
 
-	- 
-	**For Sellers**: I’ll analyze your home’s tax history, advise on pricing to attract buyers, and ensure disclosures are handled correctly. Visit https://www.santaclaritaopenhouses.com/sell-your-home-santa-clarita-now for tips.
-
-	
-
-	- 
-	**For Buyers**: I’ll help you estimate post-purchase taxes, negotiate concessions, and find homes that fit your budget. Check out my buyer’s guide at https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale.
-
-	
-
-	- 
-	**For Both**: My AI-driven tools at HonorElevate.com provide real-time market insights, and my voice system at 661-219-7299 lets you explore listings hands-free.
-
-	
-
 Why work with me? Because I’m not just a realtor—I’m a problem-solver who’s been through the fire (literally and figuratively). See why clients trust me at https://www.santaclaritaopenhouses.com/testimonials.
 
 ## Practical Tips for Managing Property Tax Reassessment
 
 Here are actionable steps to handle reassessment like a pro:
-
-	- 
-	**Check Your Property’s Tax History**: Visit the Los Angeles County Assessor’s website or contact me for a detailed report.
-
-	
-
-	- 
-	**Understand Exemptions**: If you’re a senior or transferring property to family, explore Proposition 60/90 or 58/193 exemptions.
-
-	
-
-	- 
-	**Get a Market Analysis**: Sellers can request a free analysis at https://www.santaclaritaopenhouses.com/free-market-analysis to set a competitive price.
-
-	
-
-	- 
-	**Review Contracts Carefully**: Buyers should read all agreements to understand tax implications. My guide at https://www.santaclaritaopenhouses.com/you-better-read-before-you-sign-that-real-estate-document-as-a-home-buyer is a must-read.
-
-	
-
-	- 
-	**Plan for Future Increases**: Budget for the 2% annual increase under Proposition 13, even if your initial tax base is low.
-
-	
 
 ## Common Questions About Property Tax Reassessment
 
@@ -229,36 +124,6 @@ At HonorElevate.com, I use AI tools to analyze tax data and market trends, givin
 
 ## Recap: Key Points on Property Tax Reassessment
 
-	- 
-	**Proposition 13** limits property tax increases to 2% annually unless a reassessment is triggered.
-
-	
-
-	- 
-	**Triggers** include change of ownership, new construction, or major improvements.
-
-	
-
-	- 
-	**Exemptions** like Proposition 60/90 and 58/193 can save you thousands.
-
-	
-
-	- 
-	**Sellers** should price strategically and disclose tax-related factors.
-
-	
-
-	- 
-	**Buyers** need to budget for taxes based on the purchase price.
-
-	
-
-	- 
-	Work with a trusted realtor like me, Connor MacIvor, to navigate reassessment. Contact me at 661-888-4983 or https://www.santaclaritaopenhouses.com/contact.
-
-	
-
 Ready to buy or sell in Santa Clarita? Let’s make it happen without the tax surprises. Book a free consultation at https://www.santaclaritaopenhouses.com/contact or explore listings at https://www.santaclaritaopenhouses.com/active-listings. For more real estate tips, follow my blog at https://www.santaclaritaopenhouses.com/blog or check out my YouTube channel at https://youtube.com/@aiwithhonor.
 
 ** Share This Post## Comments
@@ -266,37 +131,6 @@ Ready to buy or sell in Santa Clarita? Let’s make it happen without the tax su
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -332,26 +166,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

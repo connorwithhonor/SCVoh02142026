@@ -52,33 +52,9 @@ Today's Show:&nbsp;
 
 In the past seven days, we’ve seen some notable movements in the Santa Clarita Valley real estate market. Here's the latest breakdown of the activity:
 
-	- **Coming Soon:** 16 properties are on the horizon, perfect for those buyers keeping an eye on future inventory.
-
-	- **New Listings:** 57 new homes have hit the market. Buyers, this could be your chance to find that perfect property.
-
-	- **Price Changes:** 68 properties have adjusted their asking prices, giving both buyers and sellers something to think about.
-
-	- **Back on Market:** 19 homes that had previously been off the table are now available once again—opportunities may be coming back around.
-
-	- **Active Under Contract:** 32 properties have buyers but are still in the process, so there’s a chance they could return to active status.
-
-	- **Pending Sales:** 48 homes are close to finalizing deals, showing the competitive nature of this market.
-
-	- **Closed Sales:** 67 homes have successfully sold, giving sellers and buyers confidence in the closing process.
-
-	- **Expired Listings:** 3 listings have expired, which is a reminder to sellers to price their homes appropriately and stay competitive.
-
-	- **Canceled Listings:** 13 homes have been pulled off the market, while 10 homes are on hold and 4 listings were withdrawn.
-
 Let’s talk a bit about the active listings in Santa Clarita Valley. Right now, there are **529 active real estate listings**. These include everything from condos to single-family homes, across all price points.
 
 #### **Neighborhood Highlights**
-
-	- **Valencia**: Currently features beautiful homes like those in the Montana neighborhood with price-per-square-foot values ranging from **$500 to $600**, offering great investment opportunities. For example, a townhome in the **Montana subdivision** is listed at **$589,900** with 982 square feet.
-
-	- **Canyon Country**: You’ll find homes with more space and yard, such as a property on **Wildwood Canyon Road** listed at **$949,900**, offering 1,590 square feet on a nearly 8,000 square foot lot.
-
-	- **Saugus**: Features homes like those in the **Mountain View neighborhood** with price-per-square-foot values often in the **$400s**, offering an excellent balance between size and affordability.
 
 Now is the time for both buyers and sellers to take note of these movements. **For sellers**, ensuring your property is priced right and in top condition can make all the difference in such a dynamic market. **For buyers**, staying ahead of new listings and price changes could put you in the perfect position to snag a great deal.
 
@@ -113,37 +89,6 @@ Thanks Ray, that was awesome.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -179,26 +124,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

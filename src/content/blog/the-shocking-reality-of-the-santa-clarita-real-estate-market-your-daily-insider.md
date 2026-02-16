@@ -19,9 +19,6 @@ Connor "with Honor" MacIvor - September 6, 2025** Tags: [Santa Clarita real esta
 # **The Unfiltered Truth: A Deep Dive into the Santa Clarita Real Estate Market (September 6, 2025)**
 
   
-    
-  
-
 ## **TL;DR: Navigating Opportunity and Risk in the SCV**
 
 The Santa Clarita Valley real estate market is currently a paradox of intense activity and critical stagnation. In the last seven days, **78 new homes** hit the market and an equal **78 properties saw price changes**, signaling a dynamic and adjusting sales environment. Buyer demand remains evident with **57 homes going pending** and **56 sales closing**. Compounding this is a **10-month low in interest rates**, creating a powerful, albeit potentially fleeting, window of opportunity for buyers and homeowners considering a refinance. However, a stark warning sign lies in the numbers of failed listings: **25 homes expired, 13 were canceled, and 10 were put on hold**. This proves that the market is unforgiving to improperly priced and marketed properties. This comprehensive analysis will dissect the latest MLS data, reveal strategies for uncovering hidden deals, provide a crucial financial breakdown of the refinancing craze, and explain why a data-driven, AI-enhanced approach is no longer a luxury but a necessity for success. I'm Connor with Honor, a retired LAPD officer turned Realtor, and this is your unfiltered, no-nonsense guide to winning in today's complex market. For a complete look at all active listings, visit:
@@ -62,68 +59,11 @@ While some properties are adjusting, others are selling successfully. The **56 c
 
 Let's break down the data from these 56 sales:
 
-	- 
-	**Average Sale Price:** $847,192
-
-	
-
-	- 
-	**Median Sale Price:** $807,500
-
-	
-
-	- 
-	**Average Price per Square Foot:** $437.95
-
-	
-
-	- 
-	**Median Price per Square Foot:** $436.07
-
-	
-
-	- 
-	**Average Days on Market (DOM):** 48 days
-
-	
-
-	- 
-	**Median Days on Market (DOM):** 36 days
-
-	
-
 What does this tell us? The median DOM of 36 days indicates that half of the homes that sold did so in just over a month. This is a healthy pace. For a deeper understanding of how long it takes to sell a home in Santa Clarita, check out this guide:
 
 [https://www.santaclaritaopenhouses.com/how-long-does-it-take-to-sell-a-home-in-santa-clarita-a-deep-dive-into-trends](https://www.santaclaritaopenhouses.com/how-long-does-it-take-to-sell-a-home-in-santa-clarita-a-deep-dive-into-trends). The tight spread between the average and median sale prices suggests a balanced market without extreme outliers skewing the data.
 
 Let's look at a few examples from the closed list to illustrate these points:
-
-	- 
-	**A Quick Sale in Valencia (SR25164140):** A 3-bed, 2,135 sq. ft. home on Trenton Place in Valencia sold for $970,000. It was on the market for a mere **3 days**. This demonstrates that premium properties in desirable locations, when priced correctly, are still subject to intense buyer competition. Explore more homes for sale in Valencia:
-
-	[https://www.santaclaritaopenhouses.com/valencia-homes](https://www.santaclaritaopenhouses.com/valencia-homes).
-
-	
-
-	
-
-	- 
-	**Value in Castaic (SR25164860):** A 4-bed, 1,705 sq. ft. home on Primrose Lane in Castaic sold for $670,000 after 20 days on the market. At $392.96 per square foot, this represents a more accessible price point for families looking for more space. See all available homes in Castaic:
-
-	[https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca).
-
-	
-
-	
-
-	- 
-	**New Construction Closes (OC25169174):** A brand new 1-bed condo on Diamond Peak Lane in Valencia sold for $385,000. This 2025 build was on the market for only 10 days, highlighting the continued appeal of new construction and its modern amenities. If you're interested in new construction, see available properties here:
-
-	[https://www.santaclaritaopenhouses.com/new-construction-homes-for-sale-in-santa-clarita-valley-ca](https://www.santaclaritaopenhouses.com/new-construction-homes-for-sale-in-santa-clarita-valley-ca).
-
-	
-
-	
 
 These successful sales underscore a critical theme: the market will reward realism. Sellers who price their homes in line with current comparable sales and market conditions are achieving their goals.
 
@@ -151,21 +91,6 @@ As I demonstrate in my daily video updates, one of the most powerful and underut
 
 By simply clicking to sort listings from **"Oldest to Newest,"** you instantly reveal the properties that have been on the market the longest. Why is this so powerful?
 
-	- 
-	**It Identifies Motivation:** A home that has been on the market for 60, 90, or 120+ days often has a highly motivated seller. They have likely grown tired of the carrying costs (mortgage, taxes, insurance) and the stress of keeping their home show-ready. Their initial expectations have been tempered by market reality.
-
-	
-
-	- 
-	**It Highlights Negotiation Potential:** These are the listings where a well-researched, respectful, but firm offer below the asking price has the highest chance of success. The data is on your side. The longer a home sits, the lower the eventual sale price is, on average, compared to its original list price.
-
-	
-
-	- 
-	**It Reveals Price Reduction History:** When you identify a stagnant listing, you can then analyze its history. Has the price been reduced before? If so, by how much and when? A property that has had multiple small, ineffective price drops may be ripe for a more significant adjustment, which your offer can represent. A home that just had a large $30,000 reduction, as mentioned in my daily show, might be less flexible in the short term, but it still shows a clear motivation to sell.
-
-	
-
 This isn't about "lowballing" sellers; it's about making a data-driven offer on a property where the seller is demonstrably ready to negotiate. This is the art and science of
 
 **Crafting a Winning Real Estate Offer** ([https://www.santaclaritaopenhouses.com/how-to-negotiate-a-winning-offer-in-santa-clarita-real-estate-insider-tips-2025](https://www.santaclaritaopenhouses.com/how-to-negotiate-a-winning-offer-in-santa-clarita-real-estate-insider-tips-2025)), a concept that moves beyond just the price to include terms, contingencies, and timing that appeal to a motivated seller.
@@ -178,33 +103,9 @@ Mortgage interest rates have hit a 10-month low. This is arguably the most signi
 
 Consider this simplified example:
 
-	- 
-	**Scenario A (Higher Rate):** A $750,000 loan at a 7.2% interest rate results in a principal and interest payment of approximately **$5,091 per month**.
-
-	
-
-	- 
-	**Scenario B (Lower Rate):** The same $750,000 loan at a 6.2% interest rate results in a principal and interest payment of approximately **$4,591 per month**.
-
-	
-
 That is a difference of **$500 per month**, or **$6,000 per year**. Over the 30-year life of the loan, that single percentage point difference amounts to a staggering **$180,000** in interest savings.
 
 This rate drop does two things:
-
-	- 
-	**Increases Affordability:** It may allow you to qualify for a higher loan amount, potentially putting a home that was previously out of reach within your budget.
-
-	
-
-	- 
-	**Creates Urgency:** These low rates are not guaranteed to last. Economic factors can cause them to shift quickly. This creates a window of opportunity that savvy buyers should not ignore. If you have been on the fence, now is the time to speak with a lender,
-
-	**get pre-approved** ([https://www.santaclaritaopenhouses.com/get-pre-approved](https://www.santaclaritaopenhouses.com/get-pre-approved)), and understand exactly what these new rates mean for your budget.
-
-	
-
-	
 
 ### **Game Theory and Your Offer Strategy**
 
@@ -228,21 +129,6 @@ The single biggest mistake a seller can make in this market is to overprice thei
 
 Here's why:
 
-	- 
-	**You Miss the "Golden Window":** A property receives the most attention from serious, qualified buyers within the first 14-21 days of being listed. If your home is overpriced during this critical period, those ideal buyers will dismiss it without ever scheduling a showing.
-
-	
-
-	- 
-	**The Stigma of Time:** As your property sits on the market, a negative perception begins to build. Buyers and their agents start to wonder, "What's wrong with it?" This stigma leads to lower offers when they finally do come in.
-
-	
-
-	- 
-	**Chasing the Market Down:** By the time you implement a price reduction, the market may have already softened further, meaning your new, lower price is still perceived as too high. You end up chasing the market down, often selling for less than you would have if you had priced it correctly from the start.
-
-	
-
 The transcript of my daily show mentions the 30-day mark as a good time to consider a price modification if activity is low. This is a sound principle. A proactive **Realtor's Due Diligence** involves constantly analyzing market feedback, showing traffic, and comparable sales to advise on price adjustments before the listing goes stale.
 
 ### **The AI Advantage: Marketing in the 21st Century**
@@ -252,21 +138,6 @@ In today's digital world, sticking a sign in the yard and putting the listing on
 **AI for Real Estate Agents** ([https://www.santaclaritaopenhouses.com/santa-clarita-realtor-why-is-it-artificial-intelligence-why-not-just-smart](https://www.santaclaritaopenhouses.com/santa-clarita-realtor-why-is-it-artificial-intelligence-why-not-just-smart)), my approach is fundamentally different.
 
 We leverage the power of Large Language Models (**LLMs for Real Estate Agents**) and predictive analytics to create a marketing machine for your property:
-
-	- 
-	**Targeted Digital Advertising:** We don't just broadcast your listing; we target it. Using data analytics, we identify the demographic and psychographic profiles of the most likely buyers for your specific home. We then deploy highly targeted ad campaigns on platforms like Facebook, Instagram, and Google to put your home directly in front of them.
-
-	
-
-	- 
-	**Optimized Listing Descriptions:** Using AI, we craft compelling, emotionally resonant property descriptions that are also optimized for search engine visibility, ensuring your home ranks higher on real estate websites.
-
-	
-
-	- 
-	**Data-Driven Pricing Strategy:** We use AI-powered comparative market analysis tools that go beyond basic comps. They analyze market trends, absorption rates, and predictive models to pinpoint the optimal list price that will generate maximum interest and the highest possible sale price.
-
-	
 
 This is the difference between passive marketing and proactive, intelligent marketing. It’s about moving beyond the chaos of generic social media posts and implementing a system designed for results, as I detail in my marketing plan:
 
@@ -286,26 +157,6 @@ You need to ask a critical question: **How long will it take to recoup these cos
 
 Let's run a detailed, hypothetical scenario:
 
-	- 
-	**Existing Mortgage:** You have a $700,000 loan balance at a 7.0% interest rate. Your principal and interest (P&amp;I) payment is **$4,657/month**.
-
-	
-
-	- 
-	**Refinance Offer:** A new loan for $700,000 at a 6.0% interest rate. The new P&amp;I payment would be **$4,197/month**.
-
-	
-
-	- 
-	**Monthly Savings:** $4,657 - $4,197 = **$460 per month**.
-
-	
-
-	- 
-	**Closing Costs:** Let's assume the closing costs for the refinance are **$12,000**.
-
-	
-
 To find your break-even point, you divide the total closing costs by your monthly savings: **$12,000 / $460 per month = 26.08 months**
 
 In this scenario, it would take you just over **26 months** (or 2 years and 2 months) just to pay back the cost of the refinance. You don't realize any *actual* savings until after that point.
@@ -313,21 +164,6 @@ In this scenario, it would take you just over **26 months** (or 2 years and 2 mo
 ### **The Exit Strategy Test**
 
 Now, you must filter this calculation through your personal life plan. As I often ask my clients, what is your exit strategy?
-
-	- 
-	If you have a **four-year exit strategy** (you plan to sell the home in four years), then in the scenario above, you would only have about 22 months of actual savings after breaking even. The total savings would be minimal compared to the hassle and risk.
-
-	
-
-	- 
-	If you have a **seven-year exit strategy**, the refinance becomes more attractive, as you would enjoy nearly five years of pure savings after the break-even point.
-
-	
-
-	- 
-	If you bought your "forever home" and plan to be there for 15+ years, the refinance is likely a financial home run.
-
-	
 
 Do not get swayed by a lender's sales pitch. The math must make sense for *your* specific timeline and goals. Taking on a new 30-year loan term after you've already paid for several years on your current one also resets your amortization schedule, meaning you'll be paying more in interest again in the early years of the new loan. It’s a complex decision that requires careful consideration, not a knee-jerk reaction to a phone call.
 
@@ -361,16 +197,6 @@ The Santa Clarita real estate market in September 2025 is a tale of two cities. 
 
 **Recommended Resources:**
 
-	- 
-	**For Real Estate Professionals (GoHighLevel Affiliate Link):** [https://www.gohighlevel.com/?fp_ref=connorwithhonor](https://www.gohighlevel.com/?fp_ref=connorwithhonor)
-
-	
-
-	- 
-	**Honor Elevate:** [https://honorelevate.com](https://honorelevate.com)
-
-	
-
 **Follow My Channels:** @agentichonor, @Homemuscle, @FirstResponderRealtor, @AIwithHonor, @FastingwithHonor, @AiforAgentsOrg, @SantaClaritaOpenHouses, @TicketWhisperer
 
 ** Share This Post## Comments
@@ -378,37 +204,6 @@ The Santa Clarita real estate market in September 2025 is a tale of two cities. 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -444,26 +239,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

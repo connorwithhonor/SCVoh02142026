@@ -19,9 +19,6 @@ Connor "with Honor" MacIvor - September 18, 2025** Tags: [santa clarita real est
 # Fed's Latest Rate Slice: 0.25% Off – But Santa Clarita's Inventory Explosion to 739 Listings Says "Buyers, Gear Up; Sellers, Sharpen Your Pencils"
 
   
-    
-  
-
 ## TL;DR
 
 The Fed's September 18, 2025, quarter-point cut nudged funds rates to 4.75-5.00%, but mortgage rates clung to 6.7-6.9% thanks to stubborn 10-year Treasury yields at 4.2%. Santa Clarita Valley's market? A beast at 739 total listings (731 active, 8 coming soon), with 72 new entries and 78 price drops in the last week alone – signaling softening for buyers but urgency for sellers. Median active price hits $849K, DOM at 55 days, and $/sqft averaging $424. As your ex-LAPD cop-turned-Realtor (CALDRE 01238257), I've crunched the numbers: buyers, snag concessions on those 35 under-contract gems; sellers, stage that 2,096 sq ft average home or watch it linger. Dive in for price-range breakdowns, neighborhood heat maps, and no-BS tactics to win in this teetering market. Call 661-888-4983 or hit [contact](https://www.santaclaritaopenhouses.com/contact) – let's turn data into deals before November's Fed flip.
@@ -48,183 +45,23 @@ Buyers crave the granular: here's the MLS matrix gold, broken by price buckets f
 
 **Under $300K (6 actives – rare birds for first-timers):**
 
-	- List Price: Min $265K, Max $299K, Avg $281K, Median $282K
-
-	- DOM: Avg 78 days (lingering like bad coffee)
-
-	- Beds/Baths: Avg 2BR/2BA
-
-	- Sqft: Avg 1,288 (cozy condos rule)
-
-	- $/Sqft: Avg $242 (steal alert)
-
-	- Lot: Avg 8K sqft (townhomes galore)
-
-	- Pro Tip: Canyon Country condos here fly at 42 DOM median – pounce on those 1BR gems under $275K.
-
 **$300K-$400K (39 actives – entry-level goldmine):**
-
-	- List Price: Min $300K, Max $399K, Avg $359K, Median $369K
-
-	- DOM: Avg 81 days (patience pays)
-
-	- Beds/Baths: Avg 2BR/2BA
-
-	- Year Built: Avg 1984
-
-	- Sqft: Avg 1,006
-
-	- $/Sqft: Avg $388
-
-	- Lot: Avg 201K (wait, outliers – median 129K for attached)
-
-	- Buyer Win: Newhall fixer-uppers at $411/sqft median – negotiate inspections for $10K credits.
-
-	- Seller Note: 60 DOM median? Price at avg or watch 1/3 expire.
 
 **$400K-$500K (50 actives – sweet spot for families):**
 
-	- List Price: Min $410K, Max $500K, Avg $456K, Median $455K
-
-	- DOM: Avg 90 days (up 22 WoW – softening)
-
-	- Beds/Baths: Avg 2BR/2BA
-
-	- Year Built: Avg 1987
-
-	- Sqft: Avg 1,024
-
-	- $/Sqft: Avg $457
-
-	- Lot: Avg 277K (detached jumps it)
-
-	- Heat: Castaic townhomes under $455K close in 68 days – 569/sqft max on new builds.
-
 **$500K-$600K (65 actives – mid-range movers):**
-
-	- List Price: Min $510K, Max $600K, Avg $557K, Median $550K
-
-	- DOM: Avg 55 days (hotter here)
-
-	- Beds/Baths: Avg 2BR/2BA
-
-	- Year Built: Avg 1990
-
-	- Sqft: Avg 1,231
-
-	- $/Sqft: Avg $462
-
-	- Lot: Avg 250K
-
-	- Insight: Saugus starters at $460/sqft – 37 DOM median, but 240-day outliers scream "overpriced."
 
 **$600K-$700K (67 actives – value plays):**
 
-	- List Price: Min $600K, Max $700K, Avg $661K, Median $660K
-
-	- DOM: Avg 46 days (absorbing fast)
-
-	- Beds/Baths: Avg 3BR/3BA
-
-	- Year Built: Avg 1998
-
-	- Sqft: Avg 1,611
-
-	- $/Sqft: Avg $426
-
-	- Lot: Avg 172K
-
-	- Seller Edge: Valencia tracts at 37 DOM – but -795 DOM glitch? Data hiccup, real avg 46.
-
 **$700K-$800K (116 actives – family favorites):**
-
-	- List Price: Min $700K, Max $800K, Avg $755K, Median $750K
-
-	- DOM: Avg 67 days
-
-	- Beds/Baths: Avg 3BR/3BA
-
-	- Year Built: Avg 2000
-
-	- Sqft: Avg 1,785
-
-	- $/Sqft: Avg $435
-
-	- Lot: Avg 51K
-
-	- Buzz: Stevenson Ranch at $422/sqft median – 49 DOM, but 358-day max? Slash or stall.
 
 **$800K-$900K (98 actives – upgrade territory):**
 
-	- List Price: Min $800K, Max $900K, Avg $854K, Median $850K
-
-	- DOM: Avg 55 days
-
-	- Beds/Baths: Avg 3BR/3BA
-
-	- Year Built: Avg 1995
-
-	- Sqft: Avg 2,096
-
-	- $/Sqft: Avg $424
-
-	- Lot: Avg 50K
-
-	- Key Stat: 41 DOM median – pools boost to $413/sqft, but 246-day laggards in Agua Dulce.
-
 **$900K-$1M (59 actives – luxury lite):**
-
-	- List Price: Min $900K, Max $1M, Avg $963K, Median $964K
-
-	- DOM: Avg 60 days
-
-	- Beds/Baths: Avg 4BR/3BA
-
-	- Year Built: Avg 1999
-
-	- Sqft: Avg 2,580
-
-	- $/Sqft: Avg $389
-
-	- Lot: Avg 26M (horse properties skew)
-
-	- Alert: Acton ranches at $376/sqft – 48 DOM, but massive lots mean negotiate surveys.
 
 **$1M-$1.1M (38 actives – prestige entry):**
 
-	- List Price: Min $1.025M, Max $1.1M, Avg $1.065M, Median $1.05M
-
-	- DOM: Avg 75 days
-
-	- Beds/Baths: Avg 4BR/3BA
-
-	- Year Built: Avg 2005
-
-	- Sqft: Avg 2,691
-
-	- $/Sqft: Avg $406
-
-	- Lot: Avg 9K
-
-	- Pro Move: Gated Valencia at 65 DOM – $406/sqft median, concessions up 20%.
-
 **$1.1M-$1.2M (67 actives – high-end heat):**
-
-	- List Price: Min $1.1M, Max $1.2M, Avg $1.155M, Median $1.15M? (Data caps at 1.199M)
-
-	- DOM: Avg 70 days
-
-	- Beds/Baths: Avg 4BR/4BA
-
-	- Year Built: Avg 2006
-
-	- Sqft: Avg 2,965
-
-	- $/Sqft: Avg $403
-
-	- Lot: Avg 20K
-
-	- Seller Watch: 203 DOM max – stage those 8BA outliers or fund 3% credits.
 
 **Over $1.2M (Coming Soon Slice – 1 at $1.2M):** 4BR/3BA, 2,584 sqft, $464/sqft – prime for Newhall luxury.
 
@@ -244,14 +81,6 @@ With 72 new listings weekly and DOM at 55, buyers hold aces – especially sub-$
 
 **Your Arsenal:**
 
-	- **Pre-Approve Pronto:** At 6.8%, lock $550K at $3,400/mo. Use [advanced search](https://www.santaclaritaopenhouses.com/advanced-search) for 55+ or pool filters.
-
-	- **Chase Credits:** 35 U/C include 2-3% ($11-16K) – demand on $800K at 55 DOM.
-
-	- **Niche Hunt:** Castaic $575K lakeviews (18 DOM), Porter Ranch $1.05M ups (42 DOM) – Google Maps recon via [search by area](https://www.santaclaritaopenhouses.com/search-by-area).
-
-	- **Pitfalls:** Skip credit dings; escrow's your buffer per [escrow functions](https://www.santaclaritaopenhouses.com/the-functions-of-an-escrow).
-
 Written pacts mandatory post-NAR: [why buyers need written agreements](https://www.santaclaritaopenhouses.com/why-buyers-need-written-agreements-by-the-first-responder-realtor). Tour via Zoom at [ZoomMeSCV.com](https://www.zoommescv.com) or 661-888-4983 – no drama, all edge.
 
 ## Seller Survival Guide: Price Like a Pro in a 78-Reduction Rodeo – Or Risk the 27-Cancel Club
@@ -259,14 +88,6 @@ Written pacts mandatory post-NAR: [why buyers need written agreements](https://w
 That 739 blob means your listing's no solo star. Multiples? Fading outside hot $600K Valencia. Avg $755K $700K home at 67 DOM? If $435/sqft lags comps, join the 78 choppers – 3% drop nets 20 fewer days.
 
 **Sharpen Up:**
-
-	- **Comp Ruthless:** [Quick search](https://www.santaclaritaopenhouses.com/quick-search) for Saugus $725K avg – list $720K.
-
-	- **Stage Savvy:** Boost that 1,785 sqft with baths – adds 10% value in Stevenson.
-
-	- **Concede Clever:** 1-2% credits on 46 pendings close faster than holds.
-
-	- **Net First:** [Free market analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) – taxes, liens per [mechanics liens](https://www.santaclaritaopenhouses.com/mechanics-liens).
 
 I've flipped Newhall dry-rot dramas; overprice, and you're the expired 6. Text 661-51-HOMES – divorced-dad honest, no BS.
 
@@ -486,60 +307,11 @@ Radar chases to escrows – spot BS. [Why working with a first-responder turned 
 
 ## Recap
 
-	- **Fed Slice Lowdown:** 25 bps to 4.75-5%, mortgages flat 6.7-6.9%; yields at 4.2% hold firm.
-
-	- **Inventory Intel:** 739 total (731 active, 8 CS); 72 new, 78 reductions, 55 DOM med.
-
-	- **Price Power:** $849K med list, $424/sqft avg; sub-$500K steals at $388/sqft.
-
-	- **Buyer Boost:** Concessions 2.5%, 37 DOM entry-level – pre-approve now.
-
-	- **Seller Strategy:** Comp $424/sqft, stage for 20% faster close; avoid 27-cancel fate.
-
-	- **Neighborhood Nuggets:** Castaic hot (18 DOM), Acton land (26M lots).
-
-	- **Wild Bets:** Tariffs spike? Rates 7.2%; cap gains cut? Seller windfall.
-
-	- **Pro Perks:** VA zero-down; AI comps at HonorElevate.com.
-
-	- **Action Alert:** Consult 661-888-4983 or [contact](https://www.santaclaritaopenhouses.com/contact).
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -575,26 +347,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

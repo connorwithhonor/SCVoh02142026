@@ -57,21 +57,6 @@ My lender friend predicts a surge in buyer activity if rates hit this “magic n
 
 Contingencies are your safety net as a buyer. They’re clauses in the purchase agreement that let you back out of a deal without losing your deposit if certain conditions aren’t met. In California, standard contracts give you 17 days to complete investigations, covering:
 
-	- 
-	**Inspection Contingency**: Ensures the home is in good condition. If inspections reveal major issues (e.g., dry rot, as mentioned in No Man with a Gun in the Window), you can negotiate repairs or cancel.
-
-	
-
-	- 
-	**Appraisal Contingency**: Protects you if the home appraises below the offer price, allowing you to renegotiate or walk away.
-
-	
-
-	- 
-	**Financing Contingency**: Ensures you can secure a loan. If your lender denies your mortgage, you can exit without penalty.
-
-	
-
 These protections are critical, especially in a hot market. Learn more about the process at Understanding the Purchase Agreement.
 
 ### The Risks of Waiving Contingencies
@@ -98,41 +83,11 @@ In Santa Clarita, where communities like Valencia and Saugus pride themselves on
 
 Investigating neighbors isn’t about being nosy—it’s about due diligence. Here’s how I help clients during the 17-day investigation period:
 
-	- 
-	**Door-Knocking**: I’ll visit neighboring properties, especially those sharing boundaries, to introduce myself and gather insights. Are they friendly? Any ongoing disputes? This hands-on approach sets me apart.
-
-	
-
-	- 
-	**Research Property Records**: I check for red flags like liens, easements, or past legal issues via the title company. Learn more at Why You Need Title Insurance.
-
-	
-
-	- 
-	**Observe the Neighborhood**: Visit at different times—weekends, evenings—to gauge noise levels, parking issues, or community vibe.
-
-	
-
 Buyers can also ask sellers about neighbors during escrow, but answers must be verified. My first responder background taught me to trust but verify, ensuring you have the full picture. For a step-by-step guide, check Your Ultimate Buying Guide.
 
 ### Red Flags and Legal Considerations
 
 Watch for these warning signs:
-
-	- 
-	**Restraining Orders or Past Disputes**: The transcript mentions a buyer unaware of a neighbor’s legal history, leading to years of conflict.
-
-	
-
-	- 
-	**HOA Issues**: In communities like Stevenson Ranch, HOA rules can spark neighbor tensions. I’ll review HOA documents for you.
-
-	
-
-	- 
-	**Boundary Disputes**: Shared fences or easements can cause friction. A title company can clarify property lines.
-
-	
 
 If red flags arise, you can negotiate solutions (e.g., seller disclosures) or exit escrow within your contingency period. For peace of mind, work with a title company, as outlined in Understanding Title Insurance.
 
@@ -142,46 +97,11 @@ If red flags arise, you can negotiate solutions (e.g., seller disclosures) or ex
 
 The Santa Clarita market is dynamic as of July 8, 2025. Here’s the latest, straight from my daily updates:
 
-	- 
-	**55 New Listings**: Fresh inventory across Valencia, Saugus, Canyon Country, and more.
-
-	
-
-	- 
-	**67 Price Changes**: Sellers are adjusting to stay competitive, a sign of a leveling market.
-
-	
-
-	- 
-	**44 Sold Properties**: Steady closings, with 44 pending and 19 canceled escrows.
-
-	
-
-	- 
-	**Inventory Trends**: We’re replenishing listings at a pace matching sales, unlike the low-inventory days of 2022.
-
-	
-
 For a deeper dive, see Santa Clarita Market Report.
 
 ### Neighborhood Spotlight
 
 Santa Clarita’s neighborhoods offer something for everyone:
-
-	- 
-	**Valencia**: Family-friendly with top schools and walkable communities. See Homes for Sale in Valencia.
-
-	
-
-	- 
-	**Saugus**: Affordable single-family homes and condos. Check Homes for Sale in Saugus.
-
-	
-
-	- 
-	**Stevenson Ranch**: Upscale properties with gated communities. Explore Homes for Sale in Stevenson Ranch.
-
-	
 
 Our upcoming open house at 22206 Claiborne is a prime example of what’s available. Find it and others at Active Listings.
 
@@ -207,77 +127,11 @@ Ready to buy or sell in Santa Clarita? I’m here to guide you. Contact me for a
 
 ## Key Takeaways
 
-	- 
-	Mortgage rates in the high 6s to low 7s could drop to the 4s, sparking a 2021–2022-style buying frenzy.
-
-	
-
-	- 
-	Buyer contingencies (inspection, appraisal, financing) are critical to protect your deposit, especially in a hot market.
-
-	
-
-	- 
-	Investigating neighbors during the 17-day escrow period can prevent disputes, as shown by a buyer’s four-year legal battle.
-
-	
-
-	- 
-	Santa Clarita’s market is leveling with 55 new listings, 67 price changes, and 44 sales, offering opportunities for buyers and sellers.
-
-	
-
-	- 
-	Work with Connor MacIvor at SantaClaritaOpenHouses.com for expert guidance tailored to your needs.
-
-	
-
-	- 
-	Get pre-approved and price strategically to stay ahead in this dynamic market.
-
-	
-
-	- 
-	Contact Connor today for a free consultation or market analysis to make your real estate goals a reality.
-
-	
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -313,26 +167,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

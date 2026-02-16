@@ -32,27 +32,11 @@ Enter Connor MacIvor, known as Connor with Honor, a former first responder turne
 
 Let’s get straight to the numbers. Based on the latest data pulled by Connor MacIvor on June 25, 2025, here’s a snapshot of Santa Clarita Valley’s real estate market over the past seven days:
 
-	- **Total Active Listings**: 105 properties are currently for sale, spanning single-family homes, condos, townhomes, and more across neighborhoods like Canyon Country, Saugus, and Newhall. This surge in inventory signals a shift from the tighter markets of recent years, offering buyers more choices but also increasing competition for prime properties. Check out the latest listings at [SantaClaritaOpenHouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings).
-
-	- **Coming Soon Listings**: 20 properties are marked as “coming soon,” with 17 of those posted in the last week alone. These listings give proactive buyers a head start before properties hit the open market. Stay ahead of the curve by exploring [coming soon listings](https://www.santaclaritaopenhouses.com/comingsoon).
-
-	- **Escrow Activity**: 33 properties entered escrow, reflecting steady buyer demand. Meanwhile, 15 properties moved to pending status, and 10 closed sales, indicating a healthy but not overheated market. Curious about recent sales? Visit [SantaClaritaOpenHouses.com/my-sold-listings](https://www.santaclaritaopenhouses.com/my-sold-listings).
-
-	- **Back on Market**: 15 properties returned to active status, often due to buyer financing issues, inspection concerns, or seller-related hiccups. This underscores the importance of preparation, which we’ll cover later.
-
-	- **Expired and On Hold**: 14 properties expired, and 24 are on hold, potentially due to seller strategy (e.g., awaiting better offers) or external factors like health issues or relocation delays.
-
 This seven-day snapshot reveals a market in transition. Compared to earlier in 2024, when inventory hovered around 450–500 listings (a two-year high, as noted in [SantaClaritaOpenHouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years](https://www.santaclaritaopenhouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years)), the current activity suggests a balanced market. Buyers have more options, but sellers still hold leverage in high-demand areas like Valencia and Stevenson Ranch. For a deeper dive into local trends, explore the [Santa Clarita Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
 
 ### Neighborhood Highlights
 
 Santa Clarita’s diverse neighborhoods cater to a range of lifestyles. Here’s a quick look at what’s hot:
-
-	- **Valencia**: Known for its walkable schools and modern amenities, Valencia saw significant activity, with listings like [27931 Balsam Court](https://www.santaclaritaopenhouses.com/27931-balsam-court-valencia-ca-91354-valencia-ca-home-for-sale-coming-soon) drawing attention. Browse [Valencia homes](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca).
-
-	- **Canyon Country**: Affordable options under $500,000 are attracting first-time buyers. Check out [Canyon Country listings](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000).
-
-	- **Stevenson Ranch**: Luxury homes over $1 million are moving quickly, as seen in recent sales fetching $50,000 above asking ([SantaClaritaOpenHouses.com/stevenson-ranch-home-sold-for-50k-more-in-september-2024-what-sellers-are-giving](https://www.santaclaritaopenhouses.com/stevenson-ranch-home-sold-for-50k-more-in-september-2024-what-sellers-are-giving)). Explore [Stevenson Ranch properties](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca).
 
 Want to see what’s available in your preferred area? Use the [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search) tool to filter by price, property type, or neighborhood.
 
@@ -65,12 +49,6 @@ Buying a home in Santa Clarita requires more than just finding the perfect prope
 Imagine this: You’re pre-approved for a mortgage, excited to tour homes in Saugus or Castaic. Then, you decide to pay off a credit card, open a new line of credit, or finance a big purchase (like furniture for your future home). Seems harmless, right? Wrong. Any change to your credit—whether paying off debt or opening new accounts—can lower your credit score or affect your debt-to-income ratio, potentially jeopardizing your loan approval.
 
 Connor’s advice? “Don’t do anything without talking to your lender first.” Even a well-intentioned move, like paying off a car loan, can backfire if it reduces your available credit or triggers a credit inquiry. This is especially critical in a market where 15 properties went back on the market last week, often due to buyer financing issues. To avoid being one of those statistics, follow these steps:
-
-	- **Consult Your Lender**: Before making any financial moves, call or email your lender. Connor emphasizes getting their approval in writing. For example, send an email like: “Hi [Lender Name], I’m considering paying off my $5,000 credit card balance. Will this affect my mortgage approval? Please confirm.” This paper trail protects you if issues arise.
-
-	- **Freeze Major Purchases**: Resist the urge to buy a new car, apply for store credit, or take out a personal loan until your home purchase closes. Even small changes can raise red flags with underwriters.
-
-	- **Monitor Your Credit**: Use free tools to track your credit score and ensure no unexpected inquiries or errors appear. If you’re unsure where to start, Connor can connect you with trusted lenders via [SantaClaritaOpenHouses.com/mortgage-rates](https://www.santaclaritaopenhouses.com/mortgage-rates).
 
 ### Why Written Communication Matters
 
@@ -88,33 +66,13 @@ With inventory swelling and some sellers hesitant to list, many Santa Clarita ho
 
 Santa Clarita’s rental market is thriving, particularly in areas like Agua Dulce and Chatsworth, where spacious homes appeal to families and professionals. Key drivers include:
 
-	- **Post-Fire Displacement**: Wildfires in Los Angeles County have displaced residents, increasing demand for long-term rentals.
-
-	- **Rising Home Prices**: With median home prices in Santa Clarita hovering around $800,000–$900,000 ([SantaClaritaOpenHouses.com/what-does-900000-get-you-in-valencia-california](https://www.santaclaritaopenhouses.com/what-does-900000-get-you-in-valencia-california)), many are opting to rent while saving for a down payment.
-
-	- **Investor Interest**: Properties like lots and land in Acton ([SantaClaritaOpenHouses.com/lots-and-land-for-sale-in-acton-ca](https://www.santaclaritaopenhouses.com/lots-and-land-for-sale-in-acton-ca)) are being snapped up for development or rental income.
-
 ### Legal Considerations for Landlords
 
 Before listing your home as a rental, understand California’s complex landlord-tenant laws. Connor highlights several risks:
 
-	- **Rental Controls**: Los Angeles County imposes strict regulations on rent increases and evictions, particularly for long-term tenants. Unlike other states, California’s Tenant Protection Act limits annual rent hikes to 5% plus inflation (capped at 10%).
-
-	- **Eviction Challenges**: If a tenant defaults on rent, the eviction process can take months, involving notices, court filings, and potential legal battles. Connor asks, “How long does it take? Is somebody gonna be protected because of a certain demographic?” This is critical for non-paying tenants or those with protected statuses.
-
-	- **Undocumented Tenants**: Connor references discussions about tenants who “can’t go to work and get picked up for being non-documented.” While controversial, this underscores the need to vet tenants carefully while complying with fair housing laws ([SantaClaritaOpenHouses.com/fair-housing-in-california-how-a-first-responder-realtor-keeps-it-fair-honestly](https://www.santaclaritaopenhouses.com/fair-housing-in-california-how-a-first-responder-realtor-keeps-it-fair-honestly)).
-
 ### How to Succeed as a Landlord
 
 To mitigate risks and maximize returns, follow Connor’s advice:
-
-	- **Hire a Property Management Professional**: A reputable manager can handle tenant screening, lease agreements, and maintenance, saving you time and legal headaches. Connor notes, “You’re gonna need a property management professional to be happy.”
-
-	- **Vet Tenants Thoroughly**: Check credit, income, and references, but ensure compliance with fair housing regulations. Connor compares tenant selection to raising kids: “Some turn out great, some don’t.”
-
-	- **Understand Your Exit Strategy**: If a tenant defaults, know the eviction timeline (typically 30–90 days for initial notices, plus court proceedings). Consult a real estate attorney to draft airtight leases.
-
-	- **Price Competitively**: Research rental rates in areas like Granada Hills or Castaic ([SantaClaritaOpenHouses.com/search-by-area](https://www.santaclaritaopenhouses.com/search-by-area)) to attract quality tenants without undervaluing your property.
 
 For personalized guidance on renting out your home, contact Connor via [SantaClaritaOpenHouses.com/contact](https://www.santaclaritaopenhouses.com/contact) or explore investment opportunities at [SantaClaritaOpenHouses.com/investment-opportunities-santa-clarita-real-estate](https://www.santaclaritaopenhouses.com/investment-opportunities-santa-clarita-real-estate).
 
@@ -138,80 +96,21 @@ Sellers are adapting to the shifting market by offering concessions, such as cov
 
 Navigating Santa Clarita’s real estate market requires a guide who’s not just knowledgeable but also deeply committed to your success. Connor MacIvor stands out for several reasons:
 
-	- **First-Responder Experience**: His background as a first responder equips him with a unique ability to handle high-pressure situations, ensuring calm and strategic guidance ([SantaClaritaOpenHouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge)).
-
-	- **Local Expertise**: As a member of the Southland Regional Association of Realtors, Connor has access to exclusive listings and market data, giving you an edge over competitors ([SantaClaritaOpenHouses.com/your-realtor-needs-to-be-a-member-of-our-local-board-to-market-effectively](https://www.santaclaritaopenhouses.com/your-realtor-needs-to-be-a-member-of-our-local-board-to-market-effectively)).
-
-	- **Client-Centered Approach**: From divorce-related sales to veteran home buying, Connor tailors his services to your unique needs ([SantaClaritaOpenHouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor](https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor)).
-
 Don’t just take our word for it—read what clients say at [SantaClaritaOpenHouses.com/testimonials](https://www.santaclaritaopenhouses.com/testimonials). Whether you’re buying your first home or selling a luxury property, Connor’s expertise ensures a smooth process.
 
 ## Your Next Steps in the Santa Clarita Market
 
 Ready to make your move? Here’s how to get started:
 
-	- **Explore Listings**: Browse [active listings](https://www.santaclaritaopenhouses.com/active-listings) or use the [Dream Home Finder](https://www.santaclaritaopenhouses.com/dream-home-finder) to pinpoint your ideal property.
-
-	- **Schedule a Consultation**: Book a one-on-one with Connor to discuss your goals, whether buying, selling, or investing ([SantaClaritaOpenHouses.com/schedule-calendar](https://www.santaclaritaopenhouses.com/schedule-calendar)).
-
-	- **Stay Informed**: Sign up for Connor’s newsletter for weekly market updates and exclusive insights ([SantaClaritaOpenHouses.com/newsletter](https://www.santaclaritaopenhouses.com/newsletter)).
-
-	- **Get Pre-Approved**: Connect with trusted lenders to secure financing and strengthen your offer ([SantaClaritaOpenHouses.com/getting-a-legitimate-lender-and-getting-pre-approved](https://www.santaclaritaopenhouses.com/getting-a-legitimate-lender-and-getting-pre-approved)).
-
 The Santa Clarita market is dynamic, but with Connor with Honor by your side, you’ll navigate it with confidence. Don’t wait—contact Connor today at [SantaClaritaOpenHouses.com/contact](https://www.santaclaritaopenhouses.com/contact).
 
 ## Key Takeaways
-
-	- Santa Clarita’s real estate market is active, with 105 new listings and 20 coming soon properties in the past seven days, offering buyers more choices.
-
-	- Avoid credit changes during the home-buying process to protect your mortgage approval, and always get lender advice in writing.
-
-	- Rental demand is high, but landlords must navigate California’s strict regulations and vet tenants carefully.
-
-	- Federal Reserve rate cuts are improving affordability, but competition remains fierce in neighborhoods like Valencia and Stevenson Ranch.
-
-	- Connor MacIvor’s first-responder background and local expertise make him the ideal partner for buying, selling, or investing.
-
-	- Schedule a consultation with Connor at [SantaClaritaOpenHouses.com/schedule-calendar](https://www.santaclaritaopenhouses.com/schedule-calendar) to seize today’s opportunities.
-
-	- Explore listings and resources at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) to stay ahead in the market.
 
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -247,26 +146,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

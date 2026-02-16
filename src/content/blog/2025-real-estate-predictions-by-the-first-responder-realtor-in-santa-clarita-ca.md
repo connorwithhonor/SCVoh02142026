@@ -86,12 +86,6 @@ What does this mean for you? If you’re a buyer, you want to factor these taxes
 
 Now, HOAs (Homeowners Associations) are a bit of a love-hate topic for many prospective buyers. Some folks love them for their ability to keep neighborhoods well-maintained. Others see them as meddling enforcers with strict rules on what color you can paint your shutters or how many pets you can have. Whichever side you lean toward, it’s important to do your homework.
 
-	- **What Does the HOA Fee Cover?** Does it include landscaping maintenance of common areas, a pool, a park, or 24/7 security patrols?
-
-	- **How Often Does the Fee Increase?** Some HOAs have guidelines that prevent them from raising fees more than a certain percentage annually. Others can jump at any time.
-
-	- **Special Assessments.** If the community decides to do a major infrastructure repair—say, repaving walkways or renovating a clubhouse—your monthly fee might jump for a number of months or years. Always review the HOA documents carefully to see if any big projects are in the pipeline.
-
 As a real estate professional, I point my clients to the right resources to gather these details. Typically, during escrow, you’ll receive the HOA documents. But you can often do a bit of detective work before you get that far, especially if you know the right questions to ask. And by all means, you should **ask** those questions.
 
 ## 7. Interest Rates and the Economy: The 2025 Outlook
@@ -116,12 +110,6 @@ Now, let’s talk about AI. We’ve discussed how aggregator real estate sites a
 
 Artificial Intelligence, in its current form, is largely about pattern recognition and data analytics at scale. It can read massive amounts of data, find correlations, and make predictions. It’s only going to get more advanced. The talk of **Artificial General Intelligence (AGI)** and **Artificial Superintelligence** might sound futuristic, but consider that even a decade ago, some of today’s technologies seemed the stuff of science fiction.
 
-	- **Employment Implications.** If your employer isn’t talking about how AI will integrate into your job or your company’s workflow, that might be a red flag. Because nearly every industry—from real estate to finance, from healthcare to manufacturing—is exploring how AI can streamline processes.
-
-	- **Disinformation or Misinformation.** AI can easily generate content that appears highly credible. In real estate, that might mean you see “reviews” of a neighborhood or “articles” about a market shift that aren’t actually from a real person or based on real data. Critical thinking is crucial here. Always ask, “Who’s writing this? What’s the source?”
-
-	- **Prediction Tools.** Some brokerages are rolling out AI-based property evaluation systems that factor in everything from aerial photos to micro-changes in local markets. If harnessed ethically, these could be fantastic, providing more accurate pricing. But if misused, they could manipulate market perceptions.
-
 **My advice?** Become curious. Spend time learning the basics of how AI influences search engines, real estate recommendations, and social media content. That awareness alone can make a difference in how you interpret the listings you see and how you decide which professionals to trust.
 
 ## 10. Critical Thinking: Your Armor Against the Noise
@@ -135,16 +123,6 @@ The same goes for AI: if a website or platform is telling you something and you�
 ## 11. Putting It All Together: 2025 as a Launchpad
 
 So, here we are, right at the beginning of 2025. What do I personally expect as we move forward through the year in real estate?
-
-	- **Gradual Inventory Increase.** More homeowners will list their properties, especially as the holiday season recedes in the rearview mirror. We’ll see more variety, which can be good for buyers, though it also means more competition among sellers.
-
-	- **Moderate Price Appreciation.** Expect somewhere between 3% and 8% total price growth this year in many SoCal markets, including Santa Clarita. That’s not as wild as some of the jumps we’ve seen in past years, but it’s still a healthy increase.
-
-	- **Stable Interest Rates.** Barring a major economic shakeup, mortgage rates should remain within a certain range, tied closely to the stability of the 10-year bond market.
-
-	- **Emphasis on Local Expertise.** Buyers and sellers alike will gravitate toward real estate agents who can speak directly about local conditions. National aggregator sites can’t offer the nuanced knowledge about specific Santa Clarita neighborhoods, nor can they hold your hand through the intricacies of Mello-Roos, HOAs, or local property taxes.
-
-	- **AI-Driven Tools.** Real estate search engines, mortgage calculations, and even property management systems will keep refining their AI capabilities. As always, keep a level head—AI can be a powerful ally, but only if you verify the output with reliable human expertise.
 
 I’ll add that **forgiveness**—the same principle I applied to my personal fitness journey—matters in the world of real estate. If you’re trying to buy a home and you lose out on a couple of offers, don’t let it derail you. Recognize that sometimes the timing and competition can be fierce. Learn from the experience, regroup, and keep at it. If you’re selling and you didn’t get the offers you hoped for, talk with your agent about whether you might have to adjust the price, stage differently, or wait for a better season. Mistakes happen, but they’re not the finale—they’re simply stepping stones to eventual success.
 
@@ -176,14 +154,6 @@ True wisdom comes from combining data (the “what”) with context (the “why�
 
 As we wrap up this extended discussion, I want you to remember a few core points:
 
-	- **Start Now.** Whether you’re looking to improve your health, transition your career, or buy/sell real estate, don’t wait for the “perfect time.” Often, the perfect time is **now**.
-
-	- **Forgive Yourself.** If you slip on your resolution or lose out on that dream property, chalk it up to experience and keep going.
-
-	- **Stay Informed.** Whether it’s health trends like fasting or market trends in real estate, do your own research and consider the source.
-
-	- **Embrace AI Wisely.** Use AI tools for convenience and initial research, but never abandon the critical thinking process or the value of local, on-the-ground expertise.
-
 I’m **Connor with Honor**, and I’ve traveled my own winding road—shedding pounds and learning that discipline in one area of life can carry over to another, whether that’s real estate or tackling new technology. I hope this discussion about 2025’s real estate outlook, the potential role of AI, and the importance of personal forgiveness (and resilience) sparks some inspiration.
 
 You can find more detailed, Santa Clarita–specific content at **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)**. Feel free to drop in there any time for updates on the latest listings, community insights, and more.
@@ -203,37 +173,6 @@ Thank you for spending this time with me. I’m wishing you a phenomenal 2025 fi
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -269,26 +208,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

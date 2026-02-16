@@ -28,14 +28,6 @@ Most people think being a cop is about enforcing laws, catching criminals, and h
 
 Every day on patrol, you're making split-second judgments:
 
-	- Is this person telling the truth or lying?
-
-	- Are they dangerous or just scared?
-
-	- Can I trust my partner to back me up in a critical moment?
-
-	- Is this witness credible or exaggerating?
-
 **Get it wrong, and people get hurt.**
 
 After 20 years with LAPD, those assessment skills became second nature. I can read body language, tone, micro-expressions, and inconsistencies faster than most people notice them.
@@ -43,14 +35,6 @@ After 20 years with LAPD, those assessment skills became second nature. I can re
 When I transitioned to full-time real estate in Santa Clarita Valley, I realized something: **The same skills that kept me alive on patrol help me vet real estate agents.**
 
 Because in real estate, trust matters just as much as it does in law enforcement. The stakes aren't life-or-death, but they're still significant:
-
-	- Buying a home is the biggest financial decision most people make
-
-	- Selling a home impacts your family's future
-
-	- A bad agent can cost you tens of thousands of dollars
-
-	- A dishonest agent can create legal nightmares
 
 **That's why I vet agents the way LAPD vets officers: rigorously, objectively, and without compromise.**
 
@@ -68,25 +52,9 @@ You learn to identify when someone isn't being straight with you. Inconsistent s
 
 When I interview an agent for my referral network, I ask direct questions:
 
-	- "How many deals did you close in Santa Clarita last year?"
-
-	- "Tell me about a transaction that fell apart. What happened?"
-
-	- "What's your average response time to client calls?"
-
-	- "Have you ever walked away from a deal to protect a client?"
-
 **Good agents answer directly, with specifics.**
 
 **Red-flag agents:**
-
-	- Give vague answers ("I do a lot of deals")
-
-	- Deflect ("It depends on the situation")
-
-	- Over-explain simple questions ("Well, response time is tricky because...")
-
-	- Can't provide specific examples when asked
 
 **Example:**
 
@@ -118,29 +86,9 @@ Real estate deals get stressful. Inspections reveal problems. Appraisals come in
 
 **What I ask:**
 
-	- "Tell me about a deal where everything went wrong. How did you handle it?"
-
-	- "What's the toughest negotiation you've navigated?"
-
-	- "Have you ever had a client freak out mid-transaction? What did you do?"
-
 **Good agents:**
 
-	- Give specific examples
-
-	- Explain their thought process
-
-	- Take responsibility for outcomes
-
-	- Show they stayed calm and communicated clearly
-
 **Red-flag agents:**
-
-	- Blame clients, other agents, or "the market"
-
-	- Can't provide specific examples
-
-	- Get defensive when asked about failures
 
 **Example:**
 
@@ -164,31 +112,11 @@ Never take someone's word at face value. Verify everything. Cross-reference stat
 
 Agents can claim anything on their website:
 
-	- "Award-winning service!"
-
-	- "#1 agent in Santa Clarita!"
-
-	- "Sold 200+ homes!"
-
 **I verify every claim.**
 
 **What I do:**
 
-	- Check MLS records (how many deals did they actually close?)
-
-	- Talk to other agents (what's their reputation?)
-
-	- Contact past clients (were they happy? Would they work with this agent again?)
-
-	- Verify awards (who gave the award? Is it legitimate or just brokerage marketing?)
-
 **Red flags:**
-
-	- Claims can't be verified
-
-	- Other professionals warn me about them
-
-	- Online reviews mention dishonesty or poor communication
 
 **Example:**
 
@@ -210,33 +138,9 @@ You learn to assess someone's character quickly. Are they genuine or putting on 
 
 I don't just evaluate agents based on their sales pitch. I watch how they treat people when they think no one important is watching:
 
-	- How do they talk about competitors?
-
-	- How do they treat support staff (assistants, transaction coordinators)?
-
-	- Do they take credit for team wins or acknowledge collaboration?
-
-	- Do they help newer agents or hoard knowledge?
-
 **Good agents:**
 
-	- Speak respectfully about competitors (even ones they don't like)
-
-	- Treat everyone with courtesy (not just clients who can pay them)
-
-	- Share credit generously
-
-	- Mentor others
-
 **Red-flag agents:**
-
-	- Trash-talk competitors constantly
-
-	- Treat support staff poorly
-
-	- Take credit for everything
-
-	- Hoard knowledge to maintain competitive advantage
 
 **Example:**
 
@@ -260,19 +164,7 @@ A bad real estate agent isn't just "annoying." They create **real financial and 
 
 **For buyers:**
 
-	- Overpaying by $20K-50K because the agent didn't negotiate
-
-	- Waiving inspection contingencies and discovering $30K in hidden repairs
-
-	- Losing their deposit because the agent didn't explain contract terms
-
 **For sellers:**
-
-	- Underpricing and leaving $40K+ on the table
-
-	- Accepting a bad offer because the agent wanted a quick close
-
-	- Dealing with legal issues because the agent didn't disclose properly
 
 **I've seen all of these scenarios. Multiple times.**
 
@@ -299,12 +191,6 @@ Rushed decisions lead to bad outcomes. Buyers overpay. Sellers accept low offers
 In law enforcement, you learn to recognize manipulation tactics. Pressure, urgency, fear—these are tools used to bypass rational thinking.
 
 **When I vet agents, I ask:**
-
-	- "Tell me about a time you advised a client to walk away from a deal."
-
-	- "Have you ever told a buyer NOT to submit an offer?"
-
-	- "What's your philosophy on waiving contingencies?"
 
 **Agents in my network don't pressure clients.** They provide information, explain risks, and let YOU make informed decisions.
 
@@ -334,12 +220,6 @@ In law enforcement, communication failures get people killed. You learn that **r
 
 **When I vet agents, I test responsiveness:**
 
-	- I text/call at random times and track response speed
-
-	- I ask past clients: "How was communication? Did you feel informed?"
-
-	- I verify: Do they have systems (like [Honor Elevate AI](https://www.honorelevate.com/)) to ensure 24/7 availability?
-
 **Agents in my network respond quickly.** If they can't, they have systems in place to ensure you're never left hanging.
 
 **Example:**
@@ -367,12 +247,6 @@ Law enforcement officers face conflict daily. You can't avoid it—you have to m
 **The best agents do the same.** They're not afraid of tough negotiations. They advocate aggressively for clients, even when it's uncomfortable.
 
 **When I vet agents, I ask:**
-
-	- "Tell me about a time you had to push back hard on another agent."
-
-	- "Have you ever had a client upset with you for being too aggressive in negotiation?"
-
-	- "What's the toughest conversation you've had with a client?"
 
 **Agents in my network aren't conflict-avoiders.** They're professionals who negotiate effectively, communicate clearly, and protect your interests—even when it's uncomfortable.
 
@@ -406,35 +280,15 @@ If an agent has a reputation for dishonesty, pressure tactics, or poor communica
 
 Most SCV buyers are families:
 
-	- Moving for better schools
-
-	- Upgrading for more space
-
-	- Relocating for safer neighborhoods
-
 **These aren't investors flipping properties. These are families making life-changing decisions.**
 
 **That means the agent you choose directly impacts:**
-
-	- Where your kids go to school
-
-	- Your daily commute
-
-	- Your financial security for the next 10-20 years
 
 **I don't take that lightly.** That's why I only refer agents I'd trust with my own family's future.
 
 ### **Long-Term Relationships Matter**
 
 In Santa Clarita, people don't just buy a house and leave. They:
-
-	- Buy their first home in Canyon Country
-
-	- Upgrade to Stevenson Ranch when kids are born
-
-	- Downsize to Valencia when kids leave
-
-	- Refer friends, neighbors, and coworkers
 
 **The best agents build careers on long-term relationships**, not one-time transactions.
 
@@ -454,12 +308,6 @@ Agents who take responsibility for errors and explain what they learned.
 
 **Red flags:**
 
-	- "I don't really make mistakes."
-
-	- "It wasn't my fault, the client didn't listen."
-
-	- Can't provide a specific example.
-
 **Good answer:**
 
 *"I once missed a deadline for a contingency removal because I didn't calendar it properly. The buyer almost lost their deposit. I immediately contacted the listing agent, explained what happened, negotiated an extension, and implemented a new system to prevent it. I also refunded part of my commission to the buyer as an apology."*
@@ -473,10 +321,6 @@ Agents who take responsibility for errors and explain what they learned.
 Agents who prioritize client interests over commissions.
 
 **Red flags:**
-
-	- "My job is to help them achieve their goals, not talk them out of it."
-
-	- Can't provide a specific example.
 
 **Good answer:**
 
@@ -492,10 +336,6 @@ Agents who stay professional under emotional stress.
 
 **Red flags:**
 
-	- "I don't usually have angry clients."
-
-	- "I try to avoid conflict."
-
 **Good answer:**
 
 *"I had a seller furious because we didn't get the price they wanted. I listened, acknowledged their frustration, showed them the comps that supported my pricing recommendation, and explained our options. They calmed down once they understood the data. We adjusted the price slightly and sold within two weeks."*
@@ -509,12 +349,6 @@ Agents who stay professional under emotional stress.
 Specific, measurable commitments.
 
 **Red flags:**
-
-	- "I'm always available."
-
-	- "It depends."
-
-	- Vague non-answers.
 
 **Good answer:**
 
@@ -532,12 +366,6 @@ Agents who differentiate based on **value and integrity**, not volume or awards.
 
 **Red flags:**
 
-	- "I'm the #1 agent in Santa Clarita."
-
-	- "I sell the most homes."
-
-	- Bragging without substance.
-
 **Good answer:**
 
 *"I don't sell the most homes in SCV, but the clients I work with get white-glove service. I cap my transactions at 30 per year so I'm never spread too thin. I respond fast, negotiate aggressively, and follow up for years after closing. My clients refer their friends because they trust me."*
@@ -547,14 +375,6 @@ Agents who differentiate based on **value and integrity**, not volume or awards.
 ## **How This Protects You in Competitive Santa Clarita Markets**
 
 Santa Clarita can be competitive, especially in desirable neighborhoods like:
-
-	- Valencia Woodlands
-
-	- Stevenson Ranch
-
-	- Bridgeport
-
-	- West Hills (Newhall)
 
 **In competitive markets, bad agents cost you money.**
 
@@ -604,41 +424,15 @@ Many of the agents in my referral network use [Honor Elevate](https://www.honore
 
 Even excellent agents struggle with:
 
-	- Responding to every lead instantly
-
-	- Posting consistently on social media
-
-	- Managing follow-ups without dropping balls
-
-	- Asking for reviews without being awkward
-
 **These aren't character flaws—they're time management challenges.**
 
 ### **Solution: AI Handles Repetitive Tasks**
 
 Honor Elevate automates:
 
-	- **AI voice systems** (answer calls 24/7, book appointments, qualify leads)
-
-	- **Social media planning** (create and schedule posts weeks in advance)
-
-	- **CRM management** (track all client communication in one place)
-
-	- **Automated follow-ups** (nurture leads without manual effort)
-
-	- **Review requests** (automatic post-closing testimonial requests)
-
 ### **Result: Better Service for You**
 
 When your agent uses Honor Elevate:
-
-	- ✅ You get faster responses (even at 10 PM on Saturday)
-
-	- ✅ You're never forgotten (automated follow-ups keep you in the loop)
-
-	- ✅ Your agent is less stressed (more time for high-value work like negotiation)
-
-	- ✅ Communication is seamless (everything tracked, nothing lost)
 
 **Translation:** AI doesn't replace the human relationship—it enhances it.
 
@@ -649,14 +443,6 @@ Learn more about [how AI transforms Santa Clarita real estate](https://www.santa
 ### **"Do all your referrals have law enforcement backgrounds?"**
 
 No. Most don't. But they all meet the same standards I learned to value in law enforcement:
-
-	- Integrity under pressure
-
-	- Accountability
-
-	- Clear communication
-
-	- Performance in stressful situations
 
 ### **"What if I don't like the agent you refer?"**
 
@@ -703,37 +489,6 @@ Ready to work with a vetted professional?
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -769,26 +524,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

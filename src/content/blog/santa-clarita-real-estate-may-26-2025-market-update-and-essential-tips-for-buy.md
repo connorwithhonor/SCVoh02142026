@@ -85,12 +85,6 @@ The process is straightforward: just let me know which city or cities within the
 
 This early intelligence allows you to:
 
-	- **Be Proactive:** Review properties and express interest before they generate widespread attention.
-
-	- **Gain an Edge:** Potentially view homes and even make offers before other buyers even know they're on the market.
-
-	- **Reduce Competition:** In some cases, a well-placed early offer on a "coming soon" listing can avoid the competitive bidding wars often seen on publicly listed properties.
-
 If you already have a real estate agent, I encourage you to reach out to them and ask if they can provide you with access to "Coming Soon" inventory. However, if you're unrepresented or simply seeking an agent who offers this level of proactive service and exclusive access, then contact me directly. This program is just one facet of how I leverage my expertise and network to give my clients a distinct advantage in the Santa Clarita real estate market.
 
 ## The Connor with Honor Difference: Experience, Integrity, and Innovation
@@ -117,64 +111,11 @@ Let's navigate this market together, making informed decisions that lead to your
 
 Below are some additional key pages from SantaClaritaOpenHouses.com that provide in-depth information and tools to assist you, whether you are buying or selling in the Santa Clarita Valley and surrounding Southern California areas:
 
-	- [View All Active Listings](https://www.santaclaritaopenhouses.com/active-listings): Explore all currently available homes, condos, and townhomes in Santa Clarita.
-
-	- [My Sold Listings](https://www.santaclaritaopenhouses.com/my-sold-listings): See a track record of properties I've successfully helped clients buy and sell.
-
-	- [Search by Area](https://www.santaclaritaopenhouses.com/search-by-area): Discover homes for sale in specific neighborhoods and cities across the Santa Clarita Valley.
-
-	- [Search by Property Type](https://www.santaclaritaopenhouses.com/search-santa-clarita-valley-ca-by-property-type): Find homes based on specific criteria like single-family, condos, luxury, or new construction.
-
-	- [Santa Clarita Open Houses This Weekend](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca): Plan your visits to open houses currently scheduled in the area.
-
-	- [Relocation Guide](https://www.santaclaritaopenhouses.com/relocation-1): Comprehensive resources for those moving to or from the Santa Clarita Valley.
-
-	- [Buyers Guide](https://www.santaclaritaopenhouses.com/buyers-guide): A step-by-step resource to help you navigate the home buying process.
-
-	- [Sellers Guide](https://www.santaclaritaopenhouses.com/sellers-guide): Essential information and strategies for selling your home for top dollar.
-
-	- [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary): Definitions of common real estate terms to help you understand the jargon.
-
-	- [Contact Me](https://www.santaclaritaopenhouses.com/contact): Reach out directly to Connor with Honor for personalized assistance or any questions you may have.
-
-	- [About Connor with Honor](https://www.santaclaritaopenhouses.com/about): Learn more about my background, experience, and commitment to client success.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -210,26 +151,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -22,51 +22,7 @@ Connor "with Honor" MacIvor - October 4, 2024** Tags: [santa clarita open houses
 
 ### **Current Market Watch Data – October 4, 2024** (Day 278):
 
-	- **Coming Soon:** 14 (+6 from yesterday)
-
-	- **New Listings:** 83 (-6 from yesterday)
-
-	- **Price Changes:** 69 (-2 from yesterday)
-
-	- **Back on Market:** 24 (+3 from yesterday)
-
-	- **Active Under Contract:** 27 (-10 from yesterday)
-
-	- **Pending:** 53 (+7 from yesterday)
-
-	- **Closed:** 61 (+13 from yesterday)
-
-	- **Expired:** 9 (+3 from yesterday)
-
-	- **Canceled:** 10 (+2 from yesterday)
-
-	- **Hold:** 14 (+4 from yesterday)
-
-	- **Withdrawn:** 2 (no change from yesterday)
-
 ### **Comparing with Last Week’s Data (September 27, 2024 – Day 271):**
-
-	- **Coming Soon:** 10 (now 14, an increase of 4 listings)
-
-	- **New Listings:** 91 (now 83, a decrease of 8 listings)
-
-	- **Price Changes:** 65 (now 69, an increase of 4 price changes)
-
-	- **Back on Market:** 20 (now 24, an increase of 4 properties)
-
-	- **Active Under Contract:** 33 (now 27, a decrease of 6 contracts)
-
-	- **Pending:** 46 (now 53, an increase of 7 contracts)
-
-	- **Closed:** 48 (now 61, an increase of 13 closed sales)
-
-	- **Expired:** 6 (now 9, an increase of 3 listings)
-
-	- **Canceled:** 8 (now 10, an increase of 2 listings)
-
-	- **Hold:** 10 (now 14, an increase of 4 listings)
-
-	- **Withdrawn:** 3 (now 2, a decrease of 1 withdrawn listing)
 
 ### **Market Insights:**
 
@@ -118,23 +74,17 @@ Valencia is known for its **master-planned communities**, top-rated schools, and
 
 Current Listings Include:
 
-	- **26937 Winding Trail Ct**: A **3-bed, 3-bath** home listed at **$745,000**—an excellent option for families wanting proximity to **parks and top-tier schools**.
-
 ### Canyon Country: Affordable and Accessible
 
 Canyon Country offers **affordability** without sacrificing convenience. With easy access to the **14 Freeway**, it’s perfect for commuters. Home prices in this area typically start in the **mid-$400,000s**, making it ideal for first-time buyers or those looking for a more affordable option.
 
 Current Listings Include:
 
-	- **18217 Flynn Dr #116**: A **2-bed, 2-bath condo** listed at **$474,000**—a fantastic opportunity for buyers looking for affordability and accessibility.
-
 ### Saugus: Family-Oriented and Affordable
 
 Saugus is perfect for growing families with its **excellent schools** and community-driven neighborhoods. Homes here typically start around **$600,000**, offering a great balance of price and lifestyle.
 
 Current Listings Include:
-
-	- **28152 Robin Ave**: Listed at **$395,000**, this home offers an incredible entry point for first-time buyers.
 
 ## Why Now is a Great Time to List or Buy in Santa Clarita
 
@@ -158,12 +108,6 @@ Hey everyone, it’s Connor with Honor, and I’m back with your latest Santa Cl
 
 In Today’s Update:
 
-	- Inventory Trends: What’s happening with new listings, price changes, and sales in Santa Clarita?
-
-	- Competitive Market Insights: How to navigate the fast-moving real estate market and make sure you’re getting the best outcome for your situation.
-
-	- First Responder Advantage: Why my background as a first responder turned realtor gives YOU the edge in this competitive market.
-
 As many of you know, I served as a LAPD officer for years, protecting and serving the community. Now, I use those same skills in real estate to protect your investment. Whether you're buying or selling, you deserve someone who is dedicated, vigilant, and able to handle high-stakes situations. That’s what I bring to the table as your real estate agent.
 
 Watch my latest YouTube update for the full breakdown:
@@ -182,12 +126,6 @@ Here’s a quick post with additional info:
 
 Why Choose a First Responder Realtor?
 
-	- Attention to Detail: Missing small details in a contract or negotiation can cost you big. My experience has trained me to catch those crucial points.
-
-	- Calm Under Pressure: Real estate transactions can get stressful. With years of high-pressure situations in law enforcement, I know how to stay cool and focused to get the best result for you.
-
-	- Trust and Integrity: Just like when I served the community, my goal is to protect your interests with honesty and transparency.
-
 Whether you’re looking to buy your first home or are thinking of selling and want the best price, reach out to me today. I’d love to help you navigate this market and make the most informed decisions for your future.
 
 Connor with Honor – First Responder Realtor
@@ -201,37 +139,6 @@ Protecting and Serving Your Real Estate Needs
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -267,26 +174,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

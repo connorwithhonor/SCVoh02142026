@@ -46,49 +46,9 @@ As I progressed, I noticed how much of my prior weight gain was a result of self
 
 The benefits of fitness aren’t limited to health; they directly impact my real estate career in several key ways:
 
-	- 
-	**Increased Energy and Stamina**: Real estate can be a physically demanding job, requiring showings, property tours, and constant movement. The energy I gained from weight loss and regular workouts translates to more productive days, allowing me to meet client demands without fatigue.
-
-	
-
-	- 
-	**Improved Focus and Mental Clarity**: Clients rely on real estate agents to manage details, contracts, and negotiations with precision. My fitness journey taught me to maintain mental clarity even during challenging times—a skill that’s crucial in **Santa Clarita’s competitive real estate market**.
-
-	
-
-	- 
-	**Client Inspiration and Trust**: Sharing my transformation story resonates with clients. It shows them that I’m committed to personal growth, discipline, and hard work—qualities that inspire trust and confidence in my ability to guide them through their own significant life transitions.
-
-	
-
-	- 
-	**A New Kind of “First Responder”**: Just as I responded to emergencies as a police officer, I now respond to clients’ real estate needs with urgency and dedication. My “fat-to-fit” journey strengthens my credibility as a **first responder realtor**, underscoring my commitment to their success.
-
-	
-
 ### Practical Tips for Anyone Starting Their Fitness Transformation
 
 For those looking to start their fitness journey, here are actionable steps that worked for me and can work for you:
-
-	- 
-	**Examine Your Diet**: Simplify your choices. As recommended by experts like Dr. Andrew Huberman, stick to foods like meat, eggs, fish, vegetables, and fruit. Clean, whole foods can be transformative.
-
-	
-
-	- 
-	**Build Consistency**: No matter which path you choose—fasting, calorie restriction, or exercise—consistency is key. Much like in real estate, where consistent market analysis leads to better decision-making, consistent health habits lead to lasting results.
-
-	
-
-	- 
-	**Seek Support**: Whether it’s a medical professional for hormone insights or a personal trainer, having support is vital. Surround yourself with experts who can guide you safely.
-
-	
-
-	- 
-	**Focus on Fat Loss, Not Just Weight Loss**: Muscle is vital for longevity and overall health, especially as we age. Aim to retain muscle mass as you shed fat—this balance will sustain long-term health and make you feel strong.
-
-	
 
 ### How My Transformation Enhances My Real Estate Practice in Santa Clarita
 
@@ -99,14 +59,6 @@ In **Santa Clarita’s real estate market**, I understand that buying or selling
 My fitness journey was not only about shedding pounds but also about proving to myself—and now to my clients—that transformation is possible with dedication, knowledge, and the right strategies. Whether you’re embarking on a health journey or a real estate journey, my role as the **Fat to Fit First Responder Realtor** is to guide you, challenge you, and celebrate your progress every step of the way. If you’re ready to make a significant change—be it in fitness, health, or finding the perfect property in Santa Clarita—reach out, and let’s start this journey together.
 
 For more insights on both health and real estate, visit these resources:
-
-	- **Santa Clarita Real Estate Breakdown by City**: [https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-breakdown-by-city-in-2024-makes-more-sense](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-breakdown-by-city-in-2024-makes-more-sense)
-
-	- **Podcast on the 30% Mortgage Rule**: [https://www.buzzsprout.com/admin/298109/episodes/16071155-santa-clarita-real-estate-don-t-spend-more-than-30-percent-of-your-after-tax-income-on-a-mortgage](https://www.buzzsprout.com/admin/298109/episodes/16071155-santa-clarita-real-estate-don-t-spend-more-than-30-percent-of-your-after-tax-income-on-a-mortgage)
-
-	- **Daily Market Updates on Google Business**: [https://posts.gle/ooCTyz](https://posts.gle/ooCTyz)
-
-	- **Current Video on Market Trends in Santa Clarita**: [https://youtu.be/zCd4mPWyOCc](https://youtu.be/zCd4mPWyOCc)
 
 #SantaClaritaRealEstate #FatToFitTransformation #ConnorWithHonor #SCVRealEstate #RealEstateAndHealth #FirstResponderRealtor #SantaClaritaFitness #HealthAndRealEstate #SantaClaritaHomes #SantaClaritaMarketInsights
 
@@ -123,37 +75,6 @@ If you're looking for a realtor who understands not only the market but the valu
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -189,26 +110,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

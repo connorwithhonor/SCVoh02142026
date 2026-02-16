@@ -24,18 +24,6 @@ Good day, Santa Clarita! I’m Connor MacIvor, your **First Responder Realtor**�
 
 This past week has shown some interesting shifts in the Santa Clarita real estate market. Here’s what we’ve seen:
 
-	- **Coming Soon**: 13 homes are preparing to hit the market. These properties aren’t available just yet but will be soon, so stay tuned.
-
-	- **New Listings**: 66 new properties have been listed in the past week. This is good news for buyers, as it provides fresh inventory and new opportunities.
-
-	- **Price Changes**: We’ve seen **90 price adjustments**, and approximately **80% of these have been price reductions**. This reflects the need for sellers to stay competitive and adjust to the evolving market conditions. In many cases, initial pricing was set with future value expectations, but with today’s market pace, sellers are adapting quickly.
-
-	- **Back on Market**: 18 homes have returned to the market. This happens when deals fall through, usually due to financing or inspection issues, but it’s often a second chance for buyers.
-
-	- **Active Under Contract**: 37 homes are now under contract, moving towards closing.
-
-	- **Pending**: 54 properties have moved to pending status, indicating they’re in the final stages of the escrow process.
-
 ### **Understanding Price Adjustments**
 
 Let’s focus for a moment on those **90 price changes**. It’s important to note that **80% of those changes are reductions**. What does this mean for buyers and sellers? For sellers, price reductions might feel discouraging, but they’re often necessary to remain competitive in today’s market. As a **First Responder Realtor**, I always advise my clients to price their homes correctly from the beginning. Sometimes, sellers may have a future value in mind, but the reality is that pricing needs to be aligned with current market conditions to attract serious buyers.
@@ -51,18 +39,6 @@ For buyers, this means understanding that your offer isn’t the end of the nego
 ### **Active Inventory Across Santa Clarita Valley**
 
 As of today, we’re looking at **546 active residential listings** across the Santa Clarita Valley. Here’s how the inventory breaks down by city:
-
-	- **Canyon Country**: 124 active listings
-
-	- **Castaic**: 53 active listings
-
-	- **Newhall**: 51 active listings
-
-	- **Saugus**: 84 active listings
-
-	- **Valencia**: 202 active listings
-
-	- **Stevenson Ranch**: 32 active listings
 
 These numbers reflect the overall health of the market, and it’s clear that Santa Clarita remains an active and competitive region for both buyers and sellers. Properties are moving, but at a more measured pace compared to earlier in the year. Currently, homes in the area are spending an average of **30 to 40 days on the market**, with well-priced properties in high-demand areas like **Bridgeport in Valencia** selling even faster.
 
@@ -85,37 +61,6 @@ If you have any questions about the current market, whether you’re buying or s
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -151,26 +96,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

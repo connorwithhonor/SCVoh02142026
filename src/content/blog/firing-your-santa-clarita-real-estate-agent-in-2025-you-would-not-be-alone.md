@@ -88,25 +88,9 @@ Have a question? [Contact Connor](https://www.santaclaritaopenhouses.com/contact
 
 To succeed as a buyer in Santa Clarita, preparation is key. Here are Connor’s top strategies:
 
-	- **Get Pre-Approved**: A pre-approval letter shows sellers you’re serious. Check out [getting pre-approved](https://www.santaclaritaopenhouses.com/getting-a-legitimate-lender-and-getting-pre-approved) for tips.
-
-	- **Access Coming Soon Listings**: Beat the competition by signing up at [SantaClaritaComingSoon.com](https://www.santaclaritaopenhouses.com/comingsoon).
-
-	- **Work with a Local Agent**: A realtor like Connor knows which homes are priced to sell. Read his post on [knowing which homes are priced to sell](https://www.santaclaritaopenhouses.com/first-responder-realtor-know-which-homes-are-priced-to-sell).
-
-	- **Understand Buyer Agreements**: California’s new rules require written agreements to view homes. Learn more in [this guide](https://www.santaclaritaopenhouses.com/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory).
-
 ## Tips for Sellers in Today’s Market
 
 Sellers need to stand out in a market with growing inventory. Connor’s advice includes:
-
-	- **Price Competitively**: Use a [free market analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) to set a realistic price.
-
-	- **Stage Your Home**: First impressions matter. See [making a good first impression](https://www.santaclaritaopenhouses.com/making-a-good-first-impression) for staging tips.
-
-	- **Offer Concessions**: Attract buyers with incentives, as explained in [seller concessions](https://www.santaclaritaopenhouses.com/seller-concessions-explained-a-first-responder-realtors-guide-to-selling).
-
-	- **Hire a Local Expert**: Connor’s blog on [hiring the right agent](https://www.santaclaritaopenhouses.com/how-to-get-best-real-estate-agent-santa-clarita) highlights the importance of local knowledge.
 
 ## Looking Ahead: What’s Next for Santa Clarita Real Estate?
 
@@ -116,56 +100,11 @@ Stay informed with Connor’s [blog](https://www.santaclaritaopenhouses.com/blog
 
 ## Key Takeaways
 
-	- Santa Clarita’s real estate market is balanced, with 51 new listings and 48 closed sales in the past seven days as of July 6, 2025.
-
-	- Inventory is steady at 760–770 active listings, nearly double January’s numbers, offering buyers more options.
-
-	- Sellers with low mortgage rates (“golden handcuffs”) are hesitant to list, keeping inventory from surging.
-
-	- Buyers can gain an edge by accessing 11 coming soon listings through [SantaClaritaComingSoon.com](https://www.santaclaritaopenhouses.com/comingsoon).
-
-	- Competitive pricing is critical for sellers to avoid expired listings, as seen in recent market trends.
-
-	- Work with Connor MacIvor, a first-responder-turned-realtor, for local expertise and personalized service.
-
-	- Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) for tools like the Dream Home Finder and Mars Chatbot.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -201,26 +140,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

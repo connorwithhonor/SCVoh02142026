@@ -29,31 +29,6 @@ Another aspect that helped me was the support system I built around me. Having p
 
 If you're considering fasting, here are a few tips to get you started:
 
-	- 
-	**Start Slow:** Don't jump into prolonged fasting immediately. Begin with intermittent fasting and gradually increase the duration as your body adapts.
-
-	
-
-	- 
-	**Stay Hydrated:** Drink plenty of water. Sometimes, what we perceive as hunger is actually thirst.
-
-	
-
-	- 
-	**Stay Busy:** Keeping yourself occupied helps distract from thoughts of food. Engage in activities that you enjoy or take up new hobbies.
-
-	
-
-	- 
-	**Listen to Your Body:** Fasting isn't about punishing yourself. If you feel unwell, it's okay to break your fast. Listen to your body's signals.
-
-	
-
-	- 
-	**Mental Preparation:** Prepare yourself mentally for the challenge. Visualize your goals and remind yourself why you're doing this.
-
-	
-
 Fasting has been a game-changer for me, but it's not a one-size-fits-all solution. Find what works best for you and stay committed to your journey. Remember, the road to fitness is a marathon, not a sprint. Embrace the process, celebrate small victories, and keep pushing forward.
 
 Stay tuned for more updates on my journey and tips on how you can achieve your fitness goals. If you have any questions or need advice, feel free to reach out. Let's continue to inspire each other and make healthy living a priority.
@@ -62,16 +37,6 @@ Stay strong, stay committed, and remember – the only limits that exist are the
 
 **Connect with Me:**
 
-	- **YouTube:** @Connerwithhonor, @Homemuscle, @SantaClaritaOpenHouses
-
-	- **Facebook:** [Connor T. MacIvor](https://www.facebook.com/connerwithhonor), [Connor with Honor](https://www.facebook.com/connerwithhonor), [Fat to Fit Realtor](https://www.facebook.com/blowtorchfat), [Santa Clarita Open House](https://www.facebook.com/santaclaritaopenhouse)
-
-	- **Instagram:** SantaClaritaOpenHouses, Connerwithhonor, Konnorwithhonor
-
-	- **TikTok:** Connorwithhonor, Santaclaritaopenhouses
-
-	- **BuzzSprout Podcast:** Santa Clarita Open Houses | Connor with Honor Realtor
-
 Stay tuned for more insights and tips on achieving your fitness and real estate goals!
 
 ** Share This Post## Comments
@@ -79,37 +44,6 @@ Stay tuned for more insights and tips on achieving your fitness and real estate 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -145,26 +79,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

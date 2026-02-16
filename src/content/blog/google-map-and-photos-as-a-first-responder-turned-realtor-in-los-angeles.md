@@ -24,61 +24,21 @@ As someone who spent years taking crime reports before the days of Google, I can
 
 ### **Step 1: Open Google Maps**
 
-	- **On your computer or smartphone**, open Google Maps. You can access Google Maps on any device with an internet browser by visiting [Google Maps](https://maps.google.com).
-
 ### **Step 2: Find Your Home on Google Maps**
-
-	- In the **search bar at the top** of the page, type in your **home address** and press "Enter" or click the search icon.
-
-	- The map will zoom into your address, and you'll see a pin marking the location of your home.
 
 ### **Step 3: Enter Street View**
 
-	- Once you’ve located your home, **click on the image of your home** that appears in the search results. If no image is shown, simply **drag the yellow "Street View" figure** from the bottom right corner onto the street near your home.
-
-	- This will take you into **Street View mode**, where you can see a 360-degree view of your home and the surrounding area.
-
 ### **Step 4: Navigate to the Image You Want to Blur**
-
-	- In **Street View**, use your mouse or touchscreen to **navigate** to the specific view of your home you want to blur. Make sure that the image shows the part of your home you want to be obscured, such as the front door, driveway, or windows.
 
 ### **Step 5: Request to Blur the Image**
 
-	- In the **bottom-right corner** of the screen, you’ll see a button labeled "Report a problem." Click on this button to start the process.
-
-	- You’ll be taken to a new page where Google asks for more details about what you want to be blurred. Here’s what to do:
-	
-		Under the section labeled "**What would you like us to blur?**", select "**My home**."
-
-		- **Adjust the view of your home** in the provided image box so that the part of your home you want to be blurred is clearly visible. You can drag and zoom the image as needed.
-
-	
-
-	
-
 ### **Step 6: Provide Additional Information**
-
-	- Google will ask you for some **additional information** to support your request. This may include an explanation of why you want the image blurred (for privacy or security reasons).
-
-	- You’ll also need to provide your **email address**, so Google can follow up with you regarding the status of your request.
 
 ### **Step 7: Verify the CAPTCHA**
 
-	- After filling out all the required information, you will be asked to **complete a CAPTCHA** to prove you are not a robot.
-
-	- This step involves entering a code or selecting certain images as prompted by Google. This helps Google ensure that the request is legitimate.
-
 ### **Step 8: Submit the Request**
 
-	- Once everything is filled out, **click the "Submit" button**.
-
-	- You should receive a **confirmation email from Google** that your request has been submitted. This email may also include further instructions or a timeline of when you can expect the change to take effect.
-
 ### **Step 9: Follow Up**
-
-	- **Google may take a few weeks** to process your request. Keep an eye on your email inbox for any updates from Google about your blurring request.
-
-	- If Google needs additional information from you, they will reach out via email. Be sure to respond promptly to avoid delays.
 
 ### **A Look Back: Crime Reports Before Google Maps**
 
@@ -88,23 +48,9 @@ That’s why it’s crucial to protect yourself by making sure sensitive informa
 
 ### **Important Notes:**
 
-	- Once Google blurs your home, **the action is permanent**. This means that the image will stay blurred forever, and there’s no way to reverse the blurring once it’s been processed.
-
-	- You can also request to blur **other sensitive information** like your face, your car’s license plate, or even inappropriate or harmful content.
-
 ### **Additional Tip: How to Remove Your Home Address from Google Maps**
 
 If your **home address** is saved in Google Maps (e.g., under "Your Places"), you can also remove it to add an extra layer of privacy. Here’s how to do it on a smartphone:
-
-	- **Open the Google Maps app** on your smartphone.
-
-	- Tap on the **menu icon** (three lines or your profile picture) at the top left corner.
-
-	- Select "**Your Places**."
-
-	- Find your **Home** and tap the three dots next to it.
-
-	- Choose "**Remove Home**" to delete the address from your saved places.
 
 ### **Wrapping Up: Take Control of Your Privacy**
 
@@ -140,68 +86,9 @@ Back when I was taking crime reports as an LAPD officer, we didn’t have tools 
 
 After you've bought a home, you might want to remove any images of your property from Google Maps and Google Street View. Here’s a detailed step-by-step guide on how to do it:
 
-	- 
-	**Go to Google Maps**
-
-	Head over to [Google Maps](https://maps.google.com) and enter your home’s address in the search bar.
-
-	
-
-	- 
-	**Find Your Home in Street View**
-
-	Click on the Street View image of your house, or drag the little yellow figure in the corner onto the street outside your property to enter Street View mode.
-
-	
-
-	- 
-	**Locate the "Report a Problem" Button**
-
-	In the bottom-right corner of the screen, you’ll see an option to “Report a Problem.” Click on this button to begin the process.
-
-	
-
-	- 
-	**Choose What to Blur**
-
-	Google will give you a few options on what you’d like blurred: your home, a face, a vehicle license plate, or something else. Select "My Home."
-
-	
-
-	- 
-	**Adjust the Image**
-
-	You’ll be asked to adjust the image to focus on the area you want blurred. Once the image is properly aligned, submit your request.
-
-	
-
-	- 
-	**Complete the CAPTCHA and Submit**
-
-	To verify you're not a robot, complete the CAPTCHA test and click "Submit." Afterward, you’ll receive a confirmation email from Google.
-
-	
-
-	- 
-	**Wait for Google to Process**
-
-	Google may take a few weeks to process your request. In some cases, they might request additional information, but generally, the process is fairly quick.
-
-	
-
 ### **Removing Real Estate Photos from Online Listings**
 
 In addition to Google Maps, many real estate listing websites keep photos of your home long after the sale is finalized. These photos often include detailed images of bedrooms, kitchens, and even exterior views that can give away too much about your property. As part of my service, I help clients—whether they’re buyers or sellers—remove these images from online syndication systems.
-
-	- 
-	**For Sellers**: Once your property is sold, I assist in removing photos from listing sites to ensure your privacy is maintained. Many real estate agents don’t follow up after a sale, but as your realtor, I make sure your listing is taken down completely.
-
-	
-
-	- 
-	**For Buyers**: After you’ve moved in, you may not want the whole world to see where your windows, doors, or security features are located. I’ll help you get those photos removed so that your new home remains safe.
-
-	
 
 ### **Why Does This Matter for You?**
 
@@ -266,37 +153,6 @@ Connor with Honor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -332,26 +188,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

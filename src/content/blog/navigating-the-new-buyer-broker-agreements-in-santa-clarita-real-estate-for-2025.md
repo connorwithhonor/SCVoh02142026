@@ -28,29 +28,6 @@ Starting January 1, 2025, thanks to Assembly Bill 2992 (AB2992) passed in Septem
 
 &nbsp;
 
-	- 
-	Buyer-Broker Representation Agreements: All buyer's agents in California must now have a signed written agreement with their clients. This document outlines the terms of service, including:
-
-	
-		
-		Duration: How long you're hiring the agent.
-
-		
-
-		- 
-		Compensation: What the agent will charge for their commission.
-
-		
-
-		- 
-		Services: Detailed obligations the agent will fulfill.
-
-		
-
-	
-
-	
-
 &nbsp;
 
 What This Means for Santa Clarita Homebuyers
@@ -62,16 +39,6 @@ Verify Your Agent's License: Before you enter into any agreement, ensure your ag
 Understand the Costs: The seller no longer sets the buyer's agent's compensation. You, as the buyer, will negotiate this directly with your agent. This could mean:
 
 &nbsp;
-
-	- 
-	Seller Concessions: You might ask the seller to cover some or all of the agent's fee as part of the purchase price negotiation.
-
-	
-
-	- 
-	Out-of-Pocket Costs: If the seller declines concessions, you might need to cover the commission yourself.
-
-	
 
 &nbsp;
 
@@ -85,34 +52,9 @@ Navigating these new rules can be complex:
 
 &nbsp;
 
-	- 
-	Local Knowledge: Agents like myself, familiar with Santa Clarita's neighborhoods and market dynamics, can provide invaluable insights and negotiate effectively on your behalf.
-
-	
-
-	- 
-	Personalized Service: Check out [my testimonials](https://www.santaclaritaopenhouses.com/testimonials) to see how I've helped clients like you in this changing market.
-
-	
-
 &nbsp;
 
 How to Approach Your Home Search
-
-	- 
-	Prepare for Open Houses: Make sure you're ready with a pre-approval to show sellers you're serious. Visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-held-saturday) for the latest listings.
-
-	
-
-	- 
-	Understand Your Rights: Don't rush into signing agreements. Take time to read through using resources like [our real estate glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary).
-
-	
-
-	- 
-	Leverage Technology: Use our [advanced search](https://www.santaclaritaopenhouses.com/advanced-search) to narrow down your options based on your criteria.
-
-	
 
 &nbsp;
 
@@ -141,37 +83,6 @@ Author Bio: Connor T. MacIvor, known as Connor with Honor, is a First Responder 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -207,26 +118,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

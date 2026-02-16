@@ -20,8 +20,6 @@ Connor "with Honor" MacIvor - February 25, 2025** Tags: [AI integration](/-/Blog
 
 My mission at AI with Honor is to educate people about artificial intelligence by learning and understanding it myself, and then conveying it in a way that makes sense. By sharing what I learn, I stay mindful of the changes happening in the AI landscape—especially how much money is being poured into it and how quickly it is being implemented. There seems to be no real braking mechanism out there. People talk about ethics and guardrails, but ultimately, it all depends on the data that trains these models. Since all data carries its own biases, any AI model might learn certain prejudices or tendencies from that data.
 
-    Take the AI Integration Questionnaire
-
 In the future, synthetic data might become more common. In fact, that is already happening. For instance, if you use data from a platform like Facebook to train a model, the AI will tend to reflect whatever biases or viewpoints it encounters there. Then if the model is asked to address other sectors in the world, it might produce skewed or partial perspectives. That is one reason there are big conversations about ethical controls and safety measures in artificial intelligence.
 
 I also think about narrow AI—highly specialized systems designed for very specific tasks, such as playing chess, discovering new chemical compounds, or doing medical research. The wider goal is what many refer to as Artificial General Intelligence (AGI), which would handle nearly everything. Eventually, beyond AGI, people discuss the idea of super intelligence, where an AI might exceed human capabilities in virtually every domain. As I listen to various discussions and podcasts about AI, it is clear that we are still trying to wrap our minds around where all of this is headed.
@@ -41,26 +39,6 @@ I have done a lot of experimentation with my own real estate blog at SantaClarit
 ## Integrating AI in Real Estate
 
 Real estate agents often have a lot on their plate: lead generation, client follow-ups, property showings, negotiations, and administrative tasks. AI becomes a valuable tool in this domain because it can automate parts of the workflow:
-
-	- 
-	**Lead Qualification**: An AI chatbot can screen leads, collect initial details, and direct high-probability buyers or sellers to you for follow-up. It can also learn from interactions, improving its qualification process over time.
-
-	
-
-	- 
-	**Blog and Content Creation**: AI can produce daily or weekly market updates, property descriptions, and even answer frequently asked questions. By feeding it data from the MLS and letting it reference your site map, you get SEO-optimized blog posts without having to manually link to each relevant page.
-
-	
-
-	- 
-	**Contract Analysis**: Although AI is not a substitute for a qualified attorney, you can use it as a preliminary check for real estate contracts. It might catch glaring issues or missing clauses, but you should always do a final review.
-
-	
-
-	- 
-	**Market Predictions**: AI can analyze historical data alongside present market conditions to forecast trends. While it is never 100% certain, these predictions can inform what kinds of marketing campaigns you run, how you advise clients on pricing, and how you assess incoming leads.
-
-	
 
 In this way, AI lets real estate professionals focus more on relationship-building and less on repetitive tasks. For instance, I can rely on a chatbot to handle website queries at 2:00 a.m., or to compile daily stats from the MLS. When I wake up, I am simply reviewing the output rather than doing manual data entry.
 
@@ -91,31 +69,6 @@ Ultimately, decisions about how we integrate AI into society happen on multiple 
 ## Practical Uses of AI in My Daily Business
 
 To give a clear example, here is how I personally integrate AI into my daily routine as a real estate professional:
-
-	- 
-	**Daily MLS Data Extraction**: Every morning, I gather property listings, changes, and trends. I feed that data into an AI model that organizes and highlights the most significant numbers.
-
-	
-
-	- 
-	**Blog Content**: Using the output of that AI, I craft a short blog post. I typically rely on ChatGPT or a similar model to ensure the text is coherent and properly linked back to relevant pages on my website. This might include linking the phrase “Valencia houses for sale” to the Valencia property search page, improving SEO without me having to manually input each hyperlink.
-
-	
-
-	- 
-	**Video and Captions**: When I record a video update—say, a five-minute briefing on the real estate market—I use AI-based editing tools. CapCut is one example; it can add captions automatically. I still review them, especially for localized words like “Santa Clarita,” since these can be mistranslated or misheard.
-
-	
-
-	- 
-	**Chatbots and Lead Capture**: My site might receive queries at odd hours. A chatbot fields those queries, collects the user’s basic information, and provides immediate responses. When I start my workday, I see a list of leads with relevant details, saving me the effort of chasing down every individual question manually.
-
-	
-
-	- 
-	**Customer Surveys**: If I want feedback from site visitors—like why they might hesitate to buy a home in the current market—I can ask AI tools to build me a simple HTML or JavaScript survey form. I embed it in the blog, and visitors can fill it out quickly. The data from those surveys can then be processed to give me insights on what’s holding people back.
-
-	
 
 ## Staying Updated and Continual Learning
 
@@ -160,37 +113,6 @@ Thank you for reading, and I hope this gives you a clearer picture of how I view
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -226,26 +148,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

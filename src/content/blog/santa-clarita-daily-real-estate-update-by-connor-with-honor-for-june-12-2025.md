@@ -16,47 +16,6 @@ source: "https://www.santaclaritaopenhouses.com/santa-clarita-daily-real-estate-
 
 Connor "with Honor" MacIvor - June 12, 2025** [0 Comments](/#comments) | [Add Comment](/#add-comment)
 
-	- 
-	# Santa Clarita Real Estate Daily Report – June 13, 2025
-
-	Welcome to your daily Santa Clarita real estate market overview, delivering a focused, data-driven recap of residential real estate activity from the last 24 hours across all SCV cities and neighborhoods. This comprehensive market intelligence is designed for both engaged homeowners and sharp-eyed buyers, and even better—it's optimized for SEO and long-form value. This post also supports internal linking to critical areas of your search journey via SantaClaritaOpenHouses.com. I'm Connor with Honor, your First Responder Realtor, bringing you insights from the Santa Clarita and Southern California real estate market. I leverage my 17 years with LAPD and 5 years as a reserve officer to provide a unique perspective on real estate, emphasizing integrity and diligence. I'm also deeply involved in integrating Artificial Intelligence into real estate businesses, which you can learn more about at @AIwithHonor. And for those interested in my personal journey, I dropped 135 pounds of fat in about 7.5 months through fasting and testosterone therapy, which you can follow at @Homemuscle and @FastingwithHonor. My aim is to build these businesses and make a name for myself across all social media channels, providing valuable information and service.
-
-	## June 13 Market Summary (24 Hours of Real-Time MLS Activity)
-
-	Fridays in Santa Clarita often serve as a litmus test for weekend momentum—and this update is no exception. This single-day report offers insights into how competitive your local area is, and what categories are gaining or losing traction.
-
-	
-
-	- New Listings: 16
-	
-
-	
-
-	- Pending Sales: 6
-	
-
-	
-
-	- Closed Escrow: 8
-	
-
-	
-
-	- Price Reductions: 7
-	
-
-	
-
-	- Canceled Listings: 2
-	
-
-	
-
-	- Back on Market: 1
-	
-
-	
-
 ## Agent Intel Briefing – Market Pulse for Professionals
 
 The SCV market today remains segmented. Inventory is growing moderately, but buyer qualification is tightening. Agents and loan officers should pay close attention to FHA guideline changes and VA loan caps. Understanding these nuances is key to successful transactions.
@@ -94,27 +53,6 @@ Coming Soon Listings: [https://www.santaclaritaopenhouses.com/coming-soon-listin
 Condos &amp; Townhomes: [https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-valley-ca](https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-valley-ca)
 
 Homes by Price:
-
-	- Under $500,000: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-under-500000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-under-500000)
-
-	
-
-	
-
-	- $500,000 to $750,000: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-500000-to-750000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-500000-to-750000)
-	
-
-	
-
-	- $750,000 to $1,000,000: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-750000-to-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-750000-to-1000000)
-	
-
-	
-
-	- Over $1,000,000: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-over-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-over-1000000)
-	
-
-	
 
 Open Houses This Week: [https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca)
 
@@ -176,16 +114,6 @@ Concessions: Seller credits in 4 deals, with concessions averaging $6,500 and la
 
 Pricing Insight:
 
-	- A Newhall condo closed at $515,000, just 1.5% below asking. This shows strong demand for well-priced condos.
-	
-
-	
-
-	- A 5-bedroom in Tesoro del Valle sold for $1,120,000—5 days after it went active. This is a prime example of a luxury home moving quickly when accurately priced and marketed.
-	
-
-	
-
 For those seeking luxury properties, refer to [https://www.santaclaritaopenhouses.com/luxury-homes-for-sale-in-santa-clarita-valley-ca](https://www.santaclaritaopenhouses.com/luxury-homes-for-sale-in-santa-clarita-valley-ca).
 
 ## Pending Sales Snapshot – Where Buyers Are Acting Fast
@@ -237,37 +165,6 @@ General features: Updated kitchens, in-unit laundry, and tandem garages or assig
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -303,26 +200,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

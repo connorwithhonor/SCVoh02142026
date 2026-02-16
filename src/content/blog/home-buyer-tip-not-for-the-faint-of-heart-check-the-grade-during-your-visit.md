@@ -44,14 +44,6 @@ As a former first responder, I’ve seen firsthand how unexpected water damage c
 
 When touring homes, look for these red flags that indicate poor grading:
 
-	- **Pooling Water**: After rain, check for standing water near the foundation or low spots in the yard.
-
-	- **Improper Sloping**: The ground should slope away from the house at a minimum of 6 inches over the first 10 feet.
-
-	- **Lack of Drainage Systems**: Missing or clogged weep lines, French drains, or gutters can exacerbate water issues.
-
-	- **Visible Damage**: Signs of dry rot, mold, or foundation cracks often indicate past water intrusion.
-
 For example, during a recent showing in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), I noticed a home with a flat yard and no visible drainage system. This raised concerns about potential flooding, which could lead to costly repairs like those noted in my post about [dry rot issues](https://www.santaclaritaopenhouses.com/no-man-with-a-gun-in-the-window-just-some-dry-rot-noted). By catching these issues early, you can negotiate repairs or walk away from a risky purchase.
 
 ## How Connor with Honor Helps You Navigate Land Grade Issues
@@ -118,56 +110,11 @@ The Santa Clarita market is dynamic, with [inventory swelling](https://www.santa
 
 ## Key Takeaways
 
-	- **Land Grade Is Critical**: Proper grading prevents water damage, saving you from costly repairs like foundation cracks or dry rot.
-
-	- **Santa Clarita’s Climate**: Infrequent but heavy rains make grading a key factor in home buying.
-
-	- **Spot Red Flags**: Look for pooling water, improper sloping, or missing drainage systems when touring homes.
-
-	- **Work with Connor MacIvor**: My first responder background and real estate expertise ensure you avoid risks and secure the best deal.
-
-	- **Leverage SantaClaritaOpenHouses.com**: Use tools like [active listings](https://www.santaclaritaopenhouses.com/active-listings) and [market reports](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) to stay informed.
-
-	- **Get a Free Consultation**: Sign up at ZoomMeSCV.com to learn how to evaluate grading and other home-buying factors.
-
-	- **Act Now**: With [mortgage rates dropping](https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number), 2025 is a great time to buy.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -203,26 +150,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

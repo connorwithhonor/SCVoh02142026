@@ -28,16 +28,6 @@ In law enforcement, every second counts. Whether it’s responding to a call, ha
 
 In real estate, time may not always feel as critical, but don’t be fooled—it can be. The market moves fast, especially in places like Santa Clarita, where inventory can disappear in the blink of an eye. As of October 5th, 2024, we have:
 
-	- **81 new listings** hitting the market this week.
-
-	- **15 listings** coming soon.
-
-	- **67 properties** seeing price changes, most of which are reductions.
-
-	- **31 properties** going under contract.
-
-	- **68 properties** closing.
-
 With numbers like these, buyers and sellers must be ready to act quickly, and that’s where my experience kicks in. I’ve learned to assess situations rapidly, spot opportunities, and make sure my clients are positioned to make their move at the right moment.
 
 ### Negotiation Skills: Staring Down a Suspect vs. Navigating Real Estate Deals
@@ -73,18 +63,6 @@ In real estate, trust between agent and client is equally important. My clients 
 ### Conclusion: Why My Law Enforcement Background Makes Me a Better Realtor
 
 So, how does preparing for the streets prepare you to be someone’s real estate agent? It’s simple: the skills that kept me sharp and alive on the streets of Los Angeles are the same skills I bring to the real estate table every day.
-
-	- **Quick thinking and decisive action:** I assess market conditions, client needs, and potential issues quickly, ensuring my clients stay ahead of the curve.
-
-	- **Tough negotiation skills:** I don’t back down when it comes to getting my clients the best deal possible. Whether I’m negotiating on price, contingencies, or closing terms, I hold firm and advocate fiercely.
-
-	- **Precision in paperwork:** Just like in law enforcement, attention to detail matters. A single mistake can cost my clients, and I ensure nothing is left to chance.
-
-	- **Patience and strategy:** In real estate, as in law enforcement, sometimes the best move is to wait for the right opportunity. I help my clients balance patience with decisive action, ensuring they strike when the time is right.
-
-	- **Education and communication:** I’m not just here to close deals—I’m here to educate and empower my clients. I make sure they understand the process and are confident in their decisions every step of the way.
-
-	- **Trust and reliability:** My clients know they can count on me. I’m there for them, just like I was there for my fellow officers. I’ve got their back, and I’ll see them through every challenge that comes our way.
 
 So, if you’re looking for a real estate agent who brings the grit, determination, and discipline of a police officer to the real estate world, you’ve found him. I’m Connor with Honor, and I’m ready to help you navigate the market with confidence and success.
 
@@ -131,37 +109,6 @@ These insights demonstrate that the Santa Clarita real estate market is a dynami
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -197,26 +144,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -114,31 +114,6 @@ Every veteran’s home-buying journey is different, which is why I provide perso
 
 If you’re a veteran or active-duty service member looking to buy a home in Santa Clarita, here’s how you can get started:
 
-	- 
-	**Get Pre-Approved for a VA Loan:** The first step is getting pre-approved for a VA loan. This will give you a clear understanding of how much you can afford and make your offer more competitive in the eyes of sellers. I can connect you with trusted VA-approved lenders who specialize in helping veterans.
-
-	
-
-	- 
-	**Define Your Home Needs:** Think about what’s most important to you in a home. Are you looking for a specific location, certain features, or proximity to schools, shopping, or VA services? I’ll work with you to define your needs and find homes that match your criteria.
-
-	
-
-	- 
-	**Start Touring Homes:** Once you’re pre-approved and have a clear idea of what you’re looking for, I’ll schedule home tours and guide you through the process of finding the perfect property.
-
-	
-
-	- 
-	**Submit Your Offer:** When you find the right home, I’ll help you craft a competitive offer that highlights the strength of your VA loan and gives you the best chance of securing the property.
-
-	
-
-	- 
-	**Close the Deal:** Once your offer is accepted, I’ll guide you through the closing process, ensuring that everything goes smoothly and that you’re fully prepared for homeownership.
-
-	
-
 ### **Conclusion: Supporting Our Veterans in the Journey to Homeownership**
 
 As "Connor with Honor, the First Responder Realtor," my mission is to serve those who have served us. Whether you’re a veteran, an active-duty service member, or part of a military family, I’m here to guide you through every step of the home-buying process. From navigating VA loans to finding the perfect home in Santa Clarita, I’m committed to ensuring you receive the respect, support, and service you deserve.
@@ -152,37 +127,6 @@ Let’s work together to make your dream of homeownership a reality, with a clea
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -218,26 +162,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

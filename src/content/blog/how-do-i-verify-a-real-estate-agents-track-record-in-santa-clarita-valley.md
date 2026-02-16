@@ -64,14 +64,6 @@ Real estate agent competence follows a power law distribution: the top 20% of ag
 
 This means:
 
-	- Some agents close 50+ transactions annually
-
-	- Some agents close 10-20 transactions annually
-
-	- Some agents close 2-5 transactions annually
-
-	- Some agents close zero transactions in a given year
-
 The difference in experience level, systems, negotiation skills, and overall competence between an agent doing 50 deals per year versus an agent doing 5 deals per year is enormous. The agent doing 5 deals per year isn't necessarily bad—but they're not getting the repetition and experience that builds elite-level skills.
 
 You deserve to know where an agent falls on this spectrum before hiring them.
@@ -82,43 +74,13 @@ While past performance doesn't guarantee future results, track records provide t
 
 **Consistent High Performance** suggests:
 
-	- Refined systems and processes
-
-	- Strong negotiation skills developed through repetition
-
-	- Effective marketing approaches
-
-	- Professional reputation that generates referrals
-
-	- Time management and organizational skills
-
-	- Ability to handle transaction complexity
-
 **Inconsistent or Limited Track Records** might indicate:
-
-	- Less experience with challenging situations
-
-	- Smaller professional networks
-
-	- Less refined processes
-
-	- Fewer negotiation reps to build skills
-
-	- Potential part-time status or divided attention
 
 Understanding an agent's actual track record helps you assess whether they're likely to deliver the results you need.
 
 **Verification Protects Against License Issues**
 
 Beyond performance verification, you need to confirm agents:
-
-	- Hold active, valid California real estate licenses
-
-	- Have no serious disciplinary actions
-
-	- Aren't operating under restrictions or supervision
-
-	- Have maintained continuing education requirements
 
 While serious license violations are rare, they do occur, and working with an agent facing disciplinary action creates legal and practical complications.
 
@@ -132,20 +94,6 @@ The California DRE maintains a public license verification system at verify.dre.
 
 **What You Can Verify**:
 
-	- **License Status**: Active, inactive, expired, suspended, or revoked
-
-	- **License Number**: Unique identifier for verification
-
-	- **License Type**: Salesperson or broker
-
-	- **Original License Date**: When they first became licensed (total years in real estate)
-
-	- **License Expiration Date**: Whether they're current or need renewal
-
-	- **Business Address**: Their official brokerage location
-
-	- **Disciplinary Actions**: Public record of violations, restrictions, or sanctions
-
 **How to Use This Information**:
 
 **Verify Active Status**: Confirm the license is currently active. If it shows as expired, inactive, suspended, or revoked, do not hire this agent under any circumstances.
@@ -157,16 +105,6 @@ The California DRE maintains a public license verification system at verify.dre.
 **Verify Brokerage**: Confirm they work at the brokerage they claim. If the DRE shows a different brokerage, something's wrong—either outdated information or potential misrepresentation.
 
 **Red Flags in DRE Records**:
-
-	- ❌ Expired, inactive, suspended, or revoked license
-
-	- ❌ Any disciplinary actions involving fraud, misrepresentation, or financial violations
-
-	- ❌ Recent license reinstatement after suspension
-
-	- ❌ Multiple brokerage changes in short time periods (might indicate instability)
-
-	- ❌ Licensed very recently (under 1-2 years) without team support
 
 **Multiple Listing Service (MLS) Data - Indirect Access**
 
@@ -180,23 +118,7 @@ Professional agents can easily generate this report from their MLS system. The a
 
 **What to Look For**:
 
-	- **Volume in Your Area**: How many transactions specifically in your target neighborhood?
-
-	- **List Price vs. Sale Price Ratios**: For listing agents, what percentage of list price do they achieve on average?
-
-	- **Days on Market**: How quickly do their listings sell compared to market averages?
-
-	- **Property Types**: Do their transactions match your property type and price range?
-
 **Red Flags**:
-
-	- ❌ Refusal to provide this data (suggests they lack transactions to share)
-
-	- ❌ Vague responses without specifics ("I've sold lots of homes in your area")
-
-	- ❌ Transactions only in dramatically different price ranges or property types
-
-	- ❌ All transactions extremely recent (suggesting minimal experience)
 
 **Public Property Records**
 
@@ -204,23 +126,9 @@ County assessor and recorder offices maintain public records of all real estate 
 
 **What's Available**:
 
-	- Property sale dates and prices
-
-	- Buyer and seller names (often)
-
-	- Recording information
-
 **How This Helps**: If an agent claims to have sold a specific property, you can verify the transaction actually occurred and matches their claimed timeline and price.
 
 **Limitations**:
-
-	- Records don't always clearly show which agent was involved
-
-	- Searching requires knowing specific addresses
-
-	- Time-consuming for verifying multiple transactions
-
-	- Some information is redacted for privacy
 
 This works best for spot-checking specific high-value claims rather than comprehensive track record verification.
 
@@ -240,16 +148,6 @@ When you search for homes on Zillow, the "Premier Agents" featured prominently a
 
 **What You Can Still Find** (But Interpret Carefully):
 
-	- Client reviews and ratings
-
-	- Self-reported transaction volume and areas served
-
-	- Years of experience
-
-	- Specializations and credentials
-
-	- Recent sales (if agent chooses to display them)
-
 **How to Interpret With Appropriate Skepticism**:
 
 **Reviews**: Look for patterns across multiple reviews, but understand that agents paying for Zillow placement often aggressively solicit reviews to support their paid presence. Dozens of detailed, consistent reviews carry more weight than a handful of generic ones, but remember the context: agents with the most reviews are often those investing heavily in Zillow advertising, not necessarily those with the best track records.
@@ -262,20 +160,6 @@ When you search for homes on Zillow, the "Premier Agents" featured prominently a
 
 **Critical Red Flags**:
 
-	- ❌ Agents emphasizing their "Zillow Premier Agent" status as credentials (it's advertising, not a competency designation)
-
-	- ❌ No reviews despite claiming years of experience
-
-	- ❌ Only vague, generic reviews ("great agent!")
-
-	- ❌ Reviews all from the same time period (might be solicited campaign)
-
-	- ❌ Defensive or hostile responses to any criticism
-
-	- ❌ Profile information contradicts what agent told you directly
-
-	- ❌ Agent claims to "specialize in your neighborhood" but their actual transaction history (if you can verify it elsewhere) shows minimal work there
-
 **Bottom Line on Zillow**:
 
 Zillow is fine for browsing property listings (which come from MLS regardless of agent). But for agent selection, Zillow's pay-to-play model makes it an unreliable verification source. The platform profits when you select agents who pay them, creating inherent conflicts of interest.
@@ -283,16 +167,6 @@ Zillow is fine for browsing property listings (which come from MLS regardless of
 If an agent prominently features their Zillow presence as a credential, understand what that really means: they're willing to pay for leads. This isn't necessarily bad—some excellent agents use Zillow advertising effectively—but it's not verification of competence.
 
 For actual track record verification, rely on:
-
-	- DRE license records (objective, official)
-
-	- MLS transaction data (if you can access it through the agent)
-
-	- Google reviews (less commercially influenced)
-
-	- Direct reference checks (most reliable)
-
-	- Public property records (objective, verifiable)
 
 Zillow can be one data point among many, but never your primary verification source.
 
@@ -308,23 +182,7 @@ That said, Realtor.com's connection to NAR (the professional trade organization)
 
 **What You Can Find**:
 
-	- NAR membership and professional designations (often more accurately reported than elsewhere)
-
-	- Client reviews and ratings
-
-	- Self-reported specializations and experience
-
-	- Areas served
-
 **Interpretation Guidelines**:
-
-	- Professional designations (CRS, ABR, SRES, etc.) listed here are usually accurate since they're verified through NAR
-
-	- Reviews follow similar patterns as other platforms—look for detail, consistency, and patterns
-
-	- Featured placement still reflects advertising, not merit
-
-	- Cross-reference information with other sources
 
 **Google Reviews and Google Business Profiles**
 
@@ -332,39 +190,9 @@ If agents maintain Google Business Profiles, reviews appear in Google search and
 
 **Advantages**:
 
-	- Google reviews are harder to fake or manipulate than some platforms
-
-	- No pay-to-play for organic search placement (though agents can pay for ads)
-
-	- Reviews are prominently displayed in search results
-
-	- Often more recent and current than other review platforms
-
-	- Google's algorithms generally surface genuine reviews over fake ones
-
 **What to Assess**:
 
-	- Overall rating (4.5+ stars with 20+ reviews suggests strong performance)
-
-	- Review recency (recent reviews matter more than old reviews)
-
-	- Review detail and specificity (detailed reviews are harder to fake)
-
-	- How agent responds to reviews, especially critical ones
-
-	- Pattern consistency across many reviews
-
 **Red Flags**:
-
-	- ❌ No Google presence despite years in business (suggests minimal professional investment)
-
-	- ❌ Extremely limited reviews (under 5) despite claims of high volume
-
-	- ❌ Generic, similar-sounding reviews (might be solicited or fake)
-
-	- ❌ Recent sudden drop in ratings or influx of negative reviews
-
-	- ❌ Agent never responds to any reviews (suggests inattention to online reputation)
 
 **Why Google Reviews Matter More**:
 
@@ -376,79 +204,21 @@ Some agents maintain Facebook business pages with reviews and recommendations.
 
 Look for:
 
-	- Consistent activity and engagement
-
-	- Client testimonials and success stories
-
-	- Interaction with followers and community
-
-	- Professional presentation
-
 **Agent Websites and Blogs**
 
 Professional agent websites often showcase:
 
-	- Recent sales and success stories
-
-	- Client testimonials
-
-	- Neighborhood expertise and market knowledge
-
-	- Professional designations and credentials
-
 **What to Verify**:
 
-	- Do claimed sales match public records or MLS data?
-
-	- Are testimonials detailed and verifiable, or generic and anonymous?
-
-	- Does content demonstrate genuine neighborhood knowledge?
-
-	- Is the website professional, updated regularly, and informative?
-
 **Red Flags**:
-
-	- ❌ No website at all (in 2026, this suggests minimal professional investment)
-
-	- ❌ Outdated website with old information or broken links
-
-	- ❌ Generic template content with no personalization
-
-	- ❌ Only stock photos with no actual transaction evidence
-
-	- ❌ Testimonials that are anonymous or suspiciously generic
 
 **LinkedIn Profiles**
 
 LinkedIn provides professional background verification:
 
-	- Education and credentials
-
-	- Full employment history
-
-	- Professional connections and endorsements
-
-	- Recommendations from colleagues and clients
-
 **What This Reveals**:
 
-	- Whether real estate is their only profession or if they juggle multiple careers
-
-	- Professional credentials and training
-
-	- How long they've been in real estate specifically
-
-	- Their professional network size and quality
-
 **Red Flags**:
-
-	- ❌ Profile shows multiple current jobs (suggests part-time real estate focus)
-
-	- ❌ Minimal real estate experience relative to claims
-
-	- ❌ No professional connections in real estate industry
-
-	- ❌ Profile contradicts information they provided verbally
 
 ## Direct Verification Methods: Questions and References
 
@@ -514,76 +284,9 @@ When agents provide references, maximize the value of these conversations:
 
 **Questions to Ask References**:
 
-	- **"How did you find this agent originally?"**
-
-	
-		Referral from trusted source vs. online lead vs. yard sign gives context
-
-	
-
-	
-	- **"How well did the agent know your specific neighborhood?"**
-	
-		Did they demonstrate genuine local expertise or general market knowledge?
-
-	
-
-	
-	- **"How was their communication throughout the process?"**
-	
-		Response time, proactiveness, keeping you informed
-
-	
-
-	
-	- **"Were there any problems or challenges during the transaction, and how did the agent handle them?"**
-	
-		This reveals problem-solving and professionalism under pressure
-
-	
-
-	
-	- **"Did the transaction close on time and at the expected price?"**
-	
-		Execution matters—did they deliver promised results?
-
-	
-
-	
-	- **"Would you use this agent again? Would you recommend them to family?"**
-	
-		The ultimate test of satisfaction
-
-	
-
-	
-	- **"Is there anything you wish the agent had done differently?"**
-	
-		Gives permission to share any concerns or limitations
-
-	
-
-	
-
 **Red Flags in Reference Conversations**:
 
-	- References seem coached or recite scripted responses
-
-	- References are vague about specifics or timelines
-
-	- References haven't actually worked with the agent recently
-
-	- Agent refuses to provide references at all
-
-	- All references are friends/family rather than actual clients
-
 **Verify References Are Real**:
-
-	- Google the reference's name to confirm they're a real person
-
-	- Check if the address they bought/sold actually exists and sold when they claim
-
-	- If something feels off, trust your instincts
 
 ## Professional Credentials and Designations
 
@@ -593,55 +296,17 @@ Beyond transaction history, professional credentials indicate commitment to educ
 
 **CRS (Certified Residential Specialist)**:
 
-	- Awarded to experienced agents who complete advanced training
-
-	- Only about 3% of agents nationwide hold this designation
-
-	- Requires completing specific transactions and education
-
-	- Generally indicates serious professional commitment
-
 **ABR (Accredited Buyer's Representative)**:
-
-	- Specialization in buyer representation
-
-	- Requires training specific to buyer's agent responsibilities
-
-	- Valuable if you're buying (less relevant if selling)
 
 **SRES (Seniors Real Estate Specialist)**:
 
-	- Training in issues affecting homebuyers and sellers age 50+
-
-	- Relevant if you're in this demographic or dealing with senior-related transactions
-
 **GRI (Graduate, REALTOR® Institute)**:
 
-	- Requires extensive education beyond licensing requirements
-
-	- Indicates commitment to professional development
-
 **Luxury Home Certifications**:
-
-	- Various organizations offer luxury real estate designations
-
-	- Value varies by specific certification
-
-	- Most relevant for high-end properties ($1M+)
 
 **How to Verify Designations**:
 
 Don't just accept agents' claims about designations:
-
-	- Visit the issuing organization's website and search their member directory
-
-	- CRS: Check crs.com
-
-	- ABR: Check rebac.net
-
-	- SRES: Check sres.org
-
-	- NAR Designations: Check nar.realtor
 
 If agents claim designations, verification takes 2 minutes and ensures honesty.
 
@@ -649,19 +314,7 @@ If agents claim designations, verification takes 2 minutes and ensures honesty.
 
 **Designations Suggest**:
 
-	- Willingness to invest in education
-
-	- Commitment to professionalism
-
-	- Specialized knowledge in specific areas
-
 **Designations Don't Guarantee**:
-
-	- Current competence (some earned years ago without continuing education)
-
-	- Strong track record (education ≠ performance)
-
-	- Good personality fit for you
 
 Designations are positive signals but shouldn't override track record verification and personal assessment.
 
@@ -707,51 +360,17 @@ Through 27 years in Santa Clarita real estate, I've developed:
 
 **MLS Access and Analysis**: I can search MLS directly to verify:
 
-	- Exact transaction counts in specific neighborhoods
-
-	- Actual sale prices and list prices (calculating sale-to-list ratios)
-
-	- Days on market for individual listings
-
-	- Property types and price ranges agents actually work
-
-	- Transaction volume over time (identifying trends)
-
 Consumers cannot access this data directly, but I can verify agent claims in minutes.
 
 **Industry Relationships**: Professional relationships reveal information consumers can't access:
 
-	- Which agents other professionals respect and recommend
-
-	- Which agents create transaction problems through incompetence or difficult behavior
-
-	- Which agents have reputations for strong negotiation vs. pushover tendencies
-
-	- Which agents actually deliver on marketing promises vs. overpromise
-
 **Long-Term Observation**: I've watched agents' careers over years or decades:
-
-	- Who consistently performs well vs. who had one good year
-
-	- Who maintains high standards vs. who cuts corners
-
-	- Who adapts to changing markets vs. who relies on outdated approaches
-
-	- Who serves clients' interests vs. who prioritizes their own commissions
 
 **Client Feedback Loop**: Through years of making referrals, I receive feedback about which agents deliver excellent service vs. disappointing performance. This ongoing information stream continuously refines my knowledge of agent capabilities.
 
 **Efficient, Accurate Matching**
 
 When you [schedule a consultation](https://www.santaclaritaopenhouses.com/schedule-calendar), I can:
-
-	- Verify agent track records comprehensively in minutes (not hours of consumer research)
-
-	- Match you with agents whose verified expertise aligns with your needs
-
-	- Provide confidence that referrals are based on objectively verified performance
-
-	- Offer recourse if referred agents don't perform as expected
 
 **No Conflicts of Interest**:
 
@@ -765,67 +384,15 @@ Here's your practical step-by-step verification process:
 
 **Step 1: Initial License Verification (5 minutes)**
 
-	- Search agent's name at verify.dre.ca.gov
-
-	- Confirm active license status
-
-	- Check for disciplinary actions
-
-	- Verify brokerage matches agent's claim
-
 **Step 2: Online Research (20-30 minutes)**
-
-	- Google search: "[Agent Name] Santa Clarita real estate"
-
-	- Review Google Business Profile and reviews (if present)
-
-	- Check Facebook business page (if present)
-
-	- Review agent website thoroughly
-
-	- Check LinkedIn for professional background
-
-	- Treat Zillow/Realtor.com cautiously given pay-to-play models
 
 **Step 3: Direct Questions During Interview (During meeting)**
 
-	- Request list of recent transactions in your neighborhood
-
-	- Ask about performance metrics (sale-to-list ratios, days on market)
-
-	- Request specific examples of challenging transactions
-
-	- Ask about referral vs. new client percentage
-
-	- Inquire about professional designations
-
 **Step 4: Reference Checks (30-45 minutes)**
-
-	- Request 2-3 references from similar situations
-
-	- Call references and ask detailed questions
-
-	- Verify references are real people with actual transactions
-
-	- Listen for both enthusiasm and any hesitations
 
 **Step 5: Cross-Reference Information (15 minutes)**
 
-	- Do agent's claims match across all sources?
-
-	- Can you verify specific transactions they mentioned?
-
-	- Do online reviews align with reference feedback?
-
-	- Do designations check out when verified?
-
 **Step 6: Trust Your Instincts (Immediate)**
-
-	- Does everything feel consistent and honest?
-
-	- Are you getting straight answers or evasiveness?
-
-	- Does the agent's experience genuinely match your needs?
 
 **Total Time Investment**: 2-3 hours for thorough verification of one agent.
 
@@ -843,14 +410,6 @@ What if your verification uncovers issues?
 
 **Serious Issues**: If you discover:
 
-	- Significant lies or misrepresentations
-
-	- License problems
-
-	- Extensive negative reviews
-
-	- Complete inability to verify claims
-
 Walk away immediately. Don't rationalize or make excuses. These are deal-breakers.
 
 **When In Doubt**: If something feels off but you can't quite identify why, trust your instincts. There are many competent agents in Santa Clarita Valley—you don't need to settle for anyone about whom you have significant doubts.
@@ -862,16 +421,6 @@ Real estate transactions involve hundreds of thousands of dollars and represent 
 You wouldn't do that in other contexts involving far less money, so why accept it in real estate?
 
 Professional track record verification:
-
-	- Protects you from incompetent or dishonest agents
-
-	- Ensures you work with proven professionals
-
-	- Provides confidence in your agent selection
-
-	- Prevents expensive mistakes from poor representation
-
-	- Saves time compared to discovering problems mid-transaction
 
 The verification process takes time and effort if you do it yourself—or you can leverage expert referral services where verification has already been done professionally.
 
@@ -888,37 +437,6 @@ I'm Connor with Honor, and I'm here to ensure you work with agents whose impress
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -954,26 +472,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

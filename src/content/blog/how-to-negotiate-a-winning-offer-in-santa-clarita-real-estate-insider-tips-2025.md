@@ -42,26 +42,6 @@ In the excitement of house hunting, it’s tempting to ask your realtor to “fe
 
 The transcript highlights a common scenario: a buyer’s agent calls the seller’s agent to ask, “Would your seller take less?” or “What’s the lowest they’ll go?” This approach is flawed for several reasons:
 
-	- 
-	**Lack of Commitment**: Verbal inquiries don’t show serious intent. Sellers want written offers they can review, not casual hypotheticals.
-
-	
-
-	- 
-	**Risk of Miscommunication**: Agents may misinterpret or misrelay information, leading to false expectations. For example, a seller might say, “We’re flexible,” but that doesn’t mean they’ll accept a lowball offer.
-
-	
-
-	- 
-	**Emotional Attachment**: Buyers who engage in verbal talks often get emotionally invested before submitting an offer, only to face disappointment if the seller rejects their terms.
-
-	
-
-	- 
-	**Ethical Concerns**: In some cases, verbal negotiations can skirt ethical boundaries, especially if agents share sensitive details without client consent.
-
-	
-
 Connor’s advice is clear: “Get it in writing.” A written offer, submitted through proper channels, starts a formal negotiation process that protects both parties. It also shows you’re serious, which is critical in a market where sellers may receive multiple offers.
 
 ### Real-World Example
@@ -78,41 +58,11 @@ The key to a winning offer is preparation. In Santa Clarita’s competitive mark
 
 Start by analyzing recent sales of similar homes in the same neighborhood. These “comps” provide a baseline for the property’s value. Focus on:
 
-	- 
-	**Location**: Homes in the same tract or within a half-mile radius (e.g., Valencia’s Bridgeport vs. Northpark).
-
-	
-
-	- 
-	**Size and Features**: Match square footage, bedrooms, bathrooms, and amenities like pools or updated kitchens.
-
-	
-
-	- 
-	**Sale Date**: Prioritize sales within the last 3–6 months for current market relevance.
-
-	
-
 For example, if you’re bidding on a 2,000-square-foot home in Saugus listed at $850,000, find comps showing similar homes sold for $825,000–$875,000. Use tools like SantaClaritaOpenHouses.com’s Advanced Search to explore active and sold listings.
 
 ### Step 2: Assess Property Condition
 
 The transcript emphasizes factoring in property condition. A home needing $50,000 in repairs (e.g., new HVAC, roof, or cosmetic updates) justifies a lower offer. Hire a qualified inspector during the due diligence period, but you can also estimate repairs based on the listing description or open house observations. For instance:
-
-	- 
-	**Outdated Kitchen**: $20,000–$40,000 for new cabinets, countertops, and appliances.
-
-	
-
-	- 
-	**Old Roof**: $10,000–$20,000 depending on size.
-
-	
-
-	- 
-	**Cosmetic Fixes**: $5,000–$15,000 for paint, flooring, or landscaping.
-
-	
 
 Document these estimates and include them in your offer’s justification. Connor can guide you through this process, ensuring your offer reflects the home’s true value.
 
@@ -137,26 +87,6 @@ A realtor like Connor MacIvor is your secret weapon. He’ll pull comps, assess 
 In a market as complex as Santa Clarita’s, your realtor can make or break your success. Connor MacIvor, known as Connor with Honor, brings a unique edge to the table. His background as a first responder—trained to stay sharp in high-stakes situations—translates to real estate with unmatched dedication and precision.
 
 ### Connor’s Unique Value
-
-	- 
-	**Integrity First**: Connor’s “with Honor” ethos means transparency and trust. He’ll never push you into a bad deal or rely on shady tactics like verbal negotiations.
-
-	
-
-	- 
-	**Market Expertise**: With years serving Santa Clarita, Connor knows every neighborhood—from Valencia’s walkable schools to Canyon Country’s affordable condos. Check his sold listings for proof of his success.
-
-	
-
-	- 
-	**Negotiation Prowess**: Connor’s strategic approach ensures your offer stands out, whether you’re competing in a bidding war or negotiating concessions.
-
-	
-
-	- 
-	**Client-Centered Service**: As a former first responder, Connor prioritizes your needs, listening closely and tailoring strategies to your goals.
-
-	
 
 ### Client Success Stories
 
@@ -190,108 +120,17 @@ You’re eyeing a new build in Castaic. **Strategy**: Research builder incentive
 
 SantaClaritaOpenHouses.com is your one-stop shop for navigating the market. Here’s how to leverage its tools:
 
-	- 
-	**Advanced Search**: Filter listings by price, neighborhood, or features like pools or 55+ communities. Try it at Advanced Search.
-
-	
-
-	- 
-	**Open House Listings**: Find upcoming open houses to tour homes in person. Visit Open Houses.
-
-	
-
-	- 
-	**Market Reports**: Stay updated on inventory, price changes, and trends. Check Santa Clarita Market Report.
-
-	
-
-	- 
-	**Mortgage Rates**: Monitor rates to time your purchase. See Mortgage Rates.
-
-	
-
-	- 
-	**Dream Home Finder**: Let Connor find properties matching your criteria. Start at Dream Home Finder.
-
-	
-
 ### Pre-Approval and Buyer Agreements
 
 Before negotiating, get pre-approved with a lender. This strengthens your offer and shows sellers you’re serious. Visit SantaClaritaOpenHouses.com’s Mortgage Rates for lender resources. Also, sign a buyer-broker agreement with Connor to formalize your partnership, as discussed in Why Buyers Need Written Agreements.
 
 ## Key Takeaways
 
-	- 
-	**Avoid Verbal Negotiations**: Always submit written offers to start formal, transparent discussions.
-
-	
-
-	- 
-	**Use Data**: Back your offer with comparable sales, repair estimates, and market trends to justify your price.
-
-	
-
-	- 
-	**Research Thoroughly**: Analyze comps, property condition, and local market dynamics using SantaClaritaOpenHouses.com.
-
-	
-
-	- 
-	**Work with Connor**: His first-responder instincts and market expertise ensure your offer stands out. Contact him at Contact.
-
-	
-
-	- 
-	**Leverage Tools**: Use advanced search, open house listings, and market reports to stay informed.
-
-	
-
-	- 
-	**Get Pre-Approved**: Strengthen your offer with a pre-approval and buyer agreement.
-
-	
-
-	- 
-	**Stay Strategic**: Tailor your offer to the seller’s motivations and market conditions for the best results.
-
-	
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -327,26 +166,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

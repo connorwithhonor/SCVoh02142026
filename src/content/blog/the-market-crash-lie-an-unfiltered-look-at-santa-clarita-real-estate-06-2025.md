@@ -70,22 +70,6 @@ Let's move into the actual numbers and what's happening on the market right now.
 
 **Inventory Levels:** The number of [active listings](https://www.santaclaritaopenhouses.com/active-listings) across the entire Santa Clarita Valley has been fluctuating. A few days ago, it was 468, yesterday it climbed to 478, and as of today, we are sitting at 473 total active listings. This includes all property types across all the communities that make up our valley:
 
-	- [Acton](https://www.santaclaritaopenhouses.com/acton-homes)
-
-	- [Agua Dulce](https://www.santaclaritaopenhouses.com/agua-dulce-homes)
-
-	- [Canyon Country](https://www.santaclaritaopenhouses.com/canyon-country-homes)
-
-	- [Castaic](https://www.santaclaritaopenhouses.com/castaic-homes)
-
-	- [Newhall](https://www.santaclaritaopenhouses.com/newhall-homes)
-
-	- [Saugus](https://www.santaclaritaopenhouses.com/saugus-homes)
-
-	- [Stevenson Ranch](https://www.santaclaritaopenhouses.com/stevenson-ranch-homes)
-
-	- [Valencia](https://www.santaclaritaopenhouses.com/valencia-homes)
-
 This number reflects a healthy flow of properties being listed and absorbed by the market.
 
 **"Coming Soon" Listings:** This is your secret weapon as a buyer. There are currently about 20 properties in a "Coming Soon" status. This means they are set to hit the market within the next 21 days. It could be tomorrow, next week, or three weeks from now. Sellers use this strategy to build buzz and interest before the home is officially active. The crucial thing to know is that these properties are only visible through agent-to-agent channels. You won't find them on the big syndication sites. This is a selfish plug, but if you want this inside information, you need to work with a local agent. I created [comingsoon.com](https://www.santaclaritaopenhouses.com/coming-soon-listings-see-the-homes-for-sale-before-zillow-and-redfin-get-them) to make it easy. Just let me know the city or price range you're interested in, and I'm more than happy to send you the full list for all of Santa Clarita.
@@ -105,37 +89,6 @@ For a wealth of information, including detailed property searches, [market repor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -171,26 +124,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

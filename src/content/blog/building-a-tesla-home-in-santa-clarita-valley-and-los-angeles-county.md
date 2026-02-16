@@ -35,49 +35,15 @@ But before you start dreaming about your modular home paradise, let’s talk abo
 
 First things first, you need a plot of land. Sounds simple, right? Well, not exactly. There are a few things you need to keep in mind:
 
-	- 
-	**Zoning Laws:** Make sure the land is zoned for residential use. In places like Santa Clarita, zoning laws can vary based on whether you're in a more urbanized area or a rural part of the valley like Agua Dulce or Acton. You’ll need to ensure the property is designated for residential buildings, and more specifically, for **modular or manufactured homes**. A quick check with local authorities or your trusty First Responder Realtor (that’s me) can clarify what’s allowed.
-
-	
-
-	- 
-	**Road Access &amp; Easements:** The land must have **public road access**. If it doesn’t, that’s what we call a "landlocked" property, meaning you’ll need to negotiate easements with surrounding property owners to gain access. Easements are basically agreements that let you legally cross over someone else’s property to get to yours. This can be a lengthy process, but it’s essential. Imagine buying a beautiful plot and realizing you can't drive up to your front door!
-
-	
-
-	- 
-	**Utilities &amp; Power:** Some areas may not have immediate access to utilities like water, gas, or power. If you’re considering a more remote plot, especially in places like Acton, where well water isn’t feasible, you’ll have to think about alternative solutions like water tanks, LP gas generators, and solar power systems. Don’t worry, we’ll cover all of that in detail.
-
-	
-
-	- 
-	**Size of the Lot:** Modular homes don’t require massive lots. A lot between **5,000 to 6,000 square feet** is generally sufficient for a smaller modular home, especially if you’re trying to keep costs low. However, make sure the lot is big enough to handle any additional elements you might want to add, such as a garage or garden.
-
-	
-
 ### Step 2: Site Inspection &amp; Feasibility Study
 
 Before you even think about placing a modular home on a piece of land, you’ll need to get a **site inspection** and a **feasibility study** done. This is crucial because it checks for a variety of factors, such as:
-
-	- **Soil Conditions:** You don’t want your home sinking into the ground due to poor soil conditions. The land’s stability is key, and if the soil isn’t up to par, it might need some prepping before it’s suitable for a foundation.
-
-	- **Zoning &amp; Easements:** As I mentioned earlier, you’ll need to ensure the property is properly zoned for residential use, and this inspection will confirm that.
-
-	- **Utility Access:** This is where things get technical. A site inspection will determine how close your land is to existing utilities like water, gas, and power, or if you’ll need to create alternative solutions (more on that later).
-
-	- **Cost of Improvements:** Based on the site inspection, you’ll get a clearer picture of what needs to be done before your home can be placed. Things like leveling the land, installing a foundation, and connecting utilities will all be factored into the total cost.
 
 Yes, this process takes time and costs money, but it’s better to know upfront what you're dealing with instead of getting hit with surprises later. And you know how I work—I’m all about transparency and making sure you’re prepared every step of the way.
 
 ### Step 3: Getting Permits
 
 Next, you’ll need to tackle the **permit process**. Unfortunately, this isn’t something you can skip. The California Department of Housing and Community Development (HCD) requires specific permits to place a **manufactured or modular home**. This includes permits for:
-
-	- **Building and Utility Connections**
-
-	- **Environmental Impact (if applicable)**
-
-	- **Foundation and Structure**
 
 Depending on the location, these permits might also require soil tests and impact studies. For example, if you’re planning to place a modular home in a rural part of Santa Clarita, you may need an environmental impact study to ensure the home won’t affect any protected species or habitats. Don’t worry, though—this is all manageable, and having a licensed contractor can expedite this process. The good news? Once the permits are sorted, the rest of the process moves pretty fast.
 
@@ -93,27 +59,6 @@ Once the foundation is set, you’re almost ready to place your home. This is an
 
 Here’s where things get a little more technical. If you’re buying land that doesn’t have existing utilities, you’ll need to make some decisions.
 
-	- 
-	**Water:** If your land doesn’t have access to **city water** or a **well**, you can use large water tanks (typically around **15,000 gallons**) to store trucked-in water. This solution is common in more rural parts of Santa Clarita, like Agua Dulce. Add a **filtration system**, and you’re all set. It’s a straightforward process, and while it may seem unconventional, it works well for many homeowners in the area.
-
-	
-
-	- 
-	**Power:** You have a few options here:
-
-	
-		**LP Gas Generators:** These generators can run on **liquid propane** (LP) or **natural gas**. If you’ve seen those large white tanks that look like giant Tylenol pills, that’s probably an LP tank. They’re a reliable way to power your home, especially in areas where traditional utilities aren’t available.
-
-		- **Solar Power with Battery Backup:** If you’re interested in going off-grid or want to save on energy costs, **solar panels** paired with a battery backup system (like **Tesla Powerwall**) is a fantastic option. Solar can cover most of your daily energy needs, and the battery stores excess power for use at night or during outages. Add the gas generator as a backup, and you’re set with a sustainable energy solution.
-
-	
-
-	
-	- 
-	**Septic Systems:** Many rural homes in Santa Clarita rely on **septic tanks** instead of city sewer connections. A well-designed septic system can last decades if maintained properly. And yes, it will need to be pumped out occasionally, but this is usually only required every few years, depending on usage. **Modern septic systems** are advanced enough to handle everything from showers to kitchen waste without a hitch.
-
-	
-
 ### Step 6: Delivery and Setup
 
 Once all the groundwork is done—literally—it’s time for the fun part: **delivering and setting up your home**! Modular homes are delivered in sections on trucks. If you’ve ever driven on the freeway and seen a half-house cruising along, that’s probably a modular home in transit.
@@ -125,14 +70,6 @@ The setup process can take anywhere from a couple of days to a few weeks, depend
 ### Step 7: Costs and Financing
 
 Let’s break down the costs because that’s what makes modular homes so attractive. Depending on your choices, you could be looking at the following:
-
-	- **Land:** In rural parts of Santa Clarita, land can be relatively affordable compared to urban areas, often starting around **$30,000**. But of course, this depends on location, size, and access to utilities.
-
-	- **Modular Home:** The cost of the home itself can range from **$15,000 to $30,000** for a smaller, more basic model. Larger, custom modular homes will, of course, be higher in price.
-
-	- **Foundation and Land Prep:** This can run between **$5,000 to $25,000**, depending on the complexity and size.
-
-	- **Utilities:** If you’re installing water tanks, generators, or solar power, expect to add an additional **$10,000 to $20,000** depending on your needs.
 
 All in all, you could have your very own home, ready to go, for under **$100,000**. For anyone familiar with the real estate market in Los Angeles County, that’s almost unheard of!
 
@@ -171,37 +108,6 @@ I’m **Connor with Honor**, and as always, I’m here to guide you through the 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -237,26 +143,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

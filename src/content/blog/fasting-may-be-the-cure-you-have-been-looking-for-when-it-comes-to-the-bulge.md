@@ -52,14 +52,6 @@ Think about our ancestors: if our bodies attacked essential muscle tissue during
 
 So, how do you start? You don't need to jump into a 40-day fast like Ed Brown, whose incredible story I shared last week. Start small and listen to your body:
 
-	- **Miss a Meal or Two:** Gradually extend the time between meals.
-
-	- **Gradual Progression:** Once comfortable, try a longer fast. For example, going from Sunday night after your last meal to Tuesday morning for your first meal (your "break fast") would be a 32-36 hour fast. This is a great way to introduce your body to longer periods without food.
-
-	- **Honor Your Food:** When you do eat, practice mindful eating. Chew your food thoroughly (50-60 times per bite, as some studies suggest) and savor each bite. Put your fork down between bites. This ensures better nutrient absorption and helps you feel satisfied.
-
-	- **Listen to Your Body's Repair Mode:** When your digestive system isn't constantly working, your body shifts into repair mode. Just like an injured animal resting to heal, fasting allows your system to repair and rejuvenate.
-
 ### The Pitfalls of Constant Sweetness and the Importance of Research
 
 Beyond just *when* you eat, *what* you consume plays a huge role. Constant consumption of artificial sweeteners or sugary drinks keeps your dopamine system constantly "ramped up." This can desensitize your reward pathways, making it harder to feel the natural satisfaction and dopamine release from creative endeavors, problem-solving, or building a business. Plain water is your friend!
@@ -77,37 +69,6 @@ Thanks for watching, and I'll see you in the next one!
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -143,26 +104,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

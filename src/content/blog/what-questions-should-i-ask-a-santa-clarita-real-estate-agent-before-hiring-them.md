@@ -74,12 +74,6 @@ Experience matters. A lot. An agent who closes 2-3 deals a year is a hobbyist. A
 
 **Red flags:**
 
-	- Vague answers ("Oh, I've done a lot...")
-
-	- Low numbers ("I closed 3 last year, but I'm really dedicated!")
-
-	- Mostly outside Santa Clarita ("I'm licensed in Santa Clarita but I mostly work in Palmdale...")
-
 **FOLLOW-UP:**
 
 "How many of those were in my target neighborhood?" (Valencia, Saugus, Castaic, etc.)
@@ -95,12 +89,6 @@ Mello-Roos is a HUGE cost in Santa Clarita, especially in Valencia. If your agen
 A clear explanation of Mello-Roos (special tax for infrastructure), how it's calculated, which neighborhoods have it, and how it affects affordability.
 
 **Red flags:**
-
-	- "I think it's like an extra tax or something?"
-
-	- "Your lender will explain that."
-
-	- Blank stare.
 
 **FOLLOW-UP:**
 
@@ -118,10 +106,6 @@ This tells you if the agent prices homes correctly. If their average list-to-sal
 
 **Red flags:**
 
-	- "I always list high to leave room for negotiation." (Translation: I don't know how to price homes and I waste your time.)
-
-	- "I'm not sure, I don't track that." (Translation: I'm not data-driven.)
-
 **QUESTION #4: "How do you determine a home's value? Walk me through your process."**
 
 **Why it matters:**
@@ -134,12 +118,6 @@ Pricing is everything. Overpriced homes sit. Underpriced homes leave money on th
 
 **Red flags:**
 
-	- "I just know the market." (Translation: I'm guessing.)
-
-	- "We'll list it and see what happens." (Translation: I'm lazy.)
-
-	- "I use Zillow's Zestimate as a starting point." (Translation: I have no idea what I'm doing.)
-
 **QUESTION #5: "What's your communication style, and how often will I hear from you?"**
 
 **Why it matters:**
@@ -151,12 +129,6 @@ Bad communication is the #1 complaint about real estate agents. You need to know
 "I respond to texts/emails within 2 hours during business hours. I send weekly updates during the listing period and daily updates once we're in contract. You'll always know what's happening."
 
 **Red flags:**
-
-	- "I'm pretty busy, but I'll get back to you when I can."
-
-	- "I prefer phone calls." (In 2026? Really?)
-
-	- Vague answers with no specifics.
 
 **FOLLOW-UP:**
 
@@ -174,10 +146,6 @@ A detailed strategy involving escalation clauses, personal letters to sellers, f
 
 **Red flags:**
 
-	- "We just offer more money." (Lazy and expensive for you.)
-
-	- "We'll see what happens." (No strategy = you lose.)
-
 **QUESTION #7: "What do you do differently that other agents don't?"**
 
 **Why it matters:**
@@ -194,10 +162,6 @@ This separates average agents from elite ones. Average agents list on MLS and wa
 
 **Red flags:**
 
-	- "I just list it on MLS like everyone else."
-
-	- No clear differentiators.
-
 **QUESTION #8: "Can you walk me through a recent deal that went sideways and how you handled it?"**
 
 **Why it matters:**
@@ -209,10 +173,6 @@ Things go wrong in real estate. Inspections reveal problems. Buyers back out. Ap
 A specific story with a problem, their solution, and the outcome. Shows experience, resilience, and creativity.
 
 **Red flags:**
-
-	- "I've never had a deal go wrong." (They're lying or inexperienced.)
-
-	- Vague answers with no specifics.
 
 **QUESTION #9: "How do you handle inspections? What's your process?"**
 
@@ -230,10 +190,6 @@ Inspections kill deals or cost buyers/sellers thousands. You need an agent who u
 
 **Red flags:**
 
-	- "Inspections are a waste of money." (Incompetent and dangerous.)
-
-	- "Just ask for everything to be fixed." (Unrealistic and ineffective.)
-
 **QUESTION #10: "What neighborhoods in Santa Clarita do you specialize in?"**
 
 **Why it matters:**
@@ -245,10 +201,6 @@ You want a specialist, not a generalist. An agent who knows Valencia inside and 
 Specific neighborhoods with clear knowledge of schools, HOAs, Mello-Roos, traffic patterns, and future development.
 
 **Red flags:**
-
-	- "I work all over Santa Clarita." (Translation: I'm not an expert anywhere.)
-
-	- Can't name specific elementary schools, parks, or shopping centers in your target area.
 
 **QUESTION #11: "What's your average days on market compared to the market average?"**
 
@@ -262,10 +214,6 @@ Homes that sit too long lose value. Buyers assume something's wrong. You want an
 
 **Red flags:**
 
-	- Doesn't track this data.
-
-	- Their average is higher than the market average.
-
 **QUESTION #12: "How do you handle lowball offers?"**
 
 **Why it matters (for sellers):**
@@ -277,10 +225,6 @@ Lowball offers are insulting, but sometimes they lead to a deal. You need an age
 "I present every offer to you with my recommendation. If it's a lowball, we counter strategically to gauge their seriousness. Sometimes lowball buyers become full-price buyers if handled correctly."
 
 **Red flags:**
-
-	- "I reject lowballs immediately." (Emotional decision-making.)
-
-	- "We always counter at full price." (Ineffective negotiation.)
 
 **QUESTION #13: "What's included in your commission, and are there any additional fees?"**
 
@@ -294,10 +238,6 @@ Some agents charge extra for photography, staging, marketing, etc. You need to k
 
 **Red flags:**
 
-	- Extra charges for basic services.
-
-	- Vague answers about costs.
-
 **QUESTION #14: "Can I speak with your last three clients?"**
 
 **Why it matters:**
@@ -309,10 +249,6 @@ References tell you everything. Great agents will happily provide them. Bad agen
 "Absolutely. Here are their names and numbers."
 
 **Red flags:**
-
-	- "I can't share client info due to privacy." (Weak excuse.)
-
-	- Provides references but they're all from years ago.
 
 **FOLLOW-UP:**
 
@@ -330,49 +266,11 @@ Some agents lock you into 6-month contracts with no escape clause. That's predat
 
 **Red flags:**
 
-	- "Our contracts are binding for 6 months, no exceptions."
-
-	- Defensive or irritated by the question.
-
 **BONUS QUESTIONS (IF YOU WANT TO GO DEEPER)**
-
-	- "What's the biggest mistake you see buyers/sellers make?"
-
-	- "How do you stay up-to-date on market trends?"
-
-	- "What technology or tools do you use to stay organized?"
-
-	- "How do you handle multiple clients at once?"
-
-	- "What's your backup plan if you're unavailable during my transaction?"
 
 **RED FLAGS THAT SHOULD DISQUALIFY AN AGENT IMMEDIATELY**
 
-	- **Part-time agent** (Real estate is their side hustle)
-
-	- **Hasn't closed a deal in your target neighborhood in the past year**
-
-	- **Pushes you to make quick decisions without explaining pros/cons**
-
-	- **Doesn't return calls/texts within 24 hours during initial contact** (It won't get better once you hire them.)
-
-	- **Uses high-pressure sales tactics** ("You need to sign today or you'll lose out!")
-
-	- **Badmouths other agents or clients** (They'll badmouth you next.)
-
-	- **Doesn't have errors and omissions insurance** (Run.)
-
 **WHAT TO DO AFTER YOU INTERVIEW AGENTS**
-
-	- **Interview at least 3 agents.** Never hire the first one you meet.
-
-	- **Compare their answers** to the questions above.
-
-	- **Check their online reviews** (Yelp, Google, Zillow). Look for patterns, not one-off complaints.
-
-	- **Call their references.** This step is non-negotiable.
-
-	- **Trust your gut.** Competence + communication + integrity = great agent.
 
 **FINAL THOUGHTS**
 
@@ -392,48 +290,11 @@ I don't represent buyers or sellers anymore—I run a referral service that conn
 
 **INTERNAL LINKS:**
 
-	- [How Can I Tell If A Santa Clarita Real Estate Agent Knows My Neighborhood?](#)
-
-	- [Valencia vs Saugus: Which Neighborhood Should You Buy In?](#)
-
-	- [Santa Clarita Property Search](#)
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -469,26 +330,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

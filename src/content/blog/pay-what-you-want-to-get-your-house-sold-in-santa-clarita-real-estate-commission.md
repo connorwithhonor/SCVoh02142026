@@ -30,23 +30,9 @@ Join me as we explore these questions and more in today's update! Check out the 
 
 **Market Overview:**
 
-	- Active Listings: 472 properties across Santa Clarita Valley, covering all cities and residential types – single-family homes, condominiums, and townhomes.
-
-	- New Listings (Last 7 Days): 75 new opportunities for buyers!
-
-	- Sold Listings (Last Week): 48 homes have found new owners.
-
-	- Properties in Escrow: 52 homes are currently under contract.
-
 **Property Types:** Single-family residences are what most people think of – standalone homes with different configurations. Some might share a common wall with a neighbor, especially in older developments. Newer homes might have zero lot lines, meaning your property line might extend into your neighbor's yard for maintenance purposes.
 
 **Average Days on Market:**
-
-	- Valencia: 35 days from listing to sale.
-
-	- Castaic: 42 days – slightly longer but still brisk!
-
-	- Saugus and Newhall: 30 to 40 days.
 
 **Price Changes:** We’re seeing 60 to 70 price changes every week, mostly reductions. These aren’t huge cuts – typically $3,000 to $10,000. Sellers adjust prices when their homes aren't getting offers.
 
@@ -54,15 +40,9 @@ Join me as we explore these questions and more in today's update! Check out the 
 
 **Buyers:**
 
-	- You won’t see commission offers for your agents online anymore. Before you see homes, your agent will need a signed Buyer Broker Agreement.
-
 **Sellers:**
 
-	- You’ll need to decide whether you’ll pay a buyer’s agent to bring a buyer to your property. You might also negotiate dual agency, where one agent represents both buyer and seller.
-
 **Commission Disclosure:**
-
-	- No more public offers of commission for buyers’ agents. It’s all about transparency and negotiation upfront.
 
 **Showings and Open Houses:** Showings can be coordinated to minimize inconvenience. Weekend open houses or evening showings can work for those with busy schedules.
 
@@ -83,37 +63,6 @@ Thank you for tuning in today. For more updates and insights, visit SantaClarita
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -149,26 +98,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

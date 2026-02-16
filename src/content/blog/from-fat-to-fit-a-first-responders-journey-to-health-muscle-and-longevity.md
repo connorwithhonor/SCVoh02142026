@@ -28,12 +28,6 @@ The biggest breakthrough in my journey came when I read *The Obesity Code* by Dr
 
 #### Key Takeaways:
 
-	- **Stored Fat as Fuel**: When we fast, we’re not starving; we’re giving our bodies a chance to access the energy already stored.
-
-	- **Breaking Free from Overconsumption**: For years, I had been consuming far more calories than I needed. Fasting helped reset my body’s response to food.
-
-	- **Types of Fasting**: Dry fasting (no food or water) helped me shed water weight quickly, while intermittent fasting allowed me to target stubborn fat without sacrificing muscle.
-
 If you’re looking to lose fat without compromising muscle, consider experimenting with fasting. It may just be the tool you need to break free from old habits and see real, sustainable results.
 
 ### Building Muscle: Why Strength Matters for Fat Loss and Longevity
@@ -42,23 +36,11 @@ Muscle isn’t just about looking fit; it’s about boosting your metabolic rate
 
 #### Benefits of Muscle-Building for First Responders:
 
-	- **Increased Metabolism**: Muscle helps you burn more calories even at rest, making it easier to maintain a healthy weight.
-
-	- **Resilience**: Stronger muscles make your body more capable of handling the physical demands of a high-stress career.
-
-	- **Longevity**: Muscle strength plays a critical role in staying mobile and active as we age.
-
 ### Hormone Health: The Importance of Testosterone
 
 Low testosterone was another obstacle I faced, common in men my age and for those dealing with long-term stress. My levels were low, partly due to past injuries and pain medications. Testosterone therapy was a game changer—it not only improved my energy but also amplified my muscle gains and helped with fat loss.
 
 #### Things to Know:
-
-	- **Get Tested**: If you’re feeling sluggish or struggling with muscle gain, get your hormone levels checked.
-
-	- **Consider Therapy**: Under medical supervision, hormone therapy can be a safe and effective way to regain strength and vitality.
-
-	- **Stay Informed**: Testosterone levels can fluctuate, especially under stress, so ongoing monitoring is essential.
 
 ### Separating Fact from Fiction: The Truth About Weight Loss Medications
 
@@ -72,14 +54,6 @@ One of the hardest shifts I made was changing my relationship with food. Society
 
 Living a fit, healthy life in Santa Clarita isn’t just possible; it’s achievable with the right mindset and tools. Whether you’re a first responder facing physical demands or a civilian looking to feel your best, here are some tips that worked for me and might inspire your journey:
 
-	- **Start Small with Fasting**: Try intermittent fasting and see how your body responds. Begin with a 12-hour fast and gradually work your way up.
-
-	- **Prioritize Strength**: Include weight training or resistance exercises in your routine. It’s not about bulking up; it’s about building strength and resilience.
-
-	- **Ask for Support**: Weight loss and fitness journeys are challenging. Reach out to friends, family, or local fitness groups in Santa Clarita who share your goals.
-
-	- **Stay Informed**: Research everything, from fasting to muscle building to hormone health. Knowledge is the key to sustainable change.
-
 ### Embrace a Healthier Future
 
 As a first responder, my duty was always to protect and serve others. Now, I’m committed to serving my health and sharing the journey with those who want to break free from years of unhealthy habits. This journey from fat to fit was more than a transformation—it was a renewal of purpose, health, and life. If I can do it, so can you.
@@ -91,37 +65,6 @@ Let’s build a life of health, strength, and longevity together.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -157,26 +100,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

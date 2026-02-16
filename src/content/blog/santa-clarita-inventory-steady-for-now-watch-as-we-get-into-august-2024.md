@@ -24,28 +24,6 @@ I’m Connor MacIvor, your trusted real estate expert, and today is July 30th, 2
 
 We currently have 468 active real estate listings across all of Santa Clarita Valley, covering single-family residences, townhomes, and condos. Here’s the breakdown of our market activity over the past seven days:
 
-	- **Coming Soon**: 6 properties
-
-	- **New Listings**: 83 properties
-
-	- **Price Changes**: 82 properties
-
-	- **Back On Market**: 23 properties
-
-	- **Active Under Contract**: 33 properties
-
-	- **Pending**: 53 properties
-
-	- **Closed**: 58 properties
-
-	- **Expired**: 5 properties
-
-	- **Canceled**: 12 properties
-
-	- **Hold**: 8 properties
-
-	- **Withdrawn**: 3 properties
-
 ### **Current Market Trends**
 
 The number of price changes has been increasing steadily over the past 8-9 weeks and now remains consistent at around 82. This trend, along with the steady influx of new listings, indicates a balanced yet active market. Despite the increased inventory, properties are still moving quickly, with typical market time frames ranging from 7 to 14 days in Santa Clarita Valley.
@@ -81,37 +59,6 @@ Stay tuned for our Hump Day edition tomorrow. Be well, Santa Clarita Valley!
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -147,26 +94,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

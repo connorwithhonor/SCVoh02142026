@@ -48,38 +48,9 @@ In real estate, I’ve noticed that clients often come to me feeling drained or 
 
 #### **How My Health Transformation Impacts My Real Estate Work**
 
-	- 
-	**Energy and Focus for Every Client**
-
-	Losing weight and maintaining a healthy lifestyle have boosted my energy and mental clarity, which I channel into my work. When you’re working with me, you’re not getting someone who’s half-committed or burnt out. You’re working with someone who brings the same level of focus to every interaction that I used to transform my own life.
-
-	
-
-	- 
-	**Active Lifestyle in a Fast-Paced Market**
-
-	In Santa Clarita, the real estate market is competitive. Staying active and alert isn’t optional—it’s essential. My health journey taught me resilience and adaptability, which are crucial when navigating the fluctuating demands of the real estate market.
-
-	
-
-	- 
-	**Accountability and Goal-Setting**
-
-	Weight loss requires accountability. I had to hold myself to a high standard and commit to consistent, disciplined choices. This mirrors how I work with clients: setting clear goals, being transparent, and holding myself accountable to ensure you get the best experience possible.
-
-	
-
 #### **Tips for Staying Active When Working from Home**
 
 As someone who spends time both in the office and out in the field, here are a few practical tips for staying active during a desk-heavy workday:
-
-	- **Set Up a Standing Desk**: If you haven’t already, consider investing in a standing desk. It allows you to shift from sitting to standing, keeping your circulation going and boosting your energy.
-
-	- **Use Small Weights or Water Bottles**: Keep a couple of water bottles at your desk for quick arm workouts. Do some bicep curls, shoulder presses, or tricep exercises in between tasks.
-
-	- **Take Quick Walks**: Schedule short walking breaks. A five-minute walk around the office or your workspace can refresh your mind and reduce stress.
-
-	- **Stretch Regularly**: Keep your muscles flexible and avoid stiffness by stretching throughout the day.
 
 #### **How My Journey Resonates with the Santa Clarita Community**
 
@@ -102,37 +73,6 @@ And for those interested in connecting with my Fat to Fit First Responder busine
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -168,26 +108,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

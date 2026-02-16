@@ -140,57 +140,12 @@ Whether it’s **ad copy**, **Facebook ads**, or **local SEO** articles, AI can 
 Here’s a quick overview of the top tools I recommend. Many are free to start, with premium tiers that unlock more advanced functionality.
 
   - **ChatGPT** (OpenAI)
-    
-      Great for drafting emails, blog posts, listing descriptions.
-
-      - Can also generate scripts for property walkthrough videos.
-
-    
-
-  
   - **Jasper**
-    
-      Popular for content creation, including listing ads, social media copy, and more.
-
-    
-
-  
   - **BoomTown**
-    
-      A real estate CRM that integrates AI for lead routing and follow-up scheduling.
-
-    
-
-  
   - **Follow Up Boss**
-    
-      Combines AI with a robust CRM engine to keep every lead in your pipeline engaged.
-
-    
-
-  
   - **Canva Magic Write**
-    
-      Instantly generate text overlays for your listing photos, social media posts, and more.
-
-    
-
-  
   - **RPR (Realtors Property Resource) with AI**
-    
-      Provides up-to-date market data and AI-driven neighborhood reports.
-
-    
-
-  
   - **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)**
-    
-      While it’s my local site, it’s a prime example of how data from local markets, open-house scheduling, and user engagement can be integrated with AI to track trends, highlight price changes, and deliver custom property alerts.
-
-    
-
-  
-
 If you’d like more in-depth reviews of these tools, check out my article on **[AI for Everyone but you need to start as soon as you can you are behind already](https://www.santaclaritaopenhouses.com/ai-for-everyone-but-you-need-to-start-as-soon-as-you-can-you-are-behind-already)** for additional tips.
 
 ## 4. How to Get Started with AI Integration
@@ -430,16 +385,6 @@ Your potential is **limitless**. AI is the catalyst that can get you there—**f
   - **Watch the video** at the top of this post ([YouTube link](https://youtu.be/via9yuZHOWw)) to hear me talk raw and real about why AI is so critical.
 
   - **Check out** the AI resources on SantaClaritaOpenHouses.com:
-    
-      [Artificial Intelligence in Real Estate](https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate)
-
-      - [AI for Everyone but you need to start as soon as you can you are behind already](https://www.santaclaritaopenhouses.com/ai-for-everyone-but-you-need-to-start-as-soon-as-you-can-you-are-behind-already)
-
-      - [Santa Clarita Real Estate Thrives with Artificial Intelligence in 2025](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-thrives-with-artificial-intelligence-in-2025)
-
-    
-
-  
   - **Fill out** the pre-intake form at [AIwithHonor.org](https://aiwithhonor.org) to kick off your personalized strategy.
 
 I look forward to helping you become the **cutting-edge agent** that buyers and sellers can’t wait to work with. AI is no longer optional—it’s the engine driving the future of real estate. Let’s make sure **you’re in the driver’s seat**.
@@ -453,37 +398,6 @@ I look forward to helping you become the **cutting-edge agent** that buyers and 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -519,26 +433,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -84,21 +84,6 @@ Let’s kick things off with the headline numbers that define the Santa Clarita 
 
 Breaking it down by area:
 
-	- 
-	**Valencia** led with about 40% of closings (22 properties), averaging $950,000. Its appeal lies in top-tier amenities—think Paseo walking trails, excellent schools like West Creek Academy, and proximity to employment hubs in tech and entertainment.
-
-	
-
-	- 
-	**Canyon Country** followed with 25% (14 closings), averaging $650,000, attracting first-time buyers and those seeking value in up-and-coming neighborhoods like Fair Oaks.
-
-	
-
-	- 
-	**Saugus** contributed 9 closings (~16%) at around $800,000, while **Newhall**, **Castaic**, **Acton**, and **Agua Dulce** added smaller volumes (1-3 each).
-
-	
-
 This distribution underscores Santa Clarita’s strength as a Los Angeles suburb, blending suburban charm with urban accessibility. The range of closed prices—from a $314,000 1-bedroom condo in Valencia to a $1.69 million 4-bedroom SFR in Valencia’s Westridge—reflects options for diverse budgets. The median closed price sits at ~$760,000, with an average of ~$818,000, slightly below August’s broader $930,000 median due to timing differences (closings reflect contracts signed 30-60 days prior).
 
 On the listing front, we’ve seen **87 new listings** hit the market in the past week, contributing to a total active inventory of **760 homes** as of September 2, 2025—a multi-year high, though down slightly from August’s peak. This influx, often described as a “flood” in local reports, signals a shift to a more balanced market where buyers gain leverage. Why the surge? Seasonal factors play a role—sellers who paused during summer vacations are now listing to catch the post-Labor Day wave. Additionally, broader trends like homeowner relocations (job changes, family needs, or exiting California’s high costs) and cooling demand encourage sellers to test the market. As a seasoned Realtor, I see this 10% year-over-year inventory increase creating more buyer choices, potentially capping price growth at 2-3% short-term. The new listings include ~60% SFRs, 20% condos, 15% townhomes, and 5% new builds or land, with prices from $300,000s condos to $2M+ estates and a median around $850,000.
@@ -123,21 +108,6 @@ Now, the elephant in the room: **home insurance**. It’s a mess in California, 
 
 This crisis has three roots:
 
-	- 
-	**Climate Risks**: 150 years of forest mismanagement—suppressing natural fires—has fueled intense wildfires. Suburban sprawl in wildland-urban interface zones, like Santa Clarita’s canyons, heightens exposure. Insurers paid $15.4 billion in 2017 alone.
-
-	
-
-	- 
-	**Regulatory Constraints**: Proposition 103 (1988) requires rate hike approvals, but outdated rules block forward-looking catastrophe modeling or full reinsurance cost pass-throughs (unlike Florida, where rates are 3-4x national averages). Commissioner Ricardo Lara’s 2024 Sustainable Insurance Strategy allows catastrophe modeling (a first for CA), faster rate reviews, and “Safer from Wildfires” discounts (5-20% for fire-resistant roofs or cleared vegetation).
-
-	
-
-	- 
-	**Economic Pressures**: Rebuilding costs are up 34% since 2020 due to inflation and supply chain issues, leading to underinsurance. Reinsurance rates have soared, squeezing insurer profitability.
-
-	
-
 In Santa Clarita, fire-prone areas like Saugus and Canyon Country face $3,000-$5,000 annual premiums for an $800,000 home—double urban rates. About 7% of deals fail due to insurance issues. Buyers: Check coverage early using tools like the U.S. Forest Service’s wildfire risk map. Shop independents (Amica, Nationwide) or bundle with auto for discounts. If denied, use the FAIR Plan with a “difference in conditions” policy. Long-term, Lara’s reforms (e.g., public catastrophe model by April 2025) aim to stabilize, but climate action—fossil fuel reduction, prescribed burns—is key, per experts like UC Berkeley’s Dave Jones.
 
 ## Inventory Dynamics: Sellers Face Competition
@@ -161,37 +131,6 @@ The Santa Clarita market on September 3, 2025, offers opportunities in a balance
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -227,26 +166,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

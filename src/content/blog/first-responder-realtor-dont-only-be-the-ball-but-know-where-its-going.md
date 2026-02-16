@@ -24,28 +24,6 @@ Today, I want to dive deep into the **Santa Clarita real estate inventory**, som
 
 Let’s get into the numbers that have shaped the last 7 days:
 
-	- **Coming Soon Listings**: 11
-
-	- **New Listings**: 75
-
-	- **Price Changes**: 58
-
-	- **Back on Market**: 26
-
-	- **Active Under Contract**: 31
-
-	- **Pending**: 42
-
-	- **Closed (Sold)**: 60
-
-	- **Expired Listings**: 6
-
-	- **Canceled**: 15
-
-	- **Hold**: 13
-
-	- **Withdrawn**: 3
-
 That brings the **total active residential listings** in Santa Clarita across all categories to **543 properties**. With such a wide variety of homes available, now is an excellent time to explore the market. If you’re thinking of buying or selling, you want to stay informed and move strategically. Check out **SantaClaritaOpenHouses.com**, my personal platform where you can access **unlocked, real-time inventory** of all homes in the area. If there’s ever an issue, just reach out to me, and I’ll make sure everything is sorted.
 
 ### What’s happening with federal mortgage changes?
@@ -92,18 +70,6 @@ Welcome back to the latest **Santa Clarita real estate market update** with your
 
 As a former first responder, I know the importance of preparation, strategy, and staying ahead of the curve—principles that have carried over into my real estate career. Today, we explore the **543 active residential properties** across the Santa Clarita Valley, breaking down key trends like:
 
-	- **75 new listings** in the last 7 days
-
-	- **58 price changes**
-
-	- **31 properties under contract**
-
-	- **42 pending sales**
-
-	- **60 closed properties**
-
-	and much more!
-
 We also discuss how recent **federal mortgage changes** are impacting both new construction and existing homes, with insight into what buyers and sellers should consider when making decisions in this dynamic market.
 
 Plus, I’ll be sharing open house details for today, including my own open house at **Balsam Court in Valencia** from **11 AM to 4 PM**. It’s a great opportunity to meet in person and get personalized advice for your home-buying or selling journey.
@@ -127,37 +93,6 @@ Stay tuned for more updates, and don’t hesitate to reach out if you have any q
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -193,26 +128,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

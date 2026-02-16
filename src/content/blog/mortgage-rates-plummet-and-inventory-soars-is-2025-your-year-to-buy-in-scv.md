@@ -19,9 +19,6 @@ Connor "with Honor" MacIvor - August 24, 2025** Tags: [santa clarita real estate
 # Mortgage Rates Plummet and Inventory Soars: Is 2025 Your Year to Buy in Santa Clarita?
 
   
-    
-  
-
 **TL;DR**: Mortgage rates are at a 10-month low, giving buyers a rare edge in the 2025 housing market. Inventory is climbing, especially in the South and West, with Santa Clarita seeing near-record seller concessions (44.4% of Q1 sales). However, California’s affordability crisis persists—only 16% of residents can afford a median-priced home. Legislative moves like SB 9 and SB 10 aim to increase housing supply, but don’t hold your breath for quick fixes. Ready to navigate this market? Visit [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) for the latest listings or book a free consultation at [https://zoommescv.com](https://zoommescv.com).
 
 As someone who’s navigated the mean streets of LAPD and the wild world of Santa Clarita real estate, I’m here to break down the housing market madness of August 2025 with zero fluff. The market’s shifting, folks—mortgage rates are dropping, inventory’s creeping up, and buyers are finally getting some leverage. But don’t pop the champagne just yet; California’s still a tough nut to crack. Let’s dive into what’s happening, why it matters, and how you can make it work for you in Santa Clarita.
@@ -74,21 +71,7 @@ Ready to jump in? Book a free, no-obligation consultation at [https://zoommescv.
 
 ### For Buyers
 
-	- **Get Pre-Approved**: Know your budget before you fall in love with a home. Start at [https://www.santaclaritaopenhouses.com/getting-a-legitimate-lender-and-getting-pre-approved](https://www.santaclaritaopenhouses.com/getting-a-legitimate-lender-and-getting-pre-approved).
-
-	- **Understand New Rules**: Buyer-broker agreements are now mandatory in California. Learn what you’re signing at [https://www.santaclaritaopenhouses.com/buying-a-home-key-considerations-before-signing-a-buyer-broker-agreement](https://www.santaclaritaopenhouses.com/buying-a-home-key-considerations-before-signing-a-buyer-broker-agreement).
-
-	- **Explore Foreclosures**: Deals exist, but they come with risks. Dive in at [https://www.santaclaritaopenhouses.com/thinking-about-buying-a-foreclosure](https://www.santaclaritaopenhouses.com/thinking-about-buying-a-foreclosure).
-
-	- **Leverage Concessions**: With sellers offering perks, negotiate hard. Get tips at [https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate](https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate).
-
 ### For Sellers
-
-	- **Price Smart**: Overpricing is a death sentence in this market. Learn how to set the right price at [https://www.santaclaritaopenhouses.com/setting-the-price](https://www.santaclaritaopenhouses.com/setting-the-price).
-
-	- **Offer Concessions**: Stand out by covering closing costs or repairs. See how at [https://www.santaclaritaopenhouses.com/considering-offers](https://www.santaclaritaopenhouses.com/considering-offers).
-
-	- **Hire the Right Agent**: New commission rules mean you need a pro who knows the game. Find out why I’m the go-to at [https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer](https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer).
 
 ## The Bigger Picture: Is Now the Time to Act?
 
@@ -98,54 +81,11 @@ Don’t sleep on this market. Connect with me at 661-888-4983, email [connor@san
 
 **Recap**:
 
-	- Mortgage rates are at a 10-month low, but your rate depends on your financial profile.
-
-	- Inventory is up in Santa Clarita and nationwide, with price corrections in hot markets like Austin (-15%) and Miami (-19%).
-
-	- Seller concessions hit 44.4% in Q1 2025, giving buyers more negotiating power.
-
-	- California’s affordability crisis is real—only 16% can afford a median home, and Santa Clarita’s median is ~$940,000.
-
-	- SB 9 and SB 10 aim to boost housing supply, but results are TBD.
-
-	- Work with a pro (like me!) to navigate this market. Visit [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or call 661-888-4983.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -181,26 +121,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

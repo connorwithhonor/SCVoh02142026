@@ -22,28 +22,6 @@ Connor with Honor at SantaClaritaOpenHouses(com) - July 13, 2024** Tags: [Santa 
 
 Our vibrant real estate market continues to show remarkable activity and growth. Here's a snapshot of the latest statistics:
 
-	- **Coming Soon:** 12 properties
-
-	- **New Listings:** 91 properties
-
-	- **Price Changes:** 68 properties
-
-	- **Back on Market:** 18 properties
-
-	- **Active Under Contract:** 28 properties
-
-	- **Pending:** 43 properties
-
-	- **Closed:** 48 properties
-
-	- **Expired:** 4 properties
-
-	- **Canceled:** 11 properties
-
-	- **Hold:** 10 properties
-
-	- **Withdrawn:** 1 property
-
 This brings us to a total of **467 active residential real estate listings** across Canyon Country, Castaic, Newhall, Saugus, Stevenson Ranch, and Valencia.
 
 **New Listings Alert: Stunning Homes in Valencia**
@@ -68,14 +46,6 @@ Whether you're looking to buy your dream home, sell your current property, or si
 
 **Watch our latest videos for more insights:**
 
-	- [New Listings Alert: Stunning Homes in Valencia](https://youtu.be/_1Jls5i35Mk)
-
-	- [Price Drops and Market Dynamics: Santa Clarita Real Estate Insights](https://youtu.be/_1Jls5i35Mk)
-
-	- [Santa Clarita Real Estate Market Watch: July 13, 2024](https://youtu.be/_1Jls5i35Mk)
-
-	- [Stay Informed: Key Tips for Santa Clarita Home Buyers and Sellers](https://youtu.be/_1Jls5i35Mk)
-
 **Listen to the full podcast episode:** [Shocking Market Surge: Santa Clarita Real Estate on the Rise](https://www.buzzsprout.com/298109/episodes/15407963-shocking-market-surge-santa-clarita-real-estate-on-the-rise)
 
 **Connor with Honor**
@@ -87,37 +57,6 @@ Whether you're looking to buy your dream home, sell your current property, or si
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -153,26 +92,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

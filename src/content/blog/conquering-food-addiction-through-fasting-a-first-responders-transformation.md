@@ -32,14 +32,6 @@ Food addiction isn’t just loving food—it’s a cycle of craving, indulgence,
 
 Here’s why food addiction is so tough:
 
-	- **Engineered to Crave**: Fast food is crafted to hit your brain’s reward centers. High sugar, fat, and salt combinations trigger dopamine, making you want more. It’s not your fault—it’s science.
-
-	- **Emotional Triggers**: Boredom, stress, or a rough day can send you straight to the drive-through. I’d convince myself I had nothing to do, and suddenly, I was eating enough for three people.
-
-	- **Autopilot Eating**: Eating becomes a reflex, not a choice. You’re not even hungry—just reaching for the next bite.
-
-	- **The Shame Spiral**: After a parking lot binge, the guilt hits hard. You promise yourself, “This time will be different,” but the cycle repeats.
-
 If you’re stuck in this loop, know this: you’re not weak, and you’re not alone. Food addiction is real, but it’s not unbeatable. My turning point came when I was tired of being sick and tired. I was done with doctor visits, medications, and feeling trapped in my own body. That’s when I discovered fasting—a tool that helped me reset my relationship with food.
 
 For more insights on breaking food addiction, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and curious about real estate opportunities, explore [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or contact me at 661-888-4983.
@@ -52,25 +44,11 @@ At 52, I hit rock bottom. At 365 pounds, I was battling health issues and fed up
 
 Fasting isn’t just about not eating—it’s about giving your body a break to reset. Here’s what happens when you fast:
 
-	- **Insulin Regulation**: Foods high in carbs and sugars spike insulin, which signals your body to store fat. Fasting lowers insulin levels, allowing your body to burn stored fat for energy. This is why I could go 14 days without food—my body had plenty of fat to burn.
-
-	- **Autophagy**: After 12-16 hours of fasting, your body enters autophagy, a process where it cleans out damaged cells and regenerates new ones. This is like a reset button for your health.
-
-	- **Mental Clarity**: Hunger is tough at first, but once you push through, you gain focus and clarity. I found myself sharper and less controlled by cravings.
-
-	- **Breaking the Addiction Cycle**: Fasting forces you to confront hunger head-on. You realize you won’t die if you miss a meal or two, which is key to breaking food addiction.
-
 For a deeper dive into fasting science, check out my videos at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who delivers results, visit [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 #### My Fasting Journey
 
 I started small, skipping a meal here and there. The first few days were rough—hunger pangs, irritability, the works. But I learned hunger comes in waves, and if you ride them out, they pass. Over time, I extended my fasts:
-
-	- **16:8 Intermittent Fasting**: I ate within an 8-hour window and fasted for 16 hours. This was my gateway to longer fasts.
-
-	- **24-Hour Fasts**: I’d go a full day without food, drinking only water, black coffee, or unsweetened tea. This built my confidence.
-
-	- **Extended Fasts**: My longest was 14 days, burning fat and resetting insulin sensitivity. I checked with my doctor first, especially since I was on medications.
 
 The result? I dropped 135 pounds in 7.5 months, going from 365 to 230 pounds. More importantly, I broke free from the drive-through diet. I stopped hiding in parking lots and started living with purpose.
 
@@ -80,47 +58,17 @@ If you’re curious about fasting or want to explore Santa Clarita real estate, 
 
 Ready to take control? Here’s how to start fasting and break the cycle of food addiction:
 
-	- **Start Small**: Try a 12-hour fast overnight (e.g., stop eating at 8 PM, eat again at 8 AM). Gradually extend to 16:8 or 24-hour fasts.
-
-	- **Stay Hydrated**: Drink water, black coffee, or unsweetened tea during fasts. It curbs hunger and keeps you energized.
-
-	- **Consult Your Doctor**: If you’re on medications or have health conditions, check with your doctor before fasting. Safety first.
-
-	- **Address Emotional Triggers**: Identify what drives you to eat—boredom, stress, or habit. Replace eating with activities like walking, reading, or journaling.
-
-	- **Forgive Yourself**: Slip-ups happen. If you break a fast or binge, don’t dwell on it. Acknowledge it, learn, and move forward.
-
-	- **Track Your Progress**: Use a journal or app to log fasts, weight, and how you feel. Seeing progress keeps you motivated.
-
-	- **Learn About Insulin**: Understand how carbs and sugars spike insulin, leading to fat storage. Fasting helps reset this cycle, but knowledge is power.
-
 For more fasting tips, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who’s all about results, check out [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about) or call 661-888-4983.
 
 ### The Mental Battle: Overcoming the Hunger Dilemma
 
 Fasting is as much a mental game as a physical one. The first few days, your brain screams, “Eat!” But hunger is temporary. It’s a wave, not a tsunami. Here’s how I tackled the mental side:
 
-	- **Reframe Hunger**: I told myself, “This is my body burning fat.” Hunger became a sign of progress, not pain.
-
-	- **Distraction is Key**: When cravings hit, I’d go for a walk, call a friend, or focus on work. As a realtor, I’d dive into helping clients find their dream home at [https://www.santaclaritaopenhouses.com/dream-home-finder](https://www.santaclaritaopenhouses.com/dream-home-finder).
-
-	- **Self-Forgiveness**: I had days where I caved and ate a burger. Instead of spiraling, I forgave myself and got back on track.
-
-	- **Visualize the Goal**: I pictured myself at 230 pounds, healthy and active. That vision kept me going.
-
 If you’re struggling with the mental side of fasting, I’m here to help. Check out [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) or email me at [connormacivor@gmail.com](mailto:connormacivor@gmail.com). For Santa Clarita real estate, visit [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 ### Why Fasting Works for Food Addiction
 
 Fasting isn’t a quick fix—it’s a lifestyle shift. Here’s why it’s effective for breaking food addiction:
-
-	- **Breaks the Cycle**: Fasting pauses autopilot eating, giving you a chance to reset.
-
-	- **Reduces Cravings**: Over time, fasting lowers insulin and retrains your brain to crave less sugar and carbs.
-
-	- **Builds Discipline**: Each fast strengthens willpower, making it easier to say no to unhealthy foods.
-
-	- **Improves Health**: Beyond weight loss, fasting improves insulin sensitivity, reduces inflammation, and boosts energy.
 
 For more on fasting’s benefits, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and want to explore real estate while working on your health, check out [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings) or call 661-888-4983.
 
@@ -150,16 +98,6 @@ A: Track progress, visualize goals, and forgive slip-ups. Connect with me at [co
 
 ### Recap: Key Points to Conquer Food Addiction with Fasting
 
-	- **Understand Food Addiction**: It’s driven by engineered foods, emotional triggers, and habits. Recognize the cycle to break it.
-
-	- **Embrace Fasting**: Start with short fasts, consult your doctor, and learn about insulin. Fasting resets your body and mind.
-
-	- **Tackle the Mental Game**: Reframe hunger, distract yourself, and forgive slip-ups to stay on track.
-
-	- **Get Support**: Visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) for tips, or contact me at 661-888-4983 or [connormacivor@gmail.com](mailto:connormacivor@gmail.com).
-
-	- **Explore Santa Clarita Real Estate**: If you’re in the area, check out [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
-
 Food addiction is tough, but you’re tougher. Take it one fast at a time, and you’ll be amazed at what you can achieve. I’m Connor MacIvor, here to help you transform—whether it’s your health or your home. Reach out today, and let’s make it happen.
 
 ** Share This Post## Comments
@@ -167,37 +105,6 @@ Food addiction is tough, but you’re tougher. Take it one fast at a time, and y
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -233,26 +140,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

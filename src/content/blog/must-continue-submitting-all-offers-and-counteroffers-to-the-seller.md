@@ -72,26 +72,6 @@ Waiving this obligation offers the seller some control over what types of offers
 
 In competitive markets like Santa Clarita, it’s common for sellers to receive multiple offers, often within a short timeframe. Here’s how Standard of Practice 1-7 and other ethical guidelines guide this process:
 
-	- 
-	**Timely Submission**: Every offer must be presented as soon as possible, ensuring sellers can act quickly in a fast-moving market.
-
-	
-
-	- 
-	**Written Confirmation**: Upon request, I provide written confirmation to the cooperating broker that their offer was presented to the seller. This reinforces transparency and fosters a cooperative environment with other agents.
-
-	
-
-	- 
-	**Strategic Counteroffers**: When advising on counteroffers, I help sellers assess each offer’s merits without prematurely dismissing any. Counteroffers can open doors to improved terms or even spark interest from competing buyers.
-
-	
-
-	- 
-	**Disclosure of Existing Offers**: With the seller’s permission, I disclose to other prospective buyers if there are multiple offers on the table. This can spur buyers to submit their highest and best offers, potentially benefitting the seller.
-
-	
-
 ### **Overcoming Seller Misunderstandings and Frustrations**
 
 For sellers new to real estate, the requirement to review every offer can be confusing or frustrating. Here are common misunderstandings and how I address them:
@@ -141,37 +121,6 @@ If you have questions about offer submission or want to discuss how I can suppor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -207,26 +156,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

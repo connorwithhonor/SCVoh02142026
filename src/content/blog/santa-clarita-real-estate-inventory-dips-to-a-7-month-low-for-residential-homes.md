@@ -19,9 +19,6 @@ Connor "with Honor" MacIvor - September 21, 2025** Tags: [santa clarita real est
 # Santa Clarita Real Estate Chaos: Inventory Plunges, Prices Teeter on the Edge – Why 2025 Could Be Your Make-or-Break Moment!
 
   
-    
-  
-
 **TL;DR** The Santa Clarita Valley (SCV) real estate market is a wild ride right now, with inventory dipping low amid California's broader slowdown—listings down month-over-month and year-over-year, homes lingering longer on the market, and prices showing subtle declines in spots while holding steady elsewhere. Over the last 7 days, we've got 73 Coming Soon listings teasing the pipeline, 719 Active properties begging for buyers, 118 Active Under Contract deals in limbo, 192 Pending sales inching toward close, and just 44 Closed transactions wrapping up. Price changes hit 68, signaling seller jitters, while expired (10), canceled (18), hold (12), and withdrawn (15) listings highlight the hesitation. Average list price hovers around $893,724, with homes averaging 64 days on market. No crash in sight, but with mortgage rates potentially dipping to 5.5% later in 2025 and SCV's mix of condos, townhomes, and single-family homes (attached/detached) in cities like Acton, Agua Dulce, Castaic, Canyon Country, Newhall, Saugus, Stevenson Ranch, Val Verde, and Valencia offering opportunities, buyers might gain leverage while sellers need to price sharp. As your no-BS Realtor (CALDRE 01238257), let's break it down—book a free Zoom consult at [https://www.santaclaritaopenhouses.com/dream-home-finder](https://www.santaclaritaopenhouses.com/dream-home-finder) or call 661-888-4983 to navigate this mess.
 
 ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-09-21%20064732.png?width=600&amp;height=565&amp;aspect_ratio=600%3A565)
@@ -50,12 +47,6 @@ These are the ones lurking in the shadows, not quite active yet. Average list pr
 
 The bulk of the inventory—719 listings begging for offers. Average price: $903,215, with homes from 1931 relics to 2025 new builds. Sizes range from 652 sqft tiny pads to 10,608 sqft mansions. $/sqft averages $432.18, lots from nada to over 1.5 million sqft (hello, Acton ranches?). Days on market: 66. Breakdown by price:
 
-	- Under $500K: Slim pickings—92 listings, mostly condos/townhomes. Avg $454,769 for 1,013 sqft, built 1987. Great for first-timers; check [https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000).
-
-	- $500K-$1M: 309 properties, sweet spot for families. Avg $756,544-$961,455, 1,800-2,571 sqft.
-
-	- Over $1M: 318 listings, where luxury lives. Up to $5.5M for that 1,413 sqft gem (wait, what? Must be land value in Val Verde).
-
 Humor break: If you're selling and your home's been active longer than my last fasting window (72 hours, easy), time to rethink pricing. See my tips at [https://www.santaclaritaopenhouses.com/setting-the-price](https://www.santaclaritaopenhouses.com/setting-the-price).
 
 ### Active Under Contract: Deals in Motion (118 Properties)
@@ -75,95 +66,6 @@ Just 44 closings last week—avg $765,665 sold (from $776,054 list), 99% SP/LP, 
 Expired (10): Avg $811,680, 119 days—overpriced much? Canceled (18): $898,078, 65 days. Hold (12): $804,917, 49 days (temp off-market). Withdrawn (15): $1,075,734, 109 days. Lesson: Price right or sit tight. More on avoiding this at [https://www.santaclaritaopenhouses.com/getting-the-highest-price-in-the-shortest-time](https://www.santaclaritaopenhouses.com/getting-the-highest-price-in-the-shortest-time).
 
 To visualize, here's a quick table of key market moves last 7 days:
-
-	
-		
-			Category
-			Count
-			Avg List Price
-			Avg Days on Market
-			Notes
-		
-	
-	
-		
-			Coming Soon
-			73
-			$995,580
-			0
-			Pipeline strong, higher-end focus
-		
-		
-			New Listings
-			73
-			Varies
-			N/A
-			Fresh blood keeping inventory alive
-		
-		
-			Price Changes
-			68
-			N/A
-			N/A
-			Sellers adjusting down? Classic sign of cooling
-		
-		
-			Back on Market
-			26
-			Varies
-			N/A
-			Deals fell through—buyer opportunities
-		
-		
-			Active Under Contract
-			34
-			$873,816
-			73
-			Contingencies galore
-		
-		
-			Pending
-			52
-			$889,929
-			55
-			Closings incoming
-		
-		
-			Closed
-			51
-			$765,665 (sold)
-			38
-			Steady, no fireworks
-		
-		
-			Expired
-			12
-			$811,680
-			119
-			Overstayed welcome
-		
-		
-			Canceled
-			22
-			$898,078
-			65
-			Sellers bailing
-		
-		
-			Hold
-			12
-			$804,917
-			49
-			Paused plays
-		
-		
-			Withdrawn
-			16
-			$1,075,734
-			109
-			Gone for good?
-		
-	
 
 This data screams balance—but with a buyer tilt if you play smart. Tie it to CA's dip: SCV's inventory drop mirrors statewide, but our local demand (tech commuters, families fleeing LA) keeps prices resilient.
 
@@ -195,58 +97,11 @@ SCV mirrors CA's cooldown but with local resilience—low inventory, steady dema
 
 **Recap**
 
-	- **Inventory Lowdown**: 1,133 total residential listings; Active dominates at 719, Coming Soon at 73 teasing more.
-
-	- **Price Pulse**: Avg $893,724 list, $436/sqft; under $500K affordable starters, over $1M luxury plays.
-
-	- **Market Moves**: 73 new, 68 changes, 44 closed—buyers gaining edge with 64 days avg on market.
-
-	- **CA Context**: Listings down, prices flat/dipping slightly; rates to 5.5% by late 2025, no crash ahead.
-
-	- **Buyer Tip**: Pre-approve, inspect—opportunities in mid-range.
-
-	- **Seller Tip**: Price right to avoid 119+ day expires.
-
-	- **AI Angle**: Leverage tech for edge; contact for custom solutions.
-
-	- **Connect**: Free consults at ZoomMeSCV.com or 661-888-4983.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -282,26 +137,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

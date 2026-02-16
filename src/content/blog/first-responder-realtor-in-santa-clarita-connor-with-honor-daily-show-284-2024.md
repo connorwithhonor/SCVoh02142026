@@ -30,54 +30,11 @@ Welcome to the Santa Clarita Real Estate Update, **Day 284 of 2024**! As your **
 
 Here’s the latest breakdown for all residential listings in **Santa Clarita**, including **Canyon Country**, **Castaic**, **Newhall**, **Saugus**, **Stevenson Ranch**, and **Valencia**:
 
-	- **Coming Soon**: 9 listings
-
-	- **New Listings**: 72
-
-	- **Price Changes**: 57
-
-	- **Back on Market**: 28
-
-	- **Active Under Contract**: 39
-
-	- **Pending**: 44
-
-	- **Closed Sales**: 61
-
-	- **Expired Listings**: 6
-
-	- **Canceled Listings**: 10
-
-	- **Hold**: 8
-
-	- **Withdrawn**: 2
-
 That gives us a total of **537 active residential listings**. As mortgage rates begin to dip, we’re expecting increased competition in the coming months. This is especially important for buyers who are on the fence about entering the market now versus waiting for rates to drop even further. [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
 
 ### **Three Risks of Waiting for Mortgage Rates to Fall**
 
 Mortgage rates have dropped significantly, with the average 30-year fixed rate sitting at **6.25%**—down from a high of over 8%. But waiting for rates to drop even further carries risks for homebuyers:
-
-	- 
-	**More Competition**
-
-	As rates drop, more buyers enter the market, increasing competition. In Santa Clarita, bidding wars are likely to become more common, making it harder to secure your dream home.
-
-	
-
-	- 
-	**Fewer Seller Concessions**
-
-	In a competitive market, sellers are less likely to offer concessions such as credits for closing costs or repairs. Now might be the best time to secure a home before sellers start tightening their offers.
-
-	
-
-	- 
-	**Rising Home Prices**
-
-	Lower rates often lead to higher home prices, especially in sought-after areas like **Valencia** and **Stevenson Ranch**. By buying now, you can potentially avoid paying more in the future. For more details on why waiting might not be in your best interest, check out [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
-
-	
 
 ### **First Responder Insights for Homebuyers and Sellers**
 
@@ -105,12 +62,6 @@ As a former first responder, I bring a level of **precision**, **protection**, a
 
 ### **Links and Contact Information**
 
-	- [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
-
-	- **Google Local Business**: [https://maps.app.goo.gl/9wHGfGMzCaaafUgS9](https://maps.app.goo.gl/9wHGfGMzCaaafUgS9)
-
-	- **LinkedIn**: [https://www.linkedin.com/in/santaclaritaopenhouses/](https://www.linkedin.com/in/santaclaritaopenhouses/)
-
 Can you give me a total publishing recap in detail with what we published in total for today's content?
 
 ChatGPT said:
@@ -123,60 +74,15 @@ Here’s a detailed recap of everything we published and created for today’s c
 
 **Video Title:**
 
-	- First Responder Realtor Gives 3 Reasons Why Not to Wait for Rates to Reduce Lower Before Buying
-
 **Video Link:**
 
-	- [https://youtu.be/72BFviz5Fnk](https://youtu.be/72BFviz5Fnk)
-
 **Description:**
-
-	- As your **First Responder Realtor**, I’m here to break down why waiting for rates to drop could end up costing you more in the long run. In this video, I cover 3 critical reasons to act now, so you don't miss out on the best opportunities in today's market. Watch the full video for key insights!
-
-	**YouTube Postings Today – Shorts:**
-
-	**1. First Responder Realtor Reveals MUST-KNOW New Commission Rules for Buyers and Sellers!**
-
-	As your **First Responder Realtor**, I’m here to break down the new commission rules that can impact how you buy and sell in today’s market. Stay informed and ahead of the game.
-
-	
 
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -212,26 +118,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

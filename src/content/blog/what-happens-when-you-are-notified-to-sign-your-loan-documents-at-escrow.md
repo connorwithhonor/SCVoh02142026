@@ -21,9 +21,6 @@ Connor "with Honor" MacIvor - August 20, 2025** Tags: [santa clarita real estate
 ## TL;DR
 
   
-    
-  
-
 Signing loan documents at escrow is a make-or-break moment in your Santa Clarita home-buying journey as of August 20, 2025. This late-night process with a trained notary demands you scrutinize every detail—especially if interest rates or terms shift unexpectedly. With 767 active listings in the valley, including 7 new properties today, timing is critical. Connor MacIvor, ex-LAPD officer and real estate strategist, shares insider tips on preparation, questioning discrepancies, and leveraging your agent and lender. Dive into this 6,000+ word guide for a deep dive into due diligence, escrow nuances, and how to protect your investment.
 
 ## The Inside Scoop: Navigating Loan Document Signing
@@ -66,16 +63,6 @@ California law gives you a three-day right of rescission on certain loans (e.g.,
 
 Let’s unpack the stack. The Closing Disclosure (CD) is your bible—compare it to your Loan Estimate. Look for:
 
-	- **Loan Amount**: Matches your offer?
-
-	- **Interest Rate**: Locked or floating? Any points?
-
-	- **Monthly Payment**: Principal, interest, taxes, insurance (PITI)—all align?
-
-	- **Closing Costs**: Fees under $500? Over? Question outliers.
-
-	- **Prepayment Penalty**: None is ideal; flag if present.
-
 The promissory note binds you to repay—check the term (15, 30 years?) and default clauses. The deed of trust secures the loan with your home—ensure the property address is correct. Riders might adjust terms (e.g., adjustable-rate mortgages). Misalignments? Halt and call your lender. I’ve caught errors like wrong loan terms, saving clients from overpayment.
 
 ### Rate Lock Risks
@@ -108,52 +95,11 @@ Neighbors matter too. After signing, door-knock them—my next video covers this
 
 ## Recap
 
-	- **Market Context**: 767 listings, 7 new today—act decisively.
-
-	- **Signing Process**: Late-night, notary-led—read and question all.
-
-	- **Preparation**: Alert team, have docs ready, stop if terms shift.
-
-	- **Protection**: Guards against 30-year financial pitfalls.
-
-	- **Next Step**: Final walkthrough tomorrow—details on [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/).
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -189,26 +135,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

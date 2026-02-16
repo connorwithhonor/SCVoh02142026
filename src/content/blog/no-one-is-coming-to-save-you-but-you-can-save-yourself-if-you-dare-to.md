@@ -60,12 +60,6 @@ You are not alone in having problems. But you *can* be different in how you resp
 
 A lot of guys sit around waiting for the perfect moment.
 
-	- “I’ll start working out when I feel more motivated.”
-
-	- “I’ll quit smoking when life gets less stressful.”
-
-	- “I’ll go after that career I want once I have more confidence.”
-
 Stop waiting. That moment will never come.
 
 You don’t need to have it all figured out. You don’t need to feel strong. You don’t need to have all your past trauma resolved before you take action. You just need to start.
@@ -76,12 +70,6 @@ If you feel like you’re in a downward spiral, the way out isn’t to wait for 
 
 Here’s another hard truth: No matter how bad your situation seems, chances are, someone has it worse.
 
-	- If you have two working legs, there’s someone out there who doesn’t.
-
-	- If you have a functioning brain, there’s someone out there battling a mental illness that cripples their daily life.
-
-	- If you have a roof over your head, there’s someone out there sleeping on the street.
-
 Your situation might feel hopeless, but I guarantee you, it’s not.
 
 And even if you are at rock bottom, guess what? That means the only direction left to go is up.
@@ -89,14 +77,6 @@ And even if you are at rock bottom, guess what? That means the only direction le
 ## **The Only Person Who Owes You Anything Is You**
 
 Nobody is obligated to help you. Nobody is sitting around thinking about how to fix your problems for you. If you want to change, you have to do it yourself.
-
-	- If you’re overweight, fix your diet, start moving, and look into fasting.
-
-	- If you have mental baggage, seek therapy, join a support group, or start journaling.
-
-	- If you’re broke, learn a skill, get a job, and work your way up.
-
-	- If you lack confidence, challenge yourself, set goals, and start stacking wins.
 
 No one is stopping you but you.
 
@@ -119,37 +99,6 @@ Now go prove it.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -185,26 +134,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

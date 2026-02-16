@@ -39,16 +39,6 @@ To put this in perspective, let’s drill into the median days on market (DOM) v
 
 Let’s break down the numbers to give you a granular view of SCV’s residential market across Castaic, Canyon Country, Newhall, Saugus, Stevenson Ranch, and Valencia. Based on 21,000 listings from January 2021 to June 2025:
 
-	- **January 2021**: 8 days to sell, $599,900 median list price
-
-	- **July 2022**: 12 days, $739,999 (a peak demand period)
-
-	- **December 2022**: 27 days, $677,389 (market softening)
-
-	- **January 2024**: 26 days, $725,000 (stabilization)
-
-	- **June 2025**: 25 days, $750,000 (current state)
-
 Contrast this with Southern California-wide data (over 2.1 million listings), where DOM hit 34 days in January 2025 at a $599,800 median list price, and SCV’s stronger price points stand out despite longer market times. This resilience points to sustained local demand, but the growing inventory—now at 808—could tip the balance toward buyers if the trend continues. The interplay of DOM and list price reveals a market in flux, where timing and strategy are everything.
 
 #### The Driving Forces: Mortgage Rates and Golden Handcuffs
@@ -79,16 +69,6 @@ As an AI influencer with [https://www.youtube.com/@aiwithhonor](https://www.yout
 
 #### Recap: Key Highlights
 
-	- SCV now has 808 active listings, up 50+ recently, with 111 price changes (6 increases, 105 decreases).
-
-	- Median days on market rose from 8 (Jan 2021) to 25 (Jun 2025), with list prices climbing to $750,000.
-
-	- Mortgage rates and “golden handcuffs” are stalling sellers, but a rate cut could trigger a surge.
-
-	- Buyers gain leverage—negotiate and avoid waiving appraisals. Sellers need strategic pricing.
-
-	- Connect with me at [https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com), [https://zoommescv.com](https://zoommescv.com), or 661-888-4983 for tailored guidance.
-
 ### Social Media Post
 
 **Shocking SCV Real Estate Surge Exposed – 808 Listings and 111 Price Drops! **
@@ -98,37 +78,6 @@ As an AI influencer with [https://www.youtube.com/@aiwithhonor](https://www.yout
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -164,26 +113,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

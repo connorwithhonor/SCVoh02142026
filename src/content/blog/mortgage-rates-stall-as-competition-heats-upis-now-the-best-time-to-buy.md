@@ -28,28 +28,6 @@ For buyers, this is a key factor. The Federal Reserve’s recent moves might not
 
 Let’s talk about the real action here in **Santa Clarita**. As of today’s Market Watch:
 
-	- **Coming Soon**: 14 homes
-
-	- **New Listings**: 75 homes
-
-	- **Price Changes**: 74 homes
-
-	- **Back on Market**: 19 homes
-
-	- **Active Under Contract**: 28 homes
-
-	- **Pending**: 55 homes
-
-	- **Closed**: 66 homes
-
-	- **Expired**: 9 homes
-
-	- **Canceled**: 12 homes
-
-	- **Hold**: 13 homes
-
-	- **Withdrawn**: 3 homes
-
 That brings the total Santa Clarita residential inventory to **536 homes**. Now, let’s look specifically at **Saugus** and **Castaic** for a more detailed breakdown. In Saugus, we’re seeing a mix of single-family homes and townhomes hitting the market, with competitive pricing and homes moving fast. **Castaic**, on the other hand, offers a bit more breathing room with slightly more inventory, but don't be fooled—competition is still fierce.
 
 ### **Competition Among Buyers Is Heating Up**
@@ -78,10 +56,6 @@ Ready to dive into Santa Clarita’s housing market? Let’s talk. I’m Connor 
 
 ### **Related:**
 
-	- [How Price Changes Affect Your Buying Power in Santa Clarita](www.santaclaritaopenhouses.com)
-
-	- [Santa Clarita's Market Breakdown: What to Know Before You Buy](www.santaclaritaopenhouses.com)
-
 ### **Mortgage Rates Stall as Competition Heats Up—Is Now the Best Time to Buy in Santa Clarita?**
 
 If you’ve been waiting on the Fed to lower the rates significantly before making your move in the real estate market, you might want to rethink that strategy. As of now, mortgage rates have stabilized in the high fives to low sixes, and while that’s better than the sky-high rates from last year, we’re not seeing the drastic drops some were hoping for. Here’s the kicker: the real estate market in **Santa Clarita** isn’t waiting around for the perfect rate—and neither should you.
@@ -97,16 +71,6 @@ In the same period, **74 homes** had price adjustments, meaning sellers are gett
 ### **A Closer Look at Saugus and Castaic**
 
 Now, let’s zoom in on two key areas—**Saugus** and **Castaic**.
-
-	- 
-	In **Saugus**, you’re seeing a healthy blend of single-family homes and townhomes hitting the market. The price adjustments here signal that sellers are willing to negotiate, but buyers should be prepared for competitive bidding.
-
-	
-
-	- 
-	Over in **Castaic**, there’s slightly more inventory, giving buyers a bit more breathing room. However, competition remains high. Families are drawn to the space and proximity to amenities, making homes in this area just as likely to sell quickly.
-
-	
 
 ### **Back on Market Properties: Another Chance?**
 
@@ -147,37 +111,6 @@ Santa Clarita Real Estate Expert
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -213,26 +146,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

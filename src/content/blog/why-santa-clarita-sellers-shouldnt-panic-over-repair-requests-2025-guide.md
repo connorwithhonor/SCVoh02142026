@@ -24,22 +24,6 @@ Connor "with Honor" MacIvor - July 25, 2025** Tags: [santa clarita real estate](
 
 Let’s set the stage with the latest market snapshot as of July 25, 2025. Santa Clarita’s real estate market is buzzing with 799 active listings, including 11 “coming soon” properties. If you’re curious about those, head to [https://www.santaclaritaopenhouses.com/comingsoon](https://www.santaclaritaopenhouses.com/comingsoon) to get the scoop before they hit the market. Here’s the breakdown:
 
-	- **New Listings**: 88 properties hit the market this week.
-
-	- **Price Changes**: 93 listings saw price adjustments—down from triple digits recently, but still a sign of sellers tweaking strategies.
-
-	- **Back on Market**: 19 properties returned after cancellations.
-
-	- **Active Under Contract**: 35 properties are in limbo, waiting for contingencies to clear.
-
-	- **Pending**: 56 deals are moving toward closing.
-
-	- **Closed**: 69 homes sold in the last seven days.
-
-	- **Expired, Canceled, or Withdrawn**: 6, 14, and 5 listings, respectively, didn’t make it to the finish line.
-
-	- **On Hold**: 21 properties are paused, likely for strategic reasons.
-
 This data, pulled from [https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-trends](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-trends), shows a dynamic market with opportunities for sellers—but also challenges, like repair requests. Let’s dive into why these requests aren’t always the enemy and how to handle them like a pro.
 
 ## Repair Requests: Not a Stick-Up, Just Business
@@ -49,16 +33,6 @@ In California, all properties are sold “as is,” meaning buyers accept the ho
 ### 1. Health and Safety Issues: Non-Negotiable (Mostly)
 
 Lenders and appraisers don’t mess around when it comes to health and safety. If an appraiser flags issues during a financed purchase, you’re likely on the hook to fix them. Common culprits include:
-
-	- **Smoke and Carbon Monoxide Detectors**: Missing or faulty? You’ll need to install or replace them.
-
-	- **Gas Seismic Shutoff Valves**: Required in areas like Santa Clarita and San Fernando Valley.
-
-	- **Water Heater Strapping**: A must for earthquake-prone regions.
-
-	- **Termite Infestations**: Lenders often demand remediation, though cash buyers might negotiate.
-
-	- **Mold or Structural Issues**: These can halt a sale if not addressed.
 
 For example, Los Angeles County requires specific retrofits, and companies specialize in certifying compliance (check [https://www.santaclaritaopenhouses.com/understanding-preliminary-reports](https://www.santaclaritaopenhouses.com/understanding-preliminary-reports) for details). Ignoring these can kill your deal, so it’s often smarter to fix them than risk losing the buyer.
 
@@ -90,23 +64,11 @@ Demand the home inspection report and verify the inspector’s credentials. Cros
 
 Consider the cost of saying no. If you deny repairs and the buyer walks, you’re back to square one. Factor in:
 
-	- **Time to Relist**: How long did it take to get this buyer? Check [https://www.santaclaritaopenhouses.com/how-long-to-sell-a-home-in-santa-clarita-ca-july-2024-closing-figures](https://www.santaclaritaopenhouses.com/how-long-to-sell-a-home-in-santa-clarita-ca-july-2024-closing-figures) for average days on market.
-
-	- **Repair Costs**: Will you need to fix the issues anyway for the next buyer?
-
-	- **Market Dynamics**: With 799 active listings, competition is stiff. A unique property (e.g., one near a freeway or with a big view) may take longer to sell (see [https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024](https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024)).
-
 If the buyer’s financing is cash, you have more wiggle room, as appraisers aren’t involved. But don’t assume cash buyers will overlook major issues like termites—they’ll still want disclosures.
 
 ### Step 4: Negotiate Smart
 
 Everything’s negotiable, but don’t touch the agent’s commission—that’s a done deal, and renegotiating it mid-escrow is bad form (check [https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate](https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate)). Instead, offer compromises:
-
-	- **Split the Cost**: Agree to cover half the repair costs.
-
-	- **Credit at Closing**: Offer a credit instead of doing the repairs yourself.
-
-	- **Fix Only Essentials**: Prioritize health and safety issues over cosmetic ones.
 
 If the buyer’s demands are outrageous, lean on your backup offers. With 88 new listings this week, buyers have options, but so do you if your property’s priced right.
 
@@ -124,16 +86,6 @@ Want to talk strategy? Book a free, no-obligation consultation at [https://zoomm
 
 Here are the pitfalls I see sellers fall into when handling repair requests:
 
-	- **Ignoring Health and Safety Issues**: Lenders won’t budge on these, and you’ll lose more time relisting.
-
-	- **Overreacting to Cosmetic Requests**: Negotiate or say no—don’t let small asks derail the deal.
-
-	- **Not Vetting Inspectors**: A shoddy report can inflate costs or scare buyers unnecessarily.
-
-	- **Forgetting Disclosure Rules**: Once an issue’s documented, you can’t hide it from future buyers.
-
-	- **Going After Commissions**: It’s a non-starter and risks souring the deal.
-
 Learn more about avoiding these traps at [https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge).
 
 ## The Role of AI in Smarter Real Estate Decisions
@@ -146,18 +98,6 @@ Denying repair requests isn’t the end of the world, but it’s a gamble. If yo
 
 ## Recap: Key Takeaways for Santa Clarita Sellers
 
-	- **Understand “As Is”**: In California, properties are sold as is, but repair requests are negotiable.
-
-	- **Prioritize Health and Safety**: Lender-required fixes like smoke detectors or termite remediation aren’t optional.
-
-	- **Verify Costs**: Use AI tools or second opinions to ensure repair estimates are legit.
-
-	- **Weigh the Consequences**: Denying requests could mean relisting and addressing issues anyway due to disclosure laws.
-
-	- **Negotiate Strategically**: Offer credits or split costs instead of caving to inflated demands.
-
-	- **Work with a Pro**: A first responder-turned-realtor like me brings street-smarts and AI-powered insights to the table.
-
 Ready to navigate your sale? Book a free consultation at [https://zoommescv.com](https://zoommescv.com) or call 661-888-4983. Let’s make your Santa Clarita real estate deal a win.
 
 ** Share This Post## Comments
@@ -165,37 +105,6 @@ Ready to navigate your sale? Book a free consultation at [https://zoommescv.com]
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -231,26 +140,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

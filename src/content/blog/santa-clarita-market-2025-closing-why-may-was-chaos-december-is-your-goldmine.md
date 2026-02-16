@@ -34,127 +34,7 @@ Let’s look at the raw data for Single Family Residences across the valley. The
 
 ### The Speed of the Market (Median Days to Sell)
 
-	- 
-	**January:** 32 Days
-
-	
-
-	- 
-	**February:** 22 Days
-
-	
-
-	- 
-	**March:** 23 Days
-
-	
-
-	- 
-	**April:** 20 Days
-
-	
-
-	- 
-	**May:** 18 Days (The fastest month of the year)
-
-	
-
-	- 
-	**June:** 24 Days
-
-	
-
-	- 
-	**July:** 29 Days
-
-	
-
-	- 
-	**August:** 27 Days
-
-	
-
-	- 
-	**September:** 33 Days
-
-	
-
-	- 
-	**October:** 41 Days (The slowest month)
-
-	
-
-	- 
-	**November:** 36 Days
-
-	
-
-	- 
-	**December:** 32 Days
-
-	
-
 ### The Inventory Rollercoaster (Number of Active Listings)
-
-	- 
-	**January:** 635
-
-	
-
-	- 
-	**February:** 696
-
-	
-
-	- 
-	**March:** 710
-
-	
-
-	- 
-	**April:** 770
-
-	
-
-	- 
-	**May:** 835
-
-	
-
-	- 
-	**June:** 853 (The peak of inventory)
-
-	
-
-	- 
-	**July:** 850
-
-	
-
-	- 
-	**August:** 797
-
-	
-
-	- 
-	**September:** 770
-
-	
-
-	- 
-	**October:** 697
-
-	
-
-	- 
-	**November:** 584
-
-	
-
-	- 
-	**December:** 546 (The lowest inventory level)
-
-	
 
 What does this tell us? It tells us that if you were a buyer in **May**, you were in a shark tank. Homes were flying off the market in 18 days. But if you waited until **June**, you had the most choices with 853 active listings. Conversely, if you are looking right now, or planning for late 2026, realize that December inventory drops hard—down to 546 listings. Less competition for sellers, but fewer choices for buyers.
 
@@ -194,21 +74,6 @@ I don't play that game.
 
 My referral system is built on **trust and verification**. I spent 20+ years in the LAPD. I know how to investigate. I know how to read people. When you come to **SantaClaritaOpenHouses.com** and ask for an agent, I am not sending you to the highest bidder. I am hunting down the agent who fits *your* specific needs.
 
-	- 
-	Need a shark negotiator? I know them.
-
-	
-
-	- 
-	Need a patient guide for a first-time buyer? I know them.
-
-	
-
-	- 
-	Need an expert in equestrian property? I know them.
-
-	
-
 I interview them. I check their track record. I ensure they are not just "salespeople" but true fiduciaries. This is the same discipline I apply to my own life, whether it is dropping 135 pounds of fat through intermittent fasting (check out **@FastingwithHonor** and **@Homemuscle**) or mastering the Artificial Intelligence space.
 
 ## Integrating AI into Your Real Estate Journey
@@ -221,32 +86,7 @@ For my fellow agents who want to elevate their game, visit **[https://honoreleva
 
 Based on the 2025 data, here is your game plan:
 
-	- 
-	**Don't Fear the Winter:** Look at December's stats. 32 Days on Market. Inventory is low (546 listings), but so is buyer competition. Sellers who list in December are serious. They are not "testing the market." They need to sell. That is your leverage.
-
-	
-
-	- 
-	**Be Ready to Sprint in May:** If history repeats, May 2026 will be fast. 18 days on market means you need your pre-approval fully underwritten—not just pre-qualified—before you even step foot in an open house.
-
-	
-
-	- 
-	**Watch the Inventory Peak:** June brought 853 listings. If you are picky and need a very specific floor plan, June is your month to hunt.
-
-	
-
 ## Strategic Advice for Sellers in 2026
-
-	- 
-	**Beat the Crowd:** Everyone lists in Spring. Inventory started climbing from 635 in Jan to 835 in May. If you list in February (696 listings) or March (710 listings), you beat the flood of competition that hits in June.
-
-	
-
-	- 
-	**Price for the Freeze:** If you are listing in October (41 days on market), realize that patience is required. Do not panic and slash your price after one week. The data shows it takes longer that time of year.
-
-	
 
 ## Q &amp; A: Santa Clarita Real Estate
 
@@ -294,26 +134,6 @@ Let’s get to work.
 
 To navigate the market effectively, use the resources I have built for you on the site.
 
-	- 
-	**Market Data:** Keep an eye on the **[Santa Clarita Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)**. It is updated weekly.
-
-	
-
-	- 
-	**Property Search:** Use the **[Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search)** to filter by school district or specific amenities like pools and RV parking.
-
-	
-
-	- 
-	**Foreclosures:** Interested in distressed properties? Check the **[Foreclosure Search](https://www.santaclaritaopenhouses.com/foreclosure-search)**.
-
-	
-
-	- 
-	**Active Listings:** See what is available right now at **[Active Listings](https://www.santaclaritaopenhouses.com/active-listings)**.
-
-	
-
 And if you are an agent or business owner looking to scale, do not ignore the AI revolution. It is here, and it is changing how we buy and sell homes. Join me at **@AIwithHonor** to stay ahead of the curve.
 
 **Disclaimer:** *I am a referral agent and Realtor. I seek a referral fee from the agents I place you with. This ensures I stay involved and accountable to you throughout the process. I do not charge you, the buyer or seller, for this service. My loyalty is to the truth and to your success.*
@@ -323,37 +143,6 @@ And if you are an agent or business owner looking to scale, do not ignore the AI
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -389,26 +178,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

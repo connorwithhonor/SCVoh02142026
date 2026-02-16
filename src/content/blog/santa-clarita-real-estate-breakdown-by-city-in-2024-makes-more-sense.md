@@ -26,168 +26,19 @@ We currently have **530 active listings** across Santa Clarita Valley, a dynamic
 
 Here’s a breakdown of active listings in each major Santa Clarita Valley city:
 
-	- **Castaic**: 50 listings
-
-	- **Canyon Country**: 120 listings
-
-	- **Newhall**: 60 listings
-
-	- **Saugus**: 100 listings
-
-	- **Stevenson Ranch**: 40 listings
-
-	- **Valencia**: 160 listings
-
 Each city caters to various buyer preferences, whether you’re looking for a spacious single-family home or a more compact condo or townhome.
 
 ### Single-Family Homes, Condos, and Townhomes by City
 
 Santa Clarita real estate offers a wide selection of property types to fit different lifestyles and budgets. Below, we’ll break down the available listings by property type and city:
 
-	- 
-	**Castaic**:
-
-	
-		Single-Family Homes: 35
-
-		- Condos/Townhomes: 15
-
-	
-
-	
-	- 
-	**Canyon Country**:
-
-	
-		Single-Family Homes: 80
-
-		- Condos/Townhomes: 40
-
-	
-
-	
-	- 
-	**Newhall**:
-
-	
-		Single-Family Homes: 40
-
-		- Condos/Townhomes: 20
-
-	
-
-	
-	- 
-	**Saugus**:
-
-	
-		Single-Family Homes: 70
-
-		- Condos/Townhomes: 30
-
-	
-
-	
-	- 
-	**Stevenson Ranch**:
-
-	
-		Single-Family Homes: 30
-
-		- Condos/Townhomes: 10
-
-	
-
-	
-	- 
-	**Valencia**:
-
-	
-		Single-Family Homes: 100
-
-		- Condos/Townhomes: 60
-
-	
-
-	
-
 ### Bedroom Counts - Homes for All Family Sizes
 
 If you’re looking for a specific number of bedrooms, here’s a breakdown by city for homes with 3, 4, and 5+ bedrooms:
 
-	- 
-	**5+ Bedrooms**:
-
-	
-		Castaic: 10
-
-		- Canyon Country: 15
-
-		- Newhall: 8
-
-		- Saugus: 12
-
-		- Stevenson Ranch: 5
-
-		- Valencia: 20
-
-	
-
-	
-	- 
-	**4 Bedrooms**:
-
-	
-		Castaic: 15
-
-		- Canyon Country: 25
-
-		- Newhall: 12
-
-		- Saugus: 20
-
-		- Stevenson Ranch: 10
-
-		- Valencia: 30
-
-	
-
-	
-	- 
-	**3 Bedrooms**:
-
-	
-		Castaic: 25
-
-		- Canyon Country: 50
-
-		- Newhall: 30
-
-		- Saugus: 40
-
-		- Stevenson Ranch: 25
-
-		- Valencia: 60
-
-	
-
-	
-
 ### Recent Market Activity and Price Adjustments
 
 In the past seven days, we’ve observed notable shifts in the Santa Clarita market:
-
-	- **New Listings**: 59 properties have been added to the market, offering fresh options for buyers.
-
-	- **Price Changes**: 75 properties have experienced price adjustments, with most of these being reductions. Sellers are adapting to the market, setting prices that are competitive for buyers.
-
-	- **Back on Market**: 21 properties previously in escrow have returned to the market.
-
-	- **Pending and Under Contract**: 66 properties are in various stages of escrow, moving closer to closing.
-
-	- **Closed Sales**: 70 properties recently sold, providing valuable insight into pricing trends.
-
-	- **Expired and Canceled Listings**: Some listings have expired (13) or been canceled (15), often due to pricing or changes in the seller’s plans.
 
 ### Market Insights and Considerations for Buyers and Sellers
 
@@ -255,14 +106,6 @@ If you’re looking for trusted insights into the Santa Clarita Valley real esta
 
 Explore the city-specific breakdown of **Santa Clarita real estate** to find where inventory is available and learn about current pricing trends, interest rate changes, and market forecasts heading into 2025. Whether you’re planning to buy, sell, or simply stay updated on local real estate trends, these resources will help you navigate the market with confidence:
 
-	- **Santa Clarita Open Houses &amp; Real Estate Breakdown by City**: [https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-breakdown-by-city-in-2024-makes-more-sense](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-breakdown-by-city-in-2024-makes-more-sense)
-
-	- **Podcast Episode on the 30% Mortgage Rule for Buyers**: [https://www.buzzsprout.com/admin/298109/episodes/16071155-santa-clarita-real-estate-don-t-spend-more-than-30-percent-of-your-after-tax-income-on-a-mortgage](https://www.buzzsprout.com/admin/298109/episodes/16071155-santa-clarita-real-estate-don-t-spend-more-than-30-percent-of-your-after-tax-income-on-a-mortgage)
-
-	- **Daily Market Updates for Santa Clarita Valley**: [https://posts.gle/ooCTyz](https://posts.gle/ooCTyz)
-
-	- **Current Video Market Update on YouTube**: [https://youtu.be/zCd4mPWyOCc](https://youtu.be/zCd4mPWyOCc)
-
 **Stay Connected for Real Estate News**
 
 For daily updates, real estate tips, and market trends across **Santa Clarita Valley** including **price changes, neighborhood breakdowns, and interest rate shifts**, follow our updates and subscribe to the latest episodes on our YouTube and Podcast channels. With real-time insights, I help you make informed real estate decisions every step of the way in Santa Clarita.
@@ -274,37 +117,6 @@ For daily updates, real estate tips, and market trends across **Santa Clarita Va
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -340,26 +152,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

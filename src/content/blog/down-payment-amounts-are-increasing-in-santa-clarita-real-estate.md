@@ -26,15 +26,9 @@ Several key factors are contributing to the increase in down payments across the
 
 **1. Lack of Inventory:**
 
-	- With only **88 new listings** and **76 price changes** in recent days, the inventory remains extremely tight. There simply aren’t enough homes to meet the high demand. As a result, buyers are putting down larger amounts to make their offers stand out. This is especially true in cities like **Valencia, Stevenson Ranch, and Saugus**, where demand consistently outstrips supply.
-
 **2. High Competition:**
 
-	- Fewer homes mean more competition. We’ve seen **48 closed sales** in the last week, many of which went over the asking price. Buyers are upping their down payments not only to strengthen their offers but also to demonstrate their financial stability to sellers who are looking for strong, qualified buyers.
-
 **3. Fed Rate Cuts &amp; Mortgage Rates:**
-
-	- The recent Federal Reserve rate cut (bringing the federal funds rate down to **4.75-5.00%**) has sparked interest from buyers looking to lock in lower mortgage rates. Despite the drop, affordability is still a concern. To compensate, buyers are offering more upfront to reduce their monthly mortgage payments. It’s a delicate balance between securing a good rate and making an attractive offer in today’s market.
 
 ### Why Is Inventory So Limited?
 
@@ -42,21 +36,13 @@ The scarcity of available homes in Santa Clarita comes down to a few key issues:
 
 **1. Reluctant Sellers:**
 
-	- Many homeowners are holding off on selling, waiting for prices to rise further. This hesitation has created a bottleneck in the market, especially in high-demand areas like **Castaic, Canyon Country, Saugus, Newhall, Stevenson Ranch**, and **Valencia**. Homeowners with low mortgage rates are particularly reluctant to sell and re-enter the market at today’s higher rates.
-
 **2. Rising Home Prices:**
-
-	- Santa Clarita’s median home price remains above **$800,000**, making affordability a major hurdle for buyers. With fewer homes available, those who can afford to buy are often in a financial position to offer larger down payments, further driving up competition.
 
 ### How Are Buyers and Sellers Responding?
 
 **Buyers:**
 
-	- If you’re a buyer, it’s important to plan ahead for larger down payments. While this might strain your resources upfront, it can help secure a lower mortgage rate and reduce your monthly payments. First-time buyers or those with limited savings may feel discouraged, but working with an experienced agent—like myself, Connor with Honor—can help you navigate these challenges and uncover opportunities where others might not see them.
-
 **Sellers:**
-
-	- If you’re a seller, now is the perfect time to take advantage of the competitive market. However, proper pricing and marketing are still critical to ensuring your home attracts the right buyers. With **42 homes currently under contract** and **48 pending sales**, well-priced homes are moving quickly, but with the right strategy, you can maximize your home’s value.
 
 ### What Does This Mean for the Future of Santa Clarita Real Estate?
 
@@ -72,12 +58,6 @@ For the latest updates, check out my **Santa Clarita Real Estate Market Watch**,
 
 **Stay informed with more insights:**
 
-	- **Podcast**: [Markets Already Adjusting to Fed Rate Reductions](https://www.buzzsprout.com/admin/298109/episodes/15775461-markets-already-adjusting-to-fed-rate-reductions)
-
-	- **Short Video**: [Watch Here](https://youtube.com/shorts/WSr87r-8GK0?feature=share)
-
-	- **Full Video Breakdown**: [Watch Full Video](https://youtu.be/jWwzzpQfL1Y)
-
 I’m Connor with Honor, and I look forward to helping you navigate this ever-changing market. Reach out today, and let’s talk about how I can assist with your real estate goals.
 
 ** Share This Post## Comments
@@ -85,37 +65,6 @@ I’m Connor with Honor, and I look forward to helping you navigate this ever-ch
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -151,26 +100,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

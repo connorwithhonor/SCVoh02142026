@@ -40,18 +40,6 @@ A buyer's agent represents YOU and your interests when purchasing a home. A list
 
 A **listing agent** (also called a seller's agent) is hired by the homeowner to sell their property. Their job is to:
 
-	- Price the home to maximize the seller's profit
-
-	- Market the property to attract buyers
-
-	- Show the home to potential buyers
-
-	- Present all offers to the seller
-
-	- Negotiate the highest price and best terms FOR THE SELLER
-
-	- Manage the transaction through closing
-
 **Who they represent:** The seller (and ONLY the seller)
 
 **Who pays them:** Traditionally, the seller paid both the listing agent and the buyer's agent out of the sale proceeds. As of August 2024 (still in effect in 2026), this has changed: buyer's agents negotiate their fees directly with buyers, and sellers decide whether to offer any compensation. More on this below.
@@ -61,22 +49,6 @@ A **listing agent** (also called a seller's agent) is hired by the homeowner to 
 ### What Is a Buyer's Agent?
 
 A **buyer's agent** (also called a buyer's representative) is hired by YOU to help you purchase a home. Their job is to:
-
-	- Understand your needs, budget, and priorities
-
-	- Search for homes that fit your criteria (including [coming soon listings](https://www.santaclaritaopenhouses.com/comingsoon))
-
-	- Schedule and attend showings
-
-	- Pull comparable sales data to determine fair market value
-
-	- Write and submit offers on your behalf
-
-	- Negotiate price, repairs, and terms FOR YOU
-
-	- Coordinate inspections, appraisals, and escrow
-
-	- Protect your interests throughout the transaction
 
 **Who they represent:** YOU (and only you)
 
@@ -92,16 +64,6 @@ In Santa Clarita's competitive market—especially in hot neighborhoods like [Va
 
 The listing agent knows EVERYTHING about the property:
 
-	- How long it's been on the market
-
-	- How many offers the seller has received
-
-	- What price the seller will actually accept
-
-	- Known issues with the home (foundation, roof, plumbing)
-
-	- Why the seller is moving (divorce, job loss, foreclosure)
-
 If you work with the listing agent, they're not required to share this information with you—even if it would help you negotiate. But a buyer's agent will dig for this information and use it to your advantage.
 
 ### 2. Negotiation Leverage
@@ -113,12 +75,6 @@ Real estate is the same. A listing agent's PRIMARY loyalty is to the seller. Eve
 ### 3. The 2026 Rules Make This Even More Important
 
 Under new NAR settlement rules (effective August 2024, still in force in 2026):
-
-	- **Buyer broker agreements are mandatory** before agents can show you homes
-
-	- **Commissions are negotiable** and must be disclosed upfront
-
-	- **Sellers are no longer required to pay buyer's agent fees** (though many still do as a concession)
 
 This means you MUST have a clear agreement with your buyer's agent about how they'll be compensated. If you try to work with the listing agent, the fee structure becomes even murkier—and you have less leverage.
 
@@ -136,21 +92,7 @@ Even though it's legal, dual agency creates massive conflicts of interest:
 
 **For buyers:**
 
-	- The agent can't tell you the seller's bottom-line price
-
-	- The agent can't advise you to offer less than asking price
-
-	- The agent can't negotiate aggressively on your behalf
-
-	- The agent can't disclose seller motivation (divorce, financial distress, etc.)
-
 **For sellers:**
-
-	- The agent can't tell the seller the buyer's maximum budget
-
-	- The agent can't advise the seller to reject a lowball offer
-
-	- The agent can't push the buyer to offer more
 
 **Who wins?** The agent—because they keep both sides of the commission (typically 5-6% of the sale price instead of 2.5-3%).
 
@@ -162,29 +104,7 @@ Even though it's legal, dual agency creates massive conflicts of interest:
 
 **Without dual agency:**
 
-	- You hire your own buyer's agent
-
-	- Your agent pulls comps and determines fair market value is $720,000-$730,000
-
-	- Your agent writes an offer at $725,000
-
-	- After negotiation, you close at $735,000
-
-	- **You save $15,000**
-
 **With dual agency:**
-
-	- You work with the listing agent
-
-	- The listing agent says, "This is priced fairly, you should offer full price"
-
-	- You trust them because they seem nice
-
-	- You offer $750,000
-
-	- The seller accepts immediately
-
-	- **You overpay by $15,000**
 
 Guess who made an extra $15,000-$22,500 in commission? The dual agent.
 
@@ -196,41 +116,13 @@ Now it's more complicated:
 
 ### Old Rules (Pre-2024):
 
-	- Seller pays 5-6% commission at closing
-
-	- Listing agent gets 2.5-3%
-
-	- Buyer's agent gets 2.5-3%
-
-	- Buyer pays $0 out of pocket
-
 ### New Rules (2026):
-
-	- **Buyer's agent fee is negotiable** and must be agreed upon in writing BEFORE touring homes
-
-	- **Sellers can choose** whether to offer compensation to buyer's agents (but they're not required to)
-
-	- **Buyers may pay their agent directly** if the seller doesn't offer compensation (or the offered amount is too low)
 
 ### What This Means for You:
 
 When you hire a buyer's agent in 2026, you'll sign a buyer broker agreement that specifies:
 
-	- How much you'll pay your agent (flat fee, hourly rate, or percentage)
-
-	- Whether the agent will seek compensation from the seller first
-
-	- What happens if the seller doesn't offer enough compensation
-
 **Example:**
-
-	- You agree to pay your agent 2.5% of the purchase price
-
-	- You find a home where the seller is offering 2.5% to the buyer's agent
-
-	- The seller pays your agent → you pay $0 out of pocket
-
-	- If the seller only offers 2%, you'd pay the remaining 0.5%
 
 ## FAQ: Buyer's Agent vs. Listing Agent in Santa Clarita
 
@@ -308,23 +200,7 @@ Some companies offer "transaction coordinator" services where an agent helps wit
 
 **Transaction coordinators:**
 
-	- Do NOT negotiate on your behalf
-
-	- Do NOT provide advice on pricing or strategy
-
-	- Do NOT have a fiduciary duty to you
-
-	- Are essentially administrative assistants
-
 **Buyer's agents:**
-
-	- Negotiate aggressively for YOU
-
-	- Advise you on pricing, strategy, and risks
-
-	- Have a legal duty to protect your interests
-
-	- Act as your advocate throughout the transaction
 
 If you want real representation, hire a buyer's agent—not a facilitator.
 
@@ -366,14 +242,6 @@ You [schedule a consultation](https://www.santaclaritaopenhouses.com/booking) an
 
 I match you with a vetted buyer's agent in my network who specializes in your target area. I personally vet every agent for:
 
-	- Communication skills
-
-	- Negotiation experience
-
-	- Local market knowledge
-
-	- Ethics and transparency
-
 ### Step 3: Accountability
 
 I stay involved throughout your transaction to ensure the agent is performing. If they drop the ball, I intervene.
@@ -388,45 +256,11 @@ I take the guesswork out. You get a PRE-VETTED agent who's proven they can deliv
 
 ### **Listing Agent:**
 
-	- Represents the SELLER
-
-	- Paid by the seller (historically) or through negotiated seller concessions (2026 rules)
-
-	- Legal duty: Get the seller the most money and best terms
-
-	- Cannot advocate for buyer's interests
-
 ### **Buyer's Agent:**
-
-	- Represents the BUYER
-
-	- Fee negotiated with buyer upfront via buyer broker agreement (2026 rules)
-
-	- Legal duty: Protect the buyer's interests and get the best deal possible
-
-	- Advocates for YOU throughout the transaction
 
 ### **Dual Agency:**
 
-	- One agent represents both buyer and seller
-
-	- Legal in California but creates conflicts of interest
-
-	- Almost always benefits the seller (and the agent's commission)
-
-	- Should be avoided
-
 ### **Key Takeaways for 2026:**
-
-	- Always hire your own buyer's agent (never use the listing agent)
-
-	- Sign a buyer broker agreement BEFORE touring homes
-
-	- Negotiate agent fees upfront and get everything in writing
-
-	- Understand who's paying your agent (seller concession vs. out-of-pocket)
-
-	- Avoid dual agency at all costs
 
 ## Final Thoughts: Don't Go Into Battle Without Backup
 
@@ -451,37 +285,6 @@ Former LAPD Officer | Santa Clarita Real Estate Advisor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -517,26 +320,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

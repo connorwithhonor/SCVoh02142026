@@ -19,9 +19,6 @@ Connor "with Honor" MacIvor - August 10, 2025** Tags: [santa clarita real estate
 # The Shocking Reason Why Sellers Should NEVER Be Home During Showings – And How It Could Cost You Big in Santa Clarita Real Estate!
 
   
-    
-  
-
 **TL;DR:** Ever wondered why your elderly relative has to babysit every home showing? It's a red flag in real estate. In Santa Clarita, sellers being present can kill negotiations, expose risks, and scare off buyers. As a former LAPD motor cop turned Realtor (CALDRE 01238257), I'll break down why you should ghost your own open houses, how modern lockbox tech keeps things secure, and tips to sell smarter without the drama. Book a free consultation at [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact) or call 661-888-4983 to avoid these pitfalls.
 
 As someone who's walked the walk – from LAPD streets chasing bad guys on a motorcycle to navigating the wild world of Santa Clarita real estate – I'm here to share real insights without the fluff. I've seen it all: high-speed pursuits, drug busts as a certified IACP expert, and now, the cutthroat game of buying and selling homes in places like Valencia, Saugus, and Canyon Country. No BS, just straight talk with a dash of Gen X sarcasm because, let's face it, life's too short for real estate agents who sugarcoat the truth.
@@ -100,14 +97,6 @@ But humans still rule: No AI replaces my street-smarts.
 
 ## Common Mistakes and How to Avoid Them
 
-	- **Oversharing:** Zip it – let disclosures handle it.
-
-	- **Skipping Lockboxes:** Embrace tech for safety.
-
-	- **Family Agents:** Go pro for unbiased advice.
-
-	- **Inflexible Scheduling:** More showings = faster sales.
-
 Browse foreclosures at [https://www.santaclaritaopenhouses.com/foreclosure-search](https://www.santaclaritaopenhouses.com/foreclosure-search) if that's your jam.
 
 ## Veteran and First-Responder Tips
@@ -120,56 +109,11 @@ In Santa Clarita real estate, absence makes the wallet grow fonder. Ditch the do
 
 **Recap:**
 
-	- Sellers present during showings risk poor negotiations and security issues – avoid it.
-
-	- Modern lockboxes provide secure, logged access without your involvement.
-
-	- Family agents may complicate things; choose local experts for better results.
-
-	- Santa Clarita market is inventory-heavy – flexible showings are key to quick sales.
-
-	- Use tools like [https://www.santaclaritaopenhouses.com/advanced-search](https://www.santaclaritaopenhouses.com/advanced-search) for smart buying/selling.
-
-	- Book free consults at ZoomMeSCV.com or 661-888-4983 for personalized advice.
-
-	- AI enhances, but human expertise (like mine) seals the deal.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -205,26 +149,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

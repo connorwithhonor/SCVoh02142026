@@ -28,21 +28,6 @@ It's Connor with Honor, and I hope everyone is doing fantastic! This is your wee
 
 If you're in the market to buy a home, you'll now be required to sign a Buyer-Broker Agreement before viewing any property. This contract will outline several important details:
 
-	- 
-	**Compensation to Your Realtor:** The agreement will specify how much you will pay your realtor for their services.
-
-	
-
-	- 
-	**Seller Compensation:** It will detail how much the seller's agent will receive from the seller, which is another critical aspect to be aware of.
-
-	
-
-	- 
-	**Scope of Representation:** The contract may cover all properties within a particular time frame or be limited to a single property. Make sure to understand the extent of your agent’s representation.
-
-	
-
 ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/to%20see%20a%20home%20you%20must%20sign%20a%20contract%20with%20a%20real%20estate%20agent.jpg?width=400&amp;height=399&amp;aspect_ratio=400%3A399)There is a lot to consider, so be sure to read the contract carefully. Remember, I'm not an attorney, so I can't provide legal advice about contract details.
 
 **Navigating Real Estate Relationships:**
@@ -78,37 +63,6 @@ I'm Connor with Honor—signing off for now.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -144,26 +98,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -68,31 +68,13 @@ Timing is everything. Schedule the walkthrough as close to the closing date as p
 
 Arm yourself with:
 
-	- **The Purchase Agreement**: To confirm what’s included (appliances, fixtures, etc.).
-
-	- **Inspection Reports**: To check that agreed-upon repairs were made.
-
-	- **Video or Photos from Earlier Visits**: A video walkthrough from the initial inspection or offer stage is gold. It helps you spot new damage, like scratched banisters or broken windows, that might not be in the inspection report.
-
-	- **Repair Receipts**: If the seller was responsible for fixes, ask for receipts from licensed contractors to verify the work.
-
 ### Step 3: Check for Occupancy Issues
 
 One of the biggest risks in Santa Clarita is tenants or owners refusing to vacate. I’ve seen tenant-occupied foreclosures where occupants dig in their heels, knowing eviction is a hassle. During the walkthrough:
 
-	- Look for signs of packing (boxes, moving trucks).
-
-	- If the property looks lived-in with no sign of moving, raise the alarm immediately. Call your agent to pause the escrow until the issue is resolved.
-
 ### Step 4: Inspect Repairs and Condition
 
 Go through the property with a fine-tooth comb:
-
-	- **Repairs**: Verify that all negotiated repairs (e.g., electrical panels, roof tiles, or plumbing) were done by licensed professionals. Check receipts and test systems (turn on the AC, flush toilets, etc.).
-
-	- **Damage**: Look for new damage – holes in walls, scratched floors, or broken fixtures. Compare with your earlier video or photos.
-
-	- **Cleanliness**: The home should be clean and free of trash. Sellers who leave a mess signal they don’t care about the deal’s integrity.
 
 ### Step 5: Confirm Included Items
 
@@ -109,14 +91,6 @@ Take photos or videos during the walkthrough. If issues arise, this documentatio
 ### Step 8: Know Your Enforcement Options
 
 If the walkthrough reveals problems (e.g., unrepaired items, trash left behind), your agent can:
-
-	- Request immediate fixes before funding.
-
-	- Negotiate a credit or price reduction.
-
-	- Pause escrow until the seller complies.
-
-	- In extreme cases, cancel the transaction if the seller refuses to act.
 
 Don’t sign the final walkthrough verification until you’re satisfied. Once you sign, it’s harder to hold the seller accountable.
 
@@ -150,27 +124,11 @@ Dual representation – where the listing agent also represents you – can comp
 
 As a former LAPD officer, I bring a protector’s mindset to real estate. My job isn’t just to find you a home; it’s to shield you from risks and fight for your best deal. During the final walkthrough, a seasoned realtor like me (CALDRE 01238257) will:
 
-	- Spot issues you might miss, like shoddy repairs or missing fixtures.
-
-	- Negotiate with the listing agent to resolve problems quickly.
-
-	- Leverage local market knowledge to assess whether the seller’s actions align with Santa Clarita trends.
-
-	- Protect your interests, especially in complex situations like foreclosures or tenant-occupied properties.
-
 Want a realtor who’s got your back? Reach out at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact).
 
 ## Santa Clarita Market Insights: What’s Happening Now
 
 As of August 21, 2025, here’s the lay of the land in Santa Clarita:
-
-	- **Inventory**: 775 active listings, down from 810, indicating a tightening market.
-
-	- **New Listings**: 77 new listings hit the market in the past week, with 10 “coming soon” properties not yet visible on syndication sites like Zillow.
-
-	- **Price Changes**: 86 properties had price adjustments, signaling sellers are getting realistic.
-
-	- **Escrow Cancellations**: 34 properties came back on the market after failed escrows, a sign that buyers are backing out due to issues like financing or inspections.
 
 This data underscores the importance of the final walkthrough. With inventory tightening and competition heating up, you can’t afford to miss issues that could derail your purchase. Check the latest market trends at [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
 
@@ -210,14 +168,6 @@ Your agent should contact the listing agent to demand fixes or concessions. In m
 
 Options include:
 
-	- **Repairs**: Demand the seller complete the work before closing.
-
-	- **Credits**: Request a credit toward closing costs or repairs.
-
-	- **Price Reduction**: If the damage is significant, negotiate a lower price.
-
-	- **Delay Closing**: Pause escrow until the issues are resolved.
-
 ### 4. Consider Canceling
 
 If the seller refuses to cooperate and the issues are deal-breakers (e.g., tenants won’t leave), you may need to cancel the transaction. Your agent can guide you through the process to protect your deposit.
@@ -230,12 +180,6 @@ The escrow company acts as a neutral third party. If disputes arise, they can ho
 
 At [https://www.honorelevate.com](https://www.honorelevate.com), I leverage AI to streamline the home-buying process, including walkthroughs. AI tools can:
 
-	- Analyze property data to flag potential issues before the walkthrough.
-
-	- Cross-reference inspection reports with repair agreements to ensure nothing’s missed.
-
-	- Provide real-time market insights to strengthen your negotiation position.
-
 Want to see how AI can give you an edge? Join our community at [https://community.honorelevate.com](https://community.honorelevate.com) or call 661-367-8685.
 
 ## My Unique Edge: From First Responder to Realtor
@@ -246,22 +190,6 @@ Check out my approach at [https://www.santaclaritaopenhouses.com/why-working-wit
 
 ## Recap: Key Takeaways for Your Final Walkthrough
 
-	- **Schedule Strategically**: Do the walkthrough 1-2 days before closing to minimize surprises.
-
-	- **Bring Documentation**: Use your purchase agreement, inspection reports, and earlier videos/photos to verify condition.
-
-	- **Check Occupancy**: Ensure tenants or owners are moving out to avoid post-closing headaches.
-
-	- **Inspect Repairs**: Confirm all negotiated fixes are done by licensed professionals.
-
-	- **Document Issues**: Take photos/videos to support any disputes.
-
-	- **Leverage Your Agent**: A dedicated buyer’s agent is critical for advocacy.
-
-	- **Know Your Options**: Be ready to negotiate repairs, credits, or even cancel if needed.
-
-	- **Stay Business-Minded**: Treat the walkthrough as a business transaction, not an emotional one.
-
 Ready to buy or sell in Santa Clarita? Book a free, no-obligation consultation at [https://www.zoommescv.com](https://www.zoommescv.com) or call 661-888-4983. Want to explore AI-driven real estate solutions? Visit [https://www.honorelevate.com](https://www.honorelevate.com) or contact me at 661-367-8685.
 
 ** Share This Post## Comments
@@ -269,37 +197,6 @@ Ready to buy or sell in Santa Clarita? Book a free, no-obligation consultation a
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -335,26 +232,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

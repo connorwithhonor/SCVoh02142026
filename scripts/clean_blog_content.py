@@ -23,6 +23,23 @@ def clean_content(content):
     # Remove inline code with HTML/JS looking content
     body = re.sub(r'`[^`]*?<[^>]+>[^`]*?`', '', body)
 
+    # Remove indented code blocks (lines starting with 4+ spaces or tabs)
+    # These render as code blocks in markdown
+    lines = body.split('\n')
+    cleaned_lines = []
+    in_code_block = False
+    for line in lines:
+        # Check if line starts with 4 spaces or a tab (markdown code block)
+        if line.startswith('    ') or line.startswith('\t'):
+            in_code_block = True
+            continue  # Skip this line
+        elif in_code_block and line.strip() == '':
+            continue  # Skip empty lines in code blocks
+        else:
+            in_code_block = False
+            cleaned_lines.append(line)
+    body = '\n'.join(cleaned_lines)
+
     # Remove any remaining HTML script/style tags
     body = re.sub(r'<script[\s\S]*?</script>', '', body, flags=re.IGNORECASE)
     body = re.sub(r'<style[\s\S]*?</style>', '', body, flags=re.IGNORECASE)

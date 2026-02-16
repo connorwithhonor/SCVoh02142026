@@ -31,14 +31,6 @@ Week of May 9 2025
   Welcome to the definitive Santa Clarita Valley real estate report for the seven-day window ending **May 9 2025, 06:00 AM PDT**. If you follow my daily “Connor with Honor” market briefings, you know I pair boots-on-the-ground experience—earned through decades of Santa Clarita transactions and years on the street as an LAPD motor officer—with an ever-evolving arsenal of artificial-intelligence tools. Today’s long-form guide does three things:
 
   
-    - **Dissects raw market data** (inventory, pricing, absorption, days on market) so buyers, sellers, and investors can see exactly where leverage sits in early May.
-
-    - **Shows how machine-learning models** interpret that data to predict micro-shifts before they appear on consumer portals.
-
-    - **Provides neighborhood-specific action plans**—Valencia, Canyon Country, Newhall, Saugus, Stevenson Ranch, Castaic, Agua Dulce, and Acton—so you can pivot instantly regardless of your side of the table.
-
-  
-
   Whether you landed here from YouTube, *SantaClaritaOpenHouses.com*, or a Google search for “Santa Clarita market update,” bookmark this page. At ≈6,300 words, it is designed to outrank national syndication blurbs, deliver local nuance those sites miss, and satisfy Google’s E-E-A-T criteria—*Experience, Expertise, Authoritativeness, and Trustworthiness*. Let’s dive in.
 
   
@@ -49,14 +41,6 @@ Week of May 9 2025
   Median pricing is holding a narrow band between **$788K and $815K** depending on your data source—Redfin logs last-month medians at $788K :contentReference[oaicite:1]{index=1}, Realtor.com’s rolling tracker shows $782K :contentReference[oaicite:2]{index=2}, while Movoto’s April closed-sale median hits $910,062 after several gated Stevenson Ranch placements closed at seven figures :contentReference[oaicite:3]{index=3}. Reconciling these requires neighborhood context (more in Section 5), but directionally they confirm:
 
   
-    - **Year-over-year appreciation:** +2 % – 3 %
-
-    - **Month-over-month flatness:** ±1 %
-
-    - **List-to-sold discount:** 1 %–2 % on properly priced homes; 4 %–6 % on listings 5 %+ over comps.
-
-  
-
   **Days on Market (DOM).** MLS shows an *average* DOM of 24—down four days since April’s 28 but well above the 9-to-14-day frenzy of early 2022. Second derivatives matter: homes in the sub-$1 M “family move-up” band (1,800 – 2,600 sq ft) still find buyers within two weekends if staged and priced within 1 % of neighborhood median. Conversely, anything 4 %+ above comp medians lingers to 35 days.
 
   **Absorption Rate.** Over the past 30 days, 312 properties went under contract, giving us a 2.28-month supply. Technically that’s a *seller-tilted balanced market*; practically, buyers now negotiate repairs and rate-buy-downs again.
@@ -71,27 +55,11 @@ Week of May 9 2025
   The jump from sub-600 listings in March to 714 today stems from three independent but overlapping realities:
 
   
-    - **Rate Lock Loosening.** Homeowners who refinanced between 2.5 % and 3 % in 2020-21 stayed put throughout 2023. Many now accept that 5 % mortgages are the “new affordable.” Listings trickle out accordingly.
-
-    - **Lifestyle Shifts.** Return-to-office mandates at Disney, Warner Bros., and the tech corridor in Burbank push some remote workers back toward in-laws or into shorter commutes.
-
-    - **Investor Rebalancing.** Short-term rental regulations in unincorporated LA County reduced Airbnb yields. Several Canyon Country and Castaic hosts have listed *mid-tier pool homes* that once netted $7K/mo as STRs, now barely covering PITI.
-
-  
-
   ### 2.2 Buyers Are Data-Rich and Skeptical
 
   The “buyers are not stupid” mantra I repeated in today’s YouTube short rings truer than ever. Consumers run a six-tab workflow: Zillow + Redfin + Realtor.com + ChatGPT + YouTube walkthrough + hyper-local Facebook group. That workflow exposes:
 
   
-    - **Algorithmic guesstimates**—the Zestimate or Redfin Estimate—often miss solar value, RV parking, or mountain views by tens of thousands.
-
-    - **Neighborhood nuance errors:** auto-valuation tools ignore whether a Valencia Northbridge house sits on a flag lot or backs Magic Mountain Parkway traffic.
-
-    - **School boundary confusion:** Placerita Jr. High vs. La Mesa cut-offs materially affect price yet remain invisible to portals.
-
-  
-
   Therefore inflated list prices die slowly in escrow limbo. Conversely, well-researched pricing sparks bidding skirmishes even in a 700-listing market. Transparency and precise data are the *only* moat sellers have left.
 
   ### 2.3 Pricing Tiers &amp; Negotiation Patterns
@@ -216,33 +184,7 @@ Week of May 9 2025
   ## 5&nbsp;&amp;dash;&nbsp;Seller Playbook: Five Data-First Steps
 
   
-    - **Micro-Comp Pricing.** Pull a ¼-mile radius, last 90 days, same bed-bath-pool profile. Adjust precisely for ADU, view, and lot position—no generic “per-square-foot” guesswork.
-
-    - **“Highlight Reel” Media.** Drone shots, twilight edits, and AI-generated floor-plan overlays raise click-through 42 %. Our in-house studio deploys Monday to shoot, Tuesday to post.
-
-    - **AI Chat Gating.** All listing inquiry forms pre-qualify by verifying mortgage pre-approval or proof of funds, sifting look-loos.
-
-    - **48-Hour Offer Countdown.** We set offer review windows to create urgency; AI triggers a “last-call” SMS to all agents who toured but didn’t submit by hour 40.
-
-    - **Negotiation Analytics.** Net-sheet calculators weigh seller credit vs. price cut vs. repairs. We present scenarios in a dashboard so sellers choose plan A, B, or C logically.
-
-  
-
-  
   ## 6&nbsp;&amp;dash;&nbsp;Buyer Roadmap: Winning Without Overpaying
-
-  
-    - **Get Hyper-Local Alerts.** Register on [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/user-registration); my AI engine cross-matches your wish-list within 45 seconds of MLS upload.
-
-    - **Leverage Rate-Buy-Down Math.** Our lender matrix quantifies whether a 3-point buy-down or $15K price cut saves more after five years of ownership.
-
-    - **Tour via Digital Twin First.** Save weekend bandwidth; onsite showings shrink to “Serious Seven” finalists.
-
-    - **Use Appraisal Gap Clauses Sparingly.** Deploy only when property comps justify the delta; analytics dashboard highlights variance risk.
-
-    - **Negotiate Repairs, Not Cosmetic Credits.** Data shows sellers approve safety fixes faster than paint allowances; exploit that psychology.
-
-  
 
   
   ## 7&nbsp;&amp;dash;&nbsp;Investor Corner: Where the Smart Money Flows
@@ -250,14 +192,6 @@ Week of May 9 2025
   Cash-flow investors typically dismissed Santa Clarita during the 3 % rate era; yields barely cleared 4 %. Rising rents and moderated prices reopen the calculus. Cap-rate modeling—fed by MLS rent fields, CoStar commercial lease comps, and Airbnb ADRs—reveals three sweet spots:
 
   
-    - **Duplex Redevelopments in Newhall.** 1960s lots with detached garages convert to ADUs for $210K, pushing gross rents to $6,500/mo vs. $4,200 pre-conversion.
-
-    - **Castaic Logistics Shadow.** Blue-collar tenant base fueled by warehouse corridors keeps vacancy under 2 % and rents pace with CPI +1 %.
-
-    - **Acton Land Banking.** Parcel splits under SB 9 allow two-unit strategy plus detached ADU—potential 3 × income stack on original acreage.
-
-  
-
   IRR spreadsheets (available upon NDA) model 11 % – 17 % levered returns at today’s 6 % DSCR loan coupons. Time horizon: five years.
 
   
@@ -287,19 +221,6 @@ Week of May 9 2025
   ## 9&nbsp;&amp;dash;&nbsp;Additional Resources
 
   
-    - [Interactive Market Trends Dashboard](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-trends)
-
-    - [Ultimate Buyer Guide](https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale)
-
-    - [Choosing the Right Agent](https://www.santaclaritaopenhouses.com/how-to-get-best-real-estate-agent-santa-clarita)
-
-    - [Current Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate)
-
-    - [SCV Real Estate Blog Archive](https://www.santaclaritaopenhouses.com/blog)
-
-  
-
-  
   ## 10&nbsp;&amp;dash;&nbsp;Closing Thoughts
 
   Santa Clarita’s 714 active listings signal opportunity, not oversupply doom. The valley’s demographics—dual-income families, aerospace engineers, medical professionals—continue to drive baseline demand. Yet the era of “list on Thursday, sell by Sunday no matter the condition” has faded. In its place stands a market that rewards precise pricing, surgical marketing, and AI-backed negotiation tactics.
@@ -315,37 +236,6 @@ Week of May 9 2025
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -381,26 +271,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

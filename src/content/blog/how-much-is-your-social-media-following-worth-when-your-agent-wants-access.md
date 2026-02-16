@@ -36,32 +36,11 @@ Your social media profile is more valuable than you might realize. Think of it a
 
 Here’s what that means:
 
-	- 
-	**Free Advertising for the Agent:**&nbsp;When you share a listing, your agent’s name, contact information, and branding are prominently displayed. While you’re hoping to sell your home, your agent is also gaining exposure and building their business—for free.
-
-	
-
-	- 
-	**Your Privacy at Stake:**&nbsp;Sharing your home listing on personal platforms might expose details about your life you didn’t intend to share. For example, neighbors or acquaintances might infer why you’re selling, whether it’s financial reasons, downsizing, or relocating.
-
-	
-
-	- 
-	**Social Implications:**&nbsp;Not everyone in your network may be supportive or happy about your move or success. Some might judge or gossip, which adds unnecessary stress to an already emotional process.
-
-	
-
 #### 3.&nbsp;**Valuing Your Social Media**
 
 So, what is your social media reach worth? While it might be hard to put an exact price tag on it, consider this: companies pay thousands of dollars to influencers with a fraction of the network you’ve organically built. If your agent were to advertise your home through traditional paid media, it could cost hundreds or even thousands of dollars.
 
 Here’s a breakdown of potential costs your agent might otherwise incur:
-
-	- **Paid Social Media Ads:**&nbsp;A robust Facebook or Instagram campaign can range from $500 to $2,000 per listing.
-
-	- **Digital Advertising Platforms:**&nbsp;Zillow, Realtor.com, or similar platforms charge premium fees for enhanced visibility.
-
-	- **SEO and Content Marketing:**&nbsp;Building organic traffic through blogs or video content requires time, effort, and resources.
 
 By allowing your agent to use your network, you’re saving them these costs while inadvertently promoting their brand.
 
@@ -75,54 +54,17 @@ You can frame it as part of the broader conversation about marketing strategy. I
 
 You don’t have to give away your social media for free. Here are some alternatives:
 
-	- 
-	**Create a Separate Listing Post:**&nbsp;If you’re comfortable, create a simple post announcing that your home is for sale, but keep it neutral. Avoid tagging your agent directly, and provide a general call to action, like “Message me for more details.”
-
-	
-
-	- 
-	**Use Professional Channels:**&nbsp;Encourage your agent to rely on their professional social media accounts or paid advertising platforms. A good agent will already have an established online presence and won’t depend on your network to sell the home.
-
-	
-
-	- 
-	**Collaborate Selectively:**&nbsp;If you choose to collaborate, set clear boundaries. For example, you can agree to post once or twice but ask your agent not to overstep by inundating your timeline with promotional content.
-
-	
-
 #### 6.&nbsp;**Protecting Your Privacy**
 
 Before agreeing to share your home listing on social media, consider the privacy implications. Here are some tips to safeguard your personal information:
-
-	- **Limit Sensitive Details:**&nbsp;Avoid sharing photos or videos that reveal too much about your home, such as valuable items or security systems.
-
-	- **Control the Narrative:**&nbsp;If you’re worried about gossip, stick to neutral language like, “We’re excited to start a new chapter in our lives” instead of providing specific reasons for the sale.
-
-	- **Use Selective Sharing:**&nbsp;Adjust your privacy settings so only close friends or family can see your post.
 
 #### 7.&nbsp;**The Role of Your Real Estate Agent**
 
 A competent agent should have a robust marketing strategy that doesn’t rely solely on your social media. Here’s what you should expect from your agent:
 
-	- **MLS Listings with Maximum Exposure:**&nbsp;Your home should be listed with professional photography, detailed descriptions, and virtual tours on the MLS and syndicated sites like Zillow, Redfin, and Realtor.com.
-
-	- **Paid Advertising:**&nbsp;Agents should allocate part of their commission to pay for digital ads, ensuring your listing reaches qualified buyers.
-
-	- **Social Media Presence:**&nbsp;An agent’s professional accounts should already have a strong following, allowing them to promote your listing without needing access to your personal network.
-
 #### 8.&nbsp;**Questions to Ask Your Agent**
 
 Before agreeing to share your social media, ask your agent the following questions:
-
-	- **What is your marketing plan for my home?**
-
-	- **How much of your own budget will you allocate to advertising?**
-
-	- **Why do you need access to my personal social media?**
-
-	- **What will you do to protect my privacy?**
-
-	- **Are there alternatives to using my social media?**
 
 #### 9.&nbsp;**Conclusion: Advocating for Yourself**
 
@@ -135,37 +77,6 @@ By understanding the true value of your social media and setting clear expectati
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -201,26 +112,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -32,16 +32,6 @@ Having trouble viewing? [Open the video in a new tab](https://www.loom.com/share
 
 If you’ve been around real estate long enough, you’ve heard the two great myths of our business:
 
-	- 
-	*Open houses don’t sell homes.*
-
-	
-
-	- 
-	*When a buyer says “best and final,” the negotiation is over.*
-
-	
-
 Those two ideas have been repeated so often that most people — even agents — treat them like law. They’re not. They’re myths born from inexperience, fear, and laziness.
 
 This story is about one Santa Clarita listing that shattered both beliefs in one weekend.
@@ -54,21 +44,6 @@ Because in real estate, like poker, the one who understands the bluff usually wi
 The home was tucked into one of those picture-perfect Santa Clarita neighborhoods — clean streets, pride of ownership everywhere, and a mix of long-time residents who wave at you as you drive by.
 
 We’d done everything right:
-
-	- 
-	Professional photography that captured the light and layout perfectly
-
-	
-
-	- 
-	Virtual tours and online exposure across Zillow, Redfin, and Realtor.com
-
-	
-
-	- 
-	Direct email marketing to qualified buyers in Valencia, Saugus, and Stevenson Ranch
-
-	
 
 Everything was dialed in. Yet after the first week, traffic was decent but no offers.
 
@@ -207,54 +182,9 @@ But only a human with experience can read tone, pause, and say, “We’re not d
 
 ### **For Sellers:**
 
-	- 
-	Don’t let emotion dictate your response. A counteroffer is not conflict — it’s communication.
-
-	
-
-	- 
-	Open houses work when executed strategically. Make sure your agent treats them like marketing events, not chores.
-
-	
-
-	- 
-	If your agent folds after hearing “final,” get a new agent.
-
-	
-
 ### **For Buyers:**
 
-	- 
-	Don’t overplay your hand. A “best and final” can create unnecessary tension. Stay flexible.
-
-	
-
-	- 
-	Work with agents who understand tone and timing — not just contracts.
-
-	
-
-	- 
-	Remember, sellers are people too. They respond to respect more than aggression.
-
-	
-
 ### **For Agents:**
-
-	- 
-	Learn to listen between the lines. What’s *not* said often matters more.
-
-	
-
-	- 
-	Stop repeating myths. “Open houses don’t work” usually means “I don’t know how to make them work.”
-
-	
-
-	- 
-	Negotiate with professionalism, not pride.
-
-	
 
 ## **Part Thirteen: TL;DR**
 
@@ -278,37 +208,6 @@ If you’re thinking of selling your home in Santa Clarita — Valencia, Saugus,
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -344,26 +243,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

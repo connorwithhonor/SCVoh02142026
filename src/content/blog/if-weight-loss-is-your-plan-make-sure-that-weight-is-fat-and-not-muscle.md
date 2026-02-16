@@ -36,51 +36,11 @@ If you want sustainable fat loss, fasting is one of the most effective tools you
 
 Here’s the better approach:
 
-	- 
-	**Intermittent Fasting (IF):** Eat in a shorter window each day, such as 16:8 (16 hours fasting, 8-hour eating window).
-
-	
-
-	- 
-	**Extended Fasting:** Occasionally go 24-72 hours without food to reset hunger hormones and boost fat burning.
-
-	
-
-	- 
-	**Dry Fasting:** More advanced, but can accelerate results. This means no food or water for a set period, which forces the body to burn stored fat more efficiently.
-
-	
-
 When you do eat, it’s crucial to fuel your body with the right foods. If you’re eating highly processed junk, fasting alone won’t fix the problem. You need whole, nutrient-dense foods that support fat loss and muscle retention.
 
 ### The Five Essential Food Groups for Fat Loss
 
 If you want to get lean while maintaining muscle, your diet should be based on five simple categories:
-
-	- 
-	**Meat (Beef, Chicken, Pork, Lamb, etc.)** – Prioritize grass-fed and unprocessed options.
-
-	
-
-	- 
-	**Eggs** – A perfect protein source that fuels muscle retention.
-
-	
-
-	- 
-	**Fish (Salmon, Sardines, Tuna, etc.)** – Rich in healthy fats and omega-3s.
-
-	
-
-	- 
-	**Vegetables** – Provide fiber, vitamins, and minerals without excess carbs.
-
-	
-
-	- 
-	**Fruits** – Stick to whole fruits, not juices. Berries, apples, and citrus are great choices.
-
-	
 
 If it’s processed, comes in a bag, or has more than one ingredient, it’s probably not helping you. Read labels carefully. Even so-called “healthy” foods can be packed with hidden sugars and preservatives.
 
@@ -89,26 +49,6 @@ If it’s processed, comes in a bag, or has more than one ingredient, it’s pro
 Most people focus on cardio for weight loss, but lifting weights is just as—if not more—important. When you lose weight, you don’t just lose fat. Without resistance training, you lose muscle too. That slows metabolism and makes it harder to stay lean long-term.
 
 You don’t need a gym membership or fancy equipment. A simple set of dumbbells can transform your physique. Here’s a minimal-effort routine anyone can do:
-
-	- 
-	**Bicep Curls** – 3 sets of 10
-
-	
-
-	- 
-	**Shoulder Presses** – 3 sets of 10
-
-	
-
-	- 
-	**Lateral Raises** – 3 sets of 10
-
-	
-
-	- 
-	**Squats (with or without weights)** – 3 sets of 15
-
-	
 
 Even just 5-10 minutes a day can make a huge difference. The key is consistency. Your body thrives on movement, and even small amounts of strength training will help preserve muscle while you burn fat.
 
@@ -154,26 +94,6 @@ Fasting, on the other hand, keeps insulin levels low and allows your body to bur
 
 Types of fasting include:
 
-	- 
-	**Time-Restricted Eating (TRE):** Eating within a specific window, such as 16:8 or 20:4.
-
-	
-
-	- 
-	**OMAD (One Meal a Day):** A form of intermittent fasting that can boost weight loss and discipline.
-
-	
-
-	- 
-	**48-72 Hour Fasting:** Extended fasting that resets metabolism and enhances autophagy (cellular repair).
-
-	
-
-	- 
-	**Dry Fasting:** No food or water for a period of time—forces the body to rely entirely on stored fat.
-
-	
-
 These methods allow for fat-burning without the metabolic slowdown caused by severe calorie restriction.
 
 ### The Hidden Dangers of Processed Foods and Modern Nutrition
@@ -182,56 +102,11 @@ One major roadblock in weight loss is processed food. Many "diet" foods still co
 
 Instead, focus on whole, single-ingredient foods:
 
-	- 
-	Meat (grass-fed when possible)
-
-	
-
-	- 
-	Eggs
-
-	
-
-	- 
-	Fish
-
-	
-
-	- 
-	Low-carb vegetables
-
-	
-
-	- 
-	Whole fruits in moderation
-
-	
-
 When you cut out processed food, your body stops craving sugar and stabilizes its natural hunger signals.
 
 ### The Role of Hormones in Fat Loss
 
 Beyond calories, your hormones play a major role in weight loss. Here are some key ones to watch:
-
-	- 
-	**Insulin:** High insulin levels prevent fat loss. Lowering insulin through fasting and carb reduction helps burn fat efficiently.
-
-	
-
-	- 
-	**Ghrelin (Hunger Hormone):** Fasting helps reset ghrelin so your body learns to be hungry only when it truly needs fuel.
-
-	
-
-	- 
-	**Leptin (Satiety Hormone):** Overeating disrupts leptin, making you feel hungrier. Fasting and whole foods help restore it.
-
-	
-
-	- 
-	**Cortisol (Stress Hormone):** Chronic stress raises cortisol, leading to fat storage. Prioritize sleep and stress management.
-
-	
 
 By understanding these hormones, you can work *with* your body instead of against it.
 
@@ -241,61 +116,11 @@ When I started my fat loss journey, I was 365 pounds with a 65-inch waist. I had
 
 But here’s the truth:
 
-	- 
-	**Weight loss isn’t linear.** Some weeks I dropped 10 pounds, others nothing. The key was staying consistent.
-
-	
-
-	- 
-	**Your mind has to change before your body does.** If you always fall back into the same habits, you’ll regain the weight.
-
-	
-
-	- 
-	**Lifting weights is essential.** Cardio alone won’t maintain muscle mass or boost metabolism. Strength training keeps you lean.
-
-	
-
 I made peace with hunger, stopped fearing fasting, and started focusing on *fueling* my body instead of constantly dieting. The shift in mindset made all the difference.
 
 ### Building a Sustainable Lifestyle (Not Just a Temporary Fix)
 
 If you want permanent results, your approach needs to be sustainable. Here’s what works long-term:
-
-	- 
-	**Make Fasting a Lifestyle:** Find a method that works for you and stick with it.
-
-	
-
-	- 
-	**Prioritize Protein:** Protein preserves muscle and keeps you full.
-
-	
-
-	- 
-	**Eliminate Processed Carbs:** Stick with real, whole foods.
-
-	
-
-	- 
-	**Train with Resistance:** Even simple dumbbell workouts will prevent muscle loss.
-
-	
-
-	- 
-	**Get Enough Sleep:** Poor sleep leads to cravings and fat storage.
-
-	
-
-	- 
-	**Reduce Stress:** Meditation, walks, or even deep breathing can lower cortisol.
-
-	
-
-	- 
-	**Stay Hydrated:** Water is key for metabolism and detoxification.
-
-	
 
 ### Final Thoughts: What’s Next in Your Fat Loss Journey?
 
@@ -310,37 +135,6 @@ I’m Connor with Honor. You CAN do this. Reach out to me if I can help. And rem
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -376,26 +170,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

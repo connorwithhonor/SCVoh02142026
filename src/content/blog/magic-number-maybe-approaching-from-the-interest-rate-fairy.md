@@ -36,28 +36,6 @@ Let's dive into the numbers to get a clearer picture of where the market stands 
 
 As of now, there are **544 total active residential listings** in the Santa Clarita Valley, which includes single-family residences, condominiums, and townhomes. Here's a detailed look at the current market activity:
 
-	- **Coming Soon:** There are 11 properties that will soon hit the market. If you’re considering buying a home, keep an eye on these upcoming listings.
-
-	- **New Listings:** The market has seen a surge with 81 new homes recently listed for sale. This influx presents fresh opportunities for buyers looking to find their ideal property.
-
-	- **Price Changes:** A total of 90 homes have had recent price adjustments. Price drops or increases can create new possibilities for buyers and sellers alike. Be sure to check if your preferred property is among them.
-
-	- **Back on Market:** 23 homes have returned to the market after initially being under contract but falling out of escrow. These properties may offer unique negotiation opportunities for interested buyers.
-
-	- **Active Under Contract:** 40 homes are currently under contract, moving toward the closing process. These properties have pending offers but are not yet finalized.
-
-	- **Pending:** 41 homes are in the final stages before closing, demonstrating continued buyer activity in the region.
-
-	- **Closed Sales:** A total of 52 homes have been successfully sold recently, reflecting a robust market and strong demand for Santa Clarita Valley properties.
-
-	- **Expired Listings:** There are 7 properties that were unable to sell within their initial listing period. These may present unique opportunities for buyers looking for motivated sellers.
-
-	- **Canceled Listings:** 17 listings have been canceled by the sellers. Understanding why these homes were removed from the market can provide insights into pricing and seller motivation.
-
-	- **Hold Status:** 4 properties are currently on hold, meaning they are temporarily off the market but may return soon.
-
-	- **Withdrawn Listings:** 6 homes have been withdrawn from the market, typically due to changes in the seller's plans or other circumstances.
-
 ## **What Does This Mean for Buyers and Sellers?**
 
 ### **For Buyers:**
@@ -86,14 +64,6 @@ For the latest Santa Clarita Valley listings, market trends, and expert advice, 
 
 ### **Connect with Connor with Honor:**
 
-	- **Facebook:** [www.facebook.com/connerwithhonor](http://www.facebook.com/connerwithhonor)
-
-	- **Instagram:** [www.facebook.com/SantaClaritaOpenHouseAgents/](http://www.facebook.com/SantaClaritaOpenHouseAgents/)
-
-	- **YouTube:** [www.youtube.com/@connerwithhonor](http://www.youtube.com/@connerwithhonor)
-
-	- **Google Local Business:** maps.app.goo.gl/uKYLLyYPUJuz1Z2RA&nbsp;
-
 Stay tuned for more updates, insights, and strategies to help you succeed in the Santa Clarita Valley real estate market!
 
 ** Share This Post## Comments
@@ -101,37 +71,6 @@ Stay tuned for more updates, insights, and strategies to help you succeed in the
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -167,26 +106,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

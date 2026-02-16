@@ -44,12 +44,6 @@ First-time buyers in Santa Clarita need to interview agents like they're hiring 
 
 **Red flags:**
 
-	- "I'll stay in touch" (vague, no specifics)
-
-	- "I'm pretty good about responding" (no commitment)
-
-	- "Just text me whenever" (no structure or accountability)
-
 **Follow-up question:** "Can we put this communication plan in writing as part of our buyer broker agreement?"
 
 If they hesitate or say it's not necessary, walk away. A professional agent will have no problem documenting their commitments.
@@ -61,12 +55,6 @@ If they hesitate or say it's not necessary, walk away. A professional agent will
 **What a good agent says:** "I've worked with 8-12 first-time buyers in the past year. Here's what makes first-time buyers different: you need more hand-holding during inspections, you're learning the process as we go, and you may need help understanding loan options. I enjoy that aspect of the job and build extra time into my schedule for education."
 
 **Red flags:**
-
-	- "I mostly work with investors, but I can help you too" (you're not their priority)
-
-	- "I haven't worked with many first-timers, but it's all the same" (it's not)
-
-	- "Everyone's my specialty" (nobody's actually their specialty)
 
 **Follow-up question:** "Can you give me 2-3 references from first-time buyers you've worked with in [Valencia/Saugus/Canyon Country]?"
 
@@ -80,12 +68,6 @@ If they can't provide references, that's a major red flag.
 
 **Red flags:**
 
-	- "I work all over LA County" (too broad, no local expertise)
-
-	- "Wherever you want to buy is fine with me" (no strategic guidance)
-
-	- Can't explain the differences between neighborhoods
-
 **Follow-up question:** "What are the Mello-Roos fees in [specific neighborhood]?"
 
 If they don't know or say "we'll figure that out later," they're not prepared. A good agent knows this off the top of their head.
@@ -97,12 +79,6 @@ If they don't know or say "we'll figure that out later," they're not prepared. A
 **What a good agent says:** "Before we look at any homes, I'll sit down with you and build a complete budget. We'll factor in your mortgage payment, property taxes, Mello-Roos (if applicable), HOA fees, insurance, and a maintenance reserve. I want to make sure you're comfortable with the payment and not house-poor. I'd rather you buy a $650K home and sleep well at night than stretch to $750K and stress about every bill."
 
 **Red flags:**
-
-	- "Your lender will tell you what you can afford" (lazy, no guidance)
-
-	- "You're pre-approved for $800K, so let's look at $800K homes" (ignoring your actual budget comfort)
-
-	- Doesn't mention Mello-Roos, HOA fees, or other hidden costs
 
 **Follow-up question:** "Can you help me understand the difference between what I'm pre-approved for and what I should actually spend?"
 
@@ -116,12 +92,6 @@ A good agent will say yes and walk you through the math. A bad agent will push y
 
 **Red flags:**
 
-	- "Just search Zillow and send me what you like" (you're doing their job)
-
-	- "Homes hit the market when they hit the market" (no proactive strategy)
-
-	- No mention of MLS alerts, coming soon listings, or agent relationships
-
 **Follow-up question:** "Can you show me an example of a recent buyer you helped who found a home before it was publicly listed?"
 
 If they can't provide an example, they don't actually have off-market access.
@@ -133,12 +103,6 @@ If they can't provide an example, they don't actually have off-market access.
 **What a good agent says:** "My negotiation strategy starts with data. I pull comparable sales (comps) to justify our offer price. If the seller counters, I don't just accept it—I show you the data and we decide together if it makes sense. I also negotiate repairs, closing costs, and contingencies. My goal is to get you the best deal, even if it means walking away from a home that's overpriced."
 
 **Red flags:**
-
-	- "We'll just offer asking price to be competitive" (no strategy)
-
-	- "Sellers aren't negotiating in this market" (weak, defeatist attitude)
-
-	- "I'll handle the negotiations, don't worry about it" (no transparency)
 
 **Follow-up question:** "Can you walk me through a recent deal where you saved a buyer money through negotiation?"
 
@@ -152,12 +116,6 @@ A good agent will have multiple examples. A bad agent will get defensive or chan
 
 **Red flags:**
 
-	- "We'll just offer $50K over asking to win" (no strategy, just throwing money)
-
-	- "There's nothing we can do, it's a seller's market" (lazy, defeatist)
-
-	- Doesn't mention non-price terms or creative strategies
-
 **Follow-up question:** "Have you ever won a multiple offer situation without being the highest bidder?"
 
 If yes, ask them to explain how. If no, they're not a strong negotiator.
@@ -169,12 +127,6 @@ If yes, ask them to explain how. If no, they're not a strong negotiator.
 **What a good agent says:** "You have several contingency periods where you can back out without penalty: loan contingency (typically 21 days), inspection contingency (17 days), and appraisal contingency (17 days). If you decide the home isn't right during these windows, we can cancel and you'll get your deposit back. After contingencies are removed, backing out is more complicated—you could lose your deposit or even get sued by the seller. I'll make sure you're 100% confident before we remove any contingencies."
 
 **Red flags:**
-
-	- "Once you sign, you're committed" (not true during contingencies)
-
-	- "Don't worry about it, you'll love the home" (dismissive of legitimate concerns)
-
-	- Can't explain contingency periods or cancellation rights
 
 **Follow-up question:** "What's the latest I can back out without losing my deposit?"
 
@@ -188,12 +140,6 @@ A good agent will explain contingency timelines in detail. A bad agent will glos
 
 **Red flags:**
 
-	- "The seller pays my commission, so it's free for you" (outdated, misleading)
-
-	- "We'll figure that out later" (no transparency)
-
-	- Refuses to discuss fees upfront
-
 **Follow-up question:** "Can I see a sample buyer broker agreement before I commit?"
 
 If they say no or get defensive, walk away. Transparency is non-negotiable.
@@ -205,12 +151,6 @@ If they say no or get defensive, walk away. Transparency is non-negotiable.
 **What a good agent says:** "Absolutely. I'll show you every home in your price range and preferred neighborhoods, regardless of commission. My job is to find YOU the right home, not to maximize my paycheck. If a home fits your criteria, we'll tour it."
 
 **Red flags:**
-
-	- "Some homes aren't worth your time" (without valid reason)
-
-	- Avoids certain listings or neighborhoods
-
-	- Prioritizes homes from their own brokerage
 
 **Follow-up question:** "How do you decide which homes to show me?"
 
@@ -224,12 +164,6 @@ A good agent will say: "Based on your criteria (price, location, size, condition
 
 **Red flags:**
 
-	- "I have a team that handles most of it" (you'll never see them)
-
-	- "I'm a solo agent and I do everything myself" (may be overwhelmed and unresponsive)
-
-	- Can't explain who does what
-
 **Follow-up question:** "If I call you on a Saturday, who will answer?"
 
 A good agent will have a clear plan. A bad agent will say "leave a message."
@@ -242,12 +176,6 @@ A good agent will have a clear plan. A bad agent will say "leave a message."
 
 **Red flags:**
 
-	- "I'm always available" (unrealistic, no backup plan)
-
-	- "Just wait until I'm back" (no coverage)
-
-	- Can't name a specific backup person
-
 ### Question 13: "How Do You Handle Inspection Issues?"
 
 **Why this matters:** Almost every home has issues found during inspection. You need an agent who can navigate repair negotiations without blowing up the deal.
@@ -255,12 +183,6 @@ A good agent will have a clear plan. A bad agent will say "leave a message."
 **What a good agent says:** "After the inspection, I'll help you categorize issues into three buckets: (1) deal-breakers (major structural or safety issues), (2) negotiable repairs (roof, HVAC, plumbing), and (3) cosmetic items we can live with. We'll prioritize the big stuff and negotiate repairs or credits from the seller. My goal is to get you a fair deal without scaring the seller away."
 
 **Red flags:**
-
-	- "The seller won't fix anything, so don't bother asking" (weak negotiator)
-
-	- "We'll ask for everything" (unrealistic, may kill the deal)
-
-	- Doesn't explain the process clearly
 
 **Follow-up question:** "Can you give me an example of a recent inspection where you negotiated repairs?"
 
@@ -274,12 +196,6 @@ A good agent will have multiple examples.
 
 **Red flags:**
 
-	- "My job ends at closing" (transactional, no relationship)
-
-	- No mention of follow-up or support
-
-	- Can't provide contractor referrals
-
 ### Question 15: "Why Should I Hire You Over Another Agent?"
 
 **Why this matters:** This is the ultimate test. A confident, experienced agent will have a clear, compelling answer. A weak agent will fumble.
@@ -287,12 +203,6 @@ A good agent will have multiple examples.
 **What a good agent says:** "You should hire me because I specialize in first-time buyers in Santa Clarita, I have a proven track record (here are my references), I communicate clearly and frequently, and I'll educate you throughout the process so you feel confident in every decision. I don't just find you a house—I make sure you understand what you're buying and why it's the right choice."
 
 **Red flags:**
-
-	- "I'm the best" (no specifics, just ego)
-
-	- "I work harder than other agents" (vague, unverifiable)
-
-	- Can't articulate what makes them different
 
 ## FAQ: First-Time Buyer Questions About Hiring an Agent in 2026
 
@@ -364,36 +274,6 @@ I respond within 4-6 hours during business hours. If I'm unavailable, my team ha
 
 ## Summary: The 15 Questions Every First-Time Buyer Must Ask
 
-	- What's your communication plan?
-
-	- How many first-time buyers have you worked with in Santa Clarita in the past 12 months?
-
-	- What neighborhoods do you specialize in?
-
-	- How will you help me determine my budget?
-
-	- What's your strategy for finding homes before they hit the market?
-
-	- What's your negotiation strategy?
-
-	- How do you handle multiple offer situations?
-
-	- What happens if I want to back out of a deal?
-
-	- How much will this cost me, and how do you get paid?
-
-	- Will you show me EVERY home that fits my criteria?
-
-	- Do you work with a team, or will I be working directly with you?
-
-	- What's your backup plan if you're unavailable?
-
-	- How do you handle inspection issues?
-
-	- What happens after we close?
-
-	- Why should I hire you over another agent?
-
 If an agent can't answer these questions clearly and confidently, keep looking.
 
 ## Final Thoughts: Don't Settle for "Good Enough"
@@ -417,37 +297,6 @@ Former LAPD Officer | Santa Clarita Real Estate Advisor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -483,26 +332,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

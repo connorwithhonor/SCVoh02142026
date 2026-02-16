@@ -40,14 +40,6 @@ Now, let's zoom local. From fresh MLS data crunched as of September 17, 2025, Sa
 
 Break it down by price brackets for that Gen X practicality:
 
-	- Under $500K: 89 listings, averaging $438K, 79 DOM. Great for first-timers or downsizers – check [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-under-500000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-under-500000).
-
-	- $500K-$700K: 131 listings, $609K avg, 53 DOM. Sweet spot for families – browse [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000).
-
-	- $700K-$900K: 210 listings, $807K avg, 59 DOM. Mid-range movers – see [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000).
-
-	- Over $1M: 297 listings, $1.59M avg, 81 DOM. Luxury league – explore [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000).
-
 Humor break: Inventory's like that Gen X mixtape – eclectic, with everything from cozy condos (average 1,200 sq ft) to sprawling estates (up to 10K+ sq ft). But sellers, beware: Overprice and your pad becomes a DOM dinosaur. Recent activity? 36 closings in the last week, averaging $823K sold (98% of list), plus 188 pending – market's moving, but picky.
 
 Veterans or first-responders? I've got your back with tailored guides at [https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor](https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor).
@@ -134,18 +126,6 @@ Off-topic but me: Dropped 135lbs fasting – tips at [https://www.santaclaritaop
 
 ## Recap
 
-	- Fed cut likely 25-50 bps; modest mortgage dip possible, but delayed.
-
-	- SCV inventory: 720 active, $929K avg, 67 DOM – buyer's edge.
-
-	- Buyers: Pre-approve, scout [https://www.santaclaritaopenhouses.com/quick-search](https://www.santaclaritaopenhouses.com/quick-search).
-
-	- Sellers: CMA at [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis).
-
-	- Connect: 661-888-4983 or [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact).
-
-	- Stay updated: [https://www.santaclaritaopenhouses.com/blog](https://www.santaclaritaopenhouses.com/blog).
-
 ## TL;DR
 
 As the Federal Reserve teeters on announcing a potential cut to the funds rate – likely 25 to 50 basis points (that's 0.25% to 0.5% for us non-bankers) – Santa Clarita's real estate scene is buzzing with anticipation. Mortgage rates, more hitched to the 10-year Treasury bond than the Fed's whims, might dip modestly, saving you a chunk on that dream home. But banks? They'll probably pocket the wins first for shareholders before trickling down to us. Local stats show 720 active listings (plus 7 coming soon), a healthy inventory up from recent lows, with average prices around $929K and homes lingering 67 days on market. Buyers: Revisit your lender now. Sellers: Price sharp or sit tight. As an ex-LAPD cop turned Realtor (CALDRE 01238257), I've seen enough curveballs – let's game-plan your move. Book a free chat at [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact) or call 661-888-4983. Dive into listings at [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings) and stay ahead with daily updates.
@@ -169,30 +149,6 @@ Now, let's zoom local with fresh stats from the September 17, 2025, MLS pull. Sa
 Average list price across actives: $928,833, with median at $829,450 – showing a skew toward higher-end properties. Days on market average 67, median 51, meaning half sell quicker. Square footage averages 2,219, with 3 beds/3 baths typical. Lot sizes vary wildly, from tiny 1,298 sq ft to massive 1.5M+ acres in outliers, but median 10,755 sq ft fits SCV's suburban vibe.
 
 Breaking it by brackets for actionable intel:
-
-	- $200K-$300K: 4 actives, avg $281K, 41 DOM, 1,127 sq ft. Entry-level condos dominate – ideal for starters. See more at [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-under-500000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-under-500000).
-
-	- $300K-$400K: 35 actives, avg $364K, 88 DOM, 966 sq ft. Mix of older homes and updates – check [https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-valley-ca-under-500000](https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-valley-ca-under-500000).
-
-	- $400K-$500K: 50 actives, avg $457K, 90 DOM, 1,000 sq ft. Budget family options – browse [https://www.santaclaritaopenhouses.com/townhomes-for-sale-in-santa-clarita-valley-ca-500000-to-750000](https://www.santaclaritaopenhouses.com/townhomes-for-sale-in-santa-clarita-valley-ca-500000-to-750000).
-
-	- $500K-$600K: 62 actives, avg $558K, 58 DOM, 1,221 sq ft. Faster moving – [https://www.santaclaritaopenhouses.com/single-family-homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000](https://www.santaclaritaopenhouses.com/single-family-homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000).
-
-	- $600K-$700K: 65 actives, avg $660K, 48 DOM, 1,603 sq ft. Prime for upsizers – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-500000-to-750000).
-
-	- $700K-$800K: 117 actives, avg $755K, 66 DOM, 1,782 sq ft. Bulk of market – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000).
-
-	- $800K-$900K: 93 actives, avg $855K, 57 DOM, 2,082 sq ft. Comfort zone – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000).
-
-	- $900K-$1M: 60 actives, avg $961K, 58 DOM, 2,577 sq ft. Emerging luxury – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-750000-to-1000000).
-
-	- $1M-$1.1M: 39 actives, avg $1.06M, 74 DOM, 2,694 sq ft. Solid upscale – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000).
-
-	- $1.1M-$1.2M: 67 actives, avg $1.15M, 71 DOM, 2,970 sq ft. Family estates – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000).
-
-	- $1.2M-$1.3M: 45 actives, avg $1.25M, 80 DOM, 3,099 sq ft. Growing segment – [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-valley-ca-over-1000000).
-
-	- And higher brackets up to $5.5M, with fewer but larger homes.
 
 Recent 7-day activity: 67 new listings, 81 price changes (mostly down, signaling adjustments), 30 back on market, 34 to active under contract, 51 pending, 36 closed (avg $823K sold, 98% SP/LP), 5 expired, 24 canceled, 21 hold, 7 withdrawn. This paints a balanced market – not the frenzy of 2021, but not stalled either.
 
@@ -324,54 +280,11 @@ Testimonials at [https://www.santaclaritaopenhouses.com/testimonials](https://ww
 
 ## Recap
 
-	- Fed cut: 25-50 bp likely, modest rate dip.
-
-	- SCV stats: 720 active, $929K avg, 67 DOM.
-
-	- Buyers: Pre-approve, search [https://www.santaclaritaopenhouses.com/advanced-search](https://www.santaclaritaopenhouses.com/advanced-search).
-
-	- Sellers: CMA [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis).
-
-	- Connect: [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact), 661-888-4983.
-
-	- More: Blog [https://www.santaclaritaopenhouses.com/blog](https://www.santaclaritaopenhouses.com/blog), newsletter [https://www.santaclaritaopenhouses.com/newsletter](https://www.santaclaritaopenhouses.com/newsletter).
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -407,26 +320,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

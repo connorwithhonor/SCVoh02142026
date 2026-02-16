@@ -26,55 +26,11 @@ As the First Responder Realtor, I take pride in bringing you up-to-date and acti
 
 Here’s the breakdown of real estate activity in Castaic over the past 7 days:
 
-	- **Coming Soon:** 0
-
-	- **New Listings:** 0
-
-	- **Price Changes:** 4
-
-	- **Back On Market:** 1
-
-	- **Active Under Contract:** 1
-
-	- **Pending Sales:** 2
-
-	- **Closed Sales:** 7
-
-	- **Expired Listings:** 1
-
-	- **Canceled Listings:** 0
-
-	- **Hold Listings:** 2
-
-	- **Withdrawn Listings:** 0
-
 This snapshot highlights the steady activity in the Castaic market, with price adjustments indicating sellers' responsiveness to buyer expectations.
 
 ### **All SCV Cities: 7-Day Market Snapshot**
 
 For context, here’s how Castaic compares to the broader SCV market:
-
-	- **Coming Soon:** 2
-
-	- **New Listings:** 21
-
-	- **Price Changes:** 33
-
-	- **Back On Market:** 12
-
-	- **Active Under Contract:** 19
-
-	- **Pending Sales:** 24
-
-	- **Closed Sales:** 58
-
-	- **Expired Listings:** 5
-
-	- **Canceled Listings:** 8
-
-	- **Hold Listings:** 12
-
-	- **Withdrawn Listings:** 3
 
 While Castaic represents a smaller subset of SCV activity, its market trends show steady buyer interest and opportunities for well-positioned sellers.
 
@@ -84,69 +40,21 @@ Using data from 49 closed transactions in Castaic over the past 90 days, here's 
 
 #### **Key Metrics:**
 
-	- **Average Sale Price:** $912,548
-
-	- **Median Days on Market (DOM):** 21
-
-	- **Average Price per Square Foot (PPSF):** $424.56
-
-	- **Sold-to-List Price Ratio:** 98.7%
-	
-		This indicates that homes are selling close to their listed prices, reflecting strong buyer demand.
-
-	
-
-	
-
 #### **Loan Types in Castaic:**
 
 Understanding loan types helps buyers prepare for financing and sellers evaluate offers effectively. Here's the breakdown:
 
-	- **Conventional Loans:** Dominated 65% of transactions.
-
-	- **FHA Loans:** Accounted for 20%.
-
-	- **VA Loans:** Represented 10%.
-
-	- **Cash Transactions:** Made up 5%.
-
 #### **Property Highlights by Price Segment:**
-
-	- **Under $600,000:** Competitive market for first-time buyers with quicker sales.
-
-	- **$600,000–$900,000:** Largest volume of sales, reflecting family-sized homes with 3-4 bedrooms.
-
-	- **Over $900,000:** Larger homes on premium lots, attracting discerning buyers.
 
 ### **Castaic's Current Market Opportunities**
 
 #### **For Buyers:**
 
-	- **Price Adjustments:** With 4 recent price changes, some sellers may be motivated, creating opportunities for negotiation.
-
-	- **Loan Programs:** VA and FHA loans remain accessible, ideal for first-time or veteran buyers.
-
-	- **Low Inventory:** With zero new listings this week, buyers must act swiftly on available homes.
-
 #### **For Sellers:**
-
-	- **Strong Demand:** Homes are selling within 98.7% of their list price on average.
-
-	- **Market Responsiveness:** Price changes indicate that strategic pricing is key to attracting offers.
-
-	- **Preparation is Key:** Highlight unique features to stand out in this competitive market.
 
 ### **Castaic Links for Home Buyers and Sellers**
 
 Take advantage of these raw links for your real estate journey:
-
-	- [Homes for Sale in Castaic](https://www.santaclaritaopenhouses.com/castaic-homes)
-
-	- Condos for Sale in Castaic
-
-	- Castaic Market Reports
-
-	- Luxury Homes in Castaic
 
 Explore the latest trends, compare neighborhoods, and find the perfect property in Castaic.
 
@@ -154,23 +62,9 @@ Explore the latest trends, compare neighborhoods, and find the perfect property 
 
 Here are some notable transactions that shaped Castaic's market:
 
-	- **32807 Ridge Top Lane:** Sold for $1,023,344, reflecting a PPSF of $347.49. A spacious 4-bedroom home on a half-acre lot.
-
-	- **28608 Orange Park Drive:** Closed at $979,990 with a PPSF of $441.64. This new construction highlights the premium buyers place on modern homes.
-
-	- **30323 Polson Lane:** Sold for $841,000, emphasizing demand for mid-range homes with family-friendly layouts.
-
-	- **31114 Pinedale Place:** Closed at $690,000 with a PPSF of $454.25. Represents excellent value for single-story homes.
-
 ### **How I Can Help You as the First Responder Realtor**
 
 Whether you’re a buyer or seller, my expertise ensures you’re positioned to achieve your goals in Castaic:
-
-	- **For Sellers:** I offer tailored marketing strategies and insights to maximize your home's value.
-
-	- **For Buyers:** My first responder perspective ensures you’re protected every step of the way.
-
-	- **Market Knowledge:** With detailed reports and analysis, I help you make confident decisions.
 
 ### **Connect With Me**
 
@@ -181,37 +75,6 @@ Let’s talk about your Castaic real estate needs. Whether you’re buying, sell
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -247,26 +110,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

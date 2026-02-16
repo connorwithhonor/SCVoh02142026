@@ -36,21 +36,6 @@ A total of 64 properties have experienced price changes this week, with a stagge
 
 The increase in active listings and the high number of price reductions suggest that Santa Clarita is experiencing a shift. For a long time, we’ve been in a seller's market, but the current trends indicate a potential transition. Here’s a closer look at what’s happening:
 
-	- 
-	**Higher Inventory Levels:** We’re seeing more properties on the market than we have in the past two years. This increased inventory is providing more options for buyers and creating more competition among sellers.
-
-	
-
-	- 
-	**Price Reductions:** The significant number of price reductions reflects seller adjustments to meet buyer expectations. This can be a sign of sellers responding to longer time on the market and fewer offers.
-
-	
-
-	- 
-	**Absorption Rate:** The current absorption rate is being influenced by the influx of new listings. As inventory builds up, the market may take longer to absorb these properties, leading to extended time on the market for many homes.
-
-	
-
 ### Seller Strategies
 
 For sellers, understanding these trends is crucial. The traditional 30-day period for evaluating market performance is becoming more critical. If a property isn’t receiving offers or significant interest within the first few weeks, it may be time to reconsider the pricing or marketing strategy. Sellers should be prepared to make adjustments to remain competitive in this evolving market.
@@ -68,16 +53,6 @@ Staying informed about these trends is crucial whether you’re looking to buy o
 ### Watch the Shorts for Quick Updates
 
 For those who prefer quick updates, check out these informative shorts:
-
-	- Massive Price Reductions: [https://youtube.com/shorts/Jt3LmAe-4E4?feature=share](https://youtube.com/shorts/Jt3LmAe-4E4?feature=share)
-
-	- Current Market Trends: [https://youtube.com/shorts/7-EsxZvOH6I?feature=share](https://youtube.com/shorts/7-EsxZvOH6I?feature=share)
-
-	- New Listings in Santa Clarita: [https://youtube.com/shorts/eEMXfNoXkvc?feature=share](https://youtube.com/shorts/eEMXfNoXkvc?feature=share)
-
-	- Understanding Price Changes: [https://youtube.com/shorts/9L5qTpNrYww?feature=share](https://youtube.com/shorts/9L5qTpNrYww?feature=share)
-
-	- Future Market Predictions: [https://youtube.com/shorts/PcnH1JhPTJw?feature=share](https://youtube.com/shorts/PcnH1JhPTJw?feature=share)
 
 ### Full-Length Video
 
@@ -98,37 +73,6 @@ Thank you for reading and supporting our journey. Have a fantastic day, stay saf
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -164,26 +108,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

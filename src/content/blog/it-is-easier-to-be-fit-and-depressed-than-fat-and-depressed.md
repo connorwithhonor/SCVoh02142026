@@ -50,31 +50,6 @@ Fitness taught me how to show up every day, even when it was hard. It taught me 
 
 Today, fitness isn’t just something I do; it’s a core part of who I am. My lifestyle is built on the foundation of physical health, and it fuels me in every area of life. Here’s how staying in shape has transformed my life and aligned every other aspect of my existence:
 
-	- 
-	**Energy and Vitality** – I have the energy to keep up with the demands of my work, from meeting clients to staying**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/310%20it%20is%20easier%20to%20be%20fit%20and%20depressed%20than%20fat%20and%20depressed%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)** on top of market trends. I no longer feel sluggish or burnt out. My body is equipped to handle life’s demands, and that has changed everything.
-
-	
-
-	- 
-	**Emotional Resilience** – Fitness taught me how to push through discomfort and stay focused, and that resilience has translated into emotional strength. I’m less reactive, more grounded, and better equipped to handle stress.
-
-	
-
-	- 
-	**Mental Clarity** – With physical fitness came mental clarity. I can focus better, think more strategically, and approach challenges with a clear mind. This has been invaluable in my work as a realtor, where focus and strategy are essential.
-
-	
-
-	- 
-	**Confidence and Self-Worth** – There’s a confidence that comes from taking control of your health. I feel proud of what I’ve accomplished, and that confidence shows up in every interaction I have. I know I’m capable of achieving big goals, and that belief in myself has become a cornerstone of my life.
-
-	
-
-	- 
-	**Alignment in Relationships** – Taking care of myself has allowed me to show up better for others. I’m more present, more engaged, and more supportive in my relationships. I’m able to be there for others because I’m taking care of myself.
-
-	
-
 #### **Lessons Learned: Fitness as a Foundation for Life**
 
 One of the biggest lessons I’ve learned is that fitness is about more than just weight loss. It’s about building a foundation that supports every other area of life. When my body was unhealthy, every other part of my life was impacted. My emotions were unstable, my mind was clouded, and I didn’t have the resilience to handle challenges. But as I got healthier, I realized that fitness is the key to a balanced, fulfilled life.
@@ -100,37 +75,6 @@ To anyone who’s struggling with weight, health, or mindset: know that change i
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -166,26 +110,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -32,29 +32,7 @@ In simple terms, mortgage rates are what you’ll pay for your home loan, and th
 
 ### **How Are They Connected?**
 
-	- 
-	**The Fed Rate and Mortgage Rate are connected but not the same.**
-
-	When the Fed lowers its rate, it can influence mortgage rates to come down too—but not always, and not immediately. Mortgage rates are more about long-term trends and the overall health of the economy.
-
-	
-
-	- 
-	**Example**: When the Fed lowers the rate, it might make borrowing cheaper for banks, so they *might* pass some of those savings to you through lower mortgage rates. But mortgage rates also depend on other factors, like how investors feel about the economy and inflation.
-
-	
-
 ### **Bottom Line for Buyers and Sellers:**
-
-	- 
-	**For Buyers**: If the Fed lowers rates, there’s a chance mortgage rates will drop too, making it a bit cheaper to borrow money for your home. But don’t assume they will drop immediately or by the same amount as the Fed’s rate cut.
-
-	
-
-	- 
-	**For Sellers**: Lower Fed rates can bring more buyers into the market because mortgages might become more affordable. However, if mortgage rates don’t follow the Fed’s cut, buyer demand could remain the same.
-
-	
 
 In short, the **Federal Funds Rate** and **Mortgage Rate** are related, but they’re not the same thing. The Fed controls one (Fed Rate), and lenders control the other (Mortgage Rate). They affect each other, but mortgage rates are influenced by many factors beyond just the Fed’s decision.
 
@@ -79,28 +57,6 @@ Locally, we’re facing some of the same challenges as the national market. Whil
 Here in Santa Clarita, the **median home price** is still hovering above **$800,000**, and while lower rates might help buyers qualify for loans, competition remains stiff. Sellers will need to ensure that their homes are properly priced to attract offers. This is especially true now that we’re seeing more buyers enter the market as rates drop.
 
 Here’s a detailed breakdown of Santa Clarita’s current real estate data:
-
-	- **Coming Soon:** *8* properties are getting ready to hit the market.
-
-	- **New Listings:** *89* homes have just been listed for sale.
-
-	- **Price Changes:** *71* homes saw price adjustments.
-
-	- **Back on Market:** *21* homes are back on the market after contracts fell through.
-
-	- **Active Under Contract:** *37* homes are currently in contract negotiations.
-
-	- **Pending Sales:** *46* homes are awaiting closing.
-
-	- **Closed Sales:** *48* homes have successfully closed. Congratulations to the new owners!
-
-	- **Expired Listings:** *6* homes didn’t sell before the listing expired.
-
-	- **Canceled Listings:** *16* homes were pulled off the market.
-
-	- **Hold Status:** *10* homes are temporarily off the market but may be back soon.
-
-	- **Withdrawn Listings:** *6* homes were withdrawn and are no longer for sale.
 
 ### The Local Impact of the Fed’s Rate Cut
 
@@ -129,37 +85,6 @@ That wraps up today’s **Santa Clarita Real Estate Market Update**. To stay inf
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -195,26 +120,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

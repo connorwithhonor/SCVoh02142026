@@ -40,14 +40,6 @@ The **Agentic Honor System** starts with a robust, scalable, and AI-adaptable CR
 
 A CRM isn’t just a place to store names and numbers. It’s the heartbeat of your business, managing relationships and driving revenue. The Agentic Honor System’s CRM is built to:
 
-	- **Track leads seamlessly**: From the moment a lead enters your system—whether from a website form, social media, or a missed call—it’s categorized, tagged, and assigned a follow-up plan.
-
-	- **Integrate SMS and email**: Send personalized texts or emails directly from the CRM, with automation to keep the conversation going.
-
-	- **Manage pipelines**: Visualize your deals at every stage, so you know exactly where to focus your energy.
-
-	- **Adapt to AI**: Unlike generic CRMs, this one is pre-configured to integrate with advanced AI tools, from automated workflows to intelligent ad tracking.
-
 This isn’t a one-size-fits-all solution. I’ve spent years testing and refining this CRM to ensure it’s the perfect foundation for real estate agents. It’s flexible enough to grow with you, whether you’re a solo agent or running a team, and it’s built to adapt to the ever-changing tech landscape.
 
 #### The Long-Term Win
@@ -72,25 +64,11 @@ Real-world example: One of my clients, a busy agent in Santa Clarita, implemente
 
 Texting is great, but sometimes you need a voice. The Agentic Honor System’s **AI-powered phone system** takes automation to the next level. It can:
 
-	- **Qualify leads**: The AI engages callers with natural, conversational questions to determine their needs (e.g., “Are you looking to buy in the next 3 months?”).
-
-	- **Schedule appointments**: If a lead is ready to meet, the AI books a time slot in your calendar.
-
-	- **Follow up**: For leads that aren’t ready, the AI can place a courtesy call days or weeks later to keep the relationship alive.
-
 This isn’t a clunky robo-call system. It’s sophisticated, human-like, and designed to free up your time for high-value tasks like closing deals. Imagine having a virtual assistant who works 24/7, never takes a break, and never misses a lead.
 
 #### Automated AI Workflows: Set It and Forget It
 
 Leads are only as good as your follow-up, but manual follow-up is a time-suck. The Agentic Honor System’s **automated AI workflows** handle it for you. When a new lead enters the system—say, from a website form or a Facebook ad—the system triggers a multi-touch sequence:
-
-	- **Day 1**: Sends a personalized welcome email and a text introducing yourself.
-
-	- **Day 3**: Follows up with a value-packed email (e.g., a market update for their neighborhood).
-
-	- **Day 7**: Places an AI-powered call to check in and qualify the lead.
-
-	- **Ongoing**: Continues nurturing with tailored content based on the lead’s behavior (e.g., clicking a listing link or visiting your site).
 
 Each lead is tagged and categorized—buyers, sellers, past clients, or hot prospects—so you can send the right message at the right time. For example, past buyers might get a quarterly market report specific to their neighborhood, while active leads get a drip campaign to build trust.
 
@@ -99,12 +77,6 @@ This level of automation isn’t just convenient; it’s a game-changer. Studies
 #### High-Conversion Funnels &amp; Forms
 
 Your website and social media are lead magnets, but are they converting? The Agentic Honor System includes **high-conversion funnels and forms** to turn clicks into clients. You’ll get:
-
-	- **Landing page templates**: Pre-designed pages optimized for lead capture (e.g., “Get a Free Home Valuation”).
-
-	- **Smart forms**: Forms that integrate directly with the CRM, automatically tagging and segmenting leads based on their input.
-
-	- **Funnel strategies**: Step-by-step guidance to create funnels that guide leads from awareness (e.g., seeing your ad) to action (e.g., booking a consultation).
 
 For example, one of my clients used our “First-Time Buyer Guide” funnel to capture 50 new leads in a single month. The system automatically sent each lead a downloadable guide, followed by a personalized email and text sequence. Within two weeks, 10 of those leads booked consultations.
 
@@ -117,14 +89,6 @@ For instance, a client running Facebook ads for a luxury listing used our system
 #### The Power of Integration
 
 What makes the Agentic Honor System truly unique is its seamless integration. The CRM connects with:
-
-	- **Email and SMS platforms**: Send targeted campaigns with ease.
-
-	- **Social media**: Pull in leads from Instagram, Facebook, and more.
-
-	- **Websites**: Capture and categorize leads from your online presence.
-
-	- **Third-party tools**: Sync with tools like Mailchimp or Zapier for added flexibility.
 
 This isn’t a collection of apps slapped together. It’s a unified system where every piece talks to the others, creating a smooth, efficient workflow that saves you time and maximizes results.
 
@@ -156,14 +120,6 @@ The first step? A one-on-one conversation with me. We’ll talk about your busin
 
 Ready to build your business on a foundation of steel? Let’s talk:
 
-	- **Call or text me directly** at **661-400-1720**.
-
-	- **Prefer email?** Reach out at **[connor@honorelevate.com](mailto:connor@honorelevate.com)**, and we’ll set up a time.
-
-	- **See the system in action** and connect with me online. Find me on Instagram **@agentichonor** or on YouTube at **[youtube.com/@agentichonor](https://www.youtube.com/@agentichonor)**.
-
-	- **Want the full experience?** Visit **[https://honorelevate.com](https://honorelevate.com)** to learn about customized onboarding and AI integration.
-
 ### Conclusion
 
 Stop wasting time and money on disconnected tools that promise the world and deliver frustration. The **Agentic Honor System** is your chance to invest in a complete, unified operating system built on a rock-solid CRM foundation. With AI-powered automation, high-conversion funnels, and intelligent ad tracking, it’s designed to help you scale your real estate business without the chaos.
@@ -177,37 +133,6 @@ Your next level is one conversation away. Call me at **661-400-1720**, email me 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -243,26 +168,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

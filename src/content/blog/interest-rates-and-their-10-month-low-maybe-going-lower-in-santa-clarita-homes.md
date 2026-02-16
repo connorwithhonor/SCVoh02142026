@@ -49,21 +49,6 @@ Mortgage rates have driven many buyers to pause—yet recent data shows rates ho
 
 #### 5. **What Today’s Market Means for Santa Clarita Sellers**
 
-	- 
-	**Longer days on market?** Position your listing to stand out—virtual tours, video walkthroughs, and fresh visuals.
-
-	
-
-	- 
-	**High inventory?** Use targeted messaging—highlight neighborhood features, schools, lifestyle.
-
-	
-
-	- 
-	**Favorable rates?** Highlight how a buyer’s monthly payment now compares to renting or waiting—create that emotional connection. Need help implementing? Let’s strategize.
-
-	
-
 **CALL-TO-ACTION REMINDER #2:**
 Book your **free private Zoom strategy session with me—Connor with Honor** at [https://ZoomMeSCV.com](https://ZoomMeSCV.com). We’ll tailor a winning plan that fits you.
 
@@ -256,26 +241,6 @@ Climate concerns, like the projected 171% increase in days over 99°F in Santa C
 
 As a Santa Clarita realtor with a unique background as a former LAPD motor cop, I bring discipline, integrity, and tenacity to every transaction. My adoption of AI-driven market analysis and cutting-edge marketing strategies sets me apart in a competitive field. Here’s what you gain by partnering with me:
 
-	- 
-	**Exclusive Access:** Get first dibs on coming-soon listings at SantaClaritaComingSoon.com, giving you a competitive edge in a fast-moving market.
-
-	
-
-	- 
-	**Personalized Strategy:** Schedule a free Zoom consultation to develop a custom plan tailored to your goals, whether buying or selling.
-
-	
-
-	- 
-	**Local Expertise:** With decades in Santa Clarita, I know every neighborhood’s nuances, from Valencia’s amenities to Castaic’s equestrian estates.
-
-	
-
-	- 
-	**Proven Results:** My team closed 53 homes in a single week, showcasing our ability to deliver in a dynamic market.
-
-	
-
 ## Your Next Steps: Seize the Opportunity
 
 The Santa Clarita real estate market in 2025 is a land of opportunity for buyers and sellers alike. For buyers, lower mortgage rates, increased inventory, and coming-soon listings create a window to secure your dream home. For sellers, a persistent seller’s market and strategic marketing can yield top-dollar offers. But success requires action, expertise, and timing.
@@ -290,37 +255,6 @@ The national trends—slowing new-home sales, rising supply, tech advances, shif
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -356,26 +290,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

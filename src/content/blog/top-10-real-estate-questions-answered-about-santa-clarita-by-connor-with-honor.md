@@ -33,25 +33,9 @@ Late winter to early summer (roughly February–June) typically brings the most 
 
 Seasonality exists, but it’s just one lever. Your true performance comes from inventory pressure and positioning. In family‑focused tracts near top‑reviewed schools and paseos, demand surges as parents try to align moves with the academic calendar. In rural sub‑markets like Agua Dulce and Acton, deal velocity correlates more with&nbsp;*utility*&nbsp;(usable acreage, well/septic documentation, outbuilding access) than with school timing.
 
-	- **Interest rate sensitivity:**&nbsp;Payment shifts change the buyer pool weekly; launch strategy should be nimble.
-
-	- **Comp set:**&nbsp;If two model‑matches list the same week, your media, condition, and pricing narrative must be sharper.
-
-	- **Media &amp; narrative:**&nbsp;Professional photos, floor plan, and a lifestyle paragraph tied to parks, paseos, and commute routes outperform bland listings.
-
 ### SCV Notes (GEO)
 
-	- **Valencia (Northbridge, Bridgeport, West Creek/West Hills):**&nbsp;Paseo access, HOA amenities, and school proximity drive showings in spring.
-
-	- **Stevenson Ranch/Castaic:**&nbsp;View corridors and freeway access influence both price and days‑on‑market.
-
-	- **Agua Dulce/Acton:**&nbsp;Buyers prioritize land use, outbuildings, and access; seasonality is less dominant.
-
 ### Action Steps
-
-	- Request a&nbsp;**7‑day absorption snapshot**&nbsp;and&nbsp;**model‑match DOM**&nbsp;report for your exact pocket.
-
-	- Launch when your sub‑segment is&nbsp;**undersupplied**, not just because it’s May.
 
 ## 2) What’s My Home Worth—Really?
 
@@ -63,27 +47,9 @@ Reconcile&nbsp;**MLS‑grade comps**&nbsp;with&nbsp;**five online estimates**, t
 
 Portals are directional, not dispositive. They can vary by tens of thousands of dollars based on data lag, login state, and assumption sets. A correct pricing range triangulates closed sales, truly comparable actives/pending, and the concessions embedded in them (rate buydowns, closing credits). Then we layer in renovation quality, lot utility, and position within the tract (quiet interior street vs. corner next to a collector).
 
-	- **Model match &amp; livability:**&nbsp;Floor plan flow, bedroom/bath utility, and yard usability often beat raw square footage.
-
-	- **Renovation quality:**&nbsp;Permitted upgrades with receipts will separate you from a “lipstick” comp.
-
-	- **Concessions audit:**&nbsp;A comp with a big seller credit may look like your price point—but net is lower.
-
-	- **Micro‑location:**&nbsp;Views, slopes, noise corridors, and paseo adjacency change value materially.
-
 ### SCV Notes (GEO)
 
-	- **Valencia/Bridgeport:**&nbsp;Lake adjacency and paseo access can swing value significantly.
-
-	- **Saugus/Canyon Country:**&nbsp;Builder differences and year‑built pockets require tight, in‑tract comp sets.
-
-	- **Stevenson Ranch/Castaic:**&nbsp;Hillside terrain and school ratings create wider pricing bands.
-
 ### Action Steps
-
-	- Ask for my&nbsp;**Pricing Reconciliation**: five online estimates + MLS comps + strategy range (List / Likely / Stretch).
-
-	- Price to attract&nbsp;**2–3 serious buyers**&nbsp;in week one; that’s where leverage lives.
 
 ## 3) How Do I Get My House Ready to Sell (Without Overspending)?
 
@@ -95,27 +61,9 @@ Maximize first impression:&nbsp;**curb appeal, declutter, depersonalize, neutral
 
 Buyers purchase two things:&nbsp;**certainty**&nbsp;and&nbsp;**emotion**. Certainty comes from maintenance, disclosure, and documentation. Emotion comes from light, space, and a neutral canvas. Focus your budget on what buyers will notice during the first 90 seconds and the first 9 photos.
 
-	- **Curb appeal:**&nbsp;Trim/edge, fresh mulch, front‑door refresh, new house numbers, working lights.
-
-	- **Surfaces:**&nbsp;Neutral paint, clean baseboards, spotless windows; fix nail pops and cracked plates.
-
-	- **Kitchens/Baths:**&nbsp;Caulk/grout, silent hinges, updated pulls/faucets where dated.
-
-	- **Declutter:**&nbsp;Show counter and floor space; move seldom‑used appliances to the garage or storage.
-
-	- **Depersonalize:**&nbsp;Replace family collages with neutral art; dimensional word signs can become buyer “projects.”
-
-	- **Repair &amp; document:**&nbsp;Finish surfaces fully and keep receipts; buyers love a neat binder.
-
 ### SCV Notes (GEO)
 
-	- **Bridgeport/Valencia:**&nbsp;Stage for lake/paseo lifestyle—light, airy, outdoor seating.
-
-	- **Agua Dulce/Acton:**&nbsp;Label systems (septic/well), make outbuildings accessible, present surveys and permits.
-
 ### Action Steps
-
-	- Request my&nbsp;**Pre‑List Punch List**&nbsp;(targeting the highest ROI items under a modest budget) customized to your home.
 
 ## 4) Should I Get a Pre‑Listing Home and Termite Inspection?
 
@@ -125,21 +73,11 @@ Yes—if you want to project&nbsp;**transparency and control surprises**. Buyers
 
 ### Deep Dive
 
-	- Identify items you can&nbsp;**fix upfront**&nbsp;for pennies vs. dollars later.
-
-	- Reduce re‑negotiations after the buyer’s inspection and keep momentum.
-
-	- Strengthen your&nbsp;**disclosure narrative**&nbsp;and appraisal confidence.
-
 ### SCV Notes (GEO)
 
 Termite work is common in SCV. Early Section 1/2 clarity keeps escrow clean, especially in older tracts with repeat patterns.
 
 ### Action Steps
-
-	- Order&nbsp;**home + termite**&nbsp;before photos.
-
-	- Keep a clean&nbsp;**repair invoice trail**—it pays at the table.
 
 ## 5) How Long Will My Home Take to Sell?
 
@@ -149,19 +87,11 @@ It depends on&nbsp;**price, condition, and demand**. Use current&nbsp;**absorpti
 
 ### Deep Dive
 
-	- **Week‑one indicators:**&nbsp;showings, return showings, agent feedback, saved/favorited counts.
-
-	- **Competitive moves:**&nbsp;new listings, price adjustments, withdrawn/expired comps in your segment.
-
-	- **Offer cadence:**&nbsp;set a response window so you can compare on an even playing field.
-
 ### SCV Notes (GEO)
 
 Updated 4‑bed Valencia cul‑de‑sacs can move in days; unique or rural properties may require longer runway and niche marketing (e.g., equestrian channels for Agua Dulce).
 
 ### Action Steps
-
-	- Review every&nbsp;**7 days**: if activity lags benchmarks, adjust quickly—don’t wait 30 days.
 
 ## 6) Buyers: What’s the First Step to Purchase?
 
@@ -171,12 +101,6 @@ Secure a&nbsp;**full underwritten pre‑approval**&nbsp;with a lender you trust,
 
 ### Deep Dive
 
-	- **Underwriting review:**&nbsp;documents verified, ratios confirmed.
-
-	- **Payment matrix:**&nbsp;model three rate scenarios and include taxes, HOA, and potential Mello‑Roos/CFD.
-
-	- **Funds‑to‑close clarity:**&nbsp;down payment + closing costs + reserves (no surprises).
-
 **Etiquette:**&nbsp;If your family referred you to a lender, a good agent works with them—not against them.
 
 ### SCV Notes (GEO)
@@ -184,8 +108,6 @@ Secure a&nbsp;**full underwritten pre‑approval**&nbsp;with a lender you trust,
 Include assessment details and HOA dues; your “fit” is the&nbsp;*total monthly*, not just the headline rate.
 
 ### Action Steps
-
-	- Ask for my&nbsp;**Buyer Intake &amp; Budget Grid**—it maps payment comfort to viable SCV neighborhoods and home types.
 
 ## 7) Loans 101: FHA, VA, Conventional, PMI, and ARMs—What Should I Choose?
 
@@ -195,29 +117,15 @@ Most SCV buyers choose&nbsp;**30‑year fixed Conventional**&nbsp;when possible.
 
 ### Deep Dive
 
-	- **Conventional (3–20%+):**&nbsp;20% avoids PMI; below 20% expect PMI until equity thresholds.
-
-	- **FHA (3.5%):**&nbsp;Flexible on credit; understand MIP duration and total cost of ownership.
-
-	- **VA (0% for eligible):**&nbsp;Powerful benefit; know appraisal/tidewater protocol and fee limits.
-
-	- **ARMs (5/6, 7/6, 10/6):**&nbsp;Lower introductory rate; confirm caps (e.g., 2/1/5), index, margin, and exit plan.
-
 ### SCV Notes (GEO)
 
 On competitive listings, stronger financing—or a smart rate‑buydown—can beat a slightly higher price. Work the math before you write.
 
 ### Action Steps
 
-	- Get a&nbsp;**side‑by‑side comparison**&nbsp;(30‑yr fixed vs. ARM vs. buydown) at today’s rate plus ±0.5% and ±1.0% scenarios.
-
 ## 8) Buyer’s Market vs. Seller’s Market—What Changes for Me?
 
 ### Short Answer (AEO)
-
-	- **Buyer’s Market:**&nbsp;More inventory, fewer competing buyers. Stronger leverage on price, credits, and repairs.
-
-	- **Seller’s Market:**&nbsp;Scarce inventory, multiple offers. Stronger price discipline, cleaner terms, and speed matter.
 
 ### Deep Dive
 
@@ -229,8 +137,6 @@ Many deals use an inspection period around&nbsp;**17 days**. Confirm current CAR
 
 ### Action Steps
 
-	- Ask for my&nbsp;**Market Posture Brief**&nbsp;before you list or write: leverage points for&nbsp;*this week*&nbsp;in&nbsp;*your*&nbsp;segment.
-
 ## 9) Do I Need an Agent, or Can I Do It Myself?
 
 ### Short Answer (AEO)
@@ -241,33 +147,13 @@ You can DIY. But professional representation adds&nbsp;**risk management, negoti
 
 #### Buy Side: What Improves
 
-	- **Access &amp; intel**&nbsp;(whisper listings, seller situations)
-
-	- **Offer structure**&nbsp;(terms that win without overpaying)
-
-	- **Negotiation &amp; risk**&nbsp;(repairs, credits, timelines, appraisal strategy)
-
 #### Sell Side: What Improves
 
-	- **Pricing strategy &amp; narrative**
-
-	- **Media + distribution**&nbsp;that actually converts
-
-	- **Offer orchestration**&nbsp;to create orderly competition
-
-	- **Contract management**—deadlines, addenda, compliance, closing
-
 ### Action Steps
-
-	- Ask for my&nbsp;**Service Map**—exactly what I do from pre‑list to close, with cost/return priorities.
 
 ## 10) What Costs Should I Expect as a Buyer or a Seller?
 
 ### Short Answer (AEO)
-
-	- **Sellers:**&nbsp;repairs/prep, possible credits, your side of closing costs, commission (negotiable).
-
-	- **Buyers:**&nbsp;down payment, closing costs, inspections, insurance, and potential rate buydown.
 
 ### Deep Dive
 
@@ -278,8 +164,6 @@ Every escrow is a math problem. We build an&nbsp;**Estimated Net Sheet**&nbsp;(s
 Some SCV tracts carry&nbsp;**Mello‑Roos/CFD**&nbsp;and&nbsp;**HOA**. These impact payment modeling and buyer pool size—price and disclose accordingly.
 
 ### Action Steps
-
-	- Before you list or write, request my&nbsp;**Cost Map**&nbsp;with three scenarios (conservative / base / aggressive) so you’re never surprised.
 
 ## 11) SCV Micro‑Market Playbooks (Local GEO)
 
@@ -339,69 +223,9 @@ HOA, parking, and noise corridors decide winners. Link to&nbsp;[/valencia](/vale
 
 ## 12) Bonus: 20 More Questions (Quick Answers)
 
-	- **How do rate buydowns work?**&nbsp;Seller credit (or buyer points) lowers the interest rate; compare cost vs. monthly savings and expected hold time.
-
-	- **Should I waive appraisal?**&nbsp;Rarely. Consider appraisal gap coverage with caps, not blind waivers.
-
-	- **What if my home doesn’t appraise?**&nbsp;Rebut with comps, adjust price/terms, or introduce buydown/credit structures.
-
-	- **Are “as‑is” sales allowed?**&nbsp;Yes, but you still&nbsp;*disclose*. Price for condition; expect lender‑required repairs on some loans.
-
-	- **What inspections matter most?**&nbsp;Home + termite baseline; add roof, chimney, sewer, pool, or well/septic when relevant.
-
-	- **Can I sell without staging?**&nbsp;Yes, but even light “edit/stage” (rugs, lamps, art) increases conversion from photos.
-
-	- **How many homes should I tour?**&nbsp;Enough to calibrate value; then focus. Decision quality drops after fatigue sets in.
-
-	- **What’s earnest money in SCV?**&nbsp;Typically 1–3% of purchase price; confirm timelines and release conditions.
-
-	- **Are seller credits common?**&nbsp;In balanced/buyer markets—yes. Use credits for closing costs or rate buydowns.
-
-	- **What’s Mello‑Roos/CFD?**&nbsp;A special assessment in some tracts; include it in payment modeling and disclosures.
-
-	- **Do I need a home warranty?**&nbsp;Optional; consider age of major systems and your risk tolerance.
-
-	- **Can I buy before I sell?**&nbsp;Possibly—bridge financing, HELOC, or rent‑back structures can help. Model the risk carefully.
-
-	- **What if I get multiple offers?**&nbsp;Use a response window, compare net + terms, and prioritize certainty.
-
-	- **Should I accept the first offer?**&nbsp;Maybe—if it’s strong and market‑tested. Momentum matters; don’t stall without reason.
-
-	- **How do I handle repairs?**&nbsp;Focus on safety/functional items; offer credits where timeline is tight.
-
-	- **Can I use an escalation clause?**&nbsp;Sometimes, but clear caps and proof requirements are crucial; some sellers prefer straight counters.
-
-	- **What’s a rent‑back?**&nbsp;Seller remains in home after close for a fixed period/rate; clarify insurance and per‑diem.
-
-	- **Do new construction incentives beat resale?**&nbsp;Often generous—compare HOA/Mello‑Roos and location trade‑offs.
-
-	- **How do I vet an HOA?**&nbsp;Read CC&amp;Rs, budgets, reserves, meeting minutes; walk the grounds at night/weekends.
-
-	- **When should I reduce price?**&nbsp;If week‑one indicators miss targets and traffic is thin vs. comps, adjust quickly and market the change.
-
 Want the&nbsp;**full write‑ups**&nbsp;for these 20? Grab the extended PDF at&nbsp;**/guides/top-30-questions**.
 
 ## 13) HowTo: Pre‑List Checklist (Step‑by‑Step)
-
-	- **Discovery (Day 0–2):**&nbsp;Request pricing reconciliation, absorption snapshot, DOM report.
-
-	- **Plan (Day 2–4):**&nbsp;Select top ROI fixes; schedule handyman/cleaners; order home + termite.
-
-	- **Prep (Day 4–10):**&nbsp;Paint touch‑ups, hardware swaps, yard tune‑up, window wash, deep clean.
-
-	- **Docs (Day 7–10):**&nbsp;Collect permits, warranties, service records into a neat binder and PDF.
-
-	- **Media (Day 10–12):**&nbsp;Photos, floor plan; consider 3D and lifestyle shots (paseos, parks).
-
-	- **Launch (Day 13):**&nbsp;List with price narrative; publish open‑house schedule; syndicate appropriately.
-
-	- **Week One (Day 13–20):**&nbsp;Track indicators; set offer window; gather feedback; adjust quickly if needed.
-
-	- **Negotiate (As Offers Arrive):**&nbsp;Compare net + terms; weigh certainty; decide on counters or accept.
-
-	- **Escrow (Accepted → Close):**&nbsp;Keep contingency timeline tight but realistic; anticipate appraisal; coordinate repairs/credits.
-
-	- **Close &amp; Handoff:**&nbsp;Utilities, keys, manuals, and a clean home—finish with honor.
 
 ## 14) FAQ (People‑Also‑Ask Style)
 
@@ -435,27 +259,7 @@ Overpricing week one, skipping basic prep, resisting strategy updates when the m
 
 ## 15) Glossary (SCV &amp; Contract Essentials)
 
-	- **Absorption Rate:**&nbsp;The speed at which current inventory sells—supply vs. pending demand.
-
-	- **DOM (Days on Market):**&nbsp;Days from listing to offer acceptance; reset rules vary.
-
-	- **Mello‑Roos/CFD:**&nbsp;Special assessments in some tracts; must be modeled into payments.
-
-	- **PMI/MIP:**&nbsp;Mortgage insurance on low‑down‑payment loans; impacts total cost of ownership.
-
-	- **ARM Caps:**&nbsp;Limits on how much an adjustable rate can rise (e.g., 2/1/5).
-
-	- **Highest and Best:**&nbsp;Seller invites buyers to submit their strongest price/terms by a deadline.
-
-	- **Rent‑Back:**&nbsp;Seller remains post‑close for a defined per‑diem; clarify insurance/liability.
-
 ## 16) Summary + Next Steps for SCV Sellers &amp; Buyers
-
-	- **Sellers:**&nbsp;Prep with purpose, document everything, and price for early activity. Demand honest feedback and adjust quickly if needed.
-
-	- **Buyers:**&nbsp;Lock your numbers first, then shop with a clear payment comfort range. Write clean, protective offers.
-
-	- **Everyone:**&nbsp;SCV is&nbsp;*neighborhood‑by‑neighborhood and model‑by‑model*. That’s where I operate.
 
 **Want the complete Top 30 Questions**&nbsp;with full checklists, scripts, and templates?
 
@@ -467,49 +271,7 @@ Ready to move in Santa Clarita? Do it&nbsp;**with honor**—and with a plan.
 
 ### Neighborhoods
 
-	- [/valencia](/valencia)
-
-	- [/saugus](/saugus)
-
-	- [/canyon-country](/canyon-country)
-
-	- [/stevenson-ranch](/stevenson-ranch)
-
-	- [/castaic](/castaic)
-
-	- [/newhall](/newhall)
-
-	- [/agua-dulce](/agua-dulce)
-
-	- [/acton](/acton)
-
 ### Features &amp; Tools
-
-	- [/open-houses](/open-houses)
-
-	- [/coming-soon](/coming-soon)
-
-	- [/homes-with-pools](/homes-with-pools)
-
-	- [/55-plus](/55-plus)
-
-	- [/gated-communities](/gated-communities)
-
-	- [/rv-parking](/rv-parking)
-
-	- [/golf-course](/golf-course)
-
-	- [/home-value](/home-value)
-
-	- [/seller-guide](/seller-guide)
-
-	- [/market-report](/market-report)
-
-	- [/new-listings](/new-listings)
-
-	- [/loan-options](/loan-options)
-
-	- [/book-a-consult](/book-a-consult)
 
 Adjust slugs to match your live sitemap if they differ.
 
@@ -549,45 +311,17 @@ This rural property’s interiors were dated, but the outbuildings were immacula
 
 The SCV is a constellation of micro‑pockets that answer different lifestyle questions. Your internal links should meet readers at their intent and route them to the right inventory pages. Here are examples of pathing that consistently converts:
 
-	- **Family‑first Valencia seeker:**&nbsp;Start at&nbsp;[/valencia](/valencia)&nbsp;→ branch to&nbsp;[/homes-with-pools](/homes-with-pools)&nbsp;and&nbsp;[/open-houses](/open-houses)&nbsp;→ keep a CTA to&nbsp;[/book-a-consult](/book-a-consult).
-
-	- **Downsizer in Newhall:**&nbsp;Start at&nbsp;[/newhall](/newhall)&nbsp;→ branch to&nbsp;[/55-plus](/55-plus)&nbsp;and&nbsp;[/gated-communities](/gated-communities)&nbsp;→ add&nbsp;[/market-report](/market-report)&nbsp;for timing clarity.
-
-	- **Workshop/space hunter (Acton/Agua Dulce):**&nbsp;Start at&nbsp;[/acton](/acton)&nbsp;or&nbsp;[/agua-dulce](/agua-dulce)&nbsp;→ branch to&nbsp;[/rv-parking](/rv-parking)&nbsp;and&nbsp;[/coming-soon](/coming-soon)&nbsp;→ keep a link to&nbsp;[/loan-options](/loan-options)&nbsp;for land‑friendly financing details.
-
-	- **Golf/lifestyle buyer:**&nbsp;Start at&nbsp;[/golf-course](/golf-course)&nbsp;→ branch to&nbsp;[/open-houses](/open-houses)&nbsp;and&nbsp;[/new-listings](/new-listings)&nbsp;→ keep a CTA to&nbsp;[/home-value](/home-value)&nbsp;for trade‑in analysis.
-
 Don’t bury these paths; place them high on the page and again near CTAs. Match link anchor text to user intent (“Homes with Pools in Valencia” beats “click here”).
 
 ## 21) Seller Net Sheet Walkthrough (What Changes Your Bottom Line)
 
 Your net isn’t list price minus commission. It’s a moving equation shaped by time, certainty, concessions, and prep. Here’s a simplified model you can adapt:
 
-	- **Gross Price**&nbsp;(offer price)
-
-	- **Minus Credits**&nbsp;(repairs, closing costs, buydown)
-
-	- **Minus Transaction Costs**&nbsp;(title/escrow, transfer taxes, HOA docs)
-
-	- **Minus Prep/Repairs**&nbsp;(pre‑list and during escrow)
-
-	- **Minus Loan/Payoff Amounts**&nbsp;(including any prepayment penalties)
-
-	- **= Estimated Net**&nbsp;(then stress‑test with ±$5k/±$10k credit scenarios)
-
 We build three versions—conservative, base, and aggressive—and update after inspection and appraisal milestones. This transparency prevents last‑minute surprises and helps you choose the offer that actually nets more, not just the one with the highest headline number.
 
 ## 22) Financing Deep Dive (Beyond the One‑Liner)
 
 Two buyers with identical pre‑approvals can have radically different outcomes depending on how they structure their offers. Consider these levers:
-
-	- **Rate buydown vs. price cut:**&nbsp;For payment‑sensitive buyers, a credit to buy the rate down may beat a small price reduction in monthly comfort and qualification.
-
-	- **Lock/float strategy:**&nbsp;Volatile weeks reward a proactive lock plan with clear triggers; coordinate with your lender and agent.
-
-	- **Reserves:**&nbsp;More than the minimum required reserves increase seller confidence and may shorten contingency timelines.
-
-	- **Loan program optics:**&nbsp;Presentation matters. A tidy pre‑approval package with documented funds reads stronger to listing agents.
 
 On the sell side, we evaluate the&nbsp;*certainty*&nbsp;of each loan file (underwriting status, verifications complete, reserves) alongside price. A slightly lower price with higher certainty often nets more because it reduces fall‑through risk and timeline slippage.
 
@@ -602,37 +336,6 @@ For buyers, the first step is a fully underwritten pre‑approval and a payment 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -668,26 +371,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

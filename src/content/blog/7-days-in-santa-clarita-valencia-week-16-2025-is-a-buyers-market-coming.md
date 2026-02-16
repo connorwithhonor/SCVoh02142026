@@ -26,31 +26,6 @@ Welcome to the most detailed weekly housing narrative anywhere on the web for **
 
 If you are new to this series, here is what to expect:
 
-	- 
-	**Context first.**&nbsp;We start with macro‑economic conditions, mortgage pricing, and local employment fundamentals so you understand *why* the micro‑numbers look the way they do.
-
-	
-
-	- 
-	**Status‑by‑status coverage.**&nbsp;Every property that entered, left, or moved within the system is accounted for, with special commentary on price positioning, concessions, time‑on‑market, and negotiation patterns.
-
-	
-
-	- 
-	**Neighborhood drilling.**&nbsp;Valencia is not monolithic. From the gated estates of Westridge to the lakeside paseos of Bridgeport and the solar‑powered smart homes of FivePoint, sub‑markets behave differently; we surface those nuances.
-
-	
-
-	- 
-	**Actionable take‑aways.**&nbsp;Whether you are buying, selling, or building a portfolio, we close with bullet‑level recommendations you can implement this week, plus a forward‑looking forecast.
-
-	
-
-	- 
-	**Resource linking.**&nbsp;All internal links point to live search pages on **SantaClaritaOpenHouses.com**, so you can pivot directly from commentary to listings and market reports without hunting through a menu tree.
-
-	
-
 That is a lot of ground to cover, so settle in. You are about to read more than **5,000 words** of Valencia‑specific insight distilled from MLS data, local government filings, county recorder statistics, and boots‑on‑the‑ground agent interviews&nbsp;– all curated through the lens of consumer protection, ethical practice, and strategic decision‑making.
 
 *(Total word count of the article below: ≈&nbsp;5,230&nbsp;words)*
@@ -73,90 +48,6 @@ New construction continues under the *FivePoint Valencia Specific Plan* adopted 
 
 ## 2&nbsp;&nbsp;Seven‑Day Status Ledger
 
-	
-		
-			Status
-			Count
-			High List
-			Low List
-			Median List
-			Median DOM
-			Quickest to Status
-		
-		
-			Coming Soon
-			6
-			$1,950,000
-			$655,000
-			$779,500
-			N/A
-			N/A
-		
-		
-			New&nbsp;Active
-			30
-			$1,625,000
-			$410,000
-			$859,900
-			0
-			9 properties
-		
-		
-			Active&nbsp;w/&nbsp;Back‑Up
-			4
-			$1,200,000
-			$585,000
-			$761,250
-			7
-			3&nbsp;days
-		
-		
-			Pending
-			4
-			$1,495,000
-			$430,000
-			$787,500
-			11
-			6&nbsp;days
-		
-		
-			Closed
-			7
-			$1,275,000
-			$590,000
-			$835,000
-			26
-			14&nbsp;days
-		
-		
-			Expired
-			2
-			$715,000
-			$579,000
-			$647,000
-			50
-			48&nbsp;days
-		
-		
-			Canceled
-			1
-			$1,389,000
-			–
-			–
-			32
-			32&nbsp;days
-		
-		
-			Withdrawn
-			1
-			$1,920,000
-			–
-			–
-			19
-			19&nbsp;days
-		
-	
-
 *DOM&nbsp;= Days on Market prior to status move*
 
 ## 3&nbsp;&nbsp;Coming Soon –&nbsp;Pre‑Market Intelligence
@@ -165,77 +56,9 @@ The MLS allows a *Coming Soon* flag for a maximum of 21&nbsp;days prior to activ
 
 ### 3.1&nbsp;&nbsp;Luxury View Estate –&nbsp;West Hills Collection
 
-	- 
-	**Type**: Two‑story detached home
-
-	
-
-	- 
-	**Living Area**: ~3,850 sq ft
-
-	
-
-	- 
-	**Beds/Baths**: 7 / 5
-
-	
-
-	- 
-	**Lot**: 9,100 sq ft, pie‑shaped, cul‑de‑sac
-
-	
-
-	- 
-	**Notable Features**: 280‑degree canyon and city‑light views, dual downstairs suites (multi‑gen layout), 42‑panel owned solar array, salt‑water pool pre‑plumb.
-
-	
-
-	- 
-	**Coming Price**: ≈ $1.95 M
-
-	
-
-	- 
-	**Why it Matters**: Rare to find seven true bedrooms west of Interstate‑5 under $2&nbsp;million; potential for corporate relocation demand.
-
-	
-
 ### 3.2&nbsp;&nbsp;Altoliva Paired Homes –&nbsp;Tesoro&nbsp;Del&nbsp;Valle
 
 Two separate offerings share similar specs:
-
-	
-		
-			Feature
-			Home&nbsp;A
-			Home&nbsp;B
-		
-		
-			Beds/Baths
-			3 / 3
-			3 / 3
-		
-		
-			Interior&nbsp;SQFT
-			1,615
-			1,629
-		
-		
-			Garage
-			Direct 2‑car
-			Direct 2‑car
-		
-		
-			HOA/Mello‑Roos
-			$145&nbsp;+&nbsp;$189
-			Same
-		
-		
-			Target List
-			$680K
-			$705K
-		
-	
 
 Both include quartz counters, luxury‑vinyl plank flooring, EV outlet, and proximity to the Tesoro Clubhouse gym, lap pool, and pickleball courts. Investors should note projected rent ~$3,600/mo which pencils to a 5.8 % gross yield at $700K.
 
@@ -252,43 +75,6 @@ Thirty properties went *live* this week; breaking them down by product type reve
 ### 4.1&nbsp;&nbsp;Detached Single‑Family (16&nbsp;Homes)
 
 **Price Bands &amp; Square‑Footage Clusters**
-
-	- 
-	**$600K–$799K**&nbsp;(7&nbsp;homes, 1,350–1,950 sq ft)
-
-	
-		
-		Concentrated in *Old Orchard&nbsp;I &amp;&nbsp;II* and *Sunrise Ridge.* Median bath count: 2. Average effective year built (per assessor): 1987. Several showcase partial remodels but still carry original copper plumbing and mid‑2000s HVAC – important cost considerations for first‑time buyers.
-
-		
-
-	
-
-	
-	- 
-	**$800K–$1.2M**&nbsp;(6&nbsp;homes, 2,000–2,850 sq ft)
-
-	
-		
-		Dominated by *Northbridge Point*, *Creekside*, and *Alta Vista.* Typical features: loft lofts converted to offices, artificial‑turf backyards, and leased solar. Sales pitch focuses on William&nbsp;S.&nbsp;Hart Union School District feeders; don’t overlook Mello‑Roos obligations in Creekside ($1,850/year average).
-
-		
-
-	
-
-	
-	- 
-	**$1.2M–$1.6M**&nbsp;(3&nbsp;homes, 3,100–3,650 sq ft)
-
-	
-		
-		Each of these carries at least four full baths, three‑car garages, and either canyon or golf‑course frontage. Two show salt‑water pools with PebbleTec finishes under 2&nbsp;years old – a $75K upgrade sellers will attempt to monetize.
-
-		
-
-	
-
-	
 
 **Feature Trend –&nbsp;Outdoor Living as a Value Lever**
 
@@ -313,49 +99,6 @@ Investors should budget for L.A. County rent‑increase caps under AB 1482 (5�
 ## 5&nbsp;&nbsp;Active Under Contract (Accepting Backup)
 
 Four properties slipped from *Active* to *A‑U‑C* within the week, meaning they accepted a primary offer yet remain available for backup bidding in case contingencies collapse. Here is why each matters:
-
-	
-		
-			Subdivision
-			Property Profile
-			List Price
-			Time to Offer
-			Contingency Window
-			Backup Rationale
-		
-		
-			Fairways
-			2 bed/2 bath, 1,368 sq ft townhome on golf‑course edge
-			$585K
-			7&nbsp;days
-			14&nbsp;days
-			Seller retaining coverage until buyer’s condo litigation review completes
-		
-		
-			Tesoro Del Valle
-			5 bed/3 bath, 2,800 sq ft SFR
-			$1.20M
-			6&nbsp;days
-			17&nbsp;days
-			Buyer selling another home; sale contingency risk
-		
-		
-			Old Orchard East
-			2 bed/2 bath condo, 1,150 sq ft
-			$619K
-			5&nbsp;days
-			10&nbsp;days
-			HOA doc review; historically high delinquencies flagged
-		
-		
-			Northpark
-			3 bed/2 bath, 1,420 sq ft single‑story
-			$749K
-			4&nbsp;days
-			12&nbsp;days
-			Appraisal concerns due to 2024 comp at $690K
-		
-	
 
 **Tactical Tip for Buyers:** Submit a succinct backup offer with full loan approval in place and inspection contingency shortened to five calendar days. In 2024, 17 % of Valencia A‑U‑C deals flipped to backup buyers; 2025 is trending similar.
 
@@ -431,73 +174,13 @@ Though the next phase is two years away, FivePoint already dictates psychologica
 
 ## 10&nbsp;&nbsp;Financing &amp; Concessions –&nbsp;What Actually Closed the Deals
 
-	- 
-	**Loan Type Mix (Closed)**: Conventional&nbsp;57 %, FHA&nbsp;14 %, VA&nbsp;14 %, Cash&nbsp;14 %
-
-	
-
-	- 
-	**Average Seller Credit**: $8,600 across deals with concessions
-
-	
-
-	- 
-	**Most Common Repair Credit**: Flooring replacement ($4,200 average)
-
-	
-
-	- 
-	**Interest Rate Buy‑Downs**: Featured in two closings; cost averaged 1.1 % of loan amount to shave 0.75 % off rate.
-
-	
-
 For sellers wary of repair negotiations, consider a pre‑listing general inspection; clean reports shorten contingency periods and discourage aggressive credit requests.
 
 ## 11&nbsp;&nbsp;Investor Corner –&nbsp;Rental &amp; Multi‑Family Metrics
 
-	- 
-	**Median Valencia Rent** (detached&nbsp;3‑bed/2‑bath 1,600 sq ft): $3,495/mo (up 3.1 % YoY)
-
-	
-
-	- 
-	**Gross Yield** on triplex highlighted earlier: 8.0 % at existing rents but stabilizes near 5.5 % after realistic expense load.
-
-	
-
-	- 
-	**Section&nbsp;8 Voucher Cap** for 3‑bed in 91354 zip: $3,241/mo – useful floor for risk mitigation.
-
-	
-
-	- 
-	**Legislation Watch**: SB 567 (tenant protections) passed committee 17&nbsp;April; if enacted, “substantial remodel” eviction rules will tighten, dampening BRRRR strategies.
-
-	
-
 ## 12&nbsp;&nbsp;Renovation &amp; Feature Trends
 
 Consumers continued to pay premiums for:
-
-	- 
-	**Solar Ownership** (versus lease) –&nbsp;adds ~2.0 % to sale price on homes under 10&nbsp;years old.
-
-	
-
-	- 
-	**EV Charging** –&nbsp;mandatory rough‑in for FivePoint builds; retrofits in resale homes cost ~$1,200 wired to 40‑amp breaker.
-
-	
-
-	- 
-	**California Room** –&nbsp;covered patio boosts perceived living space by ~180 sq ft equivalent.
-
-	
-
-	- 
-	**Whole‑House Water Filtration** –&nbsp;particular demand among buyers relocating from hard‑water counties.
-
-	
 
 Conversely, granite countertops lost popularity to matte quartz and porcelain slabs; homes retaining ornate ogee‑edge granite trended 1.3 % below subdivision median $/sq ft.
 
@@ -511,99 +194,19 @@ Transport wise, Caltrans’ I‑5 truck lane project reached 42 % completion; 
 
 Historically, list volume climbs 11–15 % between mid‑April and the Memorial&nbsp;Day weekend, then peaks in early July. Interest‑rate uncertainty may mute that surge, but pent‑up “life events” (marriages, graduations, relocations) remain a stronger driver than macro commentary for Valencia households. Expect:
 
-	- 
-	**More Coming Soon releases** as sellers leverage pre‑summer marketing windows.
-
-	
-
-	- 
-	**Incremental price softening** on homes needing $50K+ cosmetic updates; turnkey presentations will still command multiple offers under $1&nbsp;million.
-
-	
-
-	- 
-	**Stable rental demand** as would‑be buyers priced out by rates park in lease options.
-
-	
-
 ## 15&nbsp;&nbsp;Action Steps –&nbsp;Tailored Advice for Each Audience
 
 ### Buyers
 
-	- 
-	Secure a fully under‑written DU approval, not just pre‑qual, to shorten loan contingency to 10&nbsp;days.
-
-	
-
-	- 
-	Budget 1 % of purchase price for potential rate buy‑down or closing credit negotiations.
-
-	
-
-	- 
-	Monitor **Active‑Under‑Contract** inventory daily; roughly one in six will re‑emerge.
-
-	
-
 ### Sellers
 
-	- 
-	Fresh exterior paint and manicured landscaping deliver the highest ROI (&lt;6 % cost to value).
-
-	
-
-	- 
-	Pre‑sale inspections disclose with confidence and justify “as‑is” pricing.
-
-	
-
-	- 
-	Consider **listing mid‑week** (Tuesday/Wednesday) to capture two weekends of exposure before offer review; DOM optics matter.
-
-	
-
 ### Investors
-
-	- 
-	Favor multi‑family under four units to avoid commercial loan underwriting.
-
-	
-
-	- 
-	Analyze ADU potential on lots larger than 6,000 sq ft; Valencia planning is ADU‑friendly.
-
-	
-
-	- 
-	Lock 30‑year fixed non‑QM at sub‑5.75 % while spreads over conventional remain narrow.
-
-	
 
 ## 16&nbsp;&nbsp;Resources &amp; How We Serve
 
 **SantaClaritaOpenHouses.com** is repositioned as the valley’s premier **referral platform**. Our mission: connect consumers with hand‑vetted, ethical REALTOR® professionals who prioritize fiduciary duty above volume metrics. If you need a seller representative, buyer strategist, property manager, or 1031 consultant, submit a quick outline of your goals on our [contact page](https://www.santaclaritaopenhouses.com/contact) and we will curate best‑in‑class introductions.
 
 ### Quick Links
-
-	- 
-	**Search Valencia Homes**: https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca
-
-	
-
-	- 
-	**Market Reports**: https://www.santaclaritaopenhouses.com/valencia-market-report
-
-	
-
-	- 
-	**Coming Soon Inventory**: https://www.santaclaritaopenhouses.com/comingsoon
-
-	
-
-	- 
-	**Dream‑Home Finder Tool**: https://www.santaclaritaopenhouses.com/dream-home-finder
-
-	
 
 ## 17&nbsp;&nbsp;Closing Thought
 
@@ -616,37 +219,6 @@ Thank you for spending a slice of your Sunday with us. We will be back tomorrow 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -682,26 +254,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

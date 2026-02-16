@@ -42,33 +42,6 @@ One of the critical considerations for sellers now is whether to pay a buyer's a
 
 ### Practical Tips for Buyers and Sellers
 
-	- 
-	**For Sellers:**
-
-	
-		If your home hasn’t received offers within the expected timeframe, consider re-evaluating your pricing strategy.
-
-		- Stay informed about new commission structures and how they might affect your selling process.
-
-		- Consider the implications of dual agency and whether it aligns with your best interests.
-
-	
-
-	
-	- 
-	**For Buyers:**
-
-	
-		Utilize resources like SantaClaritaOpenHouses.com to explore new housing options.
-
-		- Ensure your agent is with you during the first visit to new housing developments to secure proper representation.
-
-		- Be aware of dual agency scenarios and ensure you have independent, professional advice.
-
-	
-
-	
-
 ### Final Thoughts
 
 As we navigate these changes and trends, staying informed and proactive is key. The Santa Clarita Valley market continues to evolve, and being prepared will help you make the best decisions, whether you’re buying or selling.
@@ -80,37 +53,6 @@ Thank you for joining me today. Don’t forget to check out SantaClaritaOpenHous
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -146,26 +88,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

@@ -85,21 +85,6 @@ My journey from an LAPD officer to a top Santa Clarita realtor gives me a unique
 
 To streamline the mortgage process, prepare the following:
 
-	- 
-	**W-2 Employees**: Recent pay stubs, W-2s, bank statements, and year-end pay stubs if you receive bonuses.
-
-	
-
-	- 
-	**Self-Employed**: Two years of personal and business tax returns, including K1s for distributions.
-
-	
-
-	- 
-	**Rental Income**: A signed lease agreement and first month’s deposit to use 75% of rental income.
-
-	
-
 ### Research Properties Thoroughly
 
 Before making an offer, investigate the property and neighborhood. Door-knock to meet neighbors, review property records, and check for Mello-Roos or HOA fees. Use SantaClaritaOpenHouses.com’s advanced search to filter by price, property type, or features like pools or gated communities.
@@ -114,41 +99,6 @@ Don’t wait for rates to drop. Trent advises, “The average loan lasts four ye
 
 ## Key Takeaways
 
-	- 
-	**Get Pre-Approved First**: Know your budget before house hunting to avoid falling for unaffordable homes.
-
-	
-
-	- 
-	**Account for Hidden Costs**: Factor in Mello-Roos and HOA fees, which can significantly increase monthly payments in Santa Clarita.
-
-	
-
-	- 
-	**Choose a Local Lender**: Work with someone like Trent Boser, who offers personalized service and transparency via loan estimates.
-
-	
-
-	- 
-	**Understand Your DTI**: Prepare documentation to accurately calculate your debt-to-income ratio, especially if self-employed.
-
-	
-
-	- 
-	**Leverage Rental Income**: Use 75% of rental income from your current home to offset mortgage costs when moving up.
-
-	
-
-	- 
-	**Stay Ahead of Market Trends**: Monitor Santa Clarita’s rising inventory and potential rate drops to act strategically.
-
-	
-
-	- 
-	**Partner with Connor MacIvor**: Trust a “First Responder Realtor” for expert guidance and client-centered service.
-
-	
-
 Ready to find your Santa Clarita dream home? Visit SantaClaritaOpenHouses.com to explore open houses or use the Dream Home Finder. Contact Connor MacIvor at 661-400-1720 or via our contact page for personalized support from a realtor who puts your needs first.
 
 ** Share This Post## Comments
@@ -156,37 +106,6 @@ Ready to find your Santa Clarita dream home? Visit SantaClaritaOpenHouses.com to
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -222,26 +141,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

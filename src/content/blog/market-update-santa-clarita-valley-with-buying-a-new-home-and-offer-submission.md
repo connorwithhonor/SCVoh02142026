@@ -30,41 +30,6 @@ The Santa Clarita Valley is one of Southern California’s most sought-after reg
 
 If you’re looking for a quick overview of the current real estate landscape, here’s what we’re seeing this week:
 
-	- 
-	**Total Active Inventory**: As of now, there are **553 active residential properties** across the Santa Clarita Valley, including single-family homes, townhomes, and condos. Each neighborhood has its unique dynamics, and staying updated on inventory helps both buyers and sellers understand the competition.
-
-	
-
-	- 
-	**7-Day Activity Breakdown**:
-
-	
-		**Coming Soon**: 12 properties
-
-		- **New Listings**: 59 properties
-
-		- **Price Changes**: 89 properties
-
-		- **Back on Market**: 24 properties
-
-		- **Active Under Contract**: 32 properties
-
-		- **Pending**: 31 properties
-
-		- **Closed Sales**: 46 properties
-
-		- **Expired Listings**: 8 properties
-
-		- **Canceled Listings**: 14 properties
-
-		- **On Hold**: 9 properties
-
-		- **Withdrawn**: 0 properties
-
-	
-
-	
-
 Each category has its significance, from “coming soon” listings giving buyers a head start, to “expired” or “canceled” listings that reflect sellers’ changing plans. For detailed insights into what these trends mean for you, read on.
 
 ### For Buyers: Making the Most of the Santa Clarita Market
@@ -137,26 +102,6 @@ The balance of inventory and demand is critical. When inventory is low, sellers 
 
 As a former first responder with LAPD and a longtime resident of the Santa Clarita Valley, I bring a unique commitment to honesty, transparency, and a high level of service. My experience enables me to approach real estate with a no-nonsense perspective, focusing on what matters most: protecting my clients’ interests and ensuring smooth transactions. Here’s why working with me at *SantaClaritaOpenHouses.com* is the best choice:
 
-	- 
-	**Local Expertise**: Santa Clarita isn’t just a market to me—it’s home. I know the ins and outs of each neighborhood, from schools and amenities to upcoming developments that could affect property values.
-
-	
-
-	- 
-	**Trusted Advocate**: My First Responder Realtor brand reflects my dedication to integrity and service. I take pride in delivering straightforward, honest advice, whether it’s a tough negotiation or guidance on listing strategy.
-
-	
-
-	- 
-	**Personalized Approach**: Real estate isn’t a one-size-fits-all situation. I take time to understand each client’s unique goals, whether you’re buying your first home, relocating, or investing.
-
-	
-
-	- 
-	**Proven Track Record**: With years of experience in real estate and a background that prioritizes trust and accountability, I’ve earned the respect and trust of my clients and community alike.
-
-	
-
 ### Let’s Make Your Real Estate Goals a Reality
 
 Whether you're buying, selling, or simply staying informed about the Santa Clarita market, you deserve expert guidance backed by experience and integrity. At *SantaClaritaOpenHouses.com*, I’m here to offer all the resources, insights, and support you need to succeed in real estate. Santa Clarita’s market is dynamic, and having a Realtor who’s dedicated to your goals makes all the difference.
@@ -179,41 +124,11 @@ Standard of Practice 1-7 exists to protect the seller’s right to know about ev
 
 Here’s why this standard matters:
 
-	- 
-	**Transparency**: Sellers need complete visibility to make informed decisions. Every offer provides information about the current market, buyer motivations, or potential negotiation tactics.
-
-	
-
-	- 
-	**Client Control**: Only the seller can determine what is in their best interest. Some buyers make low initial offers with room to negotiate, and some sellers may appreciate even an unconventional offer if it aligns with their goals, such as a cash buyer or a fast close.
-
-	
-
-	- 
-	**Market Dynamics**: When sellers review each offer, they can gauge interest in their property and respond strategically. For example, a lower-than-expected offer could prompt the seller to adjust pricing, enhance marketing, or prepare a counteroffer.
-
-	
-
 In short, Standard of Practice 1-7 is in place to ensure that sellers have all the necessary information to make their own choices about their property.
 
 ### Situations Where Sellers May Waive the Submission Obligation
 
 In some cases, a seller may choose to waive the obligation to receive all offers in writing, especially when they’re firm on a specific price threshold or terms. However, this waiver must be documented in writing. Here are some scenarios where a seller might waive this requirement:
-
-	- 
-	**Price Thresholds**: Sellers might request to see only offers above a certain price. This helps them avoid seeing what they consider “lowball” offers, though it’s important to weigh the potential value of any offer as a starting negotiation point.
-
-	
-
-	- 
-	**Specific Buyer Profiles**: A seller might want to avoid certain conditions, such as contingent offers, and could waive the presentation of those specific offer types.
-
-	
-
-	- 
-	**Short Listing Timeline**: For sellers with a tight timeline, viewing only pre-qualified, high-value offers could expedite the decision process.
-
-	
 
 It’s crucial to note that even with a waiver in place, sellers should thoroughly discuss the potential risks and missed opportunities with their Realtor®.
 
@@ -227,26 +142,6 @@ In situations where a seller has waived the right to see all offers, the listing
 
 In Santa Clarita’s competitive real estate market, Standard of Practice 1-7 can play a pivotal role. Here’s how:
 
-	- 
-	**Buyers Testing the Market**: Buyers often submit initial offers below asking price to see where the seller stands. Even if an offer seems “offensive” or well below market value, presenting it may provide valuable feedback. A low offer could spark a negotiation, prompt counteroffers, or motivate other interested buyers to submit their best offers.
-
-	
-
-	- 
-	**Multiple Offers**: In a multiple-offer scenario, every single offer must be presented, ensuring transparency and giving the seller a full spectrum of choices. Reviewing multiple offers allows sellers to compare not only prices but also terms, timelines, and contingencies.
-
-	
-
-	- 
-	**Expired or Canceled Listings**: For sellers whose properties have been on the market for an extended period, receiving all offers becomes even more essential. Reviewing every offer helps determine whether adjustments in pricing, marketing strategy, or property presentation are necessary to attract the right buyer.
-
-	
-
-	- 
-	**Cash Offers and Quick Sales**: Some cash-buying companies make offers quickly but may come in lower than market value in exchange for speed and simplicity. Sellers need to see these offers to weigh the benefit of a fast sale against their financial goals. Even though these offers might be lower, they can provide value for sellers needing quick closings or fewer contingencies.
-
-	
-
 ### Final Thoughts on Standard of Practice 1-7
 
 Standard of Practice 1-7 is more than a rule; it’s a reflection of the Realtor’s® duty to act in the seller’s best interest, providing transparency and respecting their autonomy. For sellers, it’s a reminder that your Realtor® is there to serve you, keeping you informed and empowered at every stage.
@@ -258,37 +153,6 @@ For a Santa Clarita seller, knowing that every offer—no matter how low or high
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -324,26 +188,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

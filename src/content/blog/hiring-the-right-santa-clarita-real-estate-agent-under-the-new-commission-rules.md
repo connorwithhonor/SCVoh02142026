@@ -20,28 +20,6 @@ Connor with Honor at SantaClaritaOpenHouses(com) - August 1, 2024** Tags: [save 
 
 ### Market Statistics
 
-	- **Coming Soon:** 8
-
-	- **New Listings:** 89
-
-	- **Price Changes:** 72
-
-	- **Back on Market:** 24
-
-	- **Active Under Contract:** 33
-
-	- **Pending:** 47
-
-	- **Closed:** 60
-
-	- **Expired:** 11
-
-	- **Canceled:** 12
-
-	- **Hold:** 6
-
-	- **Withdrawn:** 3
-
 In total, we have 476 active listings as of today. Let’s break down what these numbers mean for buyers and sellers in Santa Clarita.
 
 ### Segment 1: New Listings and Coming Soon
@@ -72,176 +50,21 @@ In the last 7 days, we’ve seen significant movements in various neighborhoods.
 
 Valencia is a highly sought-after community known for its master-planned neighborhoods, excellent schools, and family-friendly amenities. Here’s a snapshot of the current market for 4-bedroom homes in Valencia:
 
-	- 
-	**Mountain View West**
-
-	
-		**Starting Price:** $750,000
-
-		- **Square Footage:** 1,279 sq. ft.
-
-		- **Highlights:** This charming neighborhood offers well-maintained homes with modern amenities. It’s perfect for families looking for a community feel with access to parks and good schools.
-
-		- **More Info:** [valenciaopenhouses.com](https://valenciaopenhouses.com)
-
-	
-
-	
-	- 
-	**West Creek**
-
-	
-		**Starting Price:** $820,000
-
-		- **Square Footage:** 1,700 sq. ft.
-
-		- **Highlights:** Known for its new constructions, West Creek is ideal for those seeking contemporary designs and a vibrant community atmosphere.
-
-		- **More Info:** [valenciaopenhouses.com](https://valenciaopenhouses.com)
-
-	
-
-	
-
 #### Canyon Country
 
 Canyon Country provides a mix of older, established neighborhoods and newer developments. It’s a diverse area that caters to various lifestyles and budgets.
-
-	- 
-	**Canyon Crest**
-
-	
-		**Starting Price:** $699,000
-
-		- **Square Footage:** 2,000 sq. ft.
-
-		- **Highlights:** Offers spacious homes with large lots, perfect for those who appreciate more outdoor space.
-
-		- **More Info:** [canyoncountryopenhouses.com](https://canyoncountryopenhouses.com)
-
-	
-
-	
-	- 
-	**American Beauty**
-
-	
-		**Starting Price:** $745,000
-
-		- **Square Footage:** 1,900 sq. ft.
-
-		- **Highlights:** A family-friendly neighborhood with convenient access to shopping and dining.
-
-		- **More Info:** [canyoncountryopenhouses.com](https://canyoncountryopenhouses.com)
-
-	
-
-	
 
 #### Saugus
 
 Saugus is known for its quiet suburban feel and excellent school district, making it a favorite among families.
 
-	- 
-	**Mountain View**
-
-	
-		**Starting Price:** $710,000
-
-		- **Square Footage:** 1,850 sq. ft.
-
-		- **Highlights:** Features homes with beautiful views and access to hiking trails.
-
-		- **More Info:** [saugusopenhouses.com](https://saugusopenhouses.com)
-
-	
-
-	
-	- 
-	**Plum Canyon**
-
-	
-		**Starting Price:** $780,000
-
-		- **Square Footage:** 2,100 sq. ft.
-
-		- **Highlights:** A newer development with modern homes and amenities, ideal for those looking for a fresh start in a growing community.
-
-		- **More Info:** [saugusopenhouses.com](https://saugusopenhouses.com)
-
-	
-
-	
-
 #### Stevenson Ranch
 
 Stevenson Ranch is known for its upscale homes and excellent schools. It’s a desirable area with a variety of amenities.
 
-	- 
-	**Southern Oaks**
-
-	
-		**Starting Price:** $950,000
-
-		- **Square Footage:** 2,500 sq. ft.
-
-		- **Highlights:** This upscale neighborhood offers luxury homes with spacious floor plans and high-end finishes. It’s perfect for those looking for a blend of comfort and style.
-
-		- **More Info:** [stevensonranchopenhouses.com](https://stevensonranchopenhouses.com)
-
-	
-
-	
-	- 
-	**Westridge**
-
-	
-		**Starting Price:** $1,050,000
-
-		- **Square Footage:** 2,800 sq. ft.
-
-		- **Highlights:** Known for its golf course views and exclusive community amenities, Westridge is ideal for those seeking a premier living experience.
-
-		- **More Info:** [stevensonranchopenhouses.com](https://stevensonranchopenhouses.com)
-
-	
-
-	
-
 #### Castaic
 
 Castaic offers a more rural feel with larger lots and a quieter lifestyle. It’s perfect for those looking to escape the hustle and bustle of city life while still being close to essential amenities.
-
-	- 
-	**Northlake Hills**
-
-	
-		**Starting Price:** $720,000
-
-		- **Square Footage:** 2,100 sq. ft.
-
-		- **Highlights:** Known for its scenic views and large lots, Northlake Hills is ideal for those who want more space and tranquility.
-
-		- **More Info:** [castaicopenhouses.com](https://castaicopenhouses.com)
-
-	
-
-	
-	- 
-	**Val Verde**
-
-	
-		**Starting Price:** $680,000
-
-		- **Square Footage:** 1,900 sq. ft.
-
-		- **Highlights:** Offers a rural feel with easy access to outdoor activities like hiking and fishing.
-
-		- **More Info:** [castaicopenhouses.com](https://castaicopenhouses.com)
-
-	
-
-	
 
 ### Conclusion
 
@@ -260,37 +83,6 @@ For more detailed information or to schedule a viewing, contact me directly at [
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -326,26 +118,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

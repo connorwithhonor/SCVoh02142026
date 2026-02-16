@@ -57,16 +57,6 @@ A CRM isn’t just a database for storing contacts. It’s the nerve center of y
 
 #### Core Capabilities of the CRM
 
-	- **Seamless SMS and Email Integration**: Communicate with leads and clients on their preferred channels without switching apps. Send personalized texts or emails directly from the CRM, with every interaction logged for easy tracking.
-
-	- **Pipeline Management**: Visualize your sales pipeline at a glance. From initial lead to closing, know exactly where every prospect stands and what actions to take next.
-
-	- **Lead Tracking**: Capture every lead, whether they come from your website, social media, or a missed call. The CRM ensures no opportunity falls through the cracks.
-
-	- **Scalability**: Whether you’re a solo agent or running a team, the CRM grows with you, handling thousands of contacts without slowing down.
-
-	- **AI-Ready**: Unlike generic CRMs, this system is built to integrate with AI workflows, from automated follow-ups to intelligent ad management.
-
 As I said in a recent video, “If you’re going to start building an agent-type database, you need to have that core feature of having a way to store the people that give up their personal information, nurture them, and communicate with them. If you don’t have that part of the puzzle at the beginning, a strong foundation, then you’re just wasting your money.” The Agentic Honor System’s CRM is that foundation, ensuring every dollar you spend on marketing, tech, or lead gen builds toward long-term success.
 
 ### Part 3: From Foundation to Full Integration - The Honor Elevate Stack
@@ -90,14 +80,6 @@ Imagine a lead calls inquiring about a listing. The AI answers, engages in a nat
 Leads don’t convert themselves. Without consistent follow-up, even the hottest prospects can go cold. The Agentic Honor System’s **automated AI workflows** ensure every lead is nurtured with a sophisticated, multi-touch sequence that feels personal but runs on autopilot.
 
 For example, when a new lead submits a form on your website, the system triggers a workflow that might include:
-
-	- **Day 1**: An SMS welcoming them and offering a free market report.
-
-	- **Day 2**: An email with a video tour of a similar property.
-
-	- **Day 5**: An AI-powered phone call to check in and answer questions.
-
-	- **Day 10**: A follow-up email with a call to action to book a consultation.
 
 These workflows are customizable to your brand and strategy, ensuring every lead feels valued without you manually sending a single message. As I noted in my video, “Once one [AI] discovers something in their particular realm, that bitty granule piece of this magic puzzle, it all meshes immediately, instantaneously with all of these other agents.” Similarly, the Agentic Honor System’s AI learns from each interaction, optimizing workflows to maximize conversions.
 
@@ -139,14 +121,6 @@ The Agentic Honor System isn’t a “buy now” button or a one-size-fits-all s
 
 Here’s how we start:
 
-	- **Book a One-on-One Consultation**: Call or text me directly at **661-400-1720** to discuss your business and see the system in action.
-
-	- **Email Me**: Prefer email? Reach out at **[connor@honorelevate.com](mailto:connor@honorelevate.com)**, and we’ll set up a time to talk.
-
-	- **Connect Online**: Follow me on Instagram **@agentichonor** or check out my YouTube channel at **[youtube.com/@agentichonor](https://www.youtube.com/@agentichonor)** for insights on AI and real estate.
-
-	- **Visit My Site**: To learn more about the Agentic Honor System and customized onboarding, go to **[honorelevate.com](https://honorelevate.com)**.
-
 As I mentioned in my video, “Seeing what you have, what your connection points are online, and then we can take it from there.” That’s exactly what we’ll do—assess your current setup, identify gaps, and build a strategy that leverages the Agentic Honor System to scale your business.
 
 ### Conclusion
@@ -162,37 +136,6 @@ Let’s build something unstoppable together.
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -228,26 +171,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

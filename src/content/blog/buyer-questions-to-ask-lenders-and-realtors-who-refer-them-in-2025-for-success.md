@@ -122,18 +122,6 @@ AI regs? YouTube.com/@aiwithhonor.
 
 **Recap:**
 
-	- **Benefits First:** Equity and tax deductions make owning in Santa Clarita smarter than renting—crunch numbers with a CPA.
-
-	- **Lender Vet:** Skip inflexible banks; go brokers for options. Get GFEs and demand weekend availability.
-
-	- **Pre-Approval Real Talk:** Include all costs (HOA, Mello-Roos) in your max—$950K might feel like $1M monthly.
-
-	- **Local Pitfalls:** Some condos are cash-only; use [https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-ca](https://www.santaclaritaopenhouses.com/condos-for-sale-in-santa-clarita-ca) to filter.
-
-	- **Market Edge:** 800+ listings give buyers power—track at [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings).
-
-	- **Pro Tip:** Always shop lenders and agents—call me at 661-888-4983 for honest guidance.
-
 TL;DR: Thinking about buying a home in Santa Clarita? Don't get burned by hidden lender pitfalls! As a former LAPD cop turned Realt The tool returned "No readable text found in the HTML." That means the URL might not have content, or it's not accessible, perhaps because it's a fictional site in this simulation.
 
 The URL is [https://www.santaclaritaopenhouses.com/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success](https://www.santaclaritaopenhouses.com/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success)
@@ -228,16 +216,6 @@ But the real game starts with lenders. Don't hit them first—talk to your Realt
 
 Your Realtor should be your first line of defense. Here's what to grill them on—because a bad referral can cost you thousands.
 
-	- **How many lenders have you worked with, and why do you recommend this one?**&nbsp;Probe for experience. A good Realtor (hint: me) has vetted dozens, favoring those available 24/7. In Santa Clarita, where open houses buzz weekends, you need lenders who answer fast.
-
-	- **What types of loans does this lender specialize in (FHA, VA, conventional)?**&nbsp;Not all handle everything. If you're a vet eyeing VA in Canyon Country, confirm they don't farm it out. Check foreclosures at&nbsp;[https://www.santaclaritaopenhouses.com/foreclosure-search](https://www.santaclaritaopenhouses.com/foreclosure-search)&nbsp;for deals needing specific loans.
-
-	- **Have you seen issues with their availability or rate locks?**&nbsp;The transcript stresses this—weekend questions on HOAs or Mello-Roos can't wait. Ask for horror stories avoided.
-
-	- **Do they offer competitive rates without hidden fees?**&nbsp;Demand examples. In 2025, with rates tied to the 10-year bond, transparency is key.
-
-	- **What's the difference between banks, credit unions, and brokers?**&nbsp;Banks lend their own cash—slow. Brokers shop widely—faster deals in competitive markets like Saugus.
-
 Humbly, as a former cop, I treat referrals like investigations—only the best make the cut. Book a Zoom at ZoomMeSCV.com to get my top picks.
 
 ## Must-Ask Questions for Lenders: The 2025 Edition for Santa Clarita Success
@@ -246,37 +224,13 @@ Now, the lender interrogation. Use these to separate pros from posers. Get every
 
 ### Availability and Responsiveness
 
-	- **Are you available after hours, weekends, and holidays?**&nbsp;Real estate doesn't sleep. If you're touring gated homes in Valencia&nbsp;on a Sunday and need HOA clarification, silence kills deals.
-
-	- **How quickly do you respond to queries during escrow?**&nbsp;Aim for same-day. Delays can lose you that pool-equipped gem.
-
 ### Loan Types and Eligibility
-
-	- **What loan types do you offer, and can you handle FHA/VA on condos?**&nbsp;Some Santa Clarita condos&nbsp;are cash-only due to reserves. Confirm upfront.
-
-	- **Do you farm out loans, or handle in-house?**&nbsp;Avoid surprises—direct is better.
 
 ### Rates, Fees, and Locks
 
-	- **How do you lock rates, and what if they drop mid-escrow?**&nbsp;The transcript warns of "gamblers" who guess—ask if they re-lock for free. With 2025 volatility, this saves big.
-
-	- **What's your GFE for $950K with HOA/Mello-Roos?**&nbsp;Factor Santa Clarita specifics—Mello-Roos adds $200-500 monthly in new builds.
-
-	- **What fees do you charge, and are there origination points?**&nbsp;No fluff—compare to build your case.
-
-	- **How do rates fluctuate, and what's tied to the 10-year bond?**&nbsp;Educate yourself; don't buy low-rate hype from online sharks.
-
 ### All-In Costs and Scenarios
 
-	- **What's the full PITI for my approval, including utilities/maintenance?**&nbsp;Owning adds expenses—$5,400 monthly for $950K vs. $3K rent? Run the math.
-
-	- **Can you handle high-competition scenarios like multiple offers?**&nbsp;In hot spots like Porter Ranch, quick pre-approvals win.
-
 ### Red Flags and Extras
-
-	- **What if I exceed approval—can you adjust?**&nbsp;For overpriced listings, savvy agents negotiate down.
-
-	- **Do you offer refi if rates drop post-close?**&nbsp;2025 predictions: possible dips—plan ahead.
 
 Sarcasm time: Skip these, and enjoy watching your equity dreams evaporate like morning fog in Acton.
 
@@ -298,52 +252,11 @@ For AI twists in real estate, check HonorElevate.com or call 661-367-8685.
 
 ## Recap
 
-	- **Realtor Questions:**&nbsp;Probe experience, specialties, and red flags before referrals.
-
-	- **Lender Questions:**&nbsp;Grill on availability, rates, fees, and full costs—get GFEs.
-
-	- **Santa Clarita Edge:**&nbsp;Factor local taxes/HOAs; use&nbsp;[https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com/)&nbsp;for searches/reports.
-
-	- **Pro Move:**&nbsp;Book free consult at 661-888-4983 or&nbsp;[https://www.santaclaritaopenhouses.com/contact—avoid](https://www.santaclaritaopenhouses.com/contact%E2%80%94avoid)&nbsp;pitfalls.
-
-	- **Bonus:**&nbsp;Inventory high—buy smart now.
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -379,26 +292,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

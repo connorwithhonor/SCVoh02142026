@@ -19,12 +19,6 @@ Connor "with Honor" MacIvor - March 14, 2025** Tags: [fasting](/-/Blog/tag/fasti
 
 Raw Links:
 
-	- [https://youtu.be/gq3asn4gRQI?si=IpWbVQ50N_YQ4oj8](https://youtu.be/gq3asn4gRQI?si=IpWbVQ50N_YQ4oj8)
-
-	- [https://posts.gle/7eeSYW](https://posts.gle/7eeSYW)
-
-	- [https://www.buzzsprout.com/298109/episodes/16794298](https://www.buzzsprout.com/298109/episodes/16794298)
-
 # The Journey from Fat to Fit: Fasting, Hormone Balance, and Transformative Change
 
 Today’s post is an in‐depth exploration of the topics that have shaped my personal transformation from a life weighed down by excess fat and unhealthy habits to one of vitality and purpose. In this comprehensive blog post, I dive into the science behind fasting versus simple caloric restriction, the crucial difference between weight loss and fat loss, and how balancing hormones (especially testosterone) can change your life. Throughout, I include practical tips, research findings, and heartfelt excerpts from my Fat To Fit manuscript. Whether you’re at the beginning of your journey or looking to refine your approach, this post is designed to inspire, educate, and empower you to reclaim your health.
@@ -66,12 +60,6 @@ Consider the following excerpt from my discussion:
 “Fasting is not about deprivation; it’s about tapping into the body’s natural energy reserves. When you fast, you’re essentially rebooting your metabolism, allowing it to function more efficiently.”
 
 Here are a few popular fasting approaches:
-
-	- **Water Fasting:** Drinking only water for a set period (often between 3 and 21 days) can jump-start fat burning and trigger autophagy.
-
-	- **Dry Fasting:** This method excludes both food and water for a short duration, believed by some to accelerate autophagy even further.
-
-	- **Intermittent Fasting:** Alternating periods of eating and fasting (such as the 16:8 method) which has become popular for its sustainable lifestyle integration.
 
 In my personal journey, I’ve experimented with extended fasts—up to 21 days of a Daniel fast—and learned that while the initial days may seem challenging, the body quickly adapts. Hunger hormones, like ghrelin, recede, and you enter a state of ketosis where fat is the primary fuel source.
 
@@ -117,20 +105,6 @@ One key lesson from my personal battle with food addiction is that every day is 
 
 For those who prefer a time-stamped breakdown of the discussion, I’ve organized some key moments from the srt transcript of my video. These timestamps mark significant topics that are woven throughout my narrative:
 
-	- 00:00 – 05:00: **Introduction &amp; Setting the Stage** – I introduce my personal journey, share early struggles with food addiction, and explain the difference between weight loss and fat loss.
-
-	- 05:01 – 12:00: **The Science of Fasting** – Discussion of how fasting triggers ketosis, burns fat, and helps preserve muscle mass. I explain the metabolic adaptations that occur when you transition from eating regularly to fasting.
-
-	- 12:01 – 20:00: **Fasting Protocols and Refeed Strategies** – Detailed guidance on how to fast safely, including water and dry fasting techniques, and the importance of honoring the refeed period to prevent rebound weight gain.
-
-	- 20:01 – 28:00: **Hormones and Their Role in Fat Loss** – I delve into the impact of hormones like testosterone on weight loss, muscle preservation, and overall vitality.
-
-	- 28:01 – 35:00: **Emotional Eating and Self-Reflection** – A raw and honest account of the psychological battle with food addiction and the journey toward self-forgiveness and acceptance.
-
-	- 35:01 – 45:00: **The Transformation in Action** – Practical tips on exercise, mindset shifts, and motivational insights to stay the course even when the going gets tough.
-
-	- 45:01 – End: **Looking Forward** – Final thoughts on maintaining progress, embracing discomfort, and continuing the journey toward optimal health.
-
 Each of these sections is interwoven with personal anecdotes, scientific explanations, and heartfelt advice. Feel free to revisit specific timestamps in the video to reinforce the message.
 
 ## Tapping into Your Inner Strength: Practical Tips and Daily Habits
@@ -166,14 +140,6 @@ One of the hardest parts of losing fat is overcoming the mental and emotional ba
 “I was in a trance—devouring food to fill an emotional void. It wasn’t until I stared at myself in the mirror and realized the damage that the constant indulgence was doing that I began to break free.”
 
 The journey to a healthier body begins in the mind. Here are some insights that have helped me:
-
-	- **Recognize and Name Your Triggers:** When you’re stressed, bored, or lonely, your body may crave comfort food. Identify these moments and find alternative ways to cope.
-
-	- **Practice Self-Compassion:** Forgive yourself for past mistakes. Every day is a new opportunity to make better choices. Remember, the journey is ongoing, and setbacks do not define you.
-
-	- **Set Clear, Achievable Goals:** Instead of obsessing over a number on the scale, focus on how you feel, the energy you have, and the strength you build.
-
-	- **Surround Yourself with Support:** Whether it’s friends, family, or an online community, sharing your journey and challenges with others can make all the difference.
 
 I recall the days when I would tell myself, “I’m destined to be fat,” only to later realize that such defeatist thoughts were self-sabotage in disguise. Breaking free from that mindset was essential—once I began to see myself as a work in progress rather than a failure, everything changed.
 
@@ -217,26 +183,6 @@ Beyond the physiological benefits of fasting and exercise, the journey to a heal
 
 Here are my top ten motivational statements, culled from years of battling and conquering self-doubt:
 
-	- Unlock the gates to vitality; every step forward rewrites your story.
-
-	- Embrace transformation as both the journey and the destination.
-
-	- Forge today's choices into tomorrow’s freedom; own your path to change.
-
-	- Awaken to each day's potential; your rebirth is just a decision away.
-
-	- Sculpt your future with choices that build a fortress of wellness.
-
-	- Shed old weights to reveal the strength hidden beneath the surface.
-
-	- Echoes of healthy choices ring the loudest in the halls of longevity.
-
-	- Lift the burden to soar; what lies ahead outshines what was left behind.
-
-	- Command the course of your life with each mindful step you take.
-
-	- Meet the challenge; in the mirror of change, see your greatest ally.
-
 These aren’t just words on a page—they are a call to action. Let them remind you that every small victory builds a bridge to lasting change.
 
 ## Conclusion: Keep Moving, Keep Transforming
@@ -257,23 +203,9 @@ In closing, I want to emphasize that the content shared here is a distillation o
 
 If you’re looking to dive deeper, here are some additional resources and topics to explore:
 
-	- Research on autophagy and the health benefits of intermittent fasting.
-
-	- Studies on testosterone therapy and its role in muscle preservation during caloric restriction.
-
-	- Books and podcasts on overcoming food addiction and emotional eating.
-
-	- Community forums and support groups for fasting enthusiasts and fitness seekers.
-
 Remember, this journey is uniquely yours. Customize your fasting protocols, monitor your progress, and always listen to your body. Consult with healthcare professionals before making significant changes to your diet or exercise regimen.
 
 For further reading, revisit the raw materials that inspired this post:
-
-	- [YouTube Video](https://youtu.be/gq3asn4gRQI?si=IpWbVQ50N_YQ4oj8)
-
-	- [Raw Post Link](https://posts.gle/7eeSYW)
-
-	- [Buzzsprout Episode](https://www.buzzsprout.com/298109/episodes/16794298)
 
 Let these resources be a reminder that while the road to transformation may be long and challenging, it is also filled with moments of breakthrough and profound personal growth.
 
@@ -296,16 +228,6 @@ Whether you’re reading these words for the first time or revisiting them for r
 ## Your Next Steps on the Journey
 
 Now that you’ve absorbed these insights, it’s time to put theory into practice. Here are a few actionable steps to help you continue your journey:
-
-	- **Set Realistic Goals:** Start small and build momentum. Whether it’s a 16:8 fasting window or a 7-day water fast, choose a protocol that suits your lifestyle and gradually increase your fasting duration as your body adapts.
-
-	- **Consult a Professional:** Before embarking on an extended fast or hormone therapy, consult your healthcare provider. Get a full metabolic panel and discuss your goals to create a personalized plan.
-
-	- **Build a Support Network:** Connect with others who share your goals. Join online communities, local support groups, or even partner with a friend. Accountability is key.
-
-	- **Document Your Journey:** Keep a journal of your progress. Write down your challenges, victories, and reflections. Over time, these notes will serve as a roadmap to your transformation.
-
-	- **Celebrate Every Victory:** Whether it’s a drop in waist measurement, an increase in energy, or simply the decision to push through discomfort, every win matters.
 
 By taking these steps, you begin to take control of your life. Remember, transformation is a journey without a final destination—it’s a continuous process of growth and self-discovery.
 
@@ -330,37 +252,6 @@ I invite you to bookmark this page, share it with those who need a spark of insp
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -396,26 +287,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

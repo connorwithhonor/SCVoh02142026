@@ -32,14 +32,6 @@ Walk into any coffee shop in Valencia, scroll through Facebook, or drive down Bo
 
 Here's what those claims don't tell you:
 
-	- ✗ Who gave them the award? (Spoiler: often their own brokerage)
-
-	- ✗ How many of those 100 sales were smooth transactions vs. disasters?
-
-	- ✗ Do their clients actually recommend them, or just tolerate them?
-
-	- ✗ Would they work with that agent again?
-
 **Marketing hype is cheap. Integrity is earned.**
 
 After 25 years in Santa Clarita real estate and 20 years with LAPD, I've developed a vetting process that goes beyond billboards and Instagram posts. I assess agents the same way I assessed people on patrol: **under pressure, with accountability, and based on actions—not words.**
@@ -62,19 +54,7 @@ New agents aren't necessarily bad, but they're learning on your dime. They haven
 
 **Red flags:**
 
-	- Agent just got their license last year
-
-	- Agent works primarily in other areas (Palmdale, Ventura, San Fernando Valley) and occasionally does SCV deals
-
-	- Agent can't name specific neighborhoods they've sold in recently
-
 **What I verify:**
-
-	- How many SCV transactions in the past 12-24 months?
-
-	- Which neighborhoods do they specialize in?
-
-	- Do they have repeat clients and referrals, or are they always chasing new leads?
 
 **Example:**
 
@@ -96,41 +76,13 @@ Real estate deals get messy. Inspections reveal problems. Buyers get cold feet. 
 
 A bad agent will:
 
-	- Downplay inspection issues to keep the deal alive
-
-	- Pressure you to waive contingencies so they get their commission
-
-	- Ghost you when problems arise because they don't want to deal with conflict
-
-	- Recommend their "preferred" inspector/lender because they get kickbacks, not because they're the best
-
 A good agent will:
-
-	- Tell you the truth even if it kills the deal
-
-	- Walk away from a transaction if it's not in your best interest
-
-	- Fight for you during negotiations even when it's uncomfortable
-
-	- Recommend the best professionals, period—no kickbacks, no favors
 
 **How I assess this:**
 
 I ask other agents, lenders, and escrow officers about their experiences. I look for patterns:
 
-	- Does this agent have a reputation for transparency?
-
-	- Do they communicate problems early, or hide them until closing?
-
-	- Have they ever walked away from a deal to protect a client?
-
 **Red flags:**
-
-	- Other professionals warn me about working with them
-
-	- Online reviews mention "felt pressured" or "wasn't honest about..."
-
-	- Agent has a reputation for closing deals "no matter what" (that's not a virtue—it's a warning)
 
 **Example:**
 
@@ -154,23 +106,7 @@ Real estate moves fast. A hot listing in Stevenson Ranch might have 10 offers in
 
 **What "responsive" actually means:**
 
-	- Returns calls/texts within 2-4 hours during business hours
-
-	- Communicates proactively (you shouldn't have to chase them for updates)
-
-	- Keeps you informed even when there's no news ("Hey, still waiting on the appraisal, should have it by Friday")
-
-	- Available for emergencies (not 24/7, but reachable when it matters)
-
 **Red flags:**
-
-	- Takes 24+ hours to respond to non-urgent messages
-
-	- Doesn't return calls at all
-
-	- Goes dark during critical transaction phases
-
-	- Makes you feel like you're bothering them
 
 **How I assess this:**
 
@@ -198,21 +134,7 @@ There's a massive difference between "closing a deal" and "negotiating the best 
 
 **A mediocre agent will:**
 
-	- Accept the first counteroffer to avoid conflict
-
-	- Recommend you "meet in the middle" even when you have leverage
-
-	- Focus on closing fast rather than closing well
-
 **A great agent will:**
-
-	- Push back on unreasonable requests
-
-	- Identify leverage points and use them
-
-	- Protect you from overpaying (buyers) or underpricing (sellers)
-
-	- Walk away from bad deals instead of forcing a close
 
 **How I assess this:**
 
@@ -221,12 +143,6 @@ I ask: "Tell me about a deal where you walked away or fought for your client eve
 If they can't give me a specific example, that's a red flag.
 
 **Red flags:**
-
-	- Agent's closing ratio is 95%+ (might mean they're not walking away from bad deals)
-
-	- Agent says "I always get my clients what they want" (translation: I cave easily)
-
-	- Agent focuses on "smooth transactions" rather than "best outcomes"
 
 **Example:**
 
@@ -250,21 +166,7 @@ Agents who focus on volume treat you like a number. Agents who focus on relation
 
 **What this looks like in practice:**
 
-	- They follow up after closing (not just to ask for referrals, but to genuinely check in)
-
-	- They provide value beyond the transaction (market updates, home maintenance tips, local event info)
-
-	- They're available if you have questions months or years later
-
-	- They remember details about you and your family
-
 **Red flags:**
-
-	- Agent disappears after closing
-
-	- Only contacts you to ask for referrals
-
-	- Doesn't remember basic details about your situation when you reconnect
 
 **How I assess this:**
 
@@ -290,33 +192,15 @@ In law enforcement, you learn to assess whether someone is being straight with y
 
 **Same skills apply to vetting agents:**
 
-	- Are they confident or evasive when I ask tough questions?
-
-	- Do their answers match what other professionals say about them?
-
-	- Do they take credit for team wins or acknowledge collaboration?
-
 ### **Evaluating Performance Under Pressure**
 
 Cops are constantly evaluated under pressure. How do you handle a chaotic scene? Do you stay calm or panic? Do you follow protocol or improvise recklessly?
 
 **Same questions for agents:**
 
-	- How do they handle a deal falling apart?
-
-	- Do they communicate clearly during crises?
-
-	- Do they problem-solve or blame others?
-
 ### **Character Assessment**
 
 Twenty years of law enforcement taught me that **character reveals itself under stress.**
-
-	- Does someone do the right thing when no one is watching?
-
-	- Do they take responsibility or deflect blame?
-
-	- Do they help others even when there's nothing in it for them?
 
 **Those are the people I want in my referral network.**
 
@@ -392,21 +276,9 @@ They found a home they loved, listed at $950,000. The agent told them: "This is 
 
 **Red flags everywhere:**
 
-	- $70K over asking
-
-	- No inspection contingency (insane in SCV)
-
-	- Pressure to decide immediately
-
 ### **The Intervention**
 
 They called me before submitting the offer. I connected them with an agent from my network who:
-
-	- **Ran comps** - Similar homes in the neighborhood sold for $960K-980K
-
-	- **Verified competition** - There were no other offers (the listing agent was bluffing)
-
-	- **Advised strategy** - Offer $970K with standard contingencies
 
 ### **The Outcome**
 
@@ -426,23 +298,7 @@ I spent 20 years as an LAPD officer in Los Angeles and 25 years selling real est
 
 **Los Angeles buyers care about:**
 
-	- Walkability
-
-	- Proximity to work/entertainment
-
-	- Neighborhood vibe
-
-	- Investment potential
-
 **Santa Clarita buyers care about:**
-
-	- School districts (Saugus vs. Hart vs. Castaic)
-
-	- Commute times (I-5 vs. 14 Freeway)
-
-	- HOA rules (some communities are strict, others aren't)
-
-	- Family-friendly amenities
 
 **If your agent doesn't understand these differences, they'll waste your time.**
 
@@ -450,19 +306,7 @@ I spent 20 years as an LAPD officer in Los Angeles and 25 years selling real est
 
 **Los Angeles:**
 
-	- Fast-moving, highly competitive
-
-	- International buyers, investors, cash offers
-
-	- Tear-downs and rebuilds common
-
 **Santa Clarita:**
-
-	- Steady, family-driven market
-
-	- Owner-occupants dominate
-
-	- Move-up buyers (selling one SCV home to buy another)
 
 **An agent who works primarily in LA won't understand SCV pricing, negotiation, or buyer psychology.**
 
@@ -544,25 +388,7 @@ Most agents are competent. They know how to write contracts, show homes, and clo
 
 ### **Good Agents:**
 
-	- Return calls within 24 hours
-
-	- Show you homes that match your criteria
-
-	- Guide you through the transaction
-
-	- Close deals smoothly
-
 ### **Great Agents:**
-
-	- Return calls within 2-4 hours
-
-	- Show you homes you didn't know existed (off-market, pocket listings, coming-soon)
-
-	- Anticipate problems before they arise
-
-	- Negotiate aggressively on your behalf
-
-	- Save you money and protect you from mistakes
 
 **I only refer great agents.**
 
@@ -574,21 +400,9 @@ People often ask: "Why can't I just read Google reviews and pick an agent?"
 
 ### **Reviews Can Be Gamed**
 
-	- Agents ask happy clients to leave reviews (but don't ask unhappy ones)
-
-	- Some agents offer incentives for 5-star reviews
-
-	- Negative reviews can be buried or disputed
-
 ### **Reviews Don't Reveal Weaknesses**
 
 A review might say "Great agent!" but won't tell you:
-
-	- They're terrible at negotiation
-
-	- They're unresponsive during crises
-
-	- They pressure clients into bad decisions
 
 ### **Reviews Don't Account for Fit**
 
@@ -605,16 +419,6 @@ Ready to work with a vetted agent?
 [Reach out through SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/contact/) or call directly.
 
 ### **Step 2: Tell Me Your Situation**
-
-	- Buying or selling?
-
-	- Timeline?
-
-	- Neighborhoods you're interested in?
-
-	- Budget range?
-
-	- Any special needs (schools, commute, lot size, etc.)?
 
 ### **Step 3: Get Matched**
 
@@ -657,37 +461,6 @@ Ready to work with an agent who values honor as much as results?
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -723,26 +496,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

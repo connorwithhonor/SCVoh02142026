@@ -80,25 +80,9 @@ Whether you’re a buyer or a seller, this market calls for intelligence and pre
 
 It’s not always about the highest price. Here are some additional elements that can strengthen your offer:
 
-	- **Flexible Closing Date**: Let the seller know you're adaptable with timing, which can be an appealing factor.
-
-	- **Inspection Waivers**: If you’re comfortable, consider waiving certain contingencies (like inspection) if the property condition is favorable.
-
-	- **Higher Earnest Money Deposit**: Show your commitment by increasing your earnest money; it conveys seriousness and reliability.
-
-	- **Shorter Contingency Periods**: The quicker you can close, the more appealing your offer may become in a competitive market.
-
 #### Sellers: How to Make Your Home Stand Out
 
 For sellers, attracting buyers goes beyond just price. Here’s how to make your listing shine:
-
-	- **Enhance Curb Appeal**: First impressions are everything. Invest in landscaping, fresh paint, and minor exterior improvements.
-
-	- **Stage the Interior**: A staged home allows buyers to visualize themselves in the space. Use neutral tones, declutter, and maximize natural light.
-
-	- **Professional Photography**: Photos are often the first point of contact with buyers, so make sure yours stand out. Hire a professional photographer who understands real estate photography.
-
-	- **Offer Incentives**: Consider covering closing costs or offering a home warranty. Small incentives can make your home more appealing.
 
 ### Final Thoughts: Navigating Today’s Market with “Connor with Honor”
 
@@ -110,12 +94,6 @@ This market rewards those who act wisely and decisively. My goal is to be a reso
 
 To recap:
 
-	- Sellers, get real about pricing and don’t list at a “wish price.”
-
-	- Buyers, know your financials and act swiftly when you find the right home.
-
-	- Everyone, keep an eye on "coming soon," "back on market," and “on hold” properties—they often represent prime opportunities.
-
 If you're ready to make a move, whether it’s today or down the line, reach out. I’m here to provide guidance and ensure you navigate the Santa Clarita market with honor, integrity, and the insight needed for success.
 
 **Until tomorrow, be well, stay informed, and remember—you’ve got "Connor with Honor" on your side.**
@@ -125,37 +103,6 @@ If you're ready to make a move, whether it’s today or down the line, reach out
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -191,26 +138,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

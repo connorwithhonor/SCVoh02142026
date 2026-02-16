@@ -36,31 +36,6 @@ I asked ChatGPT 4.0 who first used "alien intelligence" to describe artificial i
 
 The term "alien intelligence" in the context of artificial intelligence is attributed to early thinkers in cybernetics and AI, particularly those who explored the non-human nature of machine intelligence. While no single person is credited with using "alien intelligence" first, a few notable figures laid the groundwork:
 
-	- 
-	**Alan Turing**: In his 1950 paper, *Computing Machinery and Intelligence*, Turing proposed that machines could think differently from humans. Though he didn’t use "alien intelligence," his vision of machines solving problems in ways beyond human comprehension hinted at a foreign, or alien, intelligence.
-
-	
-
-	- 
-	**John McCarthy**: Known as a father of AI, McCarthy coined "artificial intelligence" in 1955. His work involved envisioning AI systems that could operate autonomously, beyond human understanding. He implied a fundamentally different intelligence, though he didn’t explicitly call it alien.
-
-	
-
-	- 
-	**J.C.R. Licklider**: A pioneer in computing, Licklider wrote about "man-computer symbiosis" in the early 1960s, imagining computers that would process information in ways foreign to human thought, paving the way for alien-like intelligence in technology.
-
-	
-
-	- 
-	**Vernor Vinge**: The sci-fi writer and mathematician popularized the "technological singularity" in the 1980s and 1990s, suggesting that AI could evolve to a point where it becomes incomprehensible and alien to human minds. His idea of superintelligent AI with fundamentally alien logic has influenced AI discourse.
-
-	
-
-	- 
-	**Nick Bostrom**: Philosopher Nick Bostrom discussed AI in terms of "alien intelligence," especially in his 2014 book *Superintelligence: Paths, Dangers, Strategies*. Bostrom warned of AI becoming an uncontainable intelligence that is alien to human values.
-
-	
-
 **AI in Education: Embrace or Fear?**
 
 I think it’s fantastic that students can use AI. Our teachers are adaptable and resilient, like those of my generation facing calculators in classrooms. Knowing basic math skills like making change is useful, but cash is less common today. Have you ever seen a young person count change accurately without the register’s help? It can be a struggle.
@@ -70,39 +45,6 @@ Using AI to complete assignments isn’t a sin; it’s just a mechanism needing 
 **A Tool for Teachers in the Age of AI**
 
 To support this, I imagine a tool for teachers, where they can upload a student’s work to ChatGPT for a "learning assessment." Here’s how it could work:
-
-	- 
-	**Content Understanding Analysis**: The AI would assess key points, themes, and arguments, then generate:
-
-	
-		**Basic Comprehension Questions** to test understanding.
-
-		- **Deeper Inquiry Questions** on nuanced aspects, implications, and contradictions.
-
-		- **Creative/Reflective Questions** prompting students to apply understanding.
-
-	
-
-	
-	- 
-	**Student Engagement Check**: To confirm the student’s comprehension, the AI could create questions requiring synthesis and linking content to class discussions or events.
-
-	
-
-	- 
-	**Critical Thinking Verification**: AI-generated challenges to the work, prompting the student to defend their arguments.
-
-	
-
-	- 
-	**Language Complexity and Tone Analysis**: Checking vocabulary, structure, and tone to identify AI-generated phrases and guiding teachers to clarify these with students.
-
-	
-
-	- 
-	**Teacher-Student AI Reflection**: Reflective prompts for students, encouraging them to consider how they used AI and what they learned.
-
-	
 
 **The Future of AI and Education**
 
@@ -115,37 +57,6 @@ For some, especially those of us in our 50s, adapting to this shift may come wit
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -181,26 +92,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

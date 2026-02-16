@@ -26,41 +26,11 @@ If you’re like most homeowners, you may not realize that images of your proper
 
 If this concerns you too, don’t worry. You can remove these photos and protect your privacy. For step-by-step instructions on how to remove your home’s photos from Google Maps and real estate platforms, check out my previous blog posts and podcast episodes:
 
-	- **Removing your home’s photos from Google Maps**:
-
-	[https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles](https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles)
-
-	- **Podcast on how to remove your home’s images online**:
-
-	[https://www.buzzsprout.com/admin/298109/episodes/15877111-photo-removal-of-your-home-from-online-after-you-buy-it-first-responder-turned-realtor-connor-with-honor](https://www.buzzsprout.com/admin/298109/episodes/15877111-photo-removal-of-your-home-from-online-after-you-buy-it-first-responder-turned-realtor-connor-with-honor)
-
 Now, let’s get into today’s **Santa Clarita real estate market update** and some key tips for buyers.
 
 ### **Santa Clarita Market Snapshot (Past 7 Days)**
 
 Here’s a quick look at the numbers from the past week in the Santa Clarita real estate market:
-
-	- **Coming Soon**: 13 properties
-
-	- **New Listings**: 83 new homes hit the market
-
-	- **Price Changes**: 67 properties adjusted their prices
-
-	- **Back on Market**: 24 homes returned after escrow was canceled
-
-	- **Active Under Contract**: 34 homes under contract but still open to offers
-
-	- **Pending**: 52 homes are in the process of closing
-
-	- **Closed**: 67 homes were sold
-
-	- **Expired Listings**: 11 listings expired without a sale
-
-	- **Canceled**: 9 sellers pulled their homes off the market
-
-	- **Hold**: 10 listings are temporarily off the market
-
-	- **Withdrawn**: 2 listings were fully removed from the market
 
 To dive deeper into these updates and explore specific properties, head over to my website:
 
@@ -74,34 +44,6 @@ Here’s my biggest piece of advice: **Don’t just trust what you’re told—r
 
 #### **Here’s what to watch out for:**
 
-	- 
-	**Agent Contracts:**
-
-	Make sure the contract clearly states what your agent is committing to do for you. If they tell you one thing, make sure it’s written down.
-
-	
-
-	- 
-	**"Free" Services:**
-
-	Some agents or lenders may advertise their services as “free,” but be wary of these claims. Nothing is truly free, and you may end up paying in other ways, like through higher fees at closing.
-
-	
-
-	- 
-	**Representation Agreements:**
-
-	These are binding contracts that commit you to working with a specific agent. Make sure you’re comfortable with their terms before signing.
-
-	
-
-	- 
-	**Hidden Fees:**
-
-	Always look for any hidden fees that could pop up later in the process. If anything seems unclear, don’t hesitate to ask for clarification.
-
-	
-
 ### **The Importance of a Buyer Briefing**
 
 Just like we had roll call in the LAPD to brief us on what to expect on the streets, I hold a **buyer briefing** with all my clients. This briefing is crucial for understanding how the market is behaving, how multiple offers work in a seller’s market, and what strategies will give you the edge.
@@ -111,10 +53,6 @@ Right now, we’re in a **seller’s market**, which means homes are moving fast
 ### **Buyer Beware: Scams Are Out There**
 
 The real estate world can sometimes feel like the Wild West. You’ll come across ads and agents promising everything from "free services" to "top deals" without offering any proof of their claims. If something seems too good to be true, it probably is.
-
-	- **Make sure the agent you’re working with is legitimate.**
-
-	- **Verify everything you’re told before you sign any documents.**
 
 With fake agents and misleading offers becoming more common, it’s crucial that you protect yourself.
 
@@ -133,37 +71,6 @@ For more tips and the latest real estate updates, visit:
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -199,26 +106,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)

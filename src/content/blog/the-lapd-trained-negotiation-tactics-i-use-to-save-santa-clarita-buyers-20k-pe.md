@@ -44,16 +44,6 @@ During my time with LAPD, I went through crisis negotiation training. The core p
 
 **In real estate:** Before writing an offer, I pull:
 
-	- **Comparable sales (comps):** What have similar homes sold for in the past 90 days?
-
-	- **Days on market (DOM):** How long has the home been listed? (Longer = more leverage for buyers)
-
-	- **Price history:** Has the seller reduced the price? (Multiple reductions = desperation)
-
-	- **Seller motivation:** Why are they moving? (Divorce, job relocation, foreclosure = urgency)
-
-	- **Property condition:** What repairs are needed? (Foundation issues, roof problems = negotiation leverage)
-
 **Example:** You love a home in [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca) listed at $700,000. I pull comps and find similar homes sold for $670K-$685K in the past 60 days. The home has been on the market for 45 days (above the 30-day average). The listing agent mentions the seller "needs to close quickly."
 
 **Translation:** The seller is motivated, the home is overpriced, and we have leverage. We offer $680K with a 21-day close. The seller accepts.
@@ -69,10 +59,6 @@ During my time with LAPD, I went through crisis negotiation training. The core p
 **Why this matters:** Listing agents are more likely to advocate for YOUR offer if they trust you'll close the deal smoothly. If you're difficult to work with, they'll push the seller toward other buyers—even if your offer is higher.
 
 **Example:** Two offers on a home in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca):
-
-	- **Offer A:** $740K from a buyer with a flaky agent who's hard to reach
-
-	- **Offer B:** $735K from my client with clean pre-approval and fast communication
 
 The seller chooses Offer B because their agent trusts ME to close the deal without drama.
 
@@ -97,16 +83,6 @@ The seller chooses Offer B because their agent trusts ME to close the deal witho
 **In law enforcement:** Leverage is everything. You need something the other side wants. You create options. You show them the consequences of not cooperating.
 
 **In real estate:** Leverage comes from:
-
-	- **Market data:** Comps showing the home is overpriced
-
-	- **Timing:** Knowing the seller needs to close quickly
-
-	- **Competition:** Other homes available in the same price range
-
-	- **Inspection findings:** Repair issues that justify a lower price
-
-	- **Financing:** A strong pre-approval that shows you're serious
 
 **Example:** You're bidding on a home in [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca) listed at $650,000. The inspection reveals $12,000 in roof and HVAC repairs.
 
@@ -138,35 +114,11 @@ Two weeks later, we find a comparable home for $15K less with a motivated seller
 
 **Situation:**
 
-	- Home listed at $825,000 in Valencia
-
-	- On market for 60+ days
-
-	- Seller had already reduced price twice (from $875K to $825K)
-
 **Intelligence gathered:**
-
-	- Comps showed fair market value at $790K-$810K
-
-	- Seller was relocating for work and needed to close within 45 days
-
-	- Home had minor cosmetic issues (paint, flooring)
 
 **Negotiation strategy:**
 
-	- Offered $795K with 30-day close (faster than seller's deadline)
-
-	- Included escalation clause: "We'll beat any competing offer by $5K up to $810K"
-
-	- Emphasized our strong financing and ability to close quickly
-
 **Result:**
-
-	- Seller accepted $795K (no competing offers materialized)
-
-	- **Buyer saved $30,000 below original list price**
-
-	- Closed in 28 days
 
 **LAPD tactic used:** Leverage timing + demonstrate reliability = win without overpaying
 
@@ -174,41 +126,11 @@ Two weeks later, we find a comparable home for $15K less with a motivated seller
 
 **Situation:**
 
-	- Home listed at $675,000 in Saugus
-
-	- My client went into escrow at $670K
-
-	- Inspection revealed $18,000 in issues: roof leak, foundation cracks, outdated electrical
-
 **Intelligence gathered:**
-
-	- Seller was in pre-foreclosure (desperate to sell)
-
-	- Home had been on market 90+ days
-
-	- No backup offers
 
 **Negotiation strategy:**
 
-	- Presented detailed inspection report with contractor bids
-
-	- Offered three options:
-	
-		Seller fixes all issues before closing
-
-		- Seller reduces price by $15K and we handle repairs
-
-		- We cancel and seller starts over with new buyer
-
-	
-
-	
-
 **Result:**
-
-	- Seller agreed to $15K price reduction
-
-	- **Total savings: $15,000 + avoided move-in delays from waiting on repairs**
 
 **LAPD tactic used:** Create options + show consequences = leverage
 
@@ -216,37 +138,11 @@ Two weeks later, we find a comparable home for $15K less with a motivated seller
 
 **Situation:**
 
-	- Home listed at $950,000 in Stevenson Ranch
-
-	- 5+ competing offers
-
-	- Sellers reviewing offers on Monday (4 PM deadline)
-
 **Intelligence gathered:**
-
-	- Listing agent mentioned seller wanted "clean deal, no drama"
-
-	- Comps showed home was fairly priced at $940K-$960K
-
-	- Most competing offers were at or above asking price
 
 **Negotiation strategy:**
 
-	- Offered $955K (slightly above asking but within market value)
-
-	- Waived appraisal contingency (we were confident it would appraise)
-
-	- Shortened inspection period to 10 days (vs. standard 17)
-
-	- Included personal letter from buyer explaining why they loved the home
-
 **Result:**
-
-	- Seller accepted our offer over higher offers ($965K and $970K)
-
-	- Appraisal came in at $960K (confirming we didn't overpay)
-
-	- **Buyer saved $10K-$15K vs. competing offers AND won the house**
 
 **LAPD tactic used:** Build rapport + demonstrate reliability &gt; highest price
 
@@ -254,33 +150,11 @@ Two weeks later, we find a comparable home for $15K less with a motivated seller
 
 **Situation:**
 
-	- Bank-owned foreclosure in Castaic listed at $550,000
-
-	- Property needed $25K in repairs (cosmetic + HVAC)
-
-	- Multiple investors bidding
-
 **Intelligence gathered:**
-
-	- Bank wanted highest offer, AS-IS sale
-
-	- Most investors were offering $520K-$540K
-
-	- Property had been on market 45 days (longer than typical foreclosures)
 
 **Negotiation strategy:**
 
-	- Offered $535K cash (my client was pre-approved for conventional but had liquid assets)
-
-	- Waived inspection contingency (we knew the issues going in)
-
-	- 15-day close (faster than competitors)
-
 **Result:**
-
-	- Bank accepted our offer over higher offers because of speed and certainty
-
-	- **Buyer paid $15K below asking + avoided bidding war**
 
 **LAPD tactic used:** Speed + certainty &gt; higher price in distressed sales
 
@@ -414,59 +288,17 @@ For 20 years, my job was to protect people. Now I do it in real estate. If a dea
 
 ### **1. Gather Intelligence**
 
-	- Pull comps, check DOM, research seller motivation
-
-	- Know the data before you make an offer
-
 ### **2. Build Rapport**
-
-	- Be professional with listing agents
-
-	- Make them trust you'll close smoothly
 
 ### **3. Stay Calm**
 
-	- Don't panic in multiple offer situations
-
-	- Make strategic decisions, not emotional ones
-
 ### **4. Create Leverage**
-
-	- Use market data, timing, and inspection findings
-
-	- Give the seller options (not ultimatums)
 
 ### **5. Walk Away from Bad Deals**
 
-	- If the numbers don't work, find another house
-
-	- Overpaying is worse than starting over
-
 ### **Case Studies Recap:**
 
-	- **Valencia overpriced home:** Saved $30K through timing leverage
-
-	- **Saugus inspection nightmare:** Saved $15K through contractor bids + options
-
-	- **Stevenson Ranch multiple offers:** Won house without highest bid through rapport
-
-	- **Castaic foreclosure:** Saved $15K through speed + certainty
-
 ### **Common Mistakes to Avoid:**
-
-	- Offering asking price without data
-
-	- Panicking in multiple offers
-
-	- Accepting first counteroffer
-
-	- Not negotiating repairs
-
-	- Waiving contingencies without reason
-
-	- Ignoring seller motivation
-
-	- Refusing to walk away
 
 ## Final Thoughts: Negotiation Is a Skill (And I've Been Training for 20+ Years)
 
@@ -495,37 +327,6 @@ Former LAPD Officer | Santa Clarita Real Estate Advisor
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
 
   
-    ![Connor T. MacIvor — Santa Clarita Realtor (headshot)](https://storage.googleapis.com/idx-acnt-gs.ihouseprd.com/AR1197716/file_manager/IMG_9396.JPG)
-    
-      Connor T. MacIvor, Realtor®
-      CA DRE # 01238257
-      Realty One Group — Success
-      25060 Avenue Stanford, Suite 150, Valencia, CA 91355
-      
-        [SantaClaritaOpenHouses.com](https://www.SantaClaritaOpenHouses.com)
-      
-    
-  
-
-  
-
-  
-    **Real Estate Phone:** [(661) 888-4983](tel:+16618884983)
-    **Email:** [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
-    **Office:** Santa Clarita Valley, CA
-  
-
-  
-    **AI Agency — AI Architect:**
-    [SantaClaritaArtificialIntelligence.com](https://SantaClaritaArtificialIntelligence.com)
-    &nbsp;•&nbsp; [(661) 673-7535](tel:+16616737535)
-    &nbsp;•&nbsp; [connor@honorelevate.com](mailto:connor@honorelevate.com)
-  
-
-  
-    Browse Santa Clarita Open Houses →
-  
-
 ## Explore
 
 [](/santa-clarita-homes)Santa Clarita, CA
@@ -561,26 +362,3 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
 ![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
-
-    
-
-    
-        
-    
-        
-        Real Estate Websites by
-        
-            
-                
-                ![iHouseweb company logo](https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-44-06-00000/images/web/icons/ihouseweb_branding.png)
-            
-            iHouseweb
-        
-    
-
-    
-                    | [Accessibility](#accessibility-menu)
-        
-        |
-        
-            [Admin&nbsp;Menu](https://kj1g3.edit.ihouseelite.com/-/EditWebsite/go_to_admin/)
