@@ -1,7 +1,8 @@
 ---
 title: "53-75 Days to Sell in SCV: Why This is the New Normal (And How to Beat It)"
 description: "Santa Clarita homes are taking 53-75 days to sell in 2026. Here's why that's actually NORMAL—and the strategy to sell in 30-45 days instead."
-publishDate: "2026-01-15"
+publishDate: 2026-01-15T08:00:00
+pubDate: 2026-01-15T08:00:00
 neighborhood: "Santa Clarita Valley"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/days-to-sell-scv-2026.webp"
 ---
