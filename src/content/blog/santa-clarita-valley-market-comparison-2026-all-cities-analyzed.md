@@ -1,8 +1,8 @@
 ---
 title: "Santa Clarita Valley Real Estate 2026: Complete City-by-City Market Comparison"
 description: "Valencia, Canyon Country, Newhall, or Stevenson Ranch—which SCV city offers the best value for sellers in 2026? Here's the data-driven answer."
-publishDate: 2026-01-15T08:00:00
-pubDate: 2026-01-15T08:00:00
+publishDate: 2026-02-16T08:00:00
+pubDate: 2026-02-16T08:00:00
 neighborhood: "Santa Clarita Valley"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/scv-market-comparison-2026.webp"
 ---

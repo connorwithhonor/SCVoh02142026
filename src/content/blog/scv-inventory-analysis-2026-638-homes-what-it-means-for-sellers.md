@@ -1,8 +1,8 @@
 ---
 title: "638 Homes for Sale in Santa Clarita Valley: The Inventory Analysis Every Seller Needs to Read"
 description: "SCV's total inventory is up 246% from 2024 lows. Here's why this is actually GOOD news for strategic sellers—and bad news for lazy ones."
-publishDate: 2026-01-15T08:00:00
-pubDate: 2026-01-15T08:00:00
+publishDate: 2026-02-16T08:00:00
+pubDate: 2026-02-16T08:00:00
 neighborhood: "Santa Clarita Valley"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/scv-inventory-2026-analysis.webp"
 ---

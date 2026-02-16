@@ -360,7 +360,7 @@ I'm Connor with Honor, and after 27 years in Santa Clarita Valley real estate, I
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/how-can-i-tell-if-a-santa-clarita-real-estate-agent-knows-my-neighborhood-2026/colorful-yard.jpg)
 
   
 ## Explore
@@ -397,4 +397,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/how-can-i-tell-if-a-santa-clarita-real-estate-agent-knows-my-neighborhood-2026/equal-housing-opportunity.png) ![](/images/blog/how-can-i-tell-if-a-santa-clarita-real-estate-agent-knows-my-neighborhood-2026/realtor.png) ![](/images/blog/how-can-i-tell-if-a-santa-clarita-real-estate-agent-knows-my-neighborhood-2026/mls.png)

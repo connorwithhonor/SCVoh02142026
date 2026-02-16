@@ -1,8 +1,8 @@
 ---
 title: "Canyon Country Real Estate Alert: 225 Listings, 68 Days to Sell—What Sellers Must Know in 2026"
 description: "Canyon Country's inventory has surged to 225 homes with 68 days to sell. Find out why this shift creates both challenges and opportunities for savvy sellers."
-publishDate: 2026-01-15T08:00:00
-pubDate: 2026-01-15T08:00:00
+publishDate: 2026-02-16T08:00:00
+pubDate: 2026-02-16T08:00:00
 neighborhood: "Canyon Country"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/canyon-country-2026-market.webp"
 ---
