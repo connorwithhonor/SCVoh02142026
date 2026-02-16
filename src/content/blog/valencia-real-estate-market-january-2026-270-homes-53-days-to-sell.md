@@ -1,7 +1,7 @@
 ---
 title: "Valencia Real Estate Market Update: 270 Active Listings & 53 Days to Sell in January 2026"
 description: "Valencia homes are selling in 53 days with 270 active listings. See how this compares to 2024-2025 trends and what it means for sellers in this balanced market."
-publishDate: 2026-02-16
+publishDate: "2026-01-15"
 neighborhood: "Valencia"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/valencia-real-estate-2026.webp"
 ---

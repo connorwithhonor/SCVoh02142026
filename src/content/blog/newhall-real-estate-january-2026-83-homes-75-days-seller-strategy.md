@@ -1,7 +1,7 @@
 ---
 title: "Newhall Real Estate 2026: 83 Listings Taking 75 Days to Sell—The Contrarian Opportunity"
 description: "Newhall's 75-day market time is the slowest in SCV, but smart sellers are using this to their advantage. Here's the counterintuitive strategy that's working."
-publishDate: 2026-02-16
+publishDate: "2026-01-15"
 neighborhood: "Newhall"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/newhall-2026-real-estate.webp"
 ---
