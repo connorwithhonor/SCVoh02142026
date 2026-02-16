@@ -1,7 +1,8 @@
 ---
 title: "First Responder Realtor know which homes are priced to sell"
 description: "Know Which Homes Are Priced to Sell: The First Responder Realtor's Insight  Connor with Honor | First Responder Realtor Santa Clarita Valley Real Estate Market | October 13th, 2024   As a First Respon"
-publishDate: 2026-02-15T16:07:55.410299
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20Valley%20real%20estate%20first%20responder%20realtor%20connor%20with%20honor%20287.png"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-know-which-homes-are-priced-to-sell"
 ---

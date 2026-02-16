@@ -1,7 +1,8 @@
 ---
 title: "Why Fasting Beats Weight Loss Drugs in 2025 and beyond by Connor with Honor"
 description: "Discover why fasting beats weight loss drugs for sustainable fat loss. Connor MacIvor, ex-LAPD Realtor, shares his 135-pound transformation and tips to start fasting. Book a free consult at ZoomMeSCV."
-publishDate: 2026-02-15T16:07:54.740570
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0831%20burning%20fat%20is%20hard%20but%20there%20are%20drugs%20to%20help%20you%20do%20so.png"
 source: "https://www.santaclaritaopenhouses.com/why-fasting-beats-weight-loss-drugs-in-2025-and-beyond-by-connor-with-honor"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country real estate update for Santa Clarita Open Houses week 1 2025"
 description: "Canyon Country Real Estate Update – January 3rd, 2025  Welcome, everyone, to the Canyon Country real estate update for this first week of January 2025! My name is Connor—often referred to as \"Connor "
-publishDate: 2026-02-15T16:07:55.225698
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Canyon%20Country%20real%20estate%20update%202025%20by%20Connor%20First%20Responder%20Realtor.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-update-for-santa-clarita-open-houses-week-1-2025"
 ---

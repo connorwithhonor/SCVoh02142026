@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence recap and overweight kids being bullied"
 description: "The Evolution of Artificial Intelligence: From Calculators to Artificial Super Intelligence (ASI) – What Comes Next?  AI is No Longer the Future—It's Now  Artificial Intelligence has rapidly transform"
-publishDate: 2026-02-15T16:07:55.105585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/varied%20levels%20ai%20-%20agi%20-%20asi%20ai%20with%20honor%20understanding%20what%20is%20happening%20on%20the%20artificial%20intelligence%20front.png"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-recap-and-overweight-kids-being-bullied"
 ---

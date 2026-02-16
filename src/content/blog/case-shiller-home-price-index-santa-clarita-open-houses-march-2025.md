@@ -1,7 +1,8 @@
 ---
 title: "Case-Shiller Home Price Index - Santa Clarita Open Houses March 2025"
 description: "Case-Shiller Home Price Index – Santa Clarita Open Houses March 2025 Date: March 6, 2025 Author: Connor \"with Honor\" MacIvor    Santa Clarita Real Estate Market Update – March 2025 Welcome to our in"
-publishDate: 2026-02-15T16:07:55.037039
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/03062025%20Santa%20Clarita%20open%20houses%20intel%20from%20the%20source%20data.png"
 source: "https://www.santaclaritaopenhouses.com/case-shiller-home-price-index-santa-clarita-open-houses-march-2025"
 ---

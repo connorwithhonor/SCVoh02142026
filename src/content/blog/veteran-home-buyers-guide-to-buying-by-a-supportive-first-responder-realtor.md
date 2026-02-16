@@ -1,7 +1,8 @@
 ---
 title: "Veteran Home buyers guide to buying by a supportive First Responder Realtor"
 description: "A Guide for Veteran Homebuyers: How the First Responder Realtor Supports Veterans in Santa Clarita  Introduction: Serving those who serve us is a responsibility I take to heart. As a veteran or active"
-publishDate: 2026-02-15T16:07:55.398244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1%20veteran%20home%20buying%20Santa%20Clarita%20First%20Responder%20Realtor%20connor%20with%20honor.webp"
 source: "https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor"
 ---

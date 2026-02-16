@@ -1,7 +1,8 @@
 ---
 title: "Breaking your desire to Fast to your family"
 description: "Understanding the Emotional and Social Dynamics of Food in Family Life  Food is much more than mere sustenance; it is an integral part of human culture, tradition, and relationships. Families often ga"
-publishDate: 2026-02-15T16:07:55.151620
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Breaking%20it%20to%20your%20family%20that%20I'm%20going%20to%20fast%20and%20quit%20eating%20food%20it%20may%20just%20be%20a%20bigger%20problem.png"
 source: "https://www.santaclaritaopenhouses.com/breaking-your-desire-to-fast-to-your-family"
 ---

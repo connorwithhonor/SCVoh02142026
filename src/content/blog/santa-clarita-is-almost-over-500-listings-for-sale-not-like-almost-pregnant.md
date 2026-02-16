@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita is Almost over 500 listings for sale, not like almost pregnant"
 description: "Welcome to Today's Santa Clarita Real Estate Update - August 6, 2024  Hello, Santa Clarita! I'm Connor with Honor from SantaClaritaOpenHouses.com, bringing you the latest insights on the Santa Clarita"
-publishDate: 2026-02-15T16:07:55.474507
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20market%20today%20with%20more%20inventory%20by%20Connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-is-almost-over-500-listings-for-sale-not-like-almost-pregnant"
 ---

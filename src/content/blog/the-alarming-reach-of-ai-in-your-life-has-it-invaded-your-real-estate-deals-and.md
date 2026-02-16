@@ -1,7 +1,8 @@
 ---
 title: "The Alarming Reach of AI in Your Life: Has It Invaded Your Real Estate Deals and"
 description: "The Alarming Reach of AI in Your Life: Has It Invaded Your Real Estate Deals, Job, and Privacy Without You Noticing?  TL;DR: Artificial intelligence has permeated everyday life, from streamlining busi"
-publishDate: 2026-02-15T16:07:54.807153
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0801%20connor%20with%20honor%20macivor%20artificial%20intelligence%20in%20real%20estate%20and%20santa%20clarita%20ca.png"
 source: "https://www.santaclaritaopenhouses.com/the-alarming-reach-of-ai-in-your-life-has-it-invaded-your-real-estate-deals-and"
 ---

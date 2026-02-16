@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate inventory is starting to bubble over"
 description: "Welcome to the Daily Santa Clarita Real Estate Show, proudly sponsored by SantaClaritaOpenHouses.com and presented by Connor with Honor. Today, we have some groundbreaking updates that every buyer and"
-publishDate: 2026-02-15T16:07:55.495632
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20record%20broken%20in%20residential%20real%20estate%20listings%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-inventory-is-starting-to-bubble-over"
 ---

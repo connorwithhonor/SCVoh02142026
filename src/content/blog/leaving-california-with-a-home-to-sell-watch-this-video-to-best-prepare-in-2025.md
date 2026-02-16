@@ -1,7 +1,8 @@
 ---
 title: "Leaving California with a home to sell, watch this video to best prepare in 2025"
 description: "Shocking Reasons Your Santa Clarita Home Isn't Selling – And How to Fix It Fast  TL;DR: Your Santa Clarita home might not be selling because of pricing missteps, poor preparation, or market competitio"
-publishDate: 2026-02-15T16:07:54.749676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0826%20How%20to%20Sell%20and%20Leave%20California%20without%20a%20concern%20in%202025%20by%20Connor%20with%20honor%20the%20Santa%20Clarita%20Open%20Houses%20agents.png"
 source: "https://www.santaclaritaopenhouses.com/leaving-california-with-a-home-to-sell-watch-this-video-to-best-prepare-in-2025"
 ---

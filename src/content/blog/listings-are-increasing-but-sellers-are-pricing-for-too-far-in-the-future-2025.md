@@ -1,7 +1,8 @@
 ---
 title: "Listings are increasing but sellers are pricing for too far in the future 2025"
 description: "Introduction  Welcome, my dear friends, neighbors, and future Santa Clarita Valley homeowners. Connor with Honor here—your friendly First Responder turned Realtor. I've spent my life serving in unifor"
-publishDate: 2026-02-15T16:07:55.168165
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20housing%20update%20for%20Santa%20Clairta%20real%20estate%20by%20Santa%20Clarita%20open%20houses%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/listings-are-increasing-but-sellers-are-pricing-for-too-far-in-the-future-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Daily Santa Clarita real estate update buyers don't get scammed when signing"
 description: "Daily Santa Clarita Real Estate Update: Buyers, Don't Get Scammed When Signing!  Hello, I'm Connor with Honor, your local realtor and former LAPD officer. Today, I want to address something I've notic"
-publishDate: 2026-02-15T16:07:55.416314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/overlooking%20or%20overwatcher%20with%20a%20hoodie%20on%20me%20looking%20over%20the%20urban%20landscape%20which%20is%20real%20estate....png"
 source: "https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing"
 ---

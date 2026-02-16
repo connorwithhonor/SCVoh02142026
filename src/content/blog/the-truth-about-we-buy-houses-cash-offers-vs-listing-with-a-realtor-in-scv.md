@@ -1,7 +1,8 @@
 ---
 title: "The Truth About “We Buy Houses” Cash Offers vs. Listing with a Realtor in SCV"
 description: "When it comes to selling your home in Santa Clarita, you may have come across the \"We Buy Houses\" cash offer approach. These offers promise a quick, hassle-free sale, but is that really the best opt"
-publishDate: 2026-02-15T16:07:55.054550
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0226%20the%20truth%20about%20selling%20your%20home%20for%20cash%20offers%20versus%20listing%20with%20a%20full%20time%20seasoned%20and%20expert%20realtor%20like%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-truth-about-we-buy-houses-cash-offers-vs-listing-with-a-realtor-in-scv"
 ---

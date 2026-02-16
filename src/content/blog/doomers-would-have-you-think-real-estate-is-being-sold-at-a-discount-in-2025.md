@@ -1,7 +1,8 @@
 ---
 title: "Doomers would have you think real estate is being sold at a discount in 2025"
 description: "Discover insider tips for buying or selling in Santa Clarita’s 2025 real estate market. With 759 listings and low rates, learn how to navigate with Connor MacIvor, your first-responder-turned-realtor."
-publishDate: 2026-02-15T16:07:54.741570
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0831%20santa%20clarita%20real%20estate%20update%20by%20santa%20clarita%20open%20houses%20connor%20with%20honor%20High%20Estrogen%20here%20youtube.png"
 source: "https://www.santaclaritaopenhouses.com/doomers-would-have-you-think-real-estate-is-being-sold-at-a-discount-in-2025"
 ---

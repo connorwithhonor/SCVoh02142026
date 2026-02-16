@@ -1,7 +1,8 @@
 ---
 title: "Connor with Honor with Santa Clarita Open Houses pitch deck"
 description: "..."
-publishDate: 2026-02-15T16:07:55.076458
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Get%20the%20santa%20clarita%20coming%20soon%20listings.png"
 source: "https://www.santaclaritaopenhouses.com/connor-with-honor-with-santa-clarita-open-houses-pitch-deck"
 ---

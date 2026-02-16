@@ -1,7 +1,8 @@
 ---
 title: "Sell your Home Santa Clarita Now"
 description: "Why You Should Sell Your Home in Santa Clarita Now  If you're considering selling your home in Santa Clarita, 2024 might be the best time to make your move. The real estate market is constantly evolvi"
-publishDate: 2026-02-15T16:07:55.424325
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/sell-your-home-santa-clarita-now"
 ---
 

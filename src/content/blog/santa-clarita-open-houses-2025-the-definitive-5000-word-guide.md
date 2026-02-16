@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Open Houses 2025: The Definitive 5,000-Word Guide"
 description: "Ultimate 2025 Guide to Santa Clarita Real Estate & Open Houses | Connor with Honor                      Ultimate 2025 Guide to Santa Clarita Real Estate & Open Houses By Connor T. MacIvor — First Resp"
-publishDate: 2026-02-15T16:07:54.985999
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20with%20honor%20santa%20clairta%20real%20estate%20agents%20blog%20market%20update%20for%20May%202025.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-2025-the-definitive-5000-word-guide"
 ---

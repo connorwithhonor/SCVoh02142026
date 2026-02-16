@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate update for 46th week of 2024 buyers taking a breather"
 description: "Castaic Real Estate Market Update: Essential Insights for Buyers and Sellers  Welcome to this week's in-depth look at the Castaic real estate market! I'm Connor with Honor, your First Responder Realto"
-publishDate: 2026-02-15T16:07:55.330154
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11162024%20Castaic%20real%20estate%20update%20market%20report%20by%20connor%20with%20honor%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-update-for-46th-week-of-2024-buyers-taking-a-breather"
 ---

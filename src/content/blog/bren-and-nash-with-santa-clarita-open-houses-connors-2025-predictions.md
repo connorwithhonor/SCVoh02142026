@@ -1,7 +1,8 @@
 ---
 title: "Bren and Nash with Santa Clarita Open Houses Connor's 2025 predictions"
 description: "Welcome to an in-depth look at the ever-evolving landscape of real estate in Santa Clarita, California—a gem of Southern California known for its suburban charm, proximity to Los Angeles, and a robust"
-publishDate: 2026-02-15T16:07:55.235204
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2025%20predictions%20at%20SantaClaritaOpenHouses%20for%20Santa%20Clairta%20real%20estate%20Bren%20and%20Nash.png"
 source: "https://www.santaclaritaopenhouses.com/bren-and-nash-with-santa-clarita-open-houses-connors-2025-predictions"
 ---

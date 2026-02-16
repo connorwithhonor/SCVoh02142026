@@ -1,7 +1,8 @@
 ---
 title: "Why Santa Clarita Sellers Shouldn’t Panic Over Repair Requests: 2025 guide"
 description: "Why Santa Clarita Sellers Shouldn't Panic Over Repair Requests: A First Responder Realtor's No-Nonsense Guide  TL;DR: Repair requests in Santa Clarita real estate can feel like a shakedown, but they'r"
-publishDate: 2026-02-15T16:07:54.830387
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0725%20santa%20clarita%20real%20estate%20update%20what%20is%20fair%20when%20it%20comes%20to%20repair%20requests%20and%20what%20wo%20watch%20out%20for.png"
 source: "https://www.santaclaritaopenhouses.com/why-santa-clarita-sellers-shouldnt-panic-over-repair-requests-2025-guide"
 ---

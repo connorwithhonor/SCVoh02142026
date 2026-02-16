@@ -1,7 +1,8 @@
 ---
 title: "Am I Crazy for Being Concerned About AI? Navigating the Revolution July 2025"
 description: "Am I Crazy for Being Concerned About AI? Navigating the Revolution with Connor with Honor  Introduction: The AI Revolution and Human Concerns  Standing on the metaphorical street corner, bell in hand,"
-publishDate: 2026-02-15T16:07:54.921901
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/artificial%20intelligence%20in%20santa%20clairta%20is%20palo%20alto%20listening%20to%20me,%20I%20am%20screaming%20into%20my%20computer.jpg"
 source: "https://www.santaclaritaopenhouses.com/am-i-crazy-for-being-concerned-about-ai-navigating-the-revolution-july-2025"
 ---

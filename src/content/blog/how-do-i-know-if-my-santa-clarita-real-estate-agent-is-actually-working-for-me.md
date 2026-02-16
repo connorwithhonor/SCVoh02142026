@@ -1,7 +1,8 @@
 ---
 title: "How Do I Know If My Santa Clarita Real Estate Agent Is Actually Working for Me?"
 description: "TL;DR  Your real estate agent should respond within 24 hours, provide weekly updates, show you every property that fits your criteria, present all offers to sellers, and negotiate aggressively on your"
-publishDate: 2026-02-15T16:07:54.625069
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-15%20170410.png"
 source: "https://www.santaclaritaopenhouses.com/how-do-i-know-if-my-santa-clarita-real-estate-agent-is-actually-working-for-me"
 ---

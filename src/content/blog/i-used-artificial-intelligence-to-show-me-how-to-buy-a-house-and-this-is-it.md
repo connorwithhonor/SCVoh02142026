@@ -1,7 +1,8 @@
 ---
 title: "I used Artificial Intelligence to show me how to buy a house and this is it"
 description: "How AI Guided My Home Buying Journey: Insights from Santa Clarita Realtor  In today's evolving real estate landscape, artificial intelligence (AI) is transforming the way we buy homes. As someone who'"
-publishDate: 2026-02-15T16:07:55.444123
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/I%20wanted%20to%20buy%20a%20home%2C%20so%20I%20asked%20artifical%20intelligencve%20267.png"
 source: "https://www.santaclaritaopenhouses.com/i-used-artificial-intelligence-to-show-me-how-to-buy-a-house-and-this-is-it"
 ---

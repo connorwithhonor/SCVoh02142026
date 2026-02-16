@@ -1,7 +1,8 @@
 ---
 title: "Truth about interest rates November 2024 Santa Clarita rates and tips"
 description: "Understanding the Lending Landscape: November 2024 Insights  In our latest discussion with Tim Slominski, a seasoned lending expert with over 40 years in the industry, we dove into crucial factors imp"
-publishDate: 2026-02-15T16:07:55.377314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/304%20Lending%20Nov.%202024%20truth%20in%20lending,%20connor%20with%20honor%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/truth-about-interest-rates-november-2024-santa-clarita-rates-and-tips"
 ---

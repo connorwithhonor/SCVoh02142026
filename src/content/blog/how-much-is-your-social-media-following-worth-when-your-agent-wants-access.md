@@ -1,7 +1,8 @@
 ---
 title: "How much is your social media following worth when your agent wants access"
 description: "The Value of Your Social Media: A Seller's Guide to Protecting Your Assets When Working With Real Estate Agents  In today's interconnected world, social media is a powerhouse for communication and mar"
-publishDate: 2026-02-15T16:07:55.317147
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11202024%20what%20is%20your%20social%20media%20worth%20to%20give%20your%20agent%20access%20to%20it%20by%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/how-much-is-your-social-media-following-worth-when-your-agent-wants-access"
 ---

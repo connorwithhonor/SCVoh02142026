@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate update with latest data from SantaClaritaOpenHouses"
 description: "Castaic, CA Real Estate Update: Your Complete Guide to the Santa Clarita Valley Market  Introduction The real estate market in Santa Clarita Valley, including the vibrant community of Castaic, CA, con"
-publishDate: 2026-02-15T16:07:55.242201
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Castaic%20CA%20real%20estate%20update%20by%20Connor%20with%20Honor%20at%20SantaClaritaOpenHouses.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-update-with-latest-data-from-santaclaritaopenhouses"
 ---

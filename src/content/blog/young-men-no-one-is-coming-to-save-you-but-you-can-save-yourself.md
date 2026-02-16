@@ -1,7 +1,8 @@
 ---
 title: "Young men - no one is coming to save you but you can save yourself."
 description: "No One's Coming to Save You – But You Can Save Yourself  Life isn't a movie. No one is going to knock on your door, offer you the magic answer, and save you from your current situation. There is no he"
-publishDate: 2026-02-15T16:07:55.135107
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/quit%20gaming%20if%20you%20are%20stuck%20at%20home%20without%20a%20hope%20or%20drive%20in%20your%20life%20bring%20dopamine%20under%20control%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/young-men-no-one-is-coming-to-save-you-but-you-can-save-yourself"
 ---

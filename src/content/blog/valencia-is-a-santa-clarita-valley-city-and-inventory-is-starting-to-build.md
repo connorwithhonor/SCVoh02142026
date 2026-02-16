@@ -1,7 +1,8 @@
 ---
 title: "Valencia is a Santa Clarita Valley City and inventory is starting to build"
 description: "Santa Clarita Real Estate Market Update - July 20, 2024  Good morning, Santa Clarita! Connor with Honor here, bringing you the latest updates and insights from our local real estate market. Whether yo"
-publishDate: 2026-02-15T16:07:55.487128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20inventory%20increases%20by%20Connor%20with%20Honor%20at%20SCVoh.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-is-a-santa-clarita-valley-city-and-inventory-is-starting-to-build"
 ---

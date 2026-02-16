@@ -1,7 +1,8 @@
 ---
 title: "Fire in Santa Clarita real estate insurance issues containment and protecting"
 description: "Welcome to your in-depth Santa Clarita real estate update for January 25, 2025. In this edition, we'll discuss:   	The current market conditions in the Santa Clarita Valley (SCV) 	Recent fires and how"
-publishDate: 2026-02-15T16:07:55.163121
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20market%20data%20from%20a%20first%20responder%20realtor%20in%20Santa%20Clarita%20CA.png"
 source: "https://www.santaclaritaopenhouses.com/fire-in-santa-clarita-real-estate-insurance-issues-containment-and-protecting"
 ---

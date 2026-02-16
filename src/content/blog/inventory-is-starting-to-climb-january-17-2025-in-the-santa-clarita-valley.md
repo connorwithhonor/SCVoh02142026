@@ -1,7 +1,8 @@
 ---
 title: "Inventory is starting to climb January 17, 2025 in the Santa Clarita Valley"
 description: "Santa Clarita Valley Real Estate Activity Overview: A 7-Day Deep Dive  The Santa Clarita Valley real estate market is a dynamic and ever-changing landscape. Over the past seven days, the activity has "
-publishDate: 2026-02-15T16:07:55.191176
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20update%20by%20Connor%20with%20Honor%20the%20first%20responder%20realtor%20santa%20clairta%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/inventory-is-starting-to-climb-january-17-2025-in-the-santa-clarita-valley"
 ---

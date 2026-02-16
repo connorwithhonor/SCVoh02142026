@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate and the lake, don't be shy when making offers ending 2024"
 description: "Castaic Real Estate Market Update Blog Post  November 23, 2024 – Day 328 of the Year – Week 47  As we prepare to gather for Thanksgiving and reflect on what matters most, the Castaic real estate marke"
-publishDate: 2026-02-15T16:07:55.307643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11232024%20Castaic%20real%20estate%20update%20by%20santa%20clarita%20real%20estate%20agents.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Valencia, California Real Estate Update: Market Trends and Neighborhood Insights"
 description: "Santa Clarita Valley: 7-Day Market Snapshot  Before we focus on Valencia, let's take a moment to understand how the Santa Clarita Valley (SCV) real estate market performed overall this week. The SCV e"
-publishDate: 2026-02-15T16:07:55.305644
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11252024%20Valencia%20california%20real%20estate%20market%20update%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-california-real-estate-update-market-trends-and-neighborhood-insights"
 ---

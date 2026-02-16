@@ -1,7 +1,8 @@
 ---
 title: "Coming Soon listings entering the Santa Clarita home market"
 description: "Welcome to the Santa Clarita Valley, a community that's buzzing with exciting new properties soon to hit the market! From classic single-story homes to sprawling estates with unique features, there's "
-publishDate: 2026-02-15T16:07:55.382315
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/coming%20soon%20listings%20presented%20by%20Santa%20Clarita%20Open%20Houses%20and%20the%20First%20Responder%20Realtor%20-%20Updated.png"
 source: "https://www.santaclaritaopenhouses.com/coming-soon-listings-entering-the-santa-clarita-home-market-0-21-days-10272024"
 ---

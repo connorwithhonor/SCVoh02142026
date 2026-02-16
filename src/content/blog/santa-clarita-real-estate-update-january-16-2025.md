@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Update: January 16, 2025"
 description: "Santa Clarita Real Estate Update: January 16, 2025  Welcome to today's detailed update on the Santa Clarita real estate market! The data and insights below are designed to give you a comprehensive vie"
-publishDate: 2026-02-15T16:07:55.193176
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20100%20point%20marketing%20plan%20for%20home%20sellers%20in%202025.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-update-january-16-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate 2025: The Flight to Quality & Referral Guide"
 description: "Santa Clarita Real Estate 2025: The \"Flight to Quality\" and Why You Need Vetted Protection  By Connor MacIvor (Connor with Honor) Retired LAPD | Real Estate Referral Specialist  In the world of mode"
-publishDate: 2026-02-15T16:07:54.664659
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/zillow%20and%20ramsey%20vetted%20agents%20in%20santa%20clarita%20ca%20by%20connor%20with%20honor%20better%20than.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-2025-the-flight-to-quality-referral-guide"
 ---

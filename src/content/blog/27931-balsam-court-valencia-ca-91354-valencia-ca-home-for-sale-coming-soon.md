@@ -1,7 +1,8 @@
 ---
 title: "27931 Balsam Court, Valencia CA 91354, Valencia CA home for sale coming soon"
 description: "Welcome to this beautifully maintained 3-bedroom, 3-bathroom home nestled at the beginning of a peaceful cul-de-sac, and located directly across the street from a large park in the highly desirable No"
-publishDate: 2026-02-15T16:07:55.432333
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/007__zuw3081_2_3_341.jpg"
 source: "https://www.santaclaritaopenhouses.com/27931-balsam-court-valencia-ca-91354-valencia-ca-home-for-sale-coming-soon"
 ---

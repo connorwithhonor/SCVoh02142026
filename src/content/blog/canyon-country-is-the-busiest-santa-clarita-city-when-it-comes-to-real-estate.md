@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country is the busiest Santa Clarita City when it comes to real estate"
 description: "Canyon Country Real Estate Market Update – November 29, 2024  Market Watch – Canyon Country Specific   	Coming Soon: 0 	New Listings: 6 	Price Changes: 9 	Back on Market: 4 	Active Under Contract: 4 	"
-publishDate: 2026-02-15T16:07:55.285848
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11292024%20black%20friday%20canyon%20country%20real%20estate%20update%20by%20connor%20with%20honor%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-is-the-busiest-santa-clarita-city-when-it-comes-to-real-estate"
 ---

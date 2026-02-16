@@ -1,7 +1,8 @@
 ---
 title: "Open Houses Scheduled this weekend in Santa Clarita and Other So. Cal Cities."
 description: "Open Houses Scheduled This Weekend in Santa Clarita and Other Southern California Cities        Open Houses Scheduled This Weekend in Santa Clarita and Other Southern California Cities Your Complete G"
-publishDate: 2026-02-15T16:07:55.186174
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 author: "Connor with Honor"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/New%20homes%20in%20Santa%20Clarita%20for%20sale%20and%20representing%20home%20buyers%20of%20new%20Santa%20Clarita%20homes.png"
 source: "https://www.santaclaritaopenhouses.com/open-houses-scheduled-this-weekend-in-santa-clarita-and-other-so-cal-cities"

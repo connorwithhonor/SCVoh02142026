@@ -1,7 +1,8 @@
 ---
 title: "Consciousness, world domination, procreation, Can AI do it better than humans"
 description: "TL;DR  In this thought-provoking discussion, Connor MacIvor, a former LAPD officer turned real estate expert and AI influencer, dives into the concept of consciousness and its potential in artificial "
-publishDate: 2026-02-15T16:07:54.839521
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/artificial%20intelligence%20procreating%20consiousness%20fooling%20humans%20where%20are%20you%20doing%20to%20believe.png"
 source: "https://www.santaclaritaopenhouses.com/consciousness-world-domination-procreation-can-ai-do-it-better-than-humans"
 ---

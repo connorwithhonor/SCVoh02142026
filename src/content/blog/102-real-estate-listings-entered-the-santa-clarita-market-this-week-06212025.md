@@ -1,7 +1,8 @@
 ---
 title: "102 real estate listings entered the Santa Clarita market this week 06.21.2025"
 description: "Santa Clarita's Market Shift: A Flood of New Listings Creates a Golden Opportunity for Buyers  TL;DR  The Santa Clarita real estate market is experiencing a significant influx of new properties, prese"
-publishDate: 2026-02-15T16:07:54.942469
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/the%20santa%20clarita%20open%20houses%20market%20by%20connor%20with%20honor.jpg"
 source: "https://www.santaclaritaopenhouses.com/102-real-estate-listings-entered-the-santa-clarita-market-this-week-06212025"
 ---

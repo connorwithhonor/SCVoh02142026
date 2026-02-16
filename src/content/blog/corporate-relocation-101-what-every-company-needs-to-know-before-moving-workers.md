@@ -1,7 +1,8 @@
 ---
 title: "Corporate Relocation 101: What Every Company Needs to Know Before Moving workers"
 description: "Corporate Relocation 101: What Every Company Needs to Know Before Moving Employees By Connor with Honor, The First Responder Realtor   Table of Contents   	Introduction 	Understanding Corporate Reloca"
-publishDate: 2026-02-15T16:07:55.180668
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20relocation%20certified%20real%20estate%20agent%20-%20Corporate%20relocation%20101%20what%20every%20company%20needs%20to%20know.png"
 source: "https://www.santaclaritaopenhouses.com/corporate-relocation-101-what-every-company-needs-to-know-before-moving-workers"
 ---

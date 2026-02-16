@@ -1,7 +1,8 @@
 ---
 title: "Why does anyone care if I eat or don't eat or drink or don't drink?"
 description: "Why Does Anyone Care If I Eat or Don't Eat, or Drink or Don't Drink?  A Journey from Fat to Fit: A First Responder Realtor's Transformation in Santa Clarita, CA   This is something I didn't expect to "
-publishDate: 2026-02-15T16:07:55.338660
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/why%20do%20you%20care%20what%20I%20eat%20or%20drink%20keep%20your%20eyes%20on%20your%20own%20fat%20issues%2C%20I%20have%20my%20own.png"
 source: "https://www.santaclaritaopenhouses.com/why-does-anyone-care-if-i-eat-or-dont-eat-or-drink-or-dont-drink"
 ---

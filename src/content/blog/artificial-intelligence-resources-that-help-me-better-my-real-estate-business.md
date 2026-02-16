@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence resources that help me better my real estate business"
 description: "Exploring Notebook LM: Google's AI-Powered Research Assistant for Real Estate, Content Analysis, and Beyond  In the rapidly evolving landscape of artificial intelligence, staying ahead of the curve re"
-publishDate: 2026-02-15T16:07:55.110585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ai%20research%20resources%20for%20Santa%20Clarita%20CA%20local%20businesses%20helping%20them%20grow%20one%20exponental%20step%20at%20a%20time.png"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-resources-that-help-me-better-my-real-estate-business"
 ---

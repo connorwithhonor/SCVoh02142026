@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Update: Connor with Honor Breaks Down the Latest Marke"
 description: "Santa Clarita Real Estate Update: Connor with Honor Breaks Down the Latest Market Trends  Welcome to the Santa Clarita Daily Real Estate Show and News Update, where Connor T. MacIvor, the renowned 'Co"
-publishDate: 2026-02-15T16:07:55.507138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/blog%20scvoh.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-update-connor-with-honor-breaks-down-the-latest-marke"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Concept: AI-Enhanced Learning Verification Tool"
 description: "I know - this is a real estate website. However, I have a very diverse background. I taught new cops, old cops, and cops in between. I was blessed to instruct officers from Canada, the RCMP, and the N"
-publishDate: 2026-02-15T16:07:55.355373
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/DALL%C2%B7E%202024-11-05%2015.32.35%20-%20A%20thoughtful,%20engaging%20image%20capturing%20the%20intersection%20of%20technology,%20law%20enforcement,%20and%20education.%20Show%20a%20teacher%20standing%20beside%20a%20modern%20classro.webp"
 source: "https://www.santaclaritaopenhouses.com/concept-ai-enhanced-learning-verification-tool"
 ---

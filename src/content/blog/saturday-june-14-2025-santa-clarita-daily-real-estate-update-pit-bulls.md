@@ -1,7 +1,8 @@
 ---
 title: "Saturday, June 14, 2025 - Santa Clarita Daily real estate update PIT BULLS"
 description: "..."
-publishDate: 2026-02-15T16:07:54.957481
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-14%20143016.png"
 source: "https://www.santaclaritaopenhouses.com/saturday-june-14-2025-santa-clarita-daily-real-estate-update-pit-bulls"
 ---

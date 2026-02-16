@@ -1,7 +1,8 @@
 ---
 title: "Over 2 years since we have had inventory this high in Santa Clarita CA"
 description: "Santa Clarita Real Estate Market Update: July 18, 2024  Welcome to the Santa Clarita Real Estate Market Update for July 18, 2024! The market is bustling with activity, and I'm here to provide you with"
-publishDate: 2026-02-15T16:07:55.488128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20rela%20estate%20inventory%20market%20data%20is%20up%202024.png"
 source: "https://www.santaclaritaopenhouses.com/over-2-years-since-we-have-had-inventory-this-high-in-santa-clarita-ca"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update – What Home Sellers Need to Know Now"
 description: "The Santa Clarita real estate market is constantly evolving, and staying ahead of these changes is essential for home sellers looking to maximize their sale price and minimize time on the market. In t"
-publishDate: 2026-02-15T16:07:55.059705
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2025%20what%20sellers%20need%20to%20know%20now%20when%20it%20comes%20to%20santa%20clarita%20real%20estate%20market.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-what-home-sellers-need-to-know-now"
 ---

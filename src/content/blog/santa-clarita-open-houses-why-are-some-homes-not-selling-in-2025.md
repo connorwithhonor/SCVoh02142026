@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Open houses why are some homes not selling in 2025"
 description: "Santa Clarita Open Houses: January 2025 Real Estate Market Insights             Santa Clarita Open Houses: January 2025 Real Estate Market Insights      Welcome to the SantaClaritaOpenHouses blog! As "
-publishDate: 2026-02-15T16:07:55.223195
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20open%20houses%20updated%20for%202025%20by%20connor%20with%20honor%20the%20first%20responder%20realtor%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-why-are-some-homes-not-selling-in-2025"
 ---

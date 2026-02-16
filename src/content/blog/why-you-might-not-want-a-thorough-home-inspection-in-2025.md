@@ -1,7 +1,8 @@
 ---
 title: "Why You Might NOT Want a Thorough Home Inspection in 2025"
 description: "Why You Might NOT Want a Thorough Home Inspection in 2025 When Buying Santa Clarita Real Estate – The Shocking Truth Revealed!  TL;DR: Thinking about skipping a home inspection to save time or money w"
-publishDate: 2026-02-15T16:07:54.825076
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20home%20inspection%20questions%20by%20connor%20with%20honor%20santa%20clarita%20open%20houses.jpg"
 source: "https://www.santaclaritaopenhouses.com/why-you-might-not-want-a-thorough-home-inspection-in-2025"
 ---

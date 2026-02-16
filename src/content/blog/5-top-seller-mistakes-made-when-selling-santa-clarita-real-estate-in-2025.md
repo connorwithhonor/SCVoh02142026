@@ -1,7 +1,8 @@
 ---
 title: "5 top seller mistakes made when selling Santa Clarita real estate in 2025"
 description: "Why Sellers Are Sabotaging Their Home Sales: The Top 5 Mistakes You NEED to Avoid in Santa Clarita Real Estate  TL;DR: Selling your home in Santa Clarita? Don't tank your sale with rookie mistakes. Th"
-publishDate: 2026-02-15T16:07:54.823031
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0727%20curb%20appeal%20from%20santa%20clarita%20open%20houses%20connor%20with%20honor.jpg"
 source: "https://www.santaclaritaopenhouses.com/5-top-seller-mistakes-made-when-selling-santa-clarita-real-estate-in-2025"
 ---

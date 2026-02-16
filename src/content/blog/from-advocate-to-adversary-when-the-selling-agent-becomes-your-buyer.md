@@ -1,7 +1,8 @@
 ---
 title: "From advocate to adversary when the selling agent becomes your buyer"
 description: "From Advocate to Adversary: When Your Selling Agent Becomes Your Buyer  Author's Note: Thank you for stopping by! Below is a comprehensive exploration—approximately 4,500 words—on the subject of real "
-publishDate: 2026-02-15T16:07:55.160121
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/From%20advocate%20to%20adversary%20when%20your%20santa%20clarita%20agent%20becomes%20your%20buyer.png"
 source: "https://www.santaclaritaopenhouses.com/from-advocate-to-adversary-when-the-selling-agent-becomes-your-buyer"
 ---

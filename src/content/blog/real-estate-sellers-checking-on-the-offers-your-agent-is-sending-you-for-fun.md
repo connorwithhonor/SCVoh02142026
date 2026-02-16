@@ -1,7 +1,8 @@
 ---
 title: "Real Estate sellers checking on the offers your agent is sending you for fun"
 description: "Real Estate Sellers: Checking the Offers Your Agent is Sending You—For Fun and Profit  As a home seller, you've entrusted your real estate agent to help you navigate one of the most significant transa"
-publishDate: 2026-02-15T16:07:55.311643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11212024%20artificial%20intelligence%20when%20it%20comes%20to%20offer%20review%20by%20those%20who%20are%20not%20real%20estate%20agents.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-sellers-checking-on-the-offers-your-agent-is-sending-you-for-fun"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "From Jesus to jovion Artificial Intelligence coming to an LLM near you in 2025"
 description: "TL;DR: Connor MacIvor, known as Connor with Honor, explores the accelerating race toward artificial superintelligence, highlighting the risks of unregulated AI development, energy bottlenecks, and the"
-publishDate: 2026-02-15T16:07:54.899390
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/From%20Jesus%20to%20jovion%20-%20ai%20gods%20coming%20to%20an%20llm%20near%20you%20in%202025.png"
 source: "https://www.santaclaritaopenhouses.com/from-jesus-to-jovion-artificial-intelligence-coming-to-an-llm-near-you-in-2025"
 ---

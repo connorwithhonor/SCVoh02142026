@@ -1,7 +1,8 @@
 ---
 title: "Foreclosures and short sales will the next bottom be close to the last"
 description: "Santa Clarita Valley Real Estate Market Update – September 2024: What Buyers and Sellers Need to Know  Welcome to our in-depth look at the Santa Clarita Valley real estate market for September 2024. W"
-publishDate: 2026-02-15T16:07:55.415314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/10092024%20283%20foreclosures%20and%20reo%20distressed%20real%20estate%20santa%20clarita%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "How Much Does It Cost to Work With a Top Real Estate Agent in Santa Clarita 2026"
 description: "When you're preparing to buy or sell a home in Santa Clarita Valley, one of the first questions that likely crosses your mind is: \"How much is this going to cost me?\" It's a fair question, and one t"
-publishDate: 2026-02-15T16:07:54.657156
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/how%20much%20to%20refer%20a%20client%20to%20a%20real%20estate%20agent%20in%20santa%20clarita%20valley%20ca.png"
 source: "https://www.santaclaritaopenhouses.com/how-much-does-it-cost-to-work-with-a-top-real-estate-agent-in-santa-clarita-2026"
 ---

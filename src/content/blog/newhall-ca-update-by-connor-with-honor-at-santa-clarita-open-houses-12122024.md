@@ -1,7 +1,8 @@
 ---
 title: "Newhall CA update by Connor with Honor at Santa Clarita Open Houses 12122024"
 description: "Comprehensive Newhall, CA Real Estate Update: December 2024  As the heart of Santa Clarita Valley, Newhall stands out with its rich history, charming neighborhoods, and diverse real estate opportuniti"
-publishDate: 2026-02-15T16:07:55.266239
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12122024%20Newhall%20california%20real%20estate%20update%20by%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/newhall-ca-update-by-connor-with-honor-at-santa-clarita-open-houses-12122024"
 ---

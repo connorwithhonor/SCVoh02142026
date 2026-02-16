@@ -1,7 +1,8 @@
 ---
 title: "Negotiating Written Buyer Agreements: How the First Responder Realtor Protects"
 description: "Negotiating Written Buyer Agreements: How the First Responder Realtor Protects Your Interests in Santa Clarita  Introduction: Purchasing a home is one of the most significant decisions you'll make in "
-publishDate: 2026-02-15T16:07:55.400244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1%20Negotiating%20Written%20Buyer%20Agreements%20How%20the%20First%20Responder%20Realtor%20Protects%20Your%20Interests%20in%20Santa%20Clarita.webp"
 source: "https://www.santaclaritaopenhouses.com/negotiating-written-buyer-agreements-how-the-first-responder-realtor-protects"
 ---

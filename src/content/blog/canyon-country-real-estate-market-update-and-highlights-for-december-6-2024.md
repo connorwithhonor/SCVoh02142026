@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country real estate market update and highlights for December 6, 2024"
 description: "Santa Clarita Valley Market Snapshot: Key Numbers and Trends Coming Soon: 1 New Listings: 38 Price Changes: 40 Back On Market: 18 Active Under Contract: 32 Pending: 26 Closed: 45 Expired: 11 Canceled:"
-publishDate: 2026-02-15T16:07:55.278383
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12062024Stay%20ahead%20in%20Canyon%20Country%20real%20estate%20with%20our%20latest%20market%20snapshot%2C%20new%20listings%2C%20price%20trends%2C%20and%20expert%20tips%20for%20buyers%20and%20sellers%20in%20Santa%20Clarita%20Valley.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-market-update-and-highlights-for-december-6-2024"
 ---

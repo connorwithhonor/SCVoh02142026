@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update - July 9, 2024: Hottest Neighborhoods"
 description: "Santa Clarita Real Estate Market Update - July 9, 2024: Hottest Neighborhoods and Market Trends  Welcome to the Santa Clarita Open Houses blog! Today, we're diving into the latest real estate market t"
-publishDate: 2026-02-15T16:07:55.502633
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20open%20houses%20update%20for%20July%209,%202024%20by%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-july-9-2024-hottest-neighborhoods"
 ---

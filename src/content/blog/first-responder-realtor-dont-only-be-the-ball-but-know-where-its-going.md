@@ -1,7 +1,8 @@
 ---
 title: "First Responder Realtor don't only be the ball but know where it's going"
 description: "Santa Clarita Real Estate Market Update | Day 286 of 2024 | First Responder Realtor Connor with Honor  Good morning, everyone! It's Connor with Honor, your First Responder Realtor, here to bring you t"
-publishDate: 2026-02-15T16:07:55.411298
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/first%20responder%20realtor%20286%202024%20thumbnail%20secrets%20of%20a%20first%20responder%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going"
 ---

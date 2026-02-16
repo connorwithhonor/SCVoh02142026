@@ -1,7 +1,8 @@
 ---
 title: "Are you in love with an alien intelligence as your first love?"
 description: "Title: Embracing Both Worlds: A Balanced Path to Human Connection and Self-Discovery   Introduction  Picture this: you're standing at the threshold of adulthood, late teens or early 20s, still trying "
-publishDate: 2026-02-15T16:07:55.108585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Ailen%20love%20is%20it%20your%20first%20love%20and%20why%20you%20may%20need%20to%20rethink%20your%20strategy.png"
 source: "https://www.santaclaritaopenhouses.com/are-you-in-love-with-an-alien-intelligence-as-your-first-love"
 ---

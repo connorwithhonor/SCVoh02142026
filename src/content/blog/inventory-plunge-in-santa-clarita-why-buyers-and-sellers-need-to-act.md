@@ -1,7 +1,8 @@
 ---
 title: "Inventory Plunge in Santa Clarita: Why Buyers and Sellers Need to Act"
 description: "Shocking Inventory Plunge in Santa Clarita: Why Buyers and Sellers Need to Act Before Winter Hits Hard in 2025  TL;DR                 Santa Clarita's real estate market is cooling off fast as we hit f"
-publishDate: 2026-02-15T16:07:54.706685
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/09252025%20do%20you%20have%20a%20unicorn%20property%20in%20the%20santa%20clarita%20valley%2C%20if%20that%20is%20the%20case%20you%20maybe%20able%20to%20sell%20higher.png"
 source: "https://www.santaclaritaopenhouses.com/inventory-plunge-in-santa-clarita-why-buyers-and-sellers-need-to-act"
 ---

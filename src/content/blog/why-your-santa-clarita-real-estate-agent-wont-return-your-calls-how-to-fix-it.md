@@ -1,7 +1,8 @@
 ---
 title: "Why Your Santa Clarita Real Estate Agent Won't Return Your Calls how to fix it."
 description: "TL;DR: Poor agent communication costs Santa Clarita homebuyers and sellers an average of $10K-$30K in missed negotiations and slower sales. Here's the truth: communication problems don't surface durin"
-publishDate: 2026-02-15T16:07:54.627070
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-14%20163631.png"
 source: "https://www.santaclaritaopenhouses.com/why-your-santa-clarita-real-estate-agent-wont-return-your-calls-how-to-fix-it"
 ---

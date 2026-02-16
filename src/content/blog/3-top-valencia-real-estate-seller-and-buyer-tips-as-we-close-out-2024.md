@@ -1,7 +1,8 @@
 ---
 title: "3 Top Valencia real estate seller and buyer tips as we close out 2024"
 description: "Welcome to another installment of our Santa Clarita real estate update! I'm Connor with Honor, and I'm excited to guide you through the vibrant world of Valencia, CA real estate—one of the crown jewel"
-publishDate: 2026-02-15T16:07:55.246255
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1223%20Valencia%20CA%20real%20estate%20tips%20for%20home%20buyers%20and%20home%20sellers%20plus%20the%20SantaClaritaOpenHouses%20update.png"
 source: "https://www.santaclaritaopenhouses.com/3-top-valencia-real-estate-seller-and-buyer-tips-as-we-close-out-2024"
 ---

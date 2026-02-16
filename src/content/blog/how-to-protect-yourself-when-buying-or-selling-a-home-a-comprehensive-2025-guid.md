@@ -1,7 +1,8 @@
 ---
 title: "How to Protect Yourself When Buying or Selling a Home: A Comprehensive 2025 Guid"
 description: "Table of Contents   	Introduction 	Real-Life Stories: Lessons from the Field 	 		The Reddit Story: An Agent Focused on Commission 		My Own First-Home Fiasco 	 	 	Understanding Agent Responsibilities 	"
-publishDate: 2026-02-15T16:07:55.025530
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20complaints%20against%20real%20estate%20agents%20we%20have%20an%20internal%20affairs%20also%20sq%20facebook%20and%20other%20social%20media.png"
 source: "https://www.santaclaritaopenhouses.com/how-to-protect-yourself-when-buying-or-selling-a-home-a-comprehensive-2025-guid"
 ---

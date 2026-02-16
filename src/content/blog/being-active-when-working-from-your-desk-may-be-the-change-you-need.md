@@ -1,7 +1,8 @@
 ---
 title: "Being active when working from your desk may be the change you need"
 description: "Being Active When Working from Your Desk May Be the Change You Need  The path to transforming your health is a lot like navigating the real estate journey—both require dedication, strategy, and someti"
-publishDate: 2026-02-15T16:07:55.357369
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/fat%20to%20fit%20first%20responder%20santa%20clarita%20help%20with%20fat%20loss.png"
 source: "https://www.santaclaritaopenhouses.com/being-active-when-working-from-your-desk-may-be-the-change-you-need"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Terrifying Speed of AI Development: Is Humanity Playing with Fire or not?"
 description: "The Terrifying Speed of AI Development: Is Humanity Playing with Fire or Unlocking Utopia?  TL;DR  AI is evolving at breakneck speed, outpacing safety measures and human oversight. From chess-beating "
-publishDate: 2026-02-15T16:07:54.811155
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/mmi%20man%20made%20intelligence%20-%20mmsi%20man%20made%20super%20intelligence%200731%20connor%20with%20honor%20time%20for%20change.jpg"
 source: "https://www.santaclaritaopenhouses.com/the-terrifying-speed-of-ai-development-is-humanity-playing-with-fire-or-not"
 ---

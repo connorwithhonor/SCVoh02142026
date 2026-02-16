@@ -1,7 +1,8 @@
 ---
 title: "Ultimate Guide to Santa Clarita Real Estate and Open Houses in 2025"
 description: "The Ultimate Guide to Santa Clarita Real Estate and Open Houses in 2025  Welcome to your comprehensive guide to Santa Clarita real estate and Santa Clarita open houses in 2025. Whether you're a first-"
-publishDate: 2026-02-15T16:07:55.220689
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20updated%20market%20report%20by%20Connor%20with%20Honor%20at%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/ultimate-guide-to-santa-clarita-real-estate-and-open-houses-in-2025"
 ---

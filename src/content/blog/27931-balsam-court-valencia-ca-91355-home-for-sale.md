@@ -1,7 +1,8 @@
 ---
 title: "27931 Balsam Court, Valencia CA 91355 home for sale"
 description: "Blog Post 1                                    27931 Balsam Ct, Santa Clarita, CA                                                Click here to Get Directions                                        $94"
-publishDate: 2026-02-15T16:07:55.384313
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://photos.listingstoleads.com/property/3/3/2/9/4/6/9/spw/27931-balsam-ct-172875025550.jpg"
 source: "https://www.santaclaritaopenhouses.com/27931-balsam-court-valencia-ca-91355-home-for-sale"
 ---

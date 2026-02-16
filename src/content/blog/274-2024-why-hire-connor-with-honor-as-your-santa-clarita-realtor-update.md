@@ -1,7 +1,8 @@
 ---
 title: "274-2024 Why hire Connor with Honor as your Santa Clarita Realtor update"
 description: "1. Experience Across Two Worlds: Law Enforcement and Real Estate  Having served for decades as a police officer with LAPD, you've honed skills in attention to detail, quick decision-making, and handli"
-publishDate: 2026-02-15T16:07:55.436623
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/274%20how%20to%20hire%20me%20to%20be%20your%20Santa%20Clarita%20Realtor.png"
 source: "https://www.santaclaritaopenhouses.com/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "What Questions Should I Ask Before Choosing a Real Estate Agent in Santa Clarita"
 description: "Choosing a real estate agent is one of the most consequential decisions you'll make in the home buying or selling process, yet most people spend more time researching which television to buy than they"
-publishDate: 2026-02-15T16:07:54.660156
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-09%20114731.png"
 source: "https://www.santaclaritaopenhouses.com/what-questions-should-i-ask-before-choosing-a-real-estate-agent-in-santa-clarita"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate in July 2025: What Buyers and Sellers Need to Know"
 description: "Santa Clarita Real Estate in July 2025: What Buyers and Sellers Need to Know  TL;DR  The Santa Clarita real estate market in July 2025 is buzzing with 55 new listings, 67 price changes, and mortgage r"
-publishDate: 2026-02-15T16:07:54.885885
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0708%20santa%20clarita%20real%20estate%20open%20houses%20udpate%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-in-july-2025-what-buyers-and-sellers-need-to-know"
 ---

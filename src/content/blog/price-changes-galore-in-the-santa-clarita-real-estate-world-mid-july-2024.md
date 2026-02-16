@@ -1,7 +1,8 @@
 ---
 title: "Price Changes galore in the Santa Clarita real estate world Mid July 2024"
 description: "Santa Clarita Real Estate Market Update – July 14th, 2024  Welcome to the latest edition of the Santa Clarita real estate market update with Connor with Honor. Today, we're diving deep into the signif"
-publishDate: 2026-02-15T16:07:55.494128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20price%20reductions%20by%20connor%20with%20honor%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/price-changes-galore-in-the-santa-clarita-real-estate-world-mid-july-2024"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Complete Santa Clarita real estate marketing plan to get your home sold"
 description: "..."
-publishDate: 2026-02-15T16:07:54.984998
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/targeting%20a%20tract%20home.jpg"
 source: "https://www.santaclaritaopenhouses.com/complete-santa-clarita-real-estate-marketing-plan-to-get-your-home-sold"
 ---

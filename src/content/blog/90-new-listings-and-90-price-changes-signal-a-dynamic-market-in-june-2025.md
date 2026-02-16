@@ -1,7 +1,8 @@
 ---
 title: "90 New Listings and 90 Price Changes Signal a Dynamic Market in June 2025"
 description: "Santa Clarita Real Estate Market Update: 90 New Listings and 90 Price Changes Signal a Dynamic Market in June 2025  The Santa Clarita Valley real estate market is buzzing with activity as we close out"
-publishDate: 2026-02-15T16:07:54.909892
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20open%20houses%20santa%20clarita%20realtors%20connor%20with%20honor%20macivor%2006302025.jpg"
 source: "https://www.santaclaritaopenhouses.com/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025"
 ---

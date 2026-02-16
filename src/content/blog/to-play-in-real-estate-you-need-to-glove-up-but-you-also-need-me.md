@@ -1,7 +1,8 @@
 ---
 title: "To play in Real Estate, you need to glove up, but you also need me"
 description: "Santa Clarita Real Estate Market Update - July 20, 2024  Good morning, Santa Clarita! Connor with Honor here, bringing you the latest insights and updates from our vibrant local real estate market. Wh"
-publishDate: 2026-02-15T16:07:55.486128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20with%20honor%20with%20Santa%20Clarita%20Open%20Houses%20says%20your%20closing%20is%20personal.png"
 source: "https://www.santaclaritaopenhouses.com/to-play-in-real-estate-you-need-to-glove-up-but-you-also-need-me"
 ---

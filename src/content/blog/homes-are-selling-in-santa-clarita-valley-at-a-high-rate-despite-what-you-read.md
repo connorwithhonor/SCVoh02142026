@@ -1,7 +1,8 @@
 ---
 title: "Homes are selling in Santa Clarita Valley at a high rate despite what you read"
 description: "Homes Are Selling Fast in Santa Clarita Valley in 2025: What You Need to Know  TL;DR  Santa Clarita's real estate market is thriving in June 2025, with 784 active listings and 76 homes closing escrow "
-publishDate: 2026-02-15T16:07:54.918397
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20open%20houses%20connor%20with%20honor%20santa%20clarita%20real%20estate%20update%20market%20report%200628%20writing.jpg"
 source: "https://www.santaclaritaopenhouses.com/homes-are-selling-in-santa-clarita-valley-at-a-high-rate-despite-what-you-read"
 ---

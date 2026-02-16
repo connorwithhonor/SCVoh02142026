@@ -1,7 +1,8 @@
 ---
 title: "Magic number maybe approaching from the interest rate fairy"
 description: "If you want to buy or sell a home. Call me. I believe I can win your trust and eventually your business. Here is my daily Santa Clarita real estate update and I have some other information you can see"
-publishDate: 2026-02-15T16:07:55.453126
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20connor%20with%20honor%20how%20to%20buy%20a%20home%20today%20in%20september%202024.png"
 source: "https://www.santaclaritaopenhouses.com/magic-number-maybe-approaching-from-the-interest-rate-fairy"
 ---

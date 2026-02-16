@@ -1,7 +1,8 @@
 ---
 title: "How to prepare your home for an open house in Santa Clarita"
 description: "<meta name="
-publishDate: 2026-02-15T16:07:55.229698
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/How%20to%20prepare%20your%20home%20for%20an%20open%20house%20in%20Santa%20Clarita.png"
 source: "https://www.santaclaritaopenhouses.com/how-to-prepare-your-home-for-an-open-house-in-santa-clarita"
 ---

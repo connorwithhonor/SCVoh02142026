@@ -1,7 +1,8 @@
 ---
 title: "Real Estate in Santa Clarita Valley is starting to move with DOM reducing slowly"
 description: "When I was a kid, I remember my dad telling me that I did not have to spend all of my allowance. In fact, he told me I could wait until tomorrow to spend it all. Then he mentioned I may spend some and"
-publishDate: 2026-02-15T16:07:55.145616
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20expert%20real%20estate%20negotiator%20connor%20with%20honor%20santa%20clarita%20open%20houses%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-in-santa-clarita-valley-is-starting-to-move-with-dom-reducing-slowly"
 ---

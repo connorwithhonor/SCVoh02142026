@@ -1,7 +1,8 @@
 ---
 title: "Fair Housing in California how a First Responder Realtor keeps it fair honestly"
 description: "Fair Housing in Santa Clarita: How the First Responder Realtor Promotes Equal Opportunity for All Homebuyers  Introduction: Homeownership is more than just a financial investment—it's about building a"
-publishDate: 2026-02-15T16:07:55.397245
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1%20Fair%20housing%20in%20California%20by%20the%20Connor%20with%20honor%20the%20first%20responder%20realtor.webp"
 source: "https://www.santaclaritaopenhouses.com/fair-housing-in-california-how-a-first-responder-realtor-keeps-it-fair-honestly"
 ---

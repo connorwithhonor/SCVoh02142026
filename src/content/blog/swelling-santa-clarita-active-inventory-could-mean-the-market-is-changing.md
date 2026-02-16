@@ -1,7 +1,8 @@
 ---
 title: "Swelling Santa Clarita active inventory could mean the market is changing"
 description: "Santa Clarita Real Estate Market Update - July 16, 2024  Welcome to the Santa Clarita real estate market update for July 16, 2024. I'm Connor MacIVOR, known as Connor with Honor, your trusted realtor "
-publishDate: 2026-02-15T16:07:55.492128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20with%20honor%20realtor%20with%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/swelling-santa-clarita-active-inventory-could-mean-the-market-is-changing"
 ---

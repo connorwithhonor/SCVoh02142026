@@ -1,7 +1,8 @@
 ---
 title: "Searching for Santa Clarita real estate on google maps First Responder Realtor"
 description: "Searching for Santa Clarita Real Estate: A First Responder Realtor's Guide to Using Our Custom Map Interface  Welcome to Santa Clarita, one of Southern California's most dynamic communities. Whether y"
-publishDate: 2026-02-15T16:07:55.403244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/First%20Responder%20Realtor%20Connor%20with%20honor%20saving%20the%20world%20one%20honest%20home%20sale%20at%20a%20time.jpg"
 source: "https://www.santaclaritaopenhouses.com/searching-for-santa-clarita-real-estate-on-google-maps-first-responder-realtor"
 ---

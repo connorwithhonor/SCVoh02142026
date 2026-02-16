@@ -1,7 +1,8 @@
 ---
 title: "Top 3 Santa Clarita open house rules for home sellers and open house buyers"
 description: "Open Houses in 2025: Navigating New Real Estate Dynamics  As we step into 2025, the real estate landscape is undergoing a significant shift. With new contractual guidelines in place, open houses are t"
-publishDate: 2026-02-15T16:07:55.199682
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/top%203%20santa%20clarita%20open%20house%20rules%20by%20the%20Santa%20Clarita%20real%20estate%20agent%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/top-3-santa-clarita-open-house-rules-for-home-sellers-and-open-house-buyers"
 ---

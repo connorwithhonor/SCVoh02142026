@@ -1,7 +1,8 @@
 ---
 title: "Typical trends in home sales Q1 of most years, including 2025 Santa Clarita Home"
 description: "Santa Clarita Real Estate Market Update: Trends, Data & Strategies for 2025  Welcome to our in‐depth Santa Clarita real estate market update. In today's blog post, we're diving deep into the latest da"
-publishDate: 2026-02-15T16:07:55.064212
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20in%202025%20homes%20sales%20slowing%20down%20due%20to%20the%20economy%20beliefs%20being%20spread%20like%20a%20bad%20virus.png"
 source: "https://www.santaclaritaopenhouses.com/typical-trends-in-home-sales-q1-of-most-years-including-2025-santa-clarita-home"
 ---

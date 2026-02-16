@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update: July 2025 - Inventory Surge and Insider"
 description: "Santa Clarita Real Estate Market Update: July 2025 - Inventory Surge and Insider Tips  TL;DR: The Santa Clarita real estate market is heating up in July 2025, with a significant inventory surge to ove"
-publishDate: 2026-02-15T16:07:54.851765
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0716%20connor%20with%20honor%20macivor%20santa%20clarita%20open%20houses%20agent%20news.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-july-2025-inventory-surge-and-insider"
 ---

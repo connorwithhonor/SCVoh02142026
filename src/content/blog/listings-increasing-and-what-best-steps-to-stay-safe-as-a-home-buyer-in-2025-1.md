@@ -1,7 +1,8 @@
 ---
 title: "Listings increasing and what best steps to stay safe as a home buyer in 2025"
 description: "TL;DR  In this comprehensive guide, Connor MacIvor, a seasoned Santa Clarita real estate agent and former first responder, shares critical insights on navigating the home buying and selling process in"
-publishDate: 2026-02-15T16:07:54.844522
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20open%20houses%20real%20estate%20daily%20update%20by%20connor%20with%20honor%20july%202025.png"
 source: "https://www.santaclaritaopenhouses.com/listings-increasing-and-what-best-steps-to-stay-safe-as-a-home-buyer-in-2025-1"
 ---

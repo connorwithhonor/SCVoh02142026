@@ -1,7 +1,8 @@
 ---
 title: "From Fat to Fit: A First Responder’s Journey to Health, Muscle, and Longevity"
 description: "Living a healthy life is about so much more than just numbers on a scale. As a first responder, I understand the unique physical and mental demands of high-stress jobs. But after years of struggling w"
-publishDate: 2026-02-15T16:07:55.352167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/312%20Fat%20torching%20god%20humanness%20and%20truth%20Fat%20to%20Fit%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity"
 ---

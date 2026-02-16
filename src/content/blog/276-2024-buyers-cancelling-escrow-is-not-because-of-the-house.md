@@ -1,7 +1,8 @@
 ---
 title: "276-2024 Buyers cancelling escrow is not because of the house"
 description: "Market Watch (7-Day Record):   	Coming Soon: 17 	New Listings: 61 	Price Changes: 77 	Back On Market: 20 	Active Under Contract: 29 	Pending: 54 	Closed: 70 	Expired: 9 	Canceled: 11 	Hold: 13 	Withdr"
-publishDate: 2026-02-15T16:07:55.434333
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/276%202024%20how%20to%20get%20your%20real%20estate%20purchase%20cancelled%20buy%20a%20car%20Santa%20Clarita%20Valley.jpg"
 source: "https://www.santaclaritaopenhouses.com/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house"
 ---

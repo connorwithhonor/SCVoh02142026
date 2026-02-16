@@ -1,7 +1,8 @@
 ---
 title: "Buyer questions to ask lenders and realtors who refer them in 2025 for success"
 description: "The Hidden Pitfalls of Buying Your First Home in Santa Clarita: Why Most Buyers Get Screwed (And How to Avoid It Like a Pro)      TL;DR: Thinking about ditching the rental grind for homeownership in S"
-publishDate: 2026-02-15T16:07:54.785143
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Real%20Estate%200811%20content%20in%20santa%20clarita%20homes%20and%20open%20houses%20selling%20for%20the%20masses.png"
 source: "https://www.santaclaritaopenhouses.com/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Real Estate Commissions, Market Shifts & Santa Clarita Housing Trends Feb 2025"
 description: "The Changing Landscape of Santa Clarita Real Estate – What Buyers and Sellers Must Know    The Changing Landscape of Santa Clarita Real Estate – What Buyers and Sellers Must Know  Watch Before You Rea"
-publishDate: 2026-02-15T16:07:55.103081
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20realtors%20showing%20their%20value%20in%20real%20estate%20and%20their%20worth%20to%20home%20buyers%20and%20home%20sellers.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-commissions-market-shifts-santa-clarita-housing-trends-feb-2025"
 ---

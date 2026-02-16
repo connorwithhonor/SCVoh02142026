@@ -1,7 +1,8 @@
 ---
 title: "Navigating the Santa Clarita Real Estate Market in June 2025: Your Guide to 786"
 description: "Navigating the Santa Clarita Real Estate Market in June 2025: Your Guide to 786 Active Listings  TL;DR  As of June 27, 2025, Santa Clarita Valley's real estate market is buzzing with 786 active listin"
-publishDate: 2026-02-15T16:07:54.920399
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20market%20update%20by%20santa%20clarita%20open%20houses%20connor%20with%20honor%200627.jpg"
 source: "https://www.santaclaritaopenhouses.com/navigating-the-santa-clarita-real-estate-market-in-june-2025-your-guide-to-786"
 ---

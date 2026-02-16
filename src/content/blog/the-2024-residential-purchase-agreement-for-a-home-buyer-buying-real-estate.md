@@ -1,7 +1,8 @@
 ---
 title: "The 2024 Residential Purchase Agreement for a home buyer buying real estate"
 description: "Understanding the Residential Purchase Agreement: What You're Really Signing When Buying a Home  When you're buying real estate, one of the most important documents you'll encounter is the Residential"
-publishDate: 2026-02-15T16:07:55.406298
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate"
 ---
 

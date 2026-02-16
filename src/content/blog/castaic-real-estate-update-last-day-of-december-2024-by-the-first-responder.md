@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate update last day of December 2024 by the First Responder"
 description: "Castaic Real Estate Market Update – November 30, 2024  Week of the Year: 48 | Day of the Year: 335  As the First Responder Realtor, I take pride in bringing you up-to-date and actionable insights to h"
-publishDate: 2026-02-15T16:07:55.284382
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Castaic%20California.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-update-last-day-of-december-2024-by-the-first-responder"
 ---

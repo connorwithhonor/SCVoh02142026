@@ -1,7 +1,8 @@
 ---
 title: "Real Estate inventory breakdown and First Responder Realtor Show 2024-296"
 description: "Santa Clarita Real Estate Market Update: Your Trusted Source for Long-Term Success  Hello, I'm Connor MacIvor, your First Responder Realtor, better known as Connor with Honor. Today, I'm excited to di"
-publishDate: 2026-02-15T16:07:55.391741
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/First%20Responder%20Realtor%20strategy%20focused%20real%20estate%20agent%20296%20-%202024.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-inventory-breakdown-and-first-responder-realtor-show-2024-296"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Fat Loss is Hard, Weight Loss is Easier: Embrace the Journey, Forgive Yourself,."
 description: "Fat loss is often painted as a simple, straightforward journey—just eat less, move more, and voilà! Yet, anyone who has embarked on this path knows the truth: fat loss is one of the hardest challenges"
-publishDate: 2026-02-15T16:07:55.322650
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11192024%20fat%20loss%20is%20hard%20so%20get%20to%20work%20from%20the%20first%20responder%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/fat-loss-is-hard-weight-loss-is-easier-embrace-the-journey-forgive-yourself"
 ---

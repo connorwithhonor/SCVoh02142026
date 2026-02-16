@@ -1,7 +1,8 @@
 ---
 title: "Home sellers in Santa Clarita will be able to pay less than typical commissions"
 description: "Santa Clarita Real Estate Market Update - July 2024  Welcome to the latest Santa Clarita Real Estate Market Update for July 2024. I'm Connor with Honor, your trusted real estate partner, here to bring"
-publishDate: 2026-02-15T16:07:55.485128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Sales%20down%20or%20increasing%20along%20with%20Santa%20Clarita%20real%20estate%20inventory%20building.png"
 source: "https://www.santaclaritaopenhouses.com/home-sellers-in-santa-clarita-will-be-able-to-pay-less-than-typical-commissions"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Becoming a Santa Clarita commission and concessions expert in real estate"
 description: "Santa Clarita Valley Real Estate Market Update – July 27th, 2024  Welcome to another insightful update on the real estate market in the Santa Clarita Valley. I'm Connor MacIvor, here to guide you thro"
-publishDate: 2026-02-15T16:07:55.482624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/IMG_4263.JPG"
 source: "https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate"
 ---

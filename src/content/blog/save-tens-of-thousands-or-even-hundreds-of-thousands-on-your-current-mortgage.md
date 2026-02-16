@@ -1,7 +1,8 @@
 ---
 title: "Save tens of thousands or even hundreds of thousands on your current mortgage"
 description: "Finding Your Best Santa Clarita Agent — Personally Vetted by Connor with Honor           Video by Connor with Honor — Santa Clarita Real Estate Agent & AI Growth Architect at  SantaClaritaOpenHouses.c"
-publishDate: 2026-02-15T16:07:54.692676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-10-11%20093254.png"
 source: "https://www.santaclaritaopenhouses.com/save-tens-of-thousands-or-even-hundreds-of-thousands-on-your-current-mortgage"
 ---

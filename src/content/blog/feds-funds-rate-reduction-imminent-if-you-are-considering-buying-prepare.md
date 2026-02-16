@@ -1,7 +1,8 @@
 ---
 title: "Feds Funds Rate Reduction - Imminent if you are considering buying prepare"
 description: "Shocking Fed Rate Cut Looming: Will It Ignite a Santa Clarita Real Estate Boom or Bust Your Dreams?                 TL;DR: The Santa Clarita real estate market is hovering at 763 active listings, down"
-publishDate: 2026-02-15T16:07:54.730067
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/09092025%20fed%20funds%20rate%20reduction%20by%20connor%20with%20honor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/feds-funds-rate-reduction-imminent-if-you-are-considering-buying-prepare"
 ---

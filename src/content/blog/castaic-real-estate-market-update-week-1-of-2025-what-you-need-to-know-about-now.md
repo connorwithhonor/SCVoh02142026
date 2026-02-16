@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate market update week 1 of 2025 what you need to know about now"
 description: "Santa Clarita Valley Real Estate Market Update: January 4, 2025  Welcome to the Santa Clarita Valley Real Estate Market Update for January 4, 2025! This in-depth guide explores the current market dyna"
-publishDate: 2026-02-15T16:07:55.224697
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0104%20Castaic%20real%20estate%20market%20update%20by%20Connor%20with%20honor%20santa%20clarita%20open%20houses%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-market-update-week-1-of-2025-what-you-need-to-know-about-now"
 ---

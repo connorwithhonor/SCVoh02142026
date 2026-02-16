@@ -1,7 +1,8 @@
 ---
 title: "Where Does the Money Come From for Mortgage Loans?"
 description: "In the olden days, when someone wanted a home loan they walked downtown to the neighborhood bank or savings & loan. If the bank had extra funds lying around and considered you a good credit risk, they"
-publishDate: 2026-02-15T16:07:55.042039
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://library-ihouseprd.b-cdn.net/blog/mortgage-money.jpg"
 source: "https://www.santaclaritaopenhouses.com/where-does-the-money-come-from-for-mortgage-loans"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "How to Choose the Best Listing Agent in Santa Clarita – home seller must knows"
 description: "When you're ready to sell your home in Santa Clarita, selecting the right listing agent is one of the most critical decisions you'll make. As a homeowner, you deserve an agent who not only understands"
-publishDate: 2026-02-15T16:07:55.062707
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/How%20to%20choose%20the%20best%20listing%20agent%20in%20Santa%20Clarita%20CA.png"
 source: "https://www.santaclaritaopenhouses.com/how-to-choose-the-best-listing-agent-in-santa-clarita-home-seller-must-knows"
 ---

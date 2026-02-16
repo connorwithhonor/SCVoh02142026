@@ -1,7 +1,8 @@
 ---
 title: "OMG - we are up over 800 active real estate listings, up over 30 in the past 24h"
 description: "Santa Clarita Real Estate Boom: How to Win in a Surging Market  TL;DR  The Santa Clarita Valley real estate market has exploded with over 100 new listings in just 72 hours as of July 12, 2025, pushing"
-publishDate: 2026-02-15T16:07:54.868337
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Over%20800%20residential%20real%20estate%20listings%20in%20the%20santa%20clarita%20valley%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/omg-we-are-up-over-800-active-real-estate-listings-up-over-30-in-the-past-24h"
 ---

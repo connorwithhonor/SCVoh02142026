@@ -1,7 +1,8 @@
 ---
 title: "The Shocking Reason Why Sellers Should NEVER Be Home During Showings in 2025"
 description: "The Shocking Reason Why Sellers Should NEVER Be Home During Showings – And How It Could Cost You Big in Santa Clarita Real Estate!                 TL;DR: Ever wondered why your elderly relative has to"
-publishDate: 2026-02-15T16:07:54.786144
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0810%20showing%20real%20estate%20concerns%20in%20santa%20clarita%20ca%20connor%20macivor.png"
 source: "https://www.santaclaritaopenhouses.com/the-shocking-reason-why-sellers-should-never-be-home-during-showings-in-2025"
 ---

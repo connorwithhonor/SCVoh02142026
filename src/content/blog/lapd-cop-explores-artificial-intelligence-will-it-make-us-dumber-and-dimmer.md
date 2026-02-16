@@ -1,7 +1,8 @@
 ---
 title: "LAPD cop explores Artificial Intelligence will it make us dumber and dimmer"
 description: "Introduction: AI, Memory, and the Evolution of Human Intelligence  Artificial intelligence is evolving at an unprecedented pace, changing how we think, operate, and function in our daily lives. Some s"
-publishDate: 2026-02-15T16:07:55.131605
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0131%20lapd%20police%20officer%20talks%20about%20artificial%20intelligence%20and%20how%20that%20relates%20to%20smart%20and%20dumb.png"
 source: "https://www.santaclaritaopenhouses.com/lapd-cop-explores-artificial-intelligence-will-it-make-us-dumber-and-dimmer"
 ---

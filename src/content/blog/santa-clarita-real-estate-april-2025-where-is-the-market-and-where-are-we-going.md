@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate April 2025 where is the market and where are we going?"
 description: "Santa Clarita Real Estate Market Update – April 2025 (5000+ word extended version)  INTRODUCTION  Welcome to the April 2025 Santa Clarita Real Estate Market Update in expanded form, designed to be an "
-publishDate: 2026-02-15T16:07:54.994501
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Jeremy%20dean%20home%20inspection%20services%20santa%20clarita%20ca%20sellers%20certified%20home%20sales.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-april-2025-where-is-the-market-and-where-are-we-going"
 ---

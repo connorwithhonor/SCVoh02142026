@@ -1,7 +1,8 @@
 ---
 title: "Open House Dangers in Santa Clarita: What Every Buyer and Seller Must Know 2025"
 description: "Shocking Open House Dangers in Santa Clarita: What Every Buyer and Seller Must Know Before Stepping Inside – Or Risk Losing It All!  TL;DR: Open houses in Santa Clarita are buzzing this weekend with h"
-publishDate: 2026-02-15T16:07:54.805154
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0802%20danger%20at%20open%20houses%20for%20sellers%20and%20home%20buyers.png"
 source: "https://www.santaclaritaopenhouses.com/open-house-dangers-in-santa-clarita-what-every-buyer-and-seller-must-know-2025"
 ---

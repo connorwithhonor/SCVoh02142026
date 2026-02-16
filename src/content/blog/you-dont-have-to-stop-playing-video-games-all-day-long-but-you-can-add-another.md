@@ -1,7 +1,8 @@
 ---
 title: "You don't have to stop playing video games all day long, but you can add another"
 description: "Boys to Men: Breaking Free from the Virtual Trap and Building a Real Life – Part 1  The Crossroads of Choice  If you're reading this, there's a good chance you're feeling stuck. Maybe your days blend "
-publishDate: 2026-02-15T16:07:55.129606
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0131%20playing%20video%20games%20all%20the%20time%20and%20vaping%20as%20you%20still%20live%20at%20home%20cause%20you%20are%20stuck%20fat%20and%20without%20a%20plan.png"
 source: "https://www.santaclaritaopenhouses.com/you-dont-have-to-stop-playing-video-games-all-day-long-but-you-can-add-another"
 ---

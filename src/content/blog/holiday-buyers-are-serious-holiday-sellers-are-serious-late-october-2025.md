@@ -1,7 +1,8 @@
 ---
 title: "Holiday Buyers Are Serious, Holiday Sellers Are Serious: Late-October 2025"
 description: "Holiday Buyers Are Serious, Holiday Sellers Are Serious: The Late-October 2025 Santa Clarita Real Estate Playbook (Buy Smart, Sell Strong, and Use AI to Win)    SantaClaritaOpenHouses.com • Connor Mac"
-publishDate: 2026-02-15T16:07:54.683165
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1028%20the%20santa%20clarita%20real%20estate%20market%20is%20not%20reducing%20in%20value%20currently%20as%20we%20close%20out%202025.png"
 source: "https://www.santaclaritaopenhouses.com/holiday-buyers-are-serious-holiday-sellers-are-serious-late-october-2025"
 ---

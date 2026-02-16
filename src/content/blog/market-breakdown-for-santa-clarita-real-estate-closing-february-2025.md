@@ -1,7 +1,8 @@
 ---
 title: "Market breakdown for Santa Clarita real estate closing February 2025"
 description: "Santa Clarita Real Estate Update – February 23rd, 2025  Welcome to this extensive, in-depth real estate market update focusing on Santa Clarita, California, for February 23rd, 2025. We've meticulously"
-publishDate: 2026-02-15T16:07:55.077457
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20price%20per%20square%20foot%20update%20by%20santa%20clarita%20open%20houses%20and%20connor%20macivor.png"
 source: "https://www.santaclaritaopenhouses.com/market-breakdown-for-santa-clarita-real-estate-closing-february-2025"
 ---

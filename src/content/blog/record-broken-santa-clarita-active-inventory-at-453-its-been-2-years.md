@@ -1,7 +1,8 @@
 ---
 title: "Record Broken - Santa Clarita Active Inventory at 453, it's been 2 years!"
 description: "Your Agent and Your Lender Need to Be Friendly When Playing in the Sandbox  In the competitive world of real estate, the relationship between your real estate agent and your lender is paramount. These"
-publishDate: 2026-02-15T16:07:55.496632
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20Open%20House%20market%20update%20by%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/record-broken-santa-clarita-active-inventory-at-453-its-been-2-years"
 ---

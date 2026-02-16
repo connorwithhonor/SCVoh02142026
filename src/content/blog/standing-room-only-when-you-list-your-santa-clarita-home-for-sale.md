@@ -1,7 +1,8 @@
 ---
 title: "Standing room only when you list your Santa Clarita home for sale"
 description: "How many professionals can I bring with me when I list your home for sale? It is going to depend on what your home needs which results on what professionals that I bring with me when I come to list yo"
-publishDate: 2026-02-15T16:07:55.458138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/521%20active%20homes%204%20sale%20in%20the%20Santa%20Clarita%20Valley%20by%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/standing-room-only-when-you-list-your-santa-clarita-home-for-sale"
 ---

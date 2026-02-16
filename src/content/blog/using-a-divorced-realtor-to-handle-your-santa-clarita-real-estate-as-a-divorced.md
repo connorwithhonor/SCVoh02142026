@@ -1,7 +1,8 @@
 ---
 title: "Using a Divorced Realtor to Handle Your Santa Clarita Real Estate as a Divorced"
 description: "Navigating the complexities of real estate during a divorce can be daunting. As a divorced professional with firsthand experience, I understand the unique challenges and emotional stress that accompan"
-publishDate: 2026-02-15T16:07:55.501632
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/using-a-divorced-realtor-to-handle-your-santa-clarita-real-estate-as-a-divorced"
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "225 residences in Santa Clarita real estate currently in escrow February 2025"
 description: "Understanding the Santa Clarita Real Estate Market in 2025  Santa Clarita Real Estate Overview  The Santa Clarita Valley remains one of Southern California's most desirable places to live. With its st"
-publishDate: 2026-02-15T16:07:55.086570
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/225%20santa%20clarita%20home%20in%20escrow%20as%20of%20february%2011,%202025%20by%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/225-residences-in-santa-clarita-real-estate-currently-in-escrow-february-2025"
 ---

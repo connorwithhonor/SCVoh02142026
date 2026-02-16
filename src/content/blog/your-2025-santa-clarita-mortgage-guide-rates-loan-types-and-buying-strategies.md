@@ -1,7 +1,8 @@
 ---
 title: "Your 2025 Santa Clarita Mortgage Guide: Rates, Loan Types, and Buying Strategies"
 description: "Shopping for a home in Santa Clarita means more than finding a property you love. It also involves securing a mortgage that fits your budget and long-term financial goals. With interest rates, commiss"
-publishDate: 2026-02-15T16:07:55.207188
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Your%202025%20Santa%20Clarita%20Mortgage%20Guide%20Rates,%20Loan%20Types,%20and%20Buying%20Strategies.png"
 source: "https://www.santaclaritaopenhouses.com/your-2025-santa-clarita-mortgage-guide-rates-loan-types-and-buying-strategies"
 ---

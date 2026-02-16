@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate full market recap for Q1 2025 by Connor with Honor"
 description: "Santa Clarita Real Estate Deep Dive: Spring 2025 Market Analysis & Expert Insights | Connor with Honor  Welcome to your comprehensive Santa Clarita Valley (SCV) real estate market update. I'm Connor M"
-publishDate: 2026-02-15T16:07:55.000505
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Q1%20complete%20santa%20clarita%20real%20estate%20update.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-full-market-recap-for-q1-2025-by-connor-with-honor"
 ---

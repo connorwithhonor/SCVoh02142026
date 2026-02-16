@@ -1,7 +1,8 @@
 ---
 title: "Newhall CA real estate and the Santa Clarita Update for 52nd week 2024"
 description: "Newhall, CA Real Estate: Your Comprehensive Guide with Connor with Honor  Welcome to your ultimate guide to Newhall real estate, brought to you by Connor MacIvor, the First Responder Realtor. Whether "
-publishDate: 2026-02-15T16:07:55.279382
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Newhall%20real%20estate%20market%20update%20by%20the%20first%20responder%20realtor%20connor%20with%20honor%20-%20Copy.png"
 source: "https://www.santaclaritaopenhouses.com/newhall-ca-real-estate-and-the-santa-clarita-update-for-52nd-week-2024"
 ---

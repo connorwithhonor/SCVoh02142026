@@ -1,7 +1,8 @@
 ---
 title: "Mortgage Rates Plummet and Inventory Soars: Is 2025 Your Year to Buy in SCV?"
 description: "Mortgage Rates Plummet and Inventory Soars: Is 2025 Your Year to Buy in Santa Clarita?                 TL;DR: Mortgage rates are at a 10-month low, giving buyers a rare edge in the 2025 housing market"
-publishDate: 2026-02-15T16:07:54.756181
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/08.24.2025%20santa%20clarita%20real%20estate%20inventory%20for%20sale%20by%20connor%20with%20honor%20updates%20and%20real%20estate%20news.png"
 source: "https://www.santaclaritaopenhouses.com/mortgage-rates-plummet-and-inventory-soars-is-2025-your-year-to-buy-in-scv"
 ---

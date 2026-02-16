@@ -1,7 +1,8 @@
 ---
 title: "800+ Santa Clarita listings on the market for sale January 2025 week 2"
 description: "Santa Clarita Real Estate Market Update: Building Bridges, Empowering Heroes, and Embracing Community By Connor with Honor, First Responder & Hero's Realtor   Table of Contents   	Introduction: A Comm"
-publishDate: 2026-02-15T16:07:55.214688
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0109%20Santa%20Clarita%20open%20houses%20current%20active%20inventory%20for%20Santa%20Clarita%20Valley%20real%20estate%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/800-santa-clarita-listings-on-the-market-for-sale-january-2025-week-2"
 ---

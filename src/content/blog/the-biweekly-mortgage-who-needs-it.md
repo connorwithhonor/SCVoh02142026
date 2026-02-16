@@ -1,7 +1,8 @@
 ---
 title: "The Biweekly Mortgage - Who Needs It in Santa Clarita or Los Angeles?"
 description: "Have you received an advertisement offering to save you thousands of dollars on your thirty-year mortgage and cut years off your payments? With email spam becoming more pervasive as everyone tries to "
-publishDate: 2026-02-15T16:07:55.109585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://library-ihouseprd.b-cdn.net/blog/payment-calculations.jpg"
 source: "https://www.santaclaritaopenhouses.com/the-biweekly-mortgage-who-needs-it"
 ---

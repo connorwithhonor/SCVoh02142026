@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita buying real estate 101 - locale specific real estate course"
 description: "Hello, future homeowners and real estate enthusiasts! I'm Connor MacIvor, also known as Connor with Honor, bringing you the essential steps and insights needed to successfully navigate the real estate"
-publishDate: 2026-02-15T16:07:55.470507
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/video%201%20top%205%20home%20buyer%20moves%20from%20consideration%20to%20lender%20select%20and%20comms.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-buying-real-estate-101-locale-specific-real-estate-course"
 ---

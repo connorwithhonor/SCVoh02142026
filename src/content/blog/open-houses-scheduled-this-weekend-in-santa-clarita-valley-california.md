@@ -1,7 +1,8 @@
 ---
 title: "Open houses scheduled this weekend in Santa Clarita Valley California"
 description: "The Ultimate Guide to Santa Clarita Open Houses: Everything You Need to Know Before Buying a Home  Why Open Houses Matter for Home Buyers  Open houses serve as one of the best ways to explore the Sant"
-publishDate: 2026-02-15T16:07:55.114585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/132%20open%20houses%20scheduled%20today%20at%20santaclaritaopenhouses.com%20by%20Connor%20with%20Honor%20the%20Santa%20Clarita%20Realtor.png"
 source: "https://www.santaclaritaopenhouses.com/open-houses-scheduled-this-weekend-in-santa-clarita-valley-california"
 ---

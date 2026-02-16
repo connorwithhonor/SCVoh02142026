@@ -1,7 +1,8 @@
 ---
 title: "Break Free: From Digital Distraction to Real-World Victory"
 description: "Lessons Learned on the Road to Transformation: A Journey of Honor, Discipline, and Renewal  By Connor with Honor   I wasn't always the man I am today. There was a time when the mirror reflected a pers"
-publishDate: 2026-02-15T16:07:55.115595
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0201%20You%20have%20discipline%20with%20video%20games%2C%20maybe%20you%20can%20have%20discipline%20with%20something%20else%20that%20will%20help%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/break-free-from-digital-distraction-to-real-world-victory"
 ---

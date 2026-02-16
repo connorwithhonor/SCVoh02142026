@@ -1,7 +1,8 @@
 ---
 title: "The first responder advantage: Why my LAPD background makes me Your SCV Realtor"
 description: "Introduction: Unparalleled Service, Protection, and Peace of Mind  In the complex and often high-stakes world of real estate, having a partner who brings more than just market knowledge to the table c"
-publishDate: 2026-02-15T16:07:54.970992
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0523%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/the-first-responder-advantage-why-my-lapd-background-makes-me-your-scv-realtor"
 ---

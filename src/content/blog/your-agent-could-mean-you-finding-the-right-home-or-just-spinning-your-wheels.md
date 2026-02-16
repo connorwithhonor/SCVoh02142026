@@ -1,7 +1,8 @@
 ---
 title: "Your agent could mean you finding the right home or just spinning your wheels"
 description: "Unlocking Santa Clarita Real Estate: Beyond Zillow – Your First Responder Realtor's Guide to Finding Hidden Gems  Welcome to June 15, 2025! As your dedicated Santa Clarita Realtor, Connor MacIvor, I'm"
-publishDate: 2026-02-15T16:07:54.956482
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-15%20073114.png"
 source: "https://www.santaclaritaopenhouses.com/your-agent-could-mean-you-finding-the-right-home-or-just-spinning-your-wheels"
 ---

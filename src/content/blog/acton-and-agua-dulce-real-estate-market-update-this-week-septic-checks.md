@@ -1,7 +1,8 @@
 ---
 title: "Acton and Agua Dulce real estate market update this week Septic checks"
 description: "Santa Clarita Valley 7-Day Real Estate Market Snapshot: November 2024  The Santa Clarita Valley real estate market remains active, with steady updates that highlight both opportunities for buyers and "
-publishDate: 2026-02-15T16:07:55.328155
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11172024%20the%20full%20santa%20clarita%20real%20estate%20update%20by%20connor%20with%20honor%20first%20responder%20realtor%20book.png"
 source: "https://www.santaclaritaopenhouses.com/acton-and-agua-dulce-real-estate-market-update-this-week-septic-checks"
 ---

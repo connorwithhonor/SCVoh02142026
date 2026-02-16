@@ -1,7 +1,8 @@
 ---
 title: "Buying a home: key considerations before signing a buyer broker agreement"
 description: "Buying a Home: Key Considerations Before Signing a Buyer Broker Agreement  Introduction  Buying a home is one of the most significant decisions you'll make in your lifetime. Ensuring you have the righ"
-publishDate: 2026-02-15T16:07:55.479624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/How%20much%20do%20you%20pay%20your%20buyers%20broker%20in%20Santa%20Clarita%20CA%20to%20buy%20a%20home.png"
 source: "https://www.santaclaritaopenhouses.com/buying-a-home-key-considerations-before-signing-a-buyer-broker-agreement"
 ---

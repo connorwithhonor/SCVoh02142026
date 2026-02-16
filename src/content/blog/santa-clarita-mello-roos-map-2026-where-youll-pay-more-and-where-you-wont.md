@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Mello-Roos Map 2026: Where You'll Pay More (And Where You Won't)"
 description: "TL;DR  Mello-Roos taxes in Santa Clarita can add $150-$500+ per month to your housing costs, and most buyers don't discover this until after they've fallen in love with a home. Valencia, Stevenson Ran"
-publishDate: 2026-02-15T16:07:54.623567
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-15%20171242.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-mello-roos-map-2026-where-youll-pay-more-and-where-you-wont"
 ---

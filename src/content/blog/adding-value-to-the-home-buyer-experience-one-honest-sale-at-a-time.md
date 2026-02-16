@@ -1,7 +1,8 @@
 ---
 title: "Adding value to the home buyer experience one honest sale at a time"
 description: "Saving the World One Honest Home Sale at a Time: The First Responder Realtor's Promise  In today's real estate market, it's easy to get swept up in the excitement of buying or selling a home. You may "
-publishDate: 2026-02-15T16:07:55.404244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/police%20car%20front.jpg"
 source: "https://www.santaclaritaopenhouses.com/adding-value-to-the-home-buyer-experience-one-honest-sale-at-a-time"
 ---

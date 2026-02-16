@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita and Los Angeles Country property tax reassessment by the numbers"
 description: "Understanding Property Tax Reassessment in Santa Clarita: A Guide for Home Buyers and Sellers  TL;DR: Property tax reassessment can significantly impact your home's financial obligations in Santa Clar"
-publishDate: 2026-02-15T16:07:54.832387
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20tax%20reassessment%20for%20los%20angeles%20county%20and%20santa%20clarita%20homes%20and%20properties%200723.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-and-los-angeles-country-property-tax-reassessment-by-the-numbers"
 ---

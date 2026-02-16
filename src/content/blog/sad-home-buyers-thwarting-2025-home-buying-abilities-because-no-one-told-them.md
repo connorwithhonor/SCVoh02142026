@@ -1,7 +1,8 @@
 ---
 title: "Sad home buyers thwarting 2025 home buying abilities because no one told them"
 description: "Shocking Santa Clarita Real Estate Twist: Inventory Hits 770 – Is the Seller's Market Cracking or Just Teasing Buyers?                 TL;DR: Santa Clarita's real estate inventory sits at 770 active l"
-publishDate: 2026-02-15T16:07:54.731065
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0908%20santa%20clarita%20home%20buyer%20market%20drama%20when%20buyers%20become%20unqualified.png"
 source: "https://www.santaclaritaopenhouses.com/sad-home-buyers-thwarting-2025-home-buying-abilities-because-no-one-told-them"
 ---

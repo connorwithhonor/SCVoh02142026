@@ -1,7 +1,8 @@
 ---
 title: "Sold real estate in Santa Clarita Valley 66 sold this last week 06.22.2025"
 description: "Santa Clarita's Real Estate Pulse: A Deep Dive Into What the Latest Home Sales Reveal About the Market  In the ever-evolving world of real estate, national headlines often paint a broad, and sometimes"
-publishDate: 2026-02-15T16:07:54.941469
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20with%20honor%2066%20homes%20sold%20this%20week.png"
 source: "https://www.santaclaritaopenhouses.com/sold-real-estate-in-santa-clarita-valley-66-sold-this-last-week-06222025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Building a Tesla home in Santa Clarita Valley and Los Angeles County"
 description: "Have you ever wondered how you could build one of those inexpensive Tesla or other complete manufactured homes?  Connor with Honor - The First Responder Realtor: Affordable Homeownership in Santa Clar"
-publishDate: 2026-02-15T16:07:55.394242
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Tesla%20home%20in%20Santa%20Clarita%20and%20Los%20Angeles%20County%20survey,%20soil,%20permits,%20approval%20by%20First%20Responder%20Realtor.png"
 source: "https://www.santaclaritaopenhouses.com/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county"
 ---

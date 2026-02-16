@@ -1,7 +1,8 @@
 ---
 title: "2025 Real Estate predictions by The First Responder Realtor in Santa Clarita CA"
 description: "Good day, everybody, and welcome to January 1st, 2025! I'm excited to have you here, sharing in what I believe is going to be a tremendously interesting year on many different fronts. Let's talk about"
-publishDate: 2026-02-15T16:07:55.237202
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2025%20predictions%20Santa%20Clarita%20real%20estate%20connor%20with%20honor%20realtor%20first%20responder%20ai%20fat%20loss.png"
 source: "https://www.santaclaritaopenhouses.com/2025-real-estate-predictions-by-the-first-responder-realtor-in-santa-clarita-ca"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Stevenson Ranch 180 days of sold homes and active inventory update"
 description: "Stevenson Ranch Real Estate Market Insights: November 12, 2024  By Connor MacIvor, Your First Responder Realtor   Table of Contents   	Introduction 	Discover Stevenson Ranch 	Market Overview 	 		Sales"
-publishDate: 2026-02-15T16:07:55.334656
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Stevenson%20Ranch%20California%20real%20estate%20update%20time%20to%20sell%20and%20best%20time%20to%20buy%20in%202025.png"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-180-days-of-sold-homes-and-active-inventory-update"
 ---

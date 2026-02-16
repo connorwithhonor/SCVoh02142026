@@ -1,7 +1,8 @@
 ---
 title: "AI instituted Job Loss and your Santa Clarita real estate update for Sept 2025"
 description: "The Shocking Collision of Real Estate and AI: How to Thrive in a Market (and World) on the Brink                 Welcome to the wild ride that is 2025, where the real estate market in Santa Clarita Va"
-publishDate: 2026-02-15T16:07:54.721695
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/SCAAi%20is%20coming%20for%20your%20jobs%200915.png"
 source: "https://www.santaclaritaopenhouses.com/ai-instituted-job-loss-and-your-santa-clarita-real-estate-update-for-sept-2025"
 ---

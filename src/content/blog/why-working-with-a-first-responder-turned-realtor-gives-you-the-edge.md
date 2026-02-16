@@ -1,7 +1,8 @@
 ---
 title: "Why Working with a First Responder Turned Realtor Gives You the Edge"
 description: "Santa Clarita Real Estate Market Update – Day 278 of 2024 (October 4, 2024)  Before diving into why hiring a first responder turned realtor can be an excellent choice for buyers and sellers in Santa C"
-publishDate: 2026-02-15T16:07:55.431333
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/278%202024%20santa%20clarita%20open%20houses%20connor%20with%20honor%20realtor%20first%20responder.png"
 source: "https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge"
 ---

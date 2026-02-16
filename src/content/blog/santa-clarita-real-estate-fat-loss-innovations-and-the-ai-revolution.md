@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate, Fat Loss Innovations, and the AI Revolution"
 description: "Daily Show Deep Dive: Santa Clarita Real Estate, Fat Loss Innovations, and the AI Revolution  Welcome to our in-depth blog post, where we expand on the key themes from today's show broadcast on March "
-publishDate: 2026-02-15T16:07:55.029530
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/homes%20fat%20torching%20and%20artificial%20intelligence%20adaption.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-fat-loss-innovations-and-the-ai-revolution"
 ---

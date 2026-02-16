@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country real estate update this 46th week of 2024 - sellers market"
 description: "Canyon Country Real Estate Market Update  Date: November 15, 2024 | Day of Year: 320 | Week of Year: 46   Introduction to Canyon Country Real Estate:  Welcome to the Canyon Country real estate market "
-publishDate: 2026-02-15T16:07:55.331153
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11152024%20Canyon%20Country%20real%20estate%20update%20by%20santa%20clarita%20open%20houses%20first%20responder%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market"
 ---

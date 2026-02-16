@@ -1,7 +1,8 @@
 ---
 title: "You better read before you sign that real estate document as a home buyer"
 description: "Best Advice for Home Buyers in Today's Real Estate Market: Read Before You Sign  In today's fast-moving real estate market, buying a home often involves signing documents quickly, especially with the "
-publishDate: 2026-02-15T16:07:55.408299
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/xl%20800%20money%20handed%20from%20hand%20to%20hand%20direct%20buying.png"
 source: "https://www.santaclaritaopenhouses.com/you-better-read-before-you-sign-that-real-estate-document-as-a-home-buyer"
 ---

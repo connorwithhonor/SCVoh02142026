@@ -1,7 +1,8 @@
 ---
 title: "How Do I Verify a Real Estate Agent's Track Record in Santa Clarita Valley?"
 description: "\"I've closed over 100 transactions!\"  \"I'm a top producer in Santa Clarita Valley!\"  \"I specialize in your neighborhood!\"  Real estate agents make impressive claims during interviews. They prese"
-publishDate: 2026-02-15T16:07:54.641578
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-10%20170223.png"
 source: "https://www.santaclaritaopenhouses.com/how-do-i-verify-a-real-estate-agents-track-record-in-santa-clarita-valley"
 ---

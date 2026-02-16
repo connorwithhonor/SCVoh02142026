@@ -1,7 +1,8 @@
 ---
 title: "You're fired because you voted for Trump by a First Responder in Santa Clarita"
 description: "How Honesty, Integrity, and Service Have Shaped My Real Estate Journey: A Story of Change, Personal Growth, and Commitment to You  In this ever-changing world, it's easy to lose sight of what truly ma"
-publishDate: 2026-02-15T16:07:55.337661
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/You%E2%80%99re%20fired...Get%20your%20%E2%80%9Ceffing%E2%80%9D%20sign%20out%20of%20my%20yard%20because%20you%20voted%20for%20Trump.png"
 source: "https://www.santaclaritaopenhouses.com/youre-fired-because-you-voted-for-trump-by-a-first-responder-in-santa-clarita"
 ---

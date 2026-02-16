@@ -1,7 +1,8 @@
 ---
 title: "AI for Agents intake questionnaire (personal and confidential)"
 description: "AI with Honor Real Estate Agent Questionnaire  Thank you for considering working with AI with Honor as your AI integrator for real estate. Please answer the following questions to help us determine if"
-publishDate: 2026-02-15T16:07:55.074215
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ai%20with%20honor%20local%20agent.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-agent-questionnaire-for-ai-integration-into-their-business-model"
 ---

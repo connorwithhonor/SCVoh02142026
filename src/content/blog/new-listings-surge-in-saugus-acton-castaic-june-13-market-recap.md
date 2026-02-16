@@ -1,7 +1,8 @@
 ---
 title: "New Listings Surge in Saugus, Acton & Castaic – June 13 Market Recap"
 description: "Santa Clarita Real Estate Daily Report – June 13, 2025: A Deep Dive into Today's Market Dynamics  Welcome to your daily Santa Clarita real estate market overview, delivering a focused, data-driven rec"
-publishDate: 2026-02-15T16:07:54.961482
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Gemini_Generated_Image_bve1kbbve1kbbve1.png"
 source: "https://www.santaclaritaopenhouses.com/new-listings-surge-in-saugus-acton-castaic-june-13-market-recap"
 ---

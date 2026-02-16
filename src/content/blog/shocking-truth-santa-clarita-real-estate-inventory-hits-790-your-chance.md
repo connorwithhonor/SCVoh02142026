@@ -1,7 +1,8 @@
 ---
 title: "Shocking Truth: Santa Clarita Real Estate Inventory Hits 790 – Your Chance?"
 description: "Shocking Truth: Santa Clarita Real Estate Inventory Hits 790 – Is This Your Last Chance to Buy Before Prices Explode?                 TL;DR: Santa Clarita's real estate market is heating up with 790 a"
-publishDate: 2026-02-15T16:07:54.781635
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0812%20real%20estate%20boom%20or%20bust%20santa%20clarita%20realtors%20realty%20open%20houses%20santa%20clarita%20rela%20estat%20elistings.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-truth-santa-clarita-real-estate-inventory-hits-790-your-chance"
 ---

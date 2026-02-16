@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate daily update by your First Responder Realtor 295-2024"
 description: "Santa Clarita Real Estate Update – October 21, 2024: Market Insights and Active Inventory  Good day, Santa Clarita! I'm Connor MacIvor, your First Responder Realtor—Connor with Honor—and today marks t"
-publishDate: 2026-02-15T16:07:55.392740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/honor%20connor%20with%20first%20responder%20realtor%20real%20estate%20in%20los%20angeles%20CA%20ret%20LAPD.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-daily-update-by-your-first-responder-realtor-295-2024"
 ---

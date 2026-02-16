@@ -1,7 +1,8 @@
 ---
 title: "The Vatican Weighs in on Artificial Intelligence"
 description: "The Vatican Speaks on AI: Is Artificial Intelligence Becoming a God-Like Entity?  Introduction: A Religious Take on AI  Artificial intelligence has become one of the most hotly debated technologies in"
-publishDate: 2026-02-15T16:07:55.136108
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AI%20god%20development%20supreme%20god%20like%20intelligence%20is%20only%20a%20few%20discoveries%20away%20with%20artificial%20intelligence%20ai%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-vatican-weighs-in-on-artificial-intelligence"
 ---

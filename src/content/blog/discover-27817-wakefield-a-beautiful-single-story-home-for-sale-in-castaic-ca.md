@@ -1,7 +1,8 @@
 ---
 title: "Discover 27817 Wakefield: A Beautiful Single-Story Home for Sale in Castaic, CA"
 description: "Discover 27817 Wakefield: A Beautiful Single-Story Home for Sale in Castaic, CA  Buying a home in Santa Clarita is an exciting journey, but finding a truly beautiful property that checks all your boxe"
-publishDate: 2026-02-15T16:07:54.911893
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/27817%20wakefield%20road,%20castaic%20ca%20home%20for%20sale%20by%20santa%20clarita%20open%20houses%20connor%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/discover-27817-wakefield-a-beautiful-single-story-home-for-sale-in-castaic-ca"
 ---

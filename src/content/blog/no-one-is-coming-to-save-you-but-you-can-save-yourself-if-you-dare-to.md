@@ -1,7 +1,8 @@
 ---
 title: "No one is coming to save you, but you can save yourself if you dare to"
 description: "The Hard Truth: No One is Coming to Save You, But You Can Save Yourself  If you're a young man in your late teens or early 20s, feeling stuck, lost, or uncertain about your future—this is for you. May"
-publishDate: 2026-02-15T16:07:55.141110
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/No%20one%20will%20be%20saving%20you%20-%20you%20must%20do%20it%20yourself%20by%20connor%20with%20honor%20first%20responder%20helper.png"
 source: "https://www.santaclaritaopenhouses.com/no-one-is-coming-to-save-you-but-you-can-save-yourself-if-you-dare-to"
 ---

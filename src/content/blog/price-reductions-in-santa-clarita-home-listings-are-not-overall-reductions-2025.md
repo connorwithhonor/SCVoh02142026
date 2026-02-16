@@ -1,7 +1,8 @@
 ---
 title: "Price reductions in Santa Clarita home listings are not overall reductions 2025"
 description: "Santa Clarita Residential Market 2024–2025    Santa Clarita Residential Market 2024–2025: A Comprehensive Analysis Across Canyon Country, Castaic, Newhall, Saugus, Stevenson Ranch, and Valencia  Welco"
-publishDate: 2026-02-15T16:07:54.996506
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/SantaClaritaOpenHouses%2000402%202025%20update.png"
 source: "https://www.santaclaritaopenhouses.com/price-reductions-in-santa-clarita-home-listings-are-not-overall-reductions-2025"
 ---

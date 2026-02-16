@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate update buyer disclosures and bank owned property 2025"
 description: "Discover Santa Clarita real estate trends in September 2025: 760 listings, balanced market, essential disclosures for buyers/sellers. Former cop Realtor shares no-BS tips to buy or sell smart—free con"
-publishDate: 2026-02-15T16:07:54.739570
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0902%20santa%20clarita%20real%20estate%20disclosures%20on%20homes%20and%20real%20estate%20know%20what%20you%20need%20to%20know.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-update-buyer-disclosures-and-bank-owned-property-2025"
 ---

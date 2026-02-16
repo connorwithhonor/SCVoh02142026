@@ -1,7 +1,8 @@
 ---
 title: "Maybe you need to start your journey even if you are scared of the unknown"
 description: "Breaking Free: A Blueprint for Young Adults Stuck in Routine  As we step into 2025, life feels like it's moving at the speed of light. Technology is everywhere, and it's easier than ever to get lost i"
-publishDate: 2026-02-15T16:07:55.148618
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/It%20is%20time%20for%20you%20to%20start%20your%20journey%20and%20get%20off%20out%20of%20your%20mothers%20basement%20as%20they%20say.png"
 source: "https://www.santaclaritaopenhouses.com/maybe-you-need-to-start-your-journey-even-if-you-are-scared-of-the-unknown"
 ---

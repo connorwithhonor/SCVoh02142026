@@ -1,7 +1,8 @@
 ---
 title: "Navigating the New Buyer-Broker Agreements in Santa Clarita Real Estate for 2025"
 description: "Understanding the New Buyer-Broker Agreements in Santa Clarita Real Estate  Welcome to the Santa Clarita Open Houses blog, where we dive deep into the latest trends and legal changes affecting real es"
-publishDate: 2026-02-15T16:07:55.262734
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Buyer%20Broker%20agreements%20what%20you%20need%20to%20know%20by%20Connor%20with%20honor%20Santa%20Clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/navigating-the-new-buyer-broker-agreements-in-santa-clarita-real-estate-for-2025"
 ---

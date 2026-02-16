@@ -1,7 +1,8 @@
 ---
 title: "The Ultimate Playbook: How to Write a Real Estate Offer in 2025 That Sellers Can"
 description: "The Ultimate Playbook: How to Write a Real Estate Offer in 2025 That Sellers Can't Ignore                   TL;DR    You've found the perfect Santa Clarita home, but now comes the real battle: writing"
-publishDate: 2026-02-15T16:07:54.776636
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0814%20learn%20how%20to%20write%20santa%20clarita%20real%20estate%20offers%20that%20get%20accepted.png"
 source: "https://www.santaclaritaopenhouses.com/the-ultimate-playbook-how-to-write-a-real-estate-offer-in-2025-that-sellers-can"
 ---

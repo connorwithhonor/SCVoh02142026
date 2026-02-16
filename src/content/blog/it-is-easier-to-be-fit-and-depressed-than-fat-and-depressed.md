@@ -1,7 +1,8 @@
 ---
 title: "It is easier to be fit and depressed than fat and depressed"
 description: "How a Fit Lifestyle Aligned My Life: Reflections from Over 50 Years of Transformation  For the majority of my life, I was a big guy. Not just big, but 365 pounds, with a 65-inch waist, carrying what f"
-publishDate: 2026-02-15T16:07:55.356371
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/310%20it%20is%20easier%20to%20be%20fit%20and%20depressed%20than%20fat%20and%20depressed.png"
 source: "https://www.santaclaritaopenhouses.com/it-is-easier-to-be-fit-and-depressed-than-fat-and-depressed"
 ---

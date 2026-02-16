@@ -1,7 +1,8 @@
 ---
 title: "Conquering Food Addiction Through Fasting: A First Responder’s Transformation"
 description: "TL;DR: Food addiction is a real struggle, driven by the irresistible allure of fast food and emotional triggers like boredom. Connor MacIvor, a former LAPD motor cop turned realtor and body transforma"
-publishDate: 2026-02-15T16:07:54.849766
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/fat%20to%20fit%20by%20fasting.png"
 source: "https://www.santaclaritaopenhouses.com/conquering-food-addiction-through-fasting-a-first-responders-transformation"
 ---

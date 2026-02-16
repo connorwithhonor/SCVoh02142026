@@ -1,7 +1,8 @@
 ---
 title: "Interest Rates and their 10 month low maybe going lower in Santa Clarita homes"
 description: "INTRODUCTION No fluffy intros—just an authority tone that cuts to the chase: Today's real estate headlines offer a crystal-clear roadmap for anyone looking to buy, sell, or invest in Santa Clarita rig"
-publishDate: 2026-02-15T16:07:54.751676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0826%2010%20month%20interest%20rate%20low%20for%20santa%20clarita%20home%20buyers%20and%20home%20sellers%20by%20santaclaritaopenhouses%20and%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/interest-rates-and-their-10-month-low-maybe-going-lower-in-santa-clarita-homes"
 ---

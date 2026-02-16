@@ -1,7 +1,8 @@
 ---
 title: "Shocking Drop in Santa Clarita Listings Overnight August 2025 Where are we going"
 description: "Shocking Drop in Santa Clarita Listings Overnight – Is the Market Cooling or Just Playing Hide and Seek?  TL;DR: Santa Clarita's real estate market just pulled a vanishing act, dropping 30 listings in"
-publishDate: 2026-02-15T16:07:54.794645
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0806%20Number%20of%20listings%20dropped%20in%20Santa%20Clarita%20real%20estate%20over%20night%20what%20is%20happening%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-drop-in-santa-clarita-listings-overnight-august-2025-where-are-we-going"
 ---

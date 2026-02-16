@@ -1,7 +1,8 @@
 ---
 title: "Almost 100 price changes this week in Santa Clarita CA Daily show 10-23-2024"
 description: "The First Responder Realtor: Why You Should Hire Connor with Honor for Your Santa Clarita Real Estate Needs  In today's real estate market, finding a knowledgeable and trustworthy agent is essential. "
-publishDate: 2026-02-15T16:07:55.390740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/297%20Santa%20Clarita%20Nearing%20100%20Price%20Changes%20first%20responder%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/almost-100-price-changes-this-week-in-santa-clarita-ca-daily-show-10-23-2024"
 ---

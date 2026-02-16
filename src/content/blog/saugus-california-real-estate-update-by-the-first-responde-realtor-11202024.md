@@ -1,7 +1,8 @@
 ---
 title: "Saugus California real estate update by the First Responde Realtor 11202024"
 description: "Saugus, CA Real Estate Update – November 20, 2024  Welcome to your comprehensive Saugus, CA real estate update, brought to you by Connor with Honor, your trusted First Responder Realtor. This is the 3"
-publishDate: 2026-02-15T16:07:55.319147
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11202024%20Saugus%20california%20real%20estate%20update%20by%20connor%20with%20honor%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/saugus-california-real-estate-update-by-the-first-responde-realtor-11202024"
 ---

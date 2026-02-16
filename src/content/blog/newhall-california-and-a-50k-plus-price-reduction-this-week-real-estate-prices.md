@@ -1,7 +1,8 @@
 ---
 title: "Newhall California and a 50k plus price reduction this week real estate prices"
 description: "Newhall Real Estate Market Update for November 21, 2024  Your Comprehensive Guide to the Latest Trends in Newhall, California  Welcome to the Week 47 of 2024 Newhall Real Estate Market Update! Whether"
-publishDate: 2026-02-15T16:07:55.312643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11212024%20Newhall%20California%20first%20responder%20real%20estate%20update%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/newhall-california-and-a-50k-plus-price-reduction-this-week-real-estate-prices"
 ---

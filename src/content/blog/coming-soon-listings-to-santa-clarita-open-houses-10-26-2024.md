@@ -1,7 +1,8 @@
 ---
 title: "Coming Soon listings to Santa Clarita open houses 10-26-2024"
 description: "Discover What's \"Coming Soon\" to Santa Clarita Real Estate – Exclusive Preview  Santa Clarita's real estate market is heating up, and we have a lineup of incredible properties that will soon be avai"
-publishDate: 2026-02-15T16:07:55.385740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/coming%20soon%20listings%20presented%20by%20Santa%20Clarita%20Open%20Houses%20and%20the%20First%20Responder%20Realtor%20-%20Updated.png"
 source: "https://www.santaclaritaopenhouses.com/coming-soon-listings-to-santa-clarita-open-houses-10-26-2024"
 ---

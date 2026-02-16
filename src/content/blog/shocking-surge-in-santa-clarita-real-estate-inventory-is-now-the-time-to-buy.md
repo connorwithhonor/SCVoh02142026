@@ -1,7 +1,8 @@
 ---
 title: "Shocking Surge in Santa Clarita Real Estate Inventory: Is Now the Time to Buy?"
 description: "Shocking Surge in Santa Clarita Real Estate Inventory: Is Now the Time to Buy Before Rates Plunge and Chaos Ensues?  TL;DR: Santa Clarita's housing market is heating up with over 800 active listings—a"
-publishDate: 2026-02-15T16:07:54.809155
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0801%20santa%20clarita%20real%20estate%20open%20houses%20update%20for%20the%20realtor%20market%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-surge-in-santa-clarita-real-estate-inventory-is-now-the-time-to-buy"
 ---

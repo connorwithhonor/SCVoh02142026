@@ -1,7 +1,8 @@
 ---
 title: "How to Handle Multiple Offers and Get the Best Deal When Selling Your SCV home"
 description: "Selling your home in Santa Clarita can sometimes attract multiple offers—an exciting yet challenging situation that requires a smart strategy to maximize your final sale price. In this comprehensive g"
-publishDate: 2026-02-15T16:07:55.055706
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0226%20how%20to%20handle%20mutiple%20offers%20and%20get%20the%20best%20deal%20when%20selling%20your%20santa%20clarita%20home.png"
 source: "https://www.santaclaritaopenhouses.com/how-to-handle-multiple-offers-and-get-the-best-deal-when-selling-your-scv-home"
 ---

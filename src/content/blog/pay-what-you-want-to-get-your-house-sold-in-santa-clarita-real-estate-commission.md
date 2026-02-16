@@ -1,7 +1,8 @@
 ---
 title: "Pay what you want to get your house sold in Santa Clarita real estate commission"
 description: "Santa Clarita Open Houses and Connor with Honor Present: The New Commissions Concessions Intel from Your Local Agent  Welcome to July 24th, Santa Clarita!  Good morning, everyone! This is Connor MacIv"
-publishDate: 2026-02-15T16:07:55.484126
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20live%20streaming%20podcast%20with%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/pay-what-you-want-to-get-your-house-sold-in-santa-clarita-real-estate-commission"
 ---

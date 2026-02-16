@@ -1,7 +1,8 @@
 ---
 title: "The Three top buyer tips - Insurance - qualify - hire an agent who uses A.I."
 description: "Santa Clarita Real Estate Update (Sept 2025): The market sees 76 new listings and 76 under contract, with a 90% absorption rate. Mortgage rates hit a 10-month low, spurring buyer interest, but invento"
-publishDate: 2026-02-15T16:07:54.736570
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0904%2090%25%20absorption%20rate%20in%20santa%20clarita%20real%20estate%20by%20connor%20macivor.png"
 source: "https://www.santaclaritaopenhouses.com/the-three-top-buyer-tips-insurance-qualify-hire-an-agent-who-uses-ai"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "AI for everyone but you need to start as soon as you can you are behind already"
 description: "My Mission With AI and Why It Matters  My mission at AI with Honor is to educate people about artificial intelligence by learning and understanding it myself, and then conveying it in a way that makes"
-publishDate: 2026-02-15T16:07:55.067215
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AI%20integration%20for%20santa%20clarita%20real%20estate%20agents%20and%20local%20businesses%20by%20connor%20with%20honor%20and%20ai%20with%20honor%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/ai-for-everyone-but-you-need-to-start-as-soon-as-you-can-you-are-behind-already"
 ---

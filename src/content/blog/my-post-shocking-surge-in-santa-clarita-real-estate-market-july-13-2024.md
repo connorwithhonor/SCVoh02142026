@@ -1,7 +1,8 @@
 ---
 title: "My Post Shocking Surge in Santa Clarita Real Estate Market - July 13, 2024"
 description: "Welcome back to SantaClaritaOpenHouses.com, your go-to source for the latest updates and insights into the Santa Clarita real estate market. I'm Connor with Honor, your trusted Realtor, here to provid"
-publishDate: 2026-02-15T16:07:55.494631
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20open%20houses%20real%20estate%20more%20inventory%20again.png"
 source: "https://www.santaclaritaopenhouses.com/my-post-shocking-surge-in-santa-clarita-real-estate-market-july-13-2024"
 ---

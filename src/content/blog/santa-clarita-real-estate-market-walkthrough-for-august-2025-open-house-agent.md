@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate market walkthrough for August 2025 Open House Agent"
 description: "Santa Clarita Open Houses 2025: The Connor with Honor Playbook  Santa Clarita Open Houses 2025: The Connor with Honor Playbook    TL;DR  Open houses still work in 2025—if you work them with a plan. Th"
-publishDate: 2026-02-15T16:07:54.782636
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0811%20santa%20clarita%20open%20houses%20connor%20with%20honor%20real%20estate%20advisor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-walkthrough-for-august-2025-open-house-agent"
 ---

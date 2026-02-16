@@ -1,7 +1,8 @@
 ---
 title: "Saugus CA Real Estate Market Report – September 2025: Active Listings, DOM!"
 description: "Introduction: Why the Saugus Market Matters Now  The Santa Clarita Valley has always been one of Southern California's most dynamic real estate regions, but within it, Saugus stands out as a barometer"
-publishDate: 2026-02-15T16:07:54.722699
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-09-12%20144450.png"
 source: "https://www.santaclaritaopenhouses.com/saugus-ca-real-estate-market-report-september-2025-active-listings-dom"
 ---

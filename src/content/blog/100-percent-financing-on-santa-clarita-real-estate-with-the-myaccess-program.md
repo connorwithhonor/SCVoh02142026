@@ -1,7 +1,8 @@
 ---
 title: "100 percent financing on Santa Clarita real estate with the MyAccess Program"
 description: "Your Ultimate Guide: CalHFA Down Payment Assistance (Zero Down Options!)  By Connor MacIvor (Connor with Honor), Realtor® | DRE# 01238257 Your Southern California Real Estate Expert at Realty One Grou"
-publishDate: 2026-02-15T16:07:55.005008
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/calhfa%20loan%20my%20access%20program%20for%20santa%20clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/100-percent-financing-on-santa-clarita-real-estate-with-the-myaccess-program"
 ---

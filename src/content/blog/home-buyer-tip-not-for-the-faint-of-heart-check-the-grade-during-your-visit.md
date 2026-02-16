@@ -1,7 +1,8 @@
 ---
 title: "Home buyer tip not for the faint of heart - check the grade during your visit"
 description: "Why Land Grade Matters When Buying a Home in Santa Clarita: A First Responder Realtor's Guide  TL;DR  When buying a home in Santa Clarita, evaluating the land grade is critical to avoid costly water-r"
-publishDate: 2026-02-15T16:07:54.864270
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/investigate%20the%20grade%20before%20you%20buy%20a%20santa%20clarita%20home.png"
 source: "https://www.santaclaritaopenhouses.com/home-buyer-tip-not-for-the-faint-of-heart-check-the-grade-during-your-visit"
 ---

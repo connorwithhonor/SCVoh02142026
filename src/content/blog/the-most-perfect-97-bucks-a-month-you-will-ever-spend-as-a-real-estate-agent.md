@@ -1,7 +1,8 @@
 ---
 title: "The most perfect $97 bucks a month you will ever spend as a real estate agent"
 description: "..."
-publishDate: 2026-02-15T16:07:54.950971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2_The-Guaranteed-Results-Red-Flag.png"
 source: "https://www.santaclaritaopenhouses.com/the-most-perfect-97-bucks-a-month-you-will-ever-spend-as-a-real-estate-agent"
 ---

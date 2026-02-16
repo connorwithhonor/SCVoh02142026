@@ -1,7 +1,8 @@
 ---
 title: "100 point professional real estate market plan for Santa Clarita homes in 2025"
 description: "Santa Clarita Real Estate Market Update: Navigating the Shifting Landscape in 2025 <---100 point marketing plan download!  Santa Clarita Real Estate Market Update: Navigating the Shifting Landscape in"
-publishDate: 2026-02-15T16:07:55.194679
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Marketing%20Santa%20Clarita%20homes%20for%20sale%20by%20the%20top%20real%20estate%20experts%20in%20Santa%20Clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/100-point-professional-real-estate-market-plan-for-santa-clarita-homes-in-2025"
 ---

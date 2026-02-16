@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita listings increased closer tour 8 week new normal level!"
 description: "Shocking Surge in Santa Clarita Listings: Why 796 Homes Could Signal Your Best Buying Opportunity Yet – Or a Total Bust!    TL;DR: Santa Clarita's real estate market is heating up with 796 active list"
-publishDate: 2026-02-15T16:07:54.793143
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0807%20santa%20clarita%20real%20estate%20market%20daily%20show%20by%20connor%20with%20honor%20santa%20clarita%20open%20houses%20back%20up%20me.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-listings-increased-closer-tour-8-week-new-normal-level"
 ---

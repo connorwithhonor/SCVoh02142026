@@ -1,7 +1,8 @@
 ---
 title: "Down payment amounts are increasing in Santa Clarita real estate"
 description: "Down Payment Amounts in Santa Clarita Real Estate Are on the Rise – Tight Inventory is the Driving Force  As we push deeper into 2024, Santa Clarita's real estate market is experiencing a notable shif"
-publishDate: 2026-02-15T16:07:55.446125
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20with%20Honor%20264%20real%20estate%20news%20for%20santa%20clarita%20inventory%20interest%20rates.png"
 source: "https://www.santaclaritaopenhouses.com/down-payment-amounts-are-increasing-in-santa-clarita-real-estate"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate market update and tribute to December 7, 1941 be resilient"
 description: "Santa Clarita and Castaic, CA Real Estate Market Update – December 7, 2024  By Connor with Honor, Your First Responder Realtor in Santa Clarita  Today is December 7, 2024—day 342 of the year and week "
-publishDate: 2026-02-15T16:07:55.276384
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12072024%20castaic%20real%20estate%20update%20for%20connor%20macivor%20the%20first%20responder%20realtor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient"
 ---

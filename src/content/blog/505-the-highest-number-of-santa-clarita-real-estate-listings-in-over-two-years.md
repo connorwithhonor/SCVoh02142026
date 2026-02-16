@@ -1,7 +1,8 @@
 ---
 title: "505 the highest number of Santa Clarita real estate listings in over two years"
 description: "Santa Clarita Real Estate Market Update: August 9th, 2024  As of this morning, the Santa Clarita Valley real estate market is bustling with activity, featuring 505 active listings on the market. This "
-publishDate: 2026-02-15T16:07:55.469507
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20with%20honor%20505%20real%20estate%20listings%20Santa%20Clarita%20two%20year%20standing%20record%20broken.png"
 source: "https://www.santaclaritaopenhouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years"
 ---

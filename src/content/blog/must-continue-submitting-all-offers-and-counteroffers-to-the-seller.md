@@ -1,7 +1,8 @@
 ---
 title: "Must continue submitting all offers and counteroffers to the seller"
 description: "The Offer Submission Duty: A Realtor's Obligation to Sellers  In real estate, presenting offers to sellers is more than a transaction—it's a process bound by professionalism, ethics, and the Realtor C"
-publishDate: 2026-02-15T16:07:55.380313
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/must%20present%20all%20offers%20first%20responder%20standards%20of%20practive%201-7.png"
 source: "https://www.santaclaritaopenhouses.com/must-continue-submitting-all-offers-and-counteroffers-to-the-seller"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "111 total price changes this week - 6 were increases in listing price in SCV"
 description: "Blog Post: Unveiling the Santa Clarita Real Estate Market Surge – Price Changes, Inventory Insights, and Strategic Moves for Buyers and Sellers  TL;DR: Dive into the Santa Clarita Valley (SCV) real es"
-publishDate: 2026-02-15T16:07:54.840520
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0720%20santa%20clarita%20real%20estate%20open%20houses%20connor%20macivor%20thumbnail.png"
 source: "https://www.santaclaritaopenhouses.com/111-total-price-changes-this-week-6-were-increases-in-listing-price-in-scv"
 ---

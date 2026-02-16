@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate update by the First Responder Agent 11-24-2024"
 description: "Santa Clarita Valley Real Estate Market Update: 7-Day Snapshot  Hello, Santa Clarita Valley!  It's Connor with Honor here, your First Responder Realtor, ready to guide you through this week's dynamic "
-publishDate: 2026-02-15T16:07:55.306643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11242024%20santa%20clarita%20real%20estate%20agents%20update%20for%20all%20the%20santa%20clarita%20valley%20cities.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-update-by-the-first-responder-agent-11-24-2024"
 ---

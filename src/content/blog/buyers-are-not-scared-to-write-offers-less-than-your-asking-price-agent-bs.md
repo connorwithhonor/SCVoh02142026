@@ -1,7 +1,8 @@
 ---
 title: "Buyers are not scared to write offers less than your asking price - Agent BS"
 description: "Santa Clarita Valley Real Estate Market Update – May 9 2025 | 7-Day Deep Dive & AI-Powered Strategy Guide                         Santa Clarita Valley Market Update & AI Strategy PlaybookWeek of May 9"
-publishDate: 2026-02-15T16:07:54.983497
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Buyers%20are%20not%20scared%20of%20your%20price%20when%20it%20comes%20to%20santa%20clarita%20real%20estate%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/buyers-are-not-scared-to-write-offers-less-than-your-asking-price-agent-bs"
 ---

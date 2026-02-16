@@ -1,7 +1,8 @@
 ---
 title: "Are employers jumping the gun when it comes to firing employees and using AI?"
 description: "Introduction: The AI Revolution in Business The buzz around artificial intelligence (AI) is undeniable. Businesses worldwide are racing to adopt AI tools, lured by promises of efficiency, cost savings"
-publishDate: 2026-02-15T16:07:55.150618
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AGI%20Date%20Are%20businesses%20making%20a%20big%20mistake%20going%20all%20in%20with%20artificial%20intelligence%20when%20it%20still%20makes%20mistakes.png"
 source: "https://www.santaclaritaopenhouses.com/are-employers-jumping-the-gun-when-it-comes-to-firing-employees-and-using-ai"
 ---

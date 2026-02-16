@@ -1,7 +1,8 @@
 ---
 title: "Google map and photos as a first responder turned realtor in Los Angeles"
 description: "How to Remove Your Home Images from Google Maps and Google Street View: A Simple Step-by-Step Guide  In today's world, privacy is becoming harder to maintain, especially with tools like Google Maps an"
-publishDate: 2026-02-15T16:07:55.417314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/the%20realtor%20versus%20images%20on%20google%20and%20how%20you%20can%20get%20rid%20of%20yours.png"
 source: "https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles"
 ---

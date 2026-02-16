@@ -1,7 +1,8 @@
 ---
 title: "Cheap commissions for selling Santa Clarita Homes and what to watch out for"
 description: "Table of Contents   	The Traditional Commission Structure 	What Is a Fair Commission—and Are They Truly 'Typical'? 	Commission Negotiations: Understanding Both Sides 	Why Real Estate Agents Charge Com"
-publishDate: 2026-02-15T16:07:55.161121
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Commissions%20in%20real%20estate%20Santa%20Clarita%20how%20much%20do%20you%20charge%20to%20sell%20my%20house.png"
 source: "https://www.santaclaritaopenhouses.com/cheap-commissions-for-selling-santa-clarita-homes-and-what-to-watch-out-for"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence versus human How much does it cost to buy a home"
 description: "Artificial Intelligence vs. Human Expertise: How Much Does It Really Cost to Buy a Home?  Introduction  In the fast-paced world of real estate, technology is reshaping how buyers and sellers navigate "
-publishDate: 2026-02-15T16:07:55.442622
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AI%20Websites%20versus%20human%20costs%20to%20buy%20a%20home%20268.png"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-versus-human-how-much-does-it-cost-to-buy-a-home"
 ---

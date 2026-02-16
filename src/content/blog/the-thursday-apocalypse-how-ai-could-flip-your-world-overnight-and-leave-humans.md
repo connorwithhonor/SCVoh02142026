@@ -1,7 +1,8 @@
 ---
 title: "The Thursday Apocalypse: How AI Could Flip Your World Overnight and Leave Humans"
 description: "The Thursday Apocalypse: How AI Could Flip Your World Overnight and Leave Humanity Scrambling – Are You Ready? 0 TL;DR: Imagine waking up one Thursday to a world where AI has leaped to superintelligen"
-publishDate: 2026-02-15T16:07:54.796649
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0805%20new%20arrival%20artificial%20super%20intelligence%20will%20arrive%20on%20a%20thursday.png"
 source: "https://www.santaclaritaopenhouses.com/the-thursday-apocalypse-how-ai-could-flip-your-world-overnight-and-leave-humans"
 ---

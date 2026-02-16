@@ -1,7 +1,8 @@
 ---
 title: "Connor with Honor updates about AI, Fat kids, gym members not changing and more"
 description: "Why Most People Stay Fat and How to Break Free: The Truth About Fat Loss, Fasting, and Real Change    Watch the Video    Introduction: The Harsh Truth About Fat Loss  Most people trying to lose weight"
-publishDate: 2026-02-15T16:07:55.103081
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ai%20for%20agents%20best%20artificial%20intelligence%20marketing%20implementor%20and%20advertiser.png"
 source: "https://www.santaclaritaopenhouses.com/connor-with-honor-updates-about-ai-fat-kids-gym-members-not-changing-and-more"
 ---

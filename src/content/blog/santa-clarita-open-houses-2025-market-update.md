@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Open Houses 2025 Market Update"
 description: "Santa Clarita Open Houses 2025 Market Update: Where the Smart Money Is Moving Next  1. Welcome to Santa Clarita's Real Estate Hub  If you've been tracking the local market, you already know the story:"
-publishDate: 2026-02-15T16:07:54.697180
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1010%20santa%20clarita%20real%20estate%20update%20by%20santa%20clarita%20open%20houses%20for%202025.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-2025-market-update"
 ---

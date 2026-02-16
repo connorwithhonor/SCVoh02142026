@@ -1,7 +1,8 @@
 ---
 title: "Valencia CA real estate update 20 homes sold last week and my book is available"
 description: "Valencia Real Estate Market Update: 30-Day Snapshot of Sold Homes  The Valencia real estate market is thriving, offering a wide array of opportunities for buyers, sellers, and investors. As one of the"
-publishDate: 2026-02-15T16:07:55.274239
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12092024%20Valencia%20California.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-ca-real-estate-update-20-homes-sold-last-week-and-my-book-is-available"
 ---

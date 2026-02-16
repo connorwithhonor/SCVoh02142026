@@ -1,7 +1,8 @@
 ---
 title: "Newhall Real Estate Market Update 2024: Essential Tips for Buyers and Sellers"
 description: "Connor MacIvor - November 14, 2024  As we dive into this week's Newhall real estate update, you'll discover the latest trends, insights, and practical tips for both buying and selling homes in one of "
-publishDate: 2026-02-15T16:07:55.332154
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11142024%20newhall%20real%20estate%20update%20for%20the%20current%20housing%20market%20by%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/newhall-real-estate-market-update-2024-essential-tips-for-buyers-and-sellers"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Dr. Phil and AI | The Ethical and Existential Implications of AI Integration"
 description: "TL;DR  As artificial intelligence rapidly integrates into every sector of society—from education and employment to communication and healthcare—questions emerge regarding ethics, dependency, and the p"
-publishDate: 2026-02-15T16:07:54.889887
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Dr.%20Phil%20and%20AI%20%20The%20Ethical%20and%20Existential%20Implications%20of%20AI%20Integration%20in%20Modern%20Society%202.jpg"
 source: "https://www.santaclaritaopenhouses.com/dr-phil-and-ai-the-ethical-and-existential-implications-of-ai-integration"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate market for February 2025 -Status and Price breakdown"
 description: "Santa Clarita Real Estate Market Update: January 2025 – A Comprehensive Analysis  The Santa Clarita Valley real estate market continues to evolve, and the statistics from January 2025 reveal a dynamic"
-publishDate: 2026-02-15T16:07:55.126605
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20market%20update%20february%202025%20Status%20and%20price%20data%20by%20Santa%20Clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-for-february-2025-status-and-price-breakdown"
 ---

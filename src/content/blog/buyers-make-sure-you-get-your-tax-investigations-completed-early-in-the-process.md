@@ -1,7 +1,8 @@
 ---
 title: "Buyers make sure you get your Tax Investigations completed early in the process"
 description: "Santa Clarita Open Houses: Comprehensive Buyer Investigations & Escrow Tips  Welcome to our in-depth blog post on everything you need to know about Santa Clarita open houses and the crucial steps in t"
-publishDate: 2026-02-15T16:07:55.023026
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0314%20top%20reason%20for%20a%20home%20buyer%20not%20to%20settle%20for%20the%20home%20if%20all%20does%20not%20work%20out%20accordingly%20santa%20clarita%20open%20houses%20fb.png"
 source: "https://www.santaclaritaopenhouses.com/buyers-make-sure-you-get-your-tax-investigations-completed-early-in-the-process"
 ---

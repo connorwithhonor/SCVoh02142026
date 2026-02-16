@@ -1,7 +1,8 @@
 ---
 title: "Mortgage Rates Stall as Competition Heats Up—Is Now the Best Time to Buy"
 description: "Hey there, it's Connor MacIvor, your go-to real estate expert, bringing you the facts with my personal touch. I've been deep in the Santa Clarita real estate trenches, from Saugus to Castaic and every"
-publishDate: 2026-02-15T16:07:55.433333
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/277%20santa%20clarita%20open%20houses%20and%20connor%20with%20honor%20sell%20your%20home%20today.png"
 source: "https://www.santaclaritaopenhouses.com/mortgage-rates-stall-as-competition-heats-upis-now-the-best-time-to-buy"
 ---

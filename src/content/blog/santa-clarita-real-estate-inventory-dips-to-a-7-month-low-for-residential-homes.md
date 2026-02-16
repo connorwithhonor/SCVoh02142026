@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate inventory dips to a 7 month low for residential homes"
 description: "Santa Clarita Real Estate Chaos: Inventory Plunges, Prices Teeter on the Edge – Why 2025 Could Be Your Make-or-Break Moment!                 TL;DR The Santa Clarita Valley (SCV) real estate market is "
-publishDate: 2026-02-15T16:07:54.712685
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/09212025%20lowest%20real%20estate%20inventory%20since%20February%202025.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-inventory-dips-to-a-7-month-low-for-residential-homes"
 ---

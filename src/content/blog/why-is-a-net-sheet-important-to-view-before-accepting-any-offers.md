@@ -1,7 +1,8 @@
 ---
 title: "Why is a net sheet important to view before accepting any offers"
 description: "Net Sheet - A breakdown of costs, custom-made for each offer received on the seller's behalf by their agent.  Of course, some agents don't do this.    I don't understand how they work around this with"
-publishDate: 2026-02-15T16:07:55.464505
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Find%20out%20the%20importance%20of%20multiple%20net%20sheets%20before%20escrow%20starts.jpeg"
 source: "https://www.santaclaritaopenhouses.com/why-is-a-net-sheet-important-to-view-before-accepting-any-offers"
 ---

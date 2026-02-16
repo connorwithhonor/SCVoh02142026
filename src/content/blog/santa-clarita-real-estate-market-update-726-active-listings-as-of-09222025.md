@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update: 726 Active Listings as of 09.22.2025"
 description: "Santa Clarita Real Estate Market Update: 726 Active Listings as of September 22, 2025                 TL;DR: As of 1:30 PM PDT on September 22, 2025, the Santa Clarita Valley real estate market featur"
-publishDate: 2026-02-15T16:07:54.710685
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0922%20get%20the%20daily%20intel%20about%20santa%20clarita%20real%20estate%20at%20the%20home%20page%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-726-active-listings-as-of-09222025"
 ---

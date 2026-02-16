@@ -1,7 +1,8 @@
 ---
 title: "Bad Data or steering data on the Syndication Websites - Local accountability"
 description: "The Shocking Truth About Santa Clarita Real Estate Prices in 2025: Don't Get Duped by Syndication Sites!                 TL;DR: The Santa Clarita Valley real estate market is hot but tricky to navigat"
-publishDate: 2026-02-15T16:07:54.729067
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0910%20Who%20is%20lying%20to%20you%20santa%20clarita%20open%20houses%20and%20santa%20clarita%20real%20estate%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/bad-data-or-steering-data-on-the-syndication-websites-local-accountability"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Castaic CA real estate update watch by Santa Clarita open houses"
 description: "Santa Clarita Real Estate Update: December 21, 2024  Presented by Santa Clarita Open Houses   Introduction: Comprehensive Santa Clarita Valley and Castaic Real Estate Overview  Welcome to your detaile"
-publishDate: 2026-02-15T16:07:55.249256
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santaclaritaopenhouses.com%20Castaic%20CA%20real%20estate%20update%20by%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-ca-real-estate-update-watch-by-santa-clarita-open-houses"
 ---

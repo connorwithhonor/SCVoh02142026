@@ -1,7 +1,8 @@
 ---
 title: "What does $900,000 get you in Valencia California?"
 description: "Exploring Homes for Sale Close to $900,000 in Valencia, CA: A Comprehensive Guide  Valencia, located in the vibrant Santa Clarita Valley, offers the perfect blend of suburban charm and urban convenien"
-publishDate: 2026-02-15T16:07:55.420314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1004%20valencia%20real%20estate%20at%20900%20what%20will%20900000%20buy%20you%20in%20Valencia%20CA%20today.webp"
 source: "https://www.santaclaritaopenhouses.com/what-does-900000-get-you-in-valencia-california"
 ---

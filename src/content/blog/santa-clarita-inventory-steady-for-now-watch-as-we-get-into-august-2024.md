@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita inventory steady for now, watch as we get into August 2024"
 description: "Good Day Santa Clarita and Beyond!  I'm Connor MacIvor, your trusted real estate expert, and today is July 30th, 2024. Welcome to your daily real estate update! If you're looking for the most current "
-publishDate: 2026-02-15T16:07:55.478624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/one%20raised%20by%20wolves,%20one%20by%20sheep%20santa%20clarita%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-inventory-steady-for-now-watch-as-we-get-into-august-2024"
 ---

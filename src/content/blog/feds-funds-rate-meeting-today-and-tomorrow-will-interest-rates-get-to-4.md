@@ -1,7 +1,8 @@
 ---
 title: "Feds Funds Rate meeting today and tomorrow, will interest rates get to 4"
 description: "Will Interest Rates Drop to 4%? Market Insights for Santa Clarita – 261-2024  Today, on day 261 of 2024, all eyes are on the Federal Reserve's meeting, where discussions may signal whether interest ra"
-publishDate: 2026-02-15T16:07:55.449127
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/4%20percent%20rate%20in%20Santa%20Clarita%20real%20estate%20this%20week%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/feds-funds-rate-meeting-today-and-tomorrow-will-interest-rates-get-to-4"
 ---

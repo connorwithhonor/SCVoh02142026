@@ -1,7 +1,8 @@
 ---
 title: "Moving out of California in 2025 - Here is your fool proofed gameplan"
 description: "The Shocking Truth About Leaving California: Your Foolproof Plan to Sell and Relocate Without Losing Your Mind                 TL;DR: Thinking of ditching California for greener pastures? Selling your"
-publishDate: 2026-02-15T16:07:54.748675
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0826%20Leaving%20California%20in%202025%20here%20is%20your%20exit%20strategy.png"
 source: "https://www.santaclaritaopenhouses.com/moving-out-of-california-in-2025-here-is-your-fool-proofed-gameplan"
 ---

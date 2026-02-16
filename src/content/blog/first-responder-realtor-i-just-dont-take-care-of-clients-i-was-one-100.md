@@ -1,7 +1,8 @@
 ---
 title: "First Responder Realtor I just don't take care of clients, I was one 100%"
 description: "Maximizing Your Real Estate Journey in Santa Clarita  Santa Clarita—a vibrant city nestled in Los Angeles County—offers a unique mix of suburban tranquility, modern amenities, and community charm. Whe"
-publishDate: 2026-02-15T16:07:55.184172
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/New%20Pres%20-%200%20pension%20first%20responder%20realtor%20santa%20clarita%20valley%20agents.png"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-i-just-dont-take-care-of-clients-i-was-one-100"
 ---

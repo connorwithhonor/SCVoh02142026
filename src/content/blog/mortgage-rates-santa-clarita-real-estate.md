@@ -1,7 +1,8 @@
 ---
 title: "Mortgage rates Santa Clarita real estate"
 description: "What You Need to Know About Mortgage Rates in Santa Clarita  When buying a home in Santa Clarita, one of the most important factors influencing your purchase is the mortgage rate. Mortgage rates deter"
-publishDate: 2026-02-15T16:07:55.426330
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate"
 ---
 

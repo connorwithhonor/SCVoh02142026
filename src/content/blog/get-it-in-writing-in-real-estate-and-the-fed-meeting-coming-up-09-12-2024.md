@@ -1,7 +1,8 @@
 ---
 title: "Get it in writing in real estate and the Fed meeting coming up 09-12-2024"
 description: "Understanding the Shifting Real Estate Market in Santa Clarita  Today, I want to take some time to discuss the current trends affecting the real estate market in Santa Clarita. As many of you know, th"
-publishDate: 2026-02-15T16:07:55.457138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/verify%20all%20in%20writing%20and%20the%20feds%20funds%20rate%20meeting%20coming%20up%20mortgage%20savings.png"
 source: "https://www.santaclaritaopenhouses.com/get-it-in-writing-in-real-estate-and-the-fed-meeting-coming-up-09-12-2024"
 ---

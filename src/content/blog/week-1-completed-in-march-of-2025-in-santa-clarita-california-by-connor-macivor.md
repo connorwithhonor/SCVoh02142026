@@ -1,7 +1,8 @@
 ---
 title: "Week 1 completed in March of 2025 in Santa Clarita California by Connor MacIvor"
 description: "Santa Clarita Real Estate Market Update – March 7, 2025  By Connor With Honor, The First Responder Realtor at SantaClaritaOpenHouses.com   1. Introduction to the Santa Clarita Real Estate Scene  The S"
-publishDate: 2026-02-15T16:07:55.034531
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20update%20indicates%20a%20balanced%20real%20estate%20market%20for%20connor%20with%20honor%20and%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/week-1-completed-in-march-of-2025-in-santa-clarita-california-by-connor-macivor"
 ---

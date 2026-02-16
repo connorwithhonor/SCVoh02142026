@@ -1,7 +1,8 @@
 ---
 title: "How long to sell a home in Santa Clarita CA July 2024 - closing figures"
 description: "The Current State of Santa Clarita Real Estate  Welcome to the final day of July 2024, and with it, one of the most comprehensive market updates you'll encounter for Santa Clarita real estate. Today, "
-publishDate: 2026-02-15T16:07:55.477624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/07312024%20Santa%20Clarita%20real%20estate%20market%20update%20by%20Connor%20with%20honor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/how-long-to-sell-a-home-in-santa-clarita-ca-july-2024-closing-figures"
 ---

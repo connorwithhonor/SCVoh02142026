@@ -1,7 +1,8 @@
 ---
 title: "If you have a weak agent you will have a weak home buying or selling endeavor"
 description: "Standing Strong in Santa Clarita Real Estate: A Story of Dedication, Resilience, and Service  As a former LAPD officer and a dedicated real estate agent in the Santa Clarita Valley, my journey has alw"
-publishDate: 2026-02-15T16:07:55.376314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/304%20your%20real%20estate%20agents%20strength%20will%20be%20apparently%20very%20quickly%20in%20santa%20clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/if-you-have-a-weak-agent-you-will-have-a-weak-home-buying-or-selling-endeavor"
 ---

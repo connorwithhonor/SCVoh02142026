@@ -1,7 +1,8 @@
 ---
 title: "The 1950's over 50% of over couples in their 30's owed a home - today <15%"
 description: "Shocking Stats: Why Today's 30-Year-Olds Are Locked Out of Homeownership – And How Santa Clarita Real Estate Is Bucking the Trend  TL;DR: Dive into eye-opening data showing how homeownership for marri"
-publishDate: 2026-02-15T16:07:54.791143
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/From%20over%2015%20to%2015%20santa%20clarita%20real%20estate%20time%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-1950s-over-50-of-over-couples-in-their-30s-owed-a-home-today-15"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita's Artificial Intelligence community re-build your business right"
 description: "The Shocking Truth About AI Revolutionizing Real Estate – Why You're Already Behind If You're Not Using It!  TL;DR: As a former LAPD motor cop turned Realtor (CALDRE 01238257) who's dabbled in tech si"
-publishDate: 2026-02-15T16:07:54.792143
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/join%20the%20best%20ai%20community%20in%20santa%20clarita%20california%20for%20real%20estate%20businesses%20and%20local%20businesses%200807.png"
 source: "https://www.santaclaritaopenhouses.com/santa-claritas-artificial-intelligence-community-re-build-your-business-right"
 ---

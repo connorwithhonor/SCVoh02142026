@@ -1,7 +1,8 @@
 ---
 title: "Sales decreased 43 percent January 2025 compared with December 2024 in SCV"
 description: "Santa Clarita Real Estate Sales Dropped 43% – What This Means for Buyers & Sellers in 2025  The real estate market in Santa Clarita saw a 43% drop in sales from December 2024 to January 2025. But does"
-publishDate: 2026-02-15T16:07:55.139108
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/86%20less%20home%20sales%20in%20Santa%20Clarita%20real%20estate%20by%20Santa%20Clarita%20open%20houses%20January%202025%20compared%20with%20Dec%202024.png"
 source: "https://www.santaclaritaopenhouses.com/sales-decreased-43-percent-january-2025-compared-with-december-2024-in-scv"
 ---

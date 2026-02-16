@@ -1,7 +1,8 @@
 ---
 title: "Charlie Kirk - RIP, September 11 Anniversary and so much for the local market."
 description: "Reflections on 9/11, Tragic Losses, and the Santa Clarita Real Estate Market: What History Teaches Us About Resilience and Smart Investing  TL;DR  On this somber 24th anniversary of September 11th, we"
-publishDate: 2026-02-15T16:07:54.726065
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1010%20santa%20clarita%20artificial%20intelligence%20training.png"
 source: "https://www.santaclaritaopenhouses.com/charlie-kirk-rip-september-11-anniversary-and-so-much-for-the-local-market"
 ---

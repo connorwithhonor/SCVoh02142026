@@ -1,7 +1,8 @@
 ---
 title: "Best Santa Clarita Neighborhoods with walkable schools"
 description: "Best is totally in the eye of the beholder. What I did Is on each search page, you can search by neighborhood.  Understand that the Santa Clarita Valley has a paseo system. In Valencia there seems to "
-publishDate: 2026-02-15T16:07:55.463997
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Valencia%20Santa%20Clarita%20Paseo%20system%20.jpeg"
 source: "https://www.santaclaritaopenhouses.com/best-santa-clarita-neighborhoods-with-walkable-schools"
 ---

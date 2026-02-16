@@ -1,7 +1,8 @@
 ---
 title: "Homes are selling, don't believe the nonsense from the Masters of Real Estate!"
 description: "Santa Clarita Real Estate Market Update: June 2025 Insights from Connor with Honor  TL;DR  The Santa Clarita real estate market is buzzing with activity as of June 2025, with 105 properties hitting th"
-publishDate: 2026-02-15T16:07:54.928408
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20agents%20connor%20with%20honor%20santa%20clairta%20open%20houses%20update%200625.jpg"
 source: "https://www.santaclaritaopenhouses.com/homes-are-selling-dont-believe-the-nonsense-from-the-masters-of-real-estate"
 ---

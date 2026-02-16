@@ -1,7 +1,8 @@
 ---
 title: "Saugus California real estate update home sales slowing as we enter the holidays"
 description: "Saugus Real Estate Market Update: An In-Depth Guide to Buying and Selling in the Santa Clarita Valley   Introduction:  Nestled in the heart of the Santa Clarita Valley, Saugus is an established yet ev"
-publishDate: 2026-02-15T16:07:55.333154
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Saugus%20California%20real%20estate%20update%20home%20sales%20are%20slowing%20as%20we%20get%20into%20the%20holiday%20season.png"
 source: "https://www.santaclaritaopenhouses.com/saugus-california-real-estate-update-home-sales-slowing-as-we-enter-the-holidays"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Thrives with Artificial Intelligence in 2025"
 description: "The Ultimate Guide to AI for Realtors in Santa Clarita: Automate, Innovate, and Elevate Your Real Estate Business  Artificial intelligence (AI) is no longer a futuristic fantasy reserved for science-f"
-publishDate: 2026-02-15T16:07:55.082456
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Real%20estate%20artificial%20intelligence%20in%20santa%20clarita%20real%20estate%20with%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-thrives-with-artificial-intelligence-in-2025"
 ---

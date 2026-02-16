@@ -1,7 +1,8 @@
 ---
 title: "AI-Powered Real Estate: Skyrocket Your Santa Clarita Deals or Crash Hard"
 description: "AI-Powered Real Estate: Crush It in Santa Clarita or Crash and Burn  TL;DR: AI is revolutionizing Santa Clarita real estate, automating lead capture, crafting killer listing descriptions, and supercha"
-publishDate: 2026-02-15T16:07:54.752676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0825%20santa%20clarita%20artificial%20intelligence%20sales%20and%20service%20by%20the%20AI%20architect.png"
 source: "https://www.santaclaritaopenhouses.com/ai-powered-real-estate-skyrocket-your-santa-clarita-deals-or-crash-hard"
 ---

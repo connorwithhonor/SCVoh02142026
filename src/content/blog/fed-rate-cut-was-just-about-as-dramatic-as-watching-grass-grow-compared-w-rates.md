@@ -1,7 +1,8 @@
 ---
 title: "Fed Rate Cut was just about as dramatic as watching grass grow compared w/ rates"
 description: "Fed's Latest Rate Slice: 0.25% Off – But Santa Clarita's Inventory Explosion to 739 Listings Says \"Buyers, Gear Up; Sellers, Sharpen Your Pencils\"                 TL;DR  The Fed's September 18, 2025"
-publishDate: 2026-02-15T16:07:54.717192
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/09182025%20rates%20down%20and%20it%20was%20hardly%20exciting%20for%20santa%20clarita%20open%20houses%20and%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/fed-rate-cut-was-just-about-as-dramatic-as-watching-grass-grow-compared-w-rates"
 ---

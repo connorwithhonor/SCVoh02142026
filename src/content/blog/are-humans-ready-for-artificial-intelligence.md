@@ -1,7 +1,8 @@
 ---
 title: "Are Humans ready for Artificial Intelligence?"
 description: "The AI Tsunami: Are We Ready for the Deluge?  Hey everybody, Connor here, and today, I want to dive deep into a topic that's dominating every news cycle and conversation: Artificial Intelligence. More"
-publishDate: 2026-02-15T16:07:54.955478
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ARe%20humans%20ready%20for%20A.I..png"
 source: "https://www.santaclaritaopenhouses.com/are-humans-ready-for-artificial-intelligence"
 ---

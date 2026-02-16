@@ -1,7 +1,8 @@
 ---
 title: "Comprehensive Real Estate Guide to Newhall, CA by Santa Clarita Open Houses"
 description: "Introduction: Welcome to our in-depth look at the Newhall real estate market, part of the vibrant Santa Clarita Valley. Whether you're considering buying, selling, or just keeping an eye on the trends"
-publishDate: 2026-02-15T16:07:55.251256
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Newhall%20CA%20real%20estate%20update%20by%20Connor%20with%20Honor%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/comprehensive-real-estate-guide-to-newhall-ca-by-santa-clarita-open-houses"
 ---

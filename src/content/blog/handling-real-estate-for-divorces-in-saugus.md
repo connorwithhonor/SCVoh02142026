@@ -1,7 +1,8 @@
 ---
 title: "Handling Real Estate for Divorces in Saugus"
 description: "Divorce is a challenging time, especially when it involves selling a home. As an experienced realtor in Saugus, I offer professional and empathetic services tailored to divorcing couples.  Empathetic "
-publishDate: 2026-02-15T16:07:55.499632
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/handling-real-estate-for-divorces-in-saugus"
 ---
 

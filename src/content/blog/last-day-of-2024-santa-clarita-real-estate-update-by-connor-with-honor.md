@@ -1,7 +1,8 @@
 ---
 title: "Last Day of 2024 Santa Clarita real estate update by Connor with Honor"
 description: "Briefing Doc: Santa Clarita Real Estate Market Analysis (12/13/2023 - 12/24/2024)  This briefing document reviews key themes and insights from real estate market data for Santa Clarita, CA, covering t"
-publishDate: 2026-02-15T16:07:55.238202
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/napkin-selection.png"
 source: "https://www.santaclaritaopenhouses.com/last-day-of-2024-santa-clarita-real-estate-update-by-connor-with-honor"
 ---

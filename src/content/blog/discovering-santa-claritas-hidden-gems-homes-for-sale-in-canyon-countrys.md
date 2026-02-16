@@ -1,7 +1,8 @@
 ---
 title: "Discovering Santa Clarita's Hidden Gems: Homes for Sale in Canyon Country's"
 description: "Discovering Santa Clarita's Hidden Gems: Homes for Sale in Canyon Country's Equestrian Zones                                    Discovering Santa Clarita's Hidden Gems: Homes for Sale in Canyon Countr"
-publishDate: 2026-02-15T16:07:54.965989
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 source: "https://www.santaclaritaopenhouses.com/discovering-santa-claritas-hidden-gems-homes-for-sale-in-canyon-countrys"
 ---
 

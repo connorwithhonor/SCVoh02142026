@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate update AI involvement in home search 680 actives today"
 description: "Introduction  Welcome to your 2025 Santa Clarita Real Estate deep dive! I'm Connor with Honor, and I've put together this comprehensive blog post to ensure that whether you're a buyer, seller, or simp"
-publishDate: 2026-02-15T16:07:55.213186
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20market%20updates%20for%20homes,%20condos%20and%20townhomes%20total%20inventory%20numbers%202025.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-update-ai-involvement-in-home-search-680-actives-today"
 ---

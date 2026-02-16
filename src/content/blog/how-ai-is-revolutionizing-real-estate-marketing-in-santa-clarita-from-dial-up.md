@@ -1,7 +1,8 @@
 ---
 title: "How AI is Revolutionizing Real Estate Marketing in Santa Clarita: From Dial-Up"
 description: "TL;DR go to HonorElevate.com to book an analysis call!  In this comprehensive guide, Connor MacIvor, a seasoned Santa Clarita real estate agent and AI enthusiast, dives into the evolution of real esta"
-publishDate: 2026-02-15T16:07:54.841521
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/artificial%20intelligence%20for%20santa%20clarita%20ca%20for%20real%20estate%20agents%20and%20local%20businesses.png"
 source: "https://www.santaclaritaopenhouses.com/how-ai-is-revolutionizing-real-estate-marketing-in-santa-clarita-from-dial-up"
 ---

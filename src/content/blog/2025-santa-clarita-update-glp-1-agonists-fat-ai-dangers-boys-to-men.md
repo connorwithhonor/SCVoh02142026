@@ -1,7 +1,8 @@
 ---
 title: "2025 Santa Clarita update - GLP-1 Agonists - FAT - AI dangers - Boys to Men"
 description: "Santa Clarita Real Estate, Weight Loss on FDA-Approved Meds, Post-Human Intelligence, and Young Men Finding Their Way By Connor with Honor   I've been around the block a few times—once as a cop, these"
-publishDate: 2026-02-15T16:07:55.159122
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/4%20part%20show%20real%20estate%20-%20fat%20loss%20FHA%20drugs%20-%20Artificial%20Intelligence%20-%20Vaping%20and%20video%20games%20at%20home%20boys%20to%20high%20value%20men.png"
 source: "https://www.santaclaritaopenhouses.com/2025-santa-clarita-update-glp-1-agonists-fat-ai-dangers-boys-to-men"
 ---

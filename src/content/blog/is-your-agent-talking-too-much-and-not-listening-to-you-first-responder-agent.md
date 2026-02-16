@@ -1,7 +1,8 @@
 ---
 title: "Is your agent talking too much and not listening to you - First Responder Agent"
 description: "The Santa Clarita real estate market can be a dynamic and ever-changing landscape. Whether you're buying or selling a home, having a trusted, experienced professional at your side can make all the dif"
-publishDate: 2026-02-15T16:07:55.402244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/290%2010162024%20daily%20show%20Santa%20Clarita%20Connor%20with%20Honor%20First%20Responder%20agent.png"
 source: "https://www.santaclaritaopenhouses.com/is-your-agent-talking-too-much-and-not-listening-to-you-first-responder-agent"
 ---

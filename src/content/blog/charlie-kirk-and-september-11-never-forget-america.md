@@ -1,7 +1,8 @@
 ---
 title: "Charlie Kirk and September 11 - Never Forget America!!!"
 description: "The Shocking Assassination of Charlie Kirk: A Tragic Loss, AI Deception, and Why Santa Clarita Real Estate Buyers Need to Act Now Before Rates Drop  TL;DR  Charlie Kirk's sudden death by gunshot on Se"
-publishDate: 2026-02-15T16:07:54.724698
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0911%20santa%20clarita%20open%20houses%20real%20estate%20update.png"
 source: "https://www.santaclaritaopenhouses.com/charlie-kirk-and-september-11-never-forget-america"
 ---

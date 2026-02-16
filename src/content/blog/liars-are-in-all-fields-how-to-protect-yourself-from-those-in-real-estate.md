@@ -1,7 +1,8 @@
 ---
 title: "Liars are in all fields, how to protect yourself from those in real estate"
 description: "Shocking Mortgage Rate Dips in Santa Clarita: Could This Be Your Last Chance to Buy Before Prices Explode?                 TL;DR: Mortgage rates are dipping just enough to make you rethink buying in S"
-publishDate: 2026-02-15T16:07:54.735570
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0905%20santa%20clarita%20open%20houses%20connor%20with%20honor%20update%20about%20how%20to%20protect%20yourselves%20in%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/liars-are-in-all-fields-how-to-protect-yourself-from-those-in-real-estate"
 ---

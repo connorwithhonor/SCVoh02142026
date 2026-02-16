@@ -1,7 +1,8 @@
 ---
 title: "What Your Santa Clarita Home Is Worth in 2025 – And What to Do Next"
 description: "Understanding your home's true value is the first step toward a successful sale. In 2025, with dynamic market shifts and evolving buyer preferences in Santa Clarita, knowing what your property is wort"
-publishDate: 2026-02-15T16:07:55.052550
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0226%20what%20is%20your%20santa%20clarita%20home%20worth%20in%202025%20and%20what%20you%20should%20do%20next.png"
 source: "https://www.santaclaritaopenhouses.com/what-your-santa-clarita-home-is-worth-in-2025-and-what-to-do-next"
 ---

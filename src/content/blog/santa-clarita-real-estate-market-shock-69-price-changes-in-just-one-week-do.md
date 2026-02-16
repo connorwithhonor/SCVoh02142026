@@ -1,7 +1,8 @@
 ---
 title: "What happens if a house didn't sell? How do I find out what happened?"
 description: "..."
-publishDate: 2026-02-15T16:07:55.504135
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-shock-69-price-changes-in-just-one-week-do"
 ---
 

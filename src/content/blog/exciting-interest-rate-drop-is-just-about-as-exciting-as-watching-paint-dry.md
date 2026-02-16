@@ -1,7 +1,8 @@
 ---
 title: "Exciting interest rate drop is just about as exciting as watching paint dry"
 description: "We have been told, buy the experts, interest rates are dropping soon. I have been a long time advocate of telling people never buy a home predicated on what other people are telling you about somethin"
-publishDate: 2026-02-15T16:07:55.462141
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/gun%20xlfunnymanincautiontapeshakinghand.jpg"
 source: "https://www.santaclaritaopenhouses.com/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry"
 ---

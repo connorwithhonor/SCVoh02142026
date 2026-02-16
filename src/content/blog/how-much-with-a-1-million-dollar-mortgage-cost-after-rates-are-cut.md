@@ -1,7 +1,8 @@
 ---
 title: "How much with a 1 million dollar mortgage cost after rates are cut"
 description: "The purchase price on average in the Santa Clarita Valley CA as of September 2024 is about 900k. That's $900,000..00 for those of you that like to not be tricked by a simple looking number. It's like "
-publishDate: 2026-02-15T16:07:55.456138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/how%20much%20more%20buying%20power%20in%20Santa%20Clarita%20real%20estate%20this%20september.png"
 source: "https://www.santaclaritaopenhouses.com/how-much-with-a-1-million-dollar-mortgage-cost-after-rates-are-cut"
 ---

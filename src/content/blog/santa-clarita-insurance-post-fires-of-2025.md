@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita insurance post Fires of 2025"
 description: "Navigating the Complex World of Insurance and Real Estate in Santa Clarita  Insights from Connor with Honor, First Responder Realtor  When I say \"real estate,\" I'm not just talking about buying or s"
-publishDate: 2026-02-15T16:07:55.120598
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0201%20YOU%20need%20to%20check%20the%20insurance%20on%20the%20santa%20clarita%20home%20you%20are%20planning%20on%20buying%20or%20selling.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-insurance-post-fires-of-2025"
 ---

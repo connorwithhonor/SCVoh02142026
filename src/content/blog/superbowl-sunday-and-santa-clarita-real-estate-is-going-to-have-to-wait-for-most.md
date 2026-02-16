@@ -1,7 +1,8 @@
 ---
 title: "Superbowl Sunday and Santa Clarita real estate is going to have to wait for most"
 description: "Santa Clarita Real Estate Market Update: 526 Active Listings and Market Trends  The Santa Clarita real estate market is undergoing significant changes in early 2025. With 526 active listings, inventor"
-publishDate: 2026-02-15T16:07:55.093570
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 author: "Connor with Honor"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/superbowl%20I%20will%20not%20be%20watching%20but%20today%20is%20the%20santa%20clarita%20real%20estate%20update%20and%20the%20ai%20commercial%20would%20be%20nice.png"
 source: "https://www.santaclaritaopenhouses.com/superbowl-sunday-and-santa-clarita-real-estate-is-going-to-have-to-wait-for-most"

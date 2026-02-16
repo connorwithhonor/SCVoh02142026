@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence real estate report in Valencia CA Human Initiated"
 description: "Santa Clarita Real Estate Market Overview – Week of September 25, 2024  As of Day 269 of 2024, the Santa Clarita Valley real estate market shows a dynamic landscape, with 528 active residential listin"
-publishDate: 2026-02-15T16:07:55.441621
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/real%20estate%20update%20Artificial%20Intelligence%20in%20Valencia%20market%20reporting.png"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated"
 ---

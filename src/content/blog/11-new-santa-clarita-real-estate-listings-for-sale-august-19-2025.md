@@ -1,7 +1,8 @@
 ---
 title: "11 New Santa Clarita real estate listings for sale August 19, 2025"
 description: "Why Santa Clarita's Hottest New Listings Disappear Fast – And How to Snag Yours in 2025                 TL;DR: The Santa Clarita real estate market is a whirlwind, with new listings vanishing faster t"
-publishDate: 2026-02-15T16:07:54.763180
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/08192025%20santa%20clarita%20open%20houses%20are%20for%20sale%20in%20the%20santa%20clarita%20valley%20new%20listings%2011%20as%20of%20today.png"
 source: "https://www.santaclaritaopenhouses.com/11-new-santa-clarita-real-estate-listings-for-sale-august-19-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "First responder realtor in Santa Clarita Connor with Honor daily show 284-2024"
 description: "Welcome to October 10, 2024 everyone. I'm connor with honor and today is the 284th day of 2024.  Connor with Honor: Your First Responder Realtor in Santa Clarita - Daily Show 284 (2024)  Real Estate M"
-publishDate: 2026-02-15T16:07:55.414298
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2024%20284%20first%20responder%20realtor%20connor%20with%20honor%20santa%20clarita%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024"
 ---

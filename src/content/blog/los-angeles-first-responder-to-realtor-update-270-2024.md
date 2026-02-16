@@ -1,7 +1,8 @@
 ---
 title: "Los Angeles first responder to realtor update 270-2024"
 description: "I feel like Dr. Frankenstein when using the various AI models. Today, Meta seems like the winner. The data field is not large enough to eat all the data with the new open ai mini models, or the full 0"
-publishDate: 2026-02-15T16:07:55.440621
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/270-2024%20how%20much%20in%20real%20estate%20repairs%20or%20credits%20is%20bad%20or%20worse.png"
 source: "https://www.santaclaritaopenhouses.com/los-angeles-first-responder-to-realtor-update-270-2024"
 ---

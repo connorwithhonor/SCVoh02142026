@@ -1,7 +1,8 @@
 ---
 title: "2024-263 The FED reduced the rate to 4.75-5.00 percent!"
 description: "What exactly does that mean?  Federal Funds Rate (Fed Rate):  The Federal Funds Rate is the interest rate that banks charge each other to borrow money for very short periods, usually overnight. The Fe"
-publishDate: 2026-02-15T16:07:55.447125
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/263%20santa%20clarita%20real%20estate%20news%20and%20market%20update%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/2024-263-the-fed-reduced-the-rate-to-475-500-percent"
 ---

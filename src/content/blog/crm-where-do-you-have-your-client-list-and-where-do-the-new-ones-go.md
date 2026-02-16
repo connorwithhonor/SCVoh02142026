@@ -1,7 +1,8 @@
 ---
 title: "CRM where do you have your client list and where do the new ones go?"
 description: "Shocking Truth: How AI-Powered CRMs Can Skyrocket Your Real Estate Game in Santa Clarita                 TL;DR: As a former LAPD cop turned Santa Clarita real estate pro (CALDRE 01238257), I'm spillin"
-publishDate: 2026-02-15T16:07:54.775635
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0814%20revolutionize%20your%20ai%20tools%20for%20santa%20clarita%20artificial%20intelligence%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/crm-where-do-you-have-your-client-list-and-where-do-the-new-ones-go"
 ---

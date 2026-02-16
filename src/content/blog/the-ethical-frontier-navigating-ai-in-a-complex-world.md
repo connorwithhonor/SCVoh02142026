@@ -1,7 +1,8 @@
 ---
 title: "The Ethical Frontier: Navigating AI in a Complex World"
 description: "The Ethical Frontier: Navigating AI in a Complex World  Artificial intelligence (AI) is revolutionizing how we live, work, and interact. From streamlining workflows to predicting complex patterns, AI "
-publishDate: 2026-02-15T16:07:55.308643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11222024%20artificial%20intelligence%20ethics%20and%20rationale%20sq.png"
 source: "https://www.santaclaritaopenhouses.com/the-ethical-frontier-navigating-ai-in-a-complex-world"
 ---

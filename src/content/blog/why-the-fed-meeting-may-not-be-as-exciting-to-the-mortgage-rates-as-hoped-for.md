@@ -1,7 +1,8 @@
 ---
 title: "Why the Fed Meeting may not be as exciting to the mortgage rates as hoped for"
 description: "The Fed's Impending Rate Slash: Will It Ignite a Santa Clarita Buying Frenzy or Just Fizzle Out Like Last Year's Hype?  TL;DR      As the Federal Reserve teeters on announcing a potential cut to the f"
-publishDate: 2026-02-15T16:07:54.718192
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0917%20fed%20rate%20may%20not%20be%20great.png"
 source: "https://www.santaclaritaopenhouses.com/why-the-fed-meeting-may-not-be-as-exciting-to-the-mortgage-rates-as-hoped-for"
 ---

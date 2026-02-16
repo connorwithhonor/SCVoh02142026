@@ -1,7 +1,8 @@
 ---
 title: "Top 20 fat loss Q and A explained by your Fat to Fit realtor I want to help you"
 description: "How I Lost Over 135 Pounds of Fat and Reclaimed My Health                  How I Lost Over 135 Pounds of Fat and Reclaimed My Health   Welcome to my blog! I'm Connor, sometimes referred to as \"Connor"
-publishDate: 2026-02-15T16:07:55.084457
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/135%20fat%20pounds%20torched%20in%20seven%20and%20one%20half%20months%20by%20Connor%20with%20Honor%20homemuscle%20on%20youtube.png"
 source: "https://www.santaclaritaopenhouses.com/top-20-fat-loss-q-and-a-explained-by-your-fat-to-fit-realtor-i-want-to-help-you"
 ---

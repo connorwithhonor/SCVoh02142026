@@ -1,7 +1,8 @@
 ---
 title: "2025 is the year of the Open House - Santa Clarita Open Houses"
 description: "Fatherly Voice, Worldly Wisdom, and a Dash of Sarcasm Just Between Us…  Welcome, dear reader, to a deep dive into why I believe 2025 is shaping up to be the year of the open house—especially here in t"
-publishDate: 2026-02-15T16:07:55.202682
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2025%20The%20Year%20of%20the%20open%20house%20at%20Santa%20Clarita%20Open%20Houses.png"
 source: "https://www.santaclaritaopenhouses.com/2025-is-the-year-of-the-open-house-santa-clarita-open-houses"
 ---

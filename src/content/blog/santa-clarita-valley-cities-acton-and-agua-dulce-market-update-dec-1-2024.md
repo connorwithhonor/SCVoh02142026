@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Valley cities Acton and Agua Dulce market update Dec 1, 2024"
 description: "Acton and Agua Dulce Real Estate Market Insights – December 2024  Welcome to today's Acton and Agua Dulce Real Estate Market Watch! As your trusted First Responder Realtor, I'm here to provide valuabl"
-publishDate: 2026-02-15T16:07:55.283382
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Acton%20and%20Agua%20Dulce%20market%20update%20first%20responder%20realtor%20connor%20with%20honor%20top%20real%20estate%20agent%20santa%20clarita%20valley%20landscape.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-valley-cities-acton-and-agua-dulce-market-update-dec-1-2024"
 ---

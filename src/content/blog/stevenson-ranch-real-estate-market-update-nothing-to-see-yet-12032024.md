@@ -1,7 +1,8 @@
 ---
 title: "Stevenson Ranch real estate market update nothing to see, yet - 12.03.2024"
 description: "Stevenson Ranch Real Estate Market Update  Introduction  Welcome to the Stevenson Ranch Real Estate Market Update! Today is December 3rd, 2024, the 337th day of the year, and we're in the 49th week of"
-publishDate: 2026-02-15T16:07:55.281382
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Stevenson%20Ranch%20Market%20Update%2012.03.2024.png"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-real-estate-market-update-nothing-to-see-yet-12032024"
 ---

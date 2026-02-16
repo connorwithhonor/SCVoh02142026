@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Snapshot: 649 Active Listings, Pricing Steady, 11/2025"
 description: "Santa Clarita Real Estate Snapshot: Inventory Slips to 649, Prices Hold Firm, and What Smart Buyers & Sellers Should Do Next (Nov 7, 2025)  There are 48 shopping days until Christmas, and the Santa Cl"
-publishDate: 2026-02-15T16:07:54.680166
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20fat%20loss%20artificial%20intelligence%201107.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-snapshot-649-active-listings-pricing-steady-112025"
 ---

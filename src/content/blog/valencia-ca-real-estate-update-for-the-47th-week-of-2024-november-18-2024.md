@@ -1,7 +1,8 @@
 ---
 title: "Valencia CA real estate update for the 47th week of 2024 November 18, 2024"
 description: "Valencia, CA Real Estate Market Update - November 18, 2024 | Week 47, Day 323  Welcome to the Valencia, CA real estate pulse for the week! We're looking at a market alive with opportunities, whether y"
-publishDate: 2026-02-15T16:07:55.327153
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11182024%20valencia%20california%20real%20estate%20update%20by%20connor%20with%20honor%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-ca-real-estate-update-for-the-47th-week-of-2024-november-18-2024"
 ---

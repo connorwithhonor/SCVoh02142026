@@ -1,7 +1,8 @@
 ---
 title: "Top Reasons Buyers Are Moving to Valencia in 2025"
 description: "Valencia, CA continues to be one of the most sought-after neighborhoods in the Santa Clarita Valley — and for good reason. In 2025, families, professionals, and investors alike are drawn to the blend "
-publishDate: 2026-02-15T16:07:54.964985
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-09%20140027.png"
 source: "https://www.santaclaritaopenhouses.com/top-reasons-buyers-are-moving-to-valencia-in-2025"
 ---

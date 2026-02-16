@@ -1,7 +1,8 @@
 ---
 title: "Real Estate slow down - Steroid therapy - Artificial Intelligence at I.Q. 148"
 description: "Unlock the 2025 Santa Clarita real estate market with 505 listings, dropping rates, and school-driven demand. Former LAPD officer and Realtor Connor MacIvor shares insider tips, AI strategies, and les"
-publishDate: 2026-02-15T16:07:54.744569
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/08302025%20daily%20news%20for%20connor%20with%20honorReal%20Estate%20Fat%20and%20muscle%20A.I.%20148iq%20no%20youtube.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-slow-down-steroid-therapy-artificial-intelligence-at-iq-148"
 ---

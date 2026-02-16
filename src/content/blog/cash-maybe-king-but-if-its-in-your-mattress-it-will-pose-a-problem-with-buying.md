@@ -1,7 +1,8 @@
 ---
 title: "Cash maybe king, but if it's in your mattress it will pose a problem with buying"
 description: "Santa Clarita Real Estate Market Update and The Dangers of Unverified Cash Transactions    By Connor MacIvor  Welcome back to the update. Whether you are watching, reading, or listening in the morning"
-publishDate: 2026-02-15T16:07:54.678166
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/dont%20give%20away%20mattress%20money%20to%20buy%20real%20estate%20be%20careful%20I'm%20connor%20with%20honor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/cash-maybe-king-but-if-its-in-your-mattress-it-will-pose-a-problem-with-buying"
 ---

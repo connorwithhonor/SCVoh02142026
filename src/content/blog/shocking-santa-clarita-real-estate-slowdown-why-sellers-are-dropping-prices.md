@@ -1,7 +1,8 @@
 ---
 title: "Shocking Santa Clarita Real Estate Slowdown: Why Sellers Are Dropping Prices"
 description: "Shocking Santa Clarita Real Estate Slowdown: Why Sellers Are Dropping Prices and Buyers Are Winning Big – Don't Miss This July 2025 Update!  TL;DR: The Santa Clarita real estate market is cooling off "
-publishDate: 2026-02-15T16:07:54.819956
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0728%20santa%20clarita%20open%20houses%20what%20you%20can%20do%20to%20get%20your%20home%20sold%20for%20the%20most.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-santa-clarita-real-estate-slowdown-why-sellers-are-dropping-prices"
 ---

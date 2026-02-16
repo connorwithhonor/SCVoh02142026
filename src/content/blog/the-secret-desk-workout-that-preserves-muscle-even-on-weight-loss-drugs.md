@@ -1,7 +1,8 @@
 ---
 title: "The Secret Desk Workout That Preserves Muscle Even on Weight Loss Drugs!)"
 description: "The Hidden Epidemic of Muscle Loss  Muscle atrophy isn't just a concern for seniors or bedridden patients. Modern lifestyles—coupled with weight-loss medications like Ozempic, Wegovy, and Zepbound—are"
-publishDate: 2026-02-15T16:07:55.111585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/secret%20deskworkout%20with%20purple%20dumbells%20to%20keep%20the%20muscle%20when%20taking%20weight%20loss%20drugs.png"
 source: "https://www.santaclaritaopenhouses.com/the-secret-desk-workout-that-preserves-muscle-even-on-weight-loss-drugs"
 ---

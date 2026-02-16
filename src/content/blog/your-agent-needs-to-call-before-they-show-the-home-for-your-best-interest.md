@@ -1,7 +1,8 @@
 ---
 title: "Your agent needs to call before they show the home for your best interest"
 description: "Your Agent Needs to Call Before They Show the Home—Why It's Crucial for Your Best Interest  Intro: Trusting Your First Responder Realtor  Today's an important day for Santa Clarita residents. It's vot"
-publishDate: 2026-02-15T16:07:55.359370
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/310%20hire%20an%20agent%20in%20santa%20clarita%20that%20has%20the%20backbone%20to%20work%20hard%20for%20you%20in%20SCV%20realty.png"
 source: "https://www.santaclaritaopenhouses.com/your-agent-needs-to-call-before-they-show-the-home-for-your-best-interest"
 ---

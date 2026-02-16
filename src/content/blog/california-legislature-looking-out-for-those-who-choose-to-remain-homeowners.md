@@ -1,7 +1,8 @@
 ---
 title: "California Legislature looking out for those who choose to remain homeowners?"
 description: "Shocking New CA Law Could Torch Your Santa Clarita Home Sale – Plus the Insider Market Scoop That'll Save You Thousands in 2025!                  TL;DR: California's new Assembly Bill 3074 just droppe"
-publishDate: 2026-02-15T16:07:54.714188
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AB%203074%20santa%20clarita%20open%20houses%20more%20regulation%20for%20california%20homeowners%20by%20the%20govenor%200920.png"
 source: "https://www.santaclaritaopenhouses.com/california-legislature-looking-out-for-those-who-choose-to-remain-homeowners"
 ---

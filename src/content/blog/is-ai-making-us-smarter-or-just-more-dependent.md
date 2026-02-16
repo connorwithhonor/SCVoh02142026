@@ -1,7 +1,8 @@
 ---
 title: "Is AI Making Us Smarter or Just More Dependent?"
 description: "A Deep Dive into the Role of Artificial Intelligence in Our Lives  Artificial intelligence (AI) has rapidly transitioned from science fiction to a daily reality, touching nearly every aspect of modern"
-publishDate: 2026-02-15T16:07:55.310643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11212024%20is%20using%20ai%20cheating%20for%20those%20of%20us%20in%20our%2050s%20and%20beyond.png"
 source: "https://www.santaclaritaopenhouses.com/is-ai-making-us-smarter-or-just-more-dependent"
 ---

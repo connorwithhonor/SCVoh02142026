@@ -1,7 +1,8 @@
 ---
 title: "299 - 2024 Santa Clarita real estate market update - more inventory slowing"
 description: "Santa Clarita Real Estate Market: Active Listings, Market Insights, and Expert Tips from Your First Responder Realtor  If you're looking to buy or sell a home in Santa Clarita, you're in the right pla"
-publishDate: 2026-02-15T16:07:55.387740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/299%20Santa%20Clarita%20Valley%202024%20election%20market%20slowdown%20by%20the%20First%20Responder%20Realtor.png"
 source: "https://www.santaclaritaopenhouses.com/299-2024-santa-clarita-real-estate-market-update-more-inventory-slowing"
 ---

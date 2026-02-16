@@ -1,7 +1,8 @@
 ---
 title: "The Ultimate Guide to Open Houses in Santa Clarita: What to Expect in 2025"
 description: "The Ultimate Guide to Open Houses in Santa Clarita: What to Expect and How to Prepare  Open houses play a pivotal role in the real estate journey, whether you're buying or selling a home. In Santa Cla"
-publishDate: 2026-02-15T16:07:55.365625
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/The%20Ultimate%20Guide%20to%20Open%20Houses%20in%20Santa%20Clarita_%20What%20to%20Expect%20and%20How%20to%20Prepare%20in%202025.webp"
 source: "https://www.santaclaritaopenhouses.com/the-ultimate-guide-to-open-houses-in-santa-clarita-what-to-expect-in-2025"
 ---

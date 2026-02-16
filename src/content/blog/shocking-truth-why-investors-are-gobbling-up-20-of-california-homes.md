@@ -1,7 +1,8 @@
 ---
 title: "Shocking Truth: Why Investors Are Gobbling Up 20% of California Homes"
 description: "Shocking Truth: Why Investors Are Gobbling Up 20% of California Homes – And What It Means for Your Santa Clarita Real Estate Hunt  TL;DR: Investors own nearly a fifth of California's homes, but in San"
-publishDate: 2026-02-15T16:07:54.817379
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Oh,%20you%E2%80%99re%20an%20investor%20santa%20clarita%20real%20estate%200729%20instagram%20connor%20with%20honor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-truth-why-investors-are-gobbling-up-20-of-california-homes"
 ---

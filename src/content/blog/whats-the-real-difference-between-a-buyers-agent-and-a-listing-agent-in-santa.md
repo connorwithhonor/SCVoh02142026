@@ -1,7 +1,8 @@
 ---
 title: "What's the Real Difference Between a Buyer's Agent and a Listing Agent in Santa"
 description: "TL;DR  A buyer's agent represents YOU and your interests when purchasing a home. A listing agent represents the SELLER and their interests when selling a home. In 2026, post-NAR settlement rules make "
-publishDate: 2026-02-15T16:07:54.621059
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-15%20173959.png"
 source: "https://www.santaclaritaopenhouses.com/whats-the-real-difference-between-a-buyers-agent-and-a-listing-agent-in-santa"
 ---

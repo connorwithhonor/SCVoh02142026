@@ -1,7 +1,8 @@
 ---
 title: "Halloween 2024 If your agent can show their strength you don't have to be scared"
 description: "Santa Clarita Real Estate Market: Your Complete 7-Day Snapshot for Smart Buyers and Sellers  Good morning, Santa Clarita! I'm Connor MacIvor, your First Responder Realtor, here to bring you the facts "
-publishDate: 2026-02-15T16:07:55.375314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/305%20the%20strong%20santa%20clarita%20real%20estate%20agent%20versus%20the%20weak%20santa%20clarita%20real%20estate%20agent.png"
 source: "https://www.santaclaritaopenhouses.com/halloween-2024-if-your-agent-can-show-their-strength-you-dont-have-to-be-scared"
 ---

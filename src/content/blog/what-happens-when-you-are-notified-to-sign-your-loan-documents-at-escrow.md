@@ -1,7 +1,8 @@
 ---
 title: "What happens when you are notified to sign your loan documents at escrow?"
 description: "Unlocking the Mystery: What Really Happens When You Sign Loan Documents at Escrow?  TL;DR                 Signing loan documents at escrow is a make-or-break moment in your Santa Clarita home-buying j"
-publishDate: 2026-02-15T16:07:54.762180
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0820%20signing%20loan%20documents%20when%20buying%20a%20santa%20clarita%20home%20by%20connor%20with%20honor%20at%20santa%20clarita%20open%20houses%20youtube.jpg"
 source: "https://www.santaclaritaopenhouses.com/what-happens-when-you-are-notified-to-sign-your-loan-documents-at-escrow"
 ---

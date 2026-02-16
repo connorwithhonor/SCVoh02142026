@@ -1,7 +1,8 @@
 ---
 title: "166 Open Houses have been scheduled in the Santa Clarita Valley today"
 description: "Welcome to today's edition of the Santa Clarita Valley Real Estate Market Watch! I'm Connor with Honor, your trusted Realtor and retired first responder, here to bring you the latest updates on our lo"
-publishDate: 2026-02-15T16:07:55.504135
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Photo%20on%206-28-24%20at%2014.58.jpeg"
 source: "https://www.santaclaritaopenhouses.com/166-open-houses-have-been-scheduled-in-the-santa-clarita-valley-today"
 ---

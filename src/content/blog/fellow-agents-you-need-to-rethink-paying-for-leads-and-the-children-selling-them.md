@@ -1,7 +1,8 @@
 ---
 title: "Fellow Agents you need to rethink paying for leads and the Children selling them"
 description: "Why AgenticHonor.com Is the Ultimate Real Estate Lead Generation System for Agents  TL;DR  AgenticHonor.com, created by Connor MacIvor, offers a revolutionary all-in-one AI-powered platform for real e"
-publishDate: 2026-02-15T16:07:54.934406
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20MacIvor%20agentic%20honor%20real%20estate%20help%200623%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/fellow-agents-you-need-to-rethink-paying-for-leads-and-the-children-selling-them"
 ---

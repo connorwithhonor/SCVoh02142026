@@ -1,7 +1,8 @@
 ---
 title: "What if Fasting was the way we all torched off body fat and kept healthy?"
 description: "Raw Links:   	https://youtu.be/gq3asn4gRQI?si=IpWbVQ50N_YQ4oj8 	https://posts.gle/7eeSYW 	https://www.buzzsprout.com/298109/episodes/16794298      The Journey from Fat to Fit: Fasting, Hormone Balance"
-publishDate: 2026-02-15T16:07:55.020519
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Fasting%20is%20a%20game%20changer.%20It%20increases%20metabolic%20rate.%2010%25%204%20day%20fast.%20HGH%20increases%20preserving%20muscle%20-%20FAT%20gets%20vanquished%20-%20Fastest%20way%20to%20drop%20your%20extra%20storage%20in%20your%20belly,%20visceral%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/what-if-fasting-was-the-way-we-all-torched-off-body-fat-and-kept-healthy"
 ---

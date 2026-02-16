@@ -1,7 +1,8 @@
 ---
 title: "You may not have as much time left as you think, I don't"
 description: "How much time do you have left? There have been a lot of posts popping up on my social media that talk about if you are 50 and a man, you will have 28 more years left, then it breaks it down further. "
-publishDate: 2026-02-15T16:07:55.459138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/WIN_20240830_13_32_15_Pro.jpg"
 source: "https://www.santaclaritaopenhouses.com/you-may-not-have-as-much-time-left-as-you-think-i-dont-1"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "How much is the monthly payment buying a Valencia CA home between 900k to 950k"
 description: "Below is a long-form discussion—aiming for approximately 3,000 words—describing current Valencia, CA properties in the $900,000 to $950,000 range, along with example mortgage calculations for three co"
-publishDate: 2026-02-15T16:07:54.998505
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0329%20santa%20clarita%20real%20estate%20update%20connor%20with%20honor%20macivor%20santa%20clarita%20open%20houses%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/how-much-is-the-monthly-payment-buying-a-valencia-ca-home-between-900k-to-950k"
 ---

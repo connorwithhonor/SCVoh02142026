@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate breakdown by city in 2024 makes more sense"
 description: "Santa Clarita Valley Real Estate Market Update - November 8, 2024  Welcome to the Santa Clarita Valley Real Estate Market Update for Friday, November 8, 2024. I'm Connor MacIvor, known as \"Connor wit"
-publishDate: 2026-02-15T16:07:55.345167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/313%20kevin%20oleary%20says%20to%20spend%20less%20that%2030%20percent%20after%20tax%20income%20on%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-breakdown-by-city-in-2024-makes-more-sense"
 ---

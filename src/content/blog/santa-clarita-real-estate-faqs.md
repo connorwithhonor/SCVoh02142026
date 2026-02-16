@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate FAQs"
 description: "Santa Clarita Real Estate FAQs: Everything You Need to Know  If you're buying or selling a home in Santa Clarita, you're bound to have questions. The real estate market can be complex, especially in a"
-publishDate: 2026-02-15T16:07:55.421314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-faqs"
 ---
 

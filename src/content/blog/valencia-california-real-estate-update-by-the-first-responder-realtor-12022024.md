@@ -1,7 +1,8 @@
 ---
 title: "Valencia California real estate update by the First Responder Realtor 12022024"
 description: "Valencia, CA Real Estate: A Comprehensive Market Update for December 2024  Welcome to the Valencia, CA real estate market update for December 2024! Whether you're buying, selling, or simply exploring "
-publishDate: 2026-02-15T16:07:55.282382
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20and%20Valencia%20CA%20real%20estate%20update%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-california-real-estate-update-by-the-first-responder-realtor-12022024"
 ---

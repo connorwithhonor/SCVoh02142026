@@ -1,7 +1,8 @@
 ---
 title: "July 2025 – Inventory Shifts, Prices Adjust, and Opportunities Await in SCV CA"
 description: "Santa Clarita Real Estate Market Update: July 2025 – Inventory Shifts, Prices Adjust, and Opportunities Await  Hey there, Santa Clarita home buyers, sellers, and investors! I'm Connor MacIvor, your fi"
-publishDate: 2026-02-15T16:07:54.862269
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20w%20honor%2007152025%20santa%20clarita%20real%20estate%20update%20by%20connor%20with%20honon%20macivor%20santa%20clarita%20open%20houses%20facvebook.png"
 source: "https://www.santaclaritaopenhouses.com/july-2025-inventory-shifts-prices-adjust-and-opportunities-await-in-scv-ca"
 ---

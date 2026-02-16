@@ -1,7 +1,8 @@
 ---
 title: "Value when it comes to hiring a Santa Clarita buyer's agent X Police Officer"
 description: "I was reading a WSJ, Wall Street Journal article by Veronica Dagher, and she, as always, nailed it.  There was a quote by an attorney who is in a buyer's mood for real estate, he offered that he had n"
-publishDate: 2026-02-15T16:07:55.465508
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/BIG%20FAT.png"
 source: "https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer"
 ---

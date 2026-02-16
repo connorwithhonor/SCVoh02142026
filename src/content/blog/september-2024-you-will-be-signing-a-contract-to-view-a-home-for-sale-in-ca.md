@@ -1,7 +1,8 @@
 ---
 title: "September 2024 you will be signing a contract to view a home for sale in CA"
 description: "Big changes which are starting to get into full swing within the real estate realm. I'm a Realtor serving Los Angeles and the areas surrounding it. If you are going to keep a large following, you need"
-publishDate: 2026-02-15T16:07:55.458138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Buyer%20Broker%20Contracts.png"
 source: "https://www.santaclaritaopenhouses.com/september-2024-you-will-be-signing-a-contract-to-view-a-home-for-sale-in-ca"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "What does $750.000 buy you in Santa Clarita California in 2025"
 description: "Santa Clarita Open Houses - March 16, 2025       Santa Clarita Open Houses and Real Estate Opportunities - March 16, 2025     Author: Connor with Honor   Reference: Content inspired by my book on Sant"
-publishDate: 2026-02-15T16:07:55.017520
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20update%20for%200316%20and%20connor%20with%20honor%20macivor%20first%20responder%20realtor%20santa%20clarita%20open%20houses%20fb.png"
 source: "https://www.santaclaritaopenhouses.com/what-does-750000-buy-you-in-santa-clarita-california-in-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "AI and the three Connor with Honor Laws to safe and responsible Artificial Intel"
 description: "AI with Honor: A First Responder's Journey into the World of Artificial Intelligence  Welcome to AI with Honor, where we explore the profound, sometimes unsettling, and endlessly fascinating world of "
-publishDate: 2026-02-15T16:07:55.326153
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/aiwithhonor.png"
 source: "https://www.santaclaritaopenhouses.com/ai-and-the-three-connor-with-honor-laws-to-safe-and-responsible-artificial-intel"
 ---

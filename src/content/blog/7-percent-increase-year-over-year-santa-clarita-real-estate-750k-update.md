@@ -1,7 +1,8 @@
 ---
 title: ".7 percent increase year over year Santa Clarita real estate 750k Update"
 description: "Welcome to today's Santa Clarita real estate market update, where we dive deep into current trends, highlight opportunities, and share actionable advice for buyers and sellers alike. As of today, Nove"
-publishDate: 2026-02-15T16:07:55.371802
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/306%20home%20prices%20increase%20point%20seven%20percent%20santa%20clarita%20valley%20compared%20with%20last%20year%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/7-percent-increase-year-over-year-santa-clarita-real-estate-750k-update"
 ---

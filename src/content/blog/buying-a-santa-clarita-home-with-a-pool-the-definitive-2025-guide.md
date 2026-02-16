@@ -1,7 +1,8 @@
 ---
 title: "Buying a Santa Clarita Home with a Pool: The Definitive 2025 Guide”"
 description: "Owning a home with a pool in Santa Clarita isn't just about beating the heat—it's a lifestyle choice that adds both recreational enjoyment and potential value to your property. From luxurious backyard"
-publishDate: 2026-02-15T16:07:55.210186
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Buying%20a%20Santa%20Clarita%20Home%20with%20a%20Pool%20The%20Definitive%202025%20Guide%E2%80%9D.png"
 source: "https://www.santaclaritaopenhouses.com/buying-a-santa-clarita-home-with-a-pool-the-definitive-2025-guide"
 ---

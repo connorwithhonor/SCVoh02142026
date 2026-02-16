@@ -1,7 +1,8 @@
 ---
 title: "Nailing the Relocation Package: Key Benefits That Attract and Retain Employees"
 description: "Nailing the Relocation Package: Key Benefits That Attract and Retain Employees By Connor with Honor, The First Responder Realtor   Table of Contents   	Introduction 	Why Relocation Packages Matter in "
-publishDate: 2026-02-15T16:07:55.175668
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20relocation%20certified%20real%20estate%20agent%20-%20relocation%20package%20benefits.png"
 source: "https://www.santaclaritaopenhouses.com/nailing-the-relocation-package-key-benefits-that-attract-and-retain-employees"
 ---

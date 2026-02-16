@@ -1,7 +1,8 @@
 ---
 title: "Types of Santa Clarita residences currently available and the differences today"
 description: "Connor with Honor's Santa Clarita Real Estate Update - July 17, 2024  Welcome to today's Market Watch with Connor with Honor at SantaClaritaOpenHouses.com! This episode is packed with valuable insight"
-publishDate: 2026-02-15T16:07:55.490129
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Housing%20types%20and%20construction%20types%20in%20Santa%20Clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/types-of-santa-clarita-residences-currently-available-and-the-differences-today"
 ---

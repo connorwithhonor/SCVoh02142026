@@ -1,7 +1,8 @@
 ---
 title: "Virtual Open Houses: The Future of Real Estate in Santa Clarita"
 description: "<meta name="
-publishDate: 2026-02-15T16:07:55.228698
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/virtual%20open%20houses%20the%20future%20of%20real%20estate%20in%20santa%20clarita.png"
 source: "https://www.santaclaritaopenhouses.com/virtual-open-houses-the-future-of-real-estate-in-santa-clarita"
 ---

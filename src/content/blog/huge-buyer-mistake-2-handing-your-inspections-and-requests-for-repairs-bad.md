@@ -1,7 +1,8 @@
 ---
 title: "HUGE buyer mistake 2 - handing your inspections and requests for repairs bad"
 description: "The Second Biggest Mistake Santa Clarita Home Buyers Make: Ignoring the Neighbors – And Why It Can Ruin Your Dream Home      TL;DR: The second biggest mistake Santa Clarita home buyers make after thei"
-publishDate: 2026-02-15T16:07:54.769398
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0817%20santa%20clarita%20home%20buyer%20questions%20answered.png"
 source: "https://www.santaclaritaopenhouses.com/huge-buyer-mistake-2-handing-your-inspections-and-requests-for-repairs-bad"
 ---

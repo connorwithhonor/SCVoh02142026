@@ -1,7 +1,8 @@
 ---
 title: "Buying a Santa Clarita with nothing down or 3.5 percent down check access"
 description: "Unlocking Santa Clarita Real Estate: FHA and VA Loans Demystified  Date: November 10th, 2024   Are you eyeing the vibrant Santa Clarita real estate market but feeling overwhelmed by financing options?"
-publishDate: 2026-02-15T16:07:55.339660
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11102024%20zero%20down%20home%20loans%20santa%20clarita%20va%20and%20fha%20loans%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/buying-a-santa-clarita-with-nothing-down-or-35-percent-down-check-access"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita open houses presents Acton and Agua Dulce update 12.22.2024"
 description: "Santa Clarita, Acton, and Agua Dulce Real Estate Market Update: Insights from Connor With Honor, Your First Responder Realtor  Welcome to this in-depth real estate market update for Santa Clarita Vall"
-publishDate: 2026-02-15T16:07:55.247254
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santaclaritaopenhouses%20presents%20Acton%20and%20Agua%20Dulce%20real%20estate%20update%20by%20Connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-presents-acton-and-agua-dulce-update-12222024"
 ---

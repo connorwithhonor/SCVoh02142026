@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Multiple Offers on Most Homes Placed on the Market"
 description: "Santa Clarita Real Estate Market Update - July 15th, 2024  Hey Santa Clarita! It's July 15th, 2024. I'm Connor with Honor, and here's your daily real estate update.  Before we dive into the numbers, a"
-publishDate: 2026-02-15T16:07:55.493128
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20Open%20houses%20buyers%20real%20estate%20market.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-multiple-offers-on-most-homes-placed-on-the-market"
 ---

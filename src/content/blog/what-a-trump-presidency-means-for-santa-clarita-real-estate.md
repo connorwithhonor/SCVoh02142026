@@ -1,7 +1,8 @@
 ---
 title: "What a Trump Presidency means for Santa Clarita real estate"
 description: "What a Trump Presidency Means for Santa Clarita Real Estate (google business update)  In today's fast-evolving market, we are in the midst of significant shifts that affect every home buyer, seller, a"
-publishDate: 2026-02-15T16:07:55.354167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/311%20What%20a%20trump%20presidency%20means%20to%20Santa%20Clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/what-a-trump-presidency-means-for-santa-clarita-real-estate"
 ---

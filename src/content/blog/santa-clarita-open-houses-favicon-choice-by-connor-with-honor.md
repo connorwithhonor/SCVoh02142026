@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Open houses favicon choice by Connor with honor"
 description: "Down to the favicon. I have some of the most important items at my clients' fingertips. My concept for a real estate website has been evolving since 1998, when I first got into the business. That was "
-publishDate: 2026-02-15T16:07:55.461138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20open%20houses%20santa%20clarita%20website%20for%20homes.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-favicon-choice-by-connor-with-honor"
 ---

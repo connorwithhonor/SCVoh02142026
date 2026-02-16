@@ -1,7 +1,8 @@
 ---
 title: "First Responder Realtor daily Valencia Single Family Homes inventory update 289"
 description: "Valencia, Santa Clarita Real Estate Market Update – October 15, 2024  Good day, everyone! I'm First Responder Realtor Connor with Honor, here to protect and serve your real estate needs in the Santa C"
-publishDate: 2026-02-15T16:07:55.405298
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/xl%20couple%20moving%20boxes%20barefoot%20hardwood%20floor.jpeg"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-daily-valencia-single-family-homes-inventory-update-289"
 ---

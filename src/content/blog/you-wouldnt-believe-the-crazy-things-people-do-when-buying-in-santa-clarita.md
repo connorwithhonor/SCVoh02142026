@@ -1,7 +1,8 @@
 ---
 title: "You wouldn't believe the crazy things people do when buying in Santa Clarita"
 description: "5 Shocking Mistakes Santa Clarita Home Buyers Make That Could Cost You Your Dream Home (or Your Wallet)    TL;DR: Buying a home in Santa Clarita's fast-paced real estate market can be a wild ride, but"
-publishDate: 2026-02-15T16:07:54.827384
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Top%205%20buyer%20mistakes%20to%20avoid%20when%20buying%20santa%20clarita%20real%20estate%200726.jpg"
 source: "https://www.santaclaritaopenhouses.com/you-wouldnt-believe-the-crazy-things-people-do-when-buying-in-santa-clarita"
 ---

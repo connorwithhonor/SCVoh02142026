@@ -1,7 +1,8 @@
 ---
 title: "Using an LLM to understand and make your real estate agent's offers better"
 description: "Home Buyers: Use AI to Make Your Offers Better  In the world of real estate, innovation is reshaping how we approach buying and selling homes. While traditional strategies remain valuable, integrating"
-publishDate: 2026-02-15T16:07:55.312643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11212024%20ai%20artificial%20intelligence%20make%20your%20Home%20offers%20better%20to%20compete%20at%20a%20higher%20level.png"
 source: "https://www.santaclaritaopenhouses.com/using-an-llm-to-understand-and-make-your-real-estate-agents-offers-better"
 ---

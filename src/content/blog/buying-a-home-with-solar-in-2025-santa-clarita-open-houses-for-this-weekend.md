@@ -1,7 +1,8 @@
 ---
 title: "Buying a home with solar in 2025 189 Santa Clarita Open Houses for this weekend"
 description: "189 Santa Clarita Open Houses for March 15-16, 2025 — Your Ultimate Santa Clarita Real Estate Update    189 Santa Clarita Open Houses for March 15-16, 2025 — Your Ultimate Santa Clarita Real Estate Up"
-publishDate: 2026-02-15T16:07:55.019519
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 author: "Connor with Honor"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0315%20santa%20clarita%20open%20houses%20and%20real%20estate%20buying%20a%20home%20with%20solar%20panels%20and%20mello%20roos%20taxes%20with%20a%20high%20homeowners%20association%20fee%20fb.png"
 source: "https://www.santaclaritaopenhouses.com/buying-a-home-with-solar-in-2025-santa-clarita-open-houses-for-this-weekend"

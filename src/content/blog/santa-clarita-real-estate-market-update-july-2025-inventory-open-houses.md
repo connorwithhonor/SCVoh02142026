@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update: July 2025 Inventory, Open Houses"
 description: "Santa Clarita Real Estate Market Update: July 2025 Inventory, Open Houses, and Buyer Strategies  TL;DR  As of July 3, 2025, Santa Clarita Valley boasts 766 active real estate listings, including singl"
-publishDate: 2026-02-15T16:07:54.901391
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/holiday%20open%20houses%20are%20you%20missing%20your%20santa%20clarita%20dream%20home.jpg"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-july-2025-inventory-open-houses"
 ---

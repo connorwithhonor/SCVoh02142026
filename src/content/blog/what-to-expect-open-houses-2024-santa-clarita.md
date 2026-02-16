@@ -1,7 +1,8 @@
 ---
 title: "What to expect open houses 2024 Santa Clarita"
 description: "Santa Clarita Open Houses: What to Expect in 2024  Open houses provide a unique opportunity for potential buyers to explore properties firsthand, ask critical questions, and get a feel for both the ho"
-publishDate: 2026-02-15T16:07:55.428333
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/what-to-expect-open-houses-2024-santa-clarita"
 ---
 

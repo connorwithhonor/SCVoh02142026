@@ -1,7 +1,8 @@
 ---
 title: "Why Your Santa Clarita Home Offer Might Be Ignored in 2025 by home sellers"
 description: "Why Your Santa Clarita Home Offer Might Be Ignored – And How to Win the Real Estate Game in 2025      TL;DR: Submitting an offer on a Santa Clarita home is like stepping into a high-stakes poker game—"
-publishDate: 2026-02-15T16:07:54.774395
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0815%20when%20home%20sellers%20don't%20respond%20to%20santa%20clarita%20buyers%20offers%20by%20santa%20clarita%20open%20houses%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/why-your-santa-clarita-home-offer-might-be-ignored-in-2025-by-home-sellers"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Firing your Santa Clarita real estate agent in 2025, you would not be alone!"
 description: "Santa Clarita Real Estate Market Update: July 2025 Snapshot and Insider Tips  The Santa Clarita Valley real estate market is buzzing with activity, and if you're a homebuyer or seller, you need to sta"
-publishDate: 2026-02-15T16:07:54.892886
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20news%20by%20connor%20with%20honor%20realtor%20santa%20clarita%20valley%20ca%202025%200706.png"
 source: "https://www.santaclaritaopenhouses.com/firing-your-santa-clarita-real-estate-agent-in-2025-you-would-not-be-alone"
 ---

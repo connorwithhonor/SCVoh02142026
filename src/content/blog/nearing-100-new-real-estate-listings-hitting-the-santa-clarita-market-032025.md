@@ -1,7 +1,8 @@
 ---
 title: "Nearing 100 new real estate listings hitting the Santa Clarita Market 03/2025"
 description: "Santa Clarita Real Estate Update: On the Road to 100 New Listings in a Week                    Santa Clarita Real Estate Update: On the Road to 100 New Listings in a Week       Welcome to our comprehe"
-publishDate: 2026-02-15T16:07:55.047551
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0228%20Santa%20Clarita%20Open%20Houses%20real%20estate%20market%20update%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/nearing-100-new-real-estate-listings-hitting-the-santa-clarita-market-032025"
 ---

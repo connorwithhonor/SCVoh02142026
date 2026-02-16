@@ -1,7 +1,8 @@
 ---
 title: "479 active condos, homes and townhomes - like lions tigers and bears"
 description: "Santa Clarita Real Estate Market Update - July 26, 2024  Welcome to today's Santa Clarita real estate market update. I'm Connor MacIvor, your trusted advisor with Santa Clarita Open Houses. Today, we "
-publishDate: 2026-02-15T16:07:55.482624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20with%20honor%20at%20santa%20clarita%20open%20houses%20funny%20sharp%20stick.png"
 source: "https://www.santaclaritaopenhouses.com/479-active-condos-homes-and-townhomes-like-lions-tigers-and-bears"
 ---

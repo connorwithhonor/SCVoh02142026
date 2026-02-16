@@ -1,7 +1,8 @@
 ---
 title: "Buy a home with Zero dollars for down payment in Santa Clarita CA"
 description: "The State of Mortgage Lending in 2025 – What Buyers & Sellers Need to Know    The State of Mortgage Lending in 2025 – What Buyers & Sellers Need to Know  By Connor MacIvor – Santa Clarita's Top Realto"
-publishDate: 2026-02-15T16:07:55.096075
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Buy%20a%20home%20with%200%20down%20in%20Santa%20Clarita%20Valley%20even%20if%20you%20are%20not%20a%20veteran.png"
 source: "https://www.santaclaritaopenhouses.com/buy-a-home-with-zero-dollars-for-down-payment-in-santa-clarita-ca"
 ---

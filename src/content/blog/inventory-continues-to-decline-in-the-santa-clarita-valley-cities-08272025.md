@@ -1,7 +1,8 @@
 ---
 title: "Inventory continues to decline in the Santa Clarita Valley Cities - 08.27.2025"
 description: "Shocking Dip in Santa Clarita Listings: Is Now the Time to Buy?                 TL;DR: Santa Clarita's real estate market just took a surprising turn, dropping from over 800 listings to 753 in just we"
-publishDate: 2026-02-15T16:07:54.747676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0827%20shocking%20dip%20in%20santa%20clarita%20listings,%20homes,%20condos%20and%20townhomes%20for%20sale%20August%202025.png"
 source: "https://www.santaclaritaopenhouses.com/inventory-continues-to-decline-in-the-santa-clarita-valley-cities-08272025"
 ---

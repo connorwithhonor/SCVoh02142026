@@ -1,7 +1,8 @@
 ---
 title: "Starvation - AI coaching - Fat Kids changing destiny - AI for Lead Generation"
 description: "Intermittent Fasting Is Better Known as Starvation | Connor With Honor                Intermittent Fasting Is Better Known as Starvation         Is fasting really just another word for starvation? Or "
-publishDate: 2026-02-15T16:07:55.098080
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 author: "Connor With Honor"
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/AI%20is%20a%20great%20automator%20but%20what%20about%20as%20a%20lead%20generator%20by%20connor%20with%20honor%20ai%20for%20agents%20lead.png"
 source: "https://www.santaclaritaopenhouses.com/starvation-ai-coaching-fat-kids-changing-destiny-ai-for-lead-generation"

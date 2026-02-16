@@ -1,7 +1,8 @@
 ---
 title: "7 Mistakes Santa Clarita Homeowners Make When Selling – And How to Avoid Them"
 description: "Selling your home in Santa Clarita can be an exciting yet challenging process. Even the most experienced sellers can fall into common pitfalls that delay the sale or reduce your final sale price. In t"
-publishDate: 2026-02-15T16:07:55.060705
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/7%20mistakes%20homeowners%20make%20when%20selling%20in%20santa%20clarita%20ca.png"
 source: "https://www.santaclaritaopenhouses.com/7-mistakes-santa-clarita-homeowners-make-when-selling-and-how-to-avoid-them"
 ---

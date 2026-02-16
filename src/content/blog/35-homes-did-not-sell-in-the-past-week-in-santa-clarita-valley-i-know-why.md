@@ -1,7 +1,8 @@
 ---
 title: "35 homes did not sell in the past week in Santa Clarita Valley I know why"
 description: "The Ultimate Santa Clarita Real Estate Update: Market Trends, Insider Stories, and Essential Tips               The Ultimate Santa Clarita Real Estate Update: Market Trends, Insider Stories, and Essen"
-publishDate: 2026-02-15T16:07:55.028530
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/35%20homes%20cancelled%20and%20did%20not%20sell%20during%20their%20contractual%20time%20length%20in%20the%20santa%20clarita%20valley%20cities%20and%20I%20know%20why.png"
 source: "https://www.santaclaritaopenhouses.com/35-homes-did-not-sell-in-the-past-week-in-santa-clarita-valley-i-know-why"
 ---

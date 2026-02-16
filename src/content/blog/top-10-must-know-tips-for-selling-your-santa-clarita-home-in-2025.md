@@ -1,7 +1,8 @@
 ---
 title: "Top 10 Must-Know Tips for Selling Your Santa Clarita Home in 2025"
 description: "If you're considering selling your Santa Clarita property in 2025, you're entering a market that's both dynamic and data-driven. Inventory can fluctuate quickly, \"Coming Soon\" marketing tactics are "
-publishDate: 2026-02-15T16:07:55.206188
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Top%2010%20Must-Know%20Tips%20for%20Selling%20Your%20Santa%20Clarita%20Home%20in%202025.png"
 source: "https://www.santaclaritaopenhouses.com/top-10-must-know-tips-for-selling-your-santa-clarita-home-in-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Rise of Post Human Intelligence, PHI: navigating the future of Ai and ethics"
 description: "The Rise of Post-Human Intelligence (PHI): Navigating the Future of Artificial Intelligence and Ethics  Introduction  In the ever-evolving landscape of technology, the concept of Past Human Intelligen"
-publishDate: 2026-02-15T16:07:55.157122
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20with%20honor%20ethics%20about%20artificial%20intelligence%20as%20they%20relate%20to%20beyond%20human%20learning.png"
 source: "https://www.santaclaritaopenhouses.com/rise-of-post-human-intelligence-phi-navigating-the-future-of-ai-and-ethics"
 ---

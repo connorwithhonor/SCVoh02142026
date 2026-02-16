@@ -1,7 +1,8 @@
 ---
 title: "Buyers signing contracts to just view homes for sale is now mandatory"
 description: "In real estate, some changes involve what a home buyer will sign to view homes.  This stemmed from a judgment against the National Association of Realtors and is supposed to clear the waters and prote"
-publishDate: 2026-02-15T16:07:55.466507
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Insights%20about%20commissions%20by%20a%20Santa%20Clarita%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory"
 ---

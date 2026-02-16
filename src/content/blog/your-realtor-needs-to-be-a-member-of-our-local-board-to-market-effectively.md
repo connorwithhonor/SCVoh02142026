@@ -1,7 +1,8 @@
 ---
 title: "Your Realtor needs to be a member of our LOCAL Board to market effectively"
 description: "Welcome to the daily show for Santa Clarita Real Estate. I'm Connor with Honor, your local Realtor and a \"full member\" of multiple Boards of Realtors.   Why does this matter when it seems apparent t"
-publishDate: 2026-02-15T16:07:55.388740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/298%20Agent%20Fact%20listing%20with%20a%20non%20area%20agent%20puts%20sellers%20at%20risk%20Santa%20Clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/your-realtor-needs-to-be-a-member-of-our-local-board-to-market-effectively"
 ---

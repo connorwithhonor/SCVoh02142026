@@ -1,7 +1,8 @@
 ---
 title: "Racism cured once and for all, Will Artificial Intelligence save us from us?"
 description: "Will Artificial Intelligence End Racism or End Us All? A First Responder Realtor's Take on AI's Alien Nature  TL;DR: Artificial Intelligence (AI) could unify humanity against a common \"alien\" intell"
-publishDate: 2026-02-15T16:07:54.837520
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0721%20Artificial%20intelligence%20connor%20with%20honor%20at%20ai%20with%20honor%20top%20safety.png"
 source: "https://www.santaclaritaopenhouses.com/racism-cured-once-and-for-all-will-artificial-intelligence-save-us-from-us"
 ---

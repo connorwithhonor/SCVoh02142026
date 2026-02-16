@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update: Has Inventory Hit Critical Mass 06/2025"
 description: "Santa Clarita Real Estate Market Update: Has Inventory Hit Critical Mass in June 2025?  The Santa Clarita real estate market is buzzing with activity as we hit the midpoint of 2025. With 775 active li"
-publishDate: 2026-02-15T16:07:54.930408
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20market%20breaking%20point%20062425.jpg"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-has-inventory-hit-critical-mass-062025"
 ---

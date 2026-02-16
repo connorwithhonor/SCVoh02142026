@@ -1,7 +1,8 @@
 ---
 title: "Valencia real estate update for Santa Clarita California closing out Nov 2024"
 description: "Santa Clarita Real Estate: Valencia Market Update and Insights for November 2024In this blog, we dive into the latest trends and insights in Santa Clarita real estate, focusing specifically on the Val"
-publishDate: 2026-02-15T16:07:55.303355
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://images.unsplash.com/photo-1729698494106-70f24223578d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NzQyNTd8MHwxfHNlYXJjaHwxfHxWYWxlbmNpYSUyMG5laWdoYm9yaG9vZHxlbnwwfDB8fHwxNzMyNTU3ODk2fDA&ixlib=rb-4.0.3&q=80&w=1080"
 source: "https://www.santaclaritaopenhouses.com/valencia-real-estate-update-for-santa-clarita-california-closing-out-nov-2024"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Santa Clarita real estate pivot, Your exclusive market update and ai powered"
 description: "Connor with Honor        Santa Clarita Open Houses                                 Call or Text        661.400.1720         The Santa Clarita Real Estate Pivot: Your Exclusive Market Update & AI-Power"
-publishDate: 2026-02-15T16:07:54.670659
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1118%20santa%20clarita%20real%20estate%20open%20houses%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-santa-clarita-real-estate-pivot-your-exclusive-market-update-and-ai-powered"
 ---

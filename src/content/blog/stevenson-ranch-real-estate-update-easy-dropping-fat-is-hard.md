@@ -1,7 +1,8 @@
 ---
 title: "Stevenson Ranch real estate update easy Dropping FAT is hard"
 description: "Stevenson Ranch Real Estate Market Update – November 19, 2024  Day 324 of 2024 | Week 47  Welcome to today's Stevenson Ranch Real Estate Market Update, brought to you by me, Connor MacIvor—Connor with"
-publishDate: 2026-02-15T16:07:55.325153
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11192024%20stevenson%20ranch%20ca%20real%20estate%20and%20housing%20market%20update.png"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-real-estate-update-easy-dropping-fat-is-hard"
 ---

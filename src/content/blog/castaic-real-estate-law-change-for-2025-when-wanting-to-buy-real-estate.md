@@ -1,7 +1,8 @@
 ---
 title: "Castaic real estate law change for 2025 when wanting to buy real estate"
 description: "Comprehensive Real Estate Market Update: Castaic, CA – December 2024  Nestled in the northernmost reaches of the Santa Clarita Valley, Castaic, California, continues to be a sought-after destination f"
-publishDate: 2026-02-15T16:07:55.260733
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12142024%20AB2992%20Castaic%20real%20estate%20update%20by%20santa%20clarita%20open%20houses%20and%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-law-change-for-2025-when-wanting-to-buy-real-estate"
 ---

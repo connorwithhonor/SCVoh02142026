@@ -1,7 +1,8 @@
 ---
 title: "76 homes sold in Valencia of Santa Clarita Valley in the past 30 days"
 description: "Santa Clarita Real Estate Market Update – November 2024: What You Need to Know About Valencia's Real Estate Trends  Santa Clarita, California, is known for its vibrant communities, scenic parks, and f"
-publishDate: 2026-02-15T16:07:55.335658
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11112024%2076%20homes%20sold%20in%20valencia%20ca%20and%20buyers%20are%20taking%20the%20seller's%20concessions%20to%20the%20bank.png"
 source: "https://www.santaclaritaopenhouses.com/76-homes-sold-in-valencia-of-santa-clarita-valley-in-the-past-30-days"
 ---

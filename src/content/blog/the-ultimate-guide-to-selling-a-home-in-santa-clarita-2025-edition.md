@@ -1,7 +1,8 @@
 ---
 title: "The Ultimate Guide to Selling a Home in Santa Clarita: 2025 Edition"
 description: "Selling your home in Santa Clarita in 2025 requires a blend of time-tested strategies and innovative marketing techniques tailored to our dynamic local market. Whether you're a seasoned homeowner or a"
-publishDate: 2026-02-15T16:07:55.061709
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ultimate%20guide%20to%20selling%20a%20home%20in%20santa%20clarita%20during%202025.png"
 source: "https://www.santaclaritaopenhouses.com/the-ultimate-guide-to-selling-a-home-in-santa-clarita-2025-edition"
 ---

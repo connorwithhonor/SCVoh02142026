@@ -1,7 +1,8 @@
 ---
 title: "Chapter 1 Getting approved and preparing for your real estate journey"
 description: "How to Buy and Sell Real Estate, Updated for 2025: Santa Clarita Edition - Chapter 1 Deep Dive  Welcome to the journey of mastering real estate in Santa Clarita, where the stakes are high, the opportu"
-publishDate: 2026-02-15T16:07:55.272239
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Chapter%201%20of%20the%20book%20how%20to%20buy%20and%20sell%20real%20estate%20by%20the%20First%20Responder%20Realtor%20Connor%20with%20Honor.png"
 source: "https://www.santaclaritaopenhouses.com/chapter-1-getting-approved-and-preparing-for-your-real-estate-journey"
 ---

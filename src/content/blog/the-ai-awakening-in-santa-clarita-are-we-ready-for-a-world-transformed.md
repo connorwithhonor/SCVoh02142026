@@ -1,7 +1,8 @@
 ---
 title: "The AI Awakening in Santa Clarita: Are We Ready for a World Transformed?"
 description: "The AI Awakening in Santa Clarita: Are We Ready for a World Transformed?  By Connor MacIvor, Connor with Honor  Here in the Santa Clarita Valley, life moves at a familiar pace. We're focused on our fa"
-publishDate: 2026-02-15T16:07:54.949971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ai%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-ai-awakening-in-santa-clarita-are-we-ready-for-a-world-transformed"
 ---

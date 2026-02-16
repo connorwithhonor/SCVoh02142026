@@ -1,7 +1,8 @@
 ---
 title: "The AEO Revolution: Why Your SEO Strategy Is Obsolete and How to Dominate search"
 description: "Everything you were taught about getting found on the internet is now wrong.  For the last decade, business owners and real estate agents have been told to worship at the altar of SEO. We poured tens "
-publishDate: 2026-02-15T16:07:54.778634
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/zoom%20meeting%20santa%20clarita%20ai%20mondays%20santaclaritaai%20connor%20with%20honor%20ai%20training%20instagram%20youtube%20expert%20ai%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-aeo-revolution-why-your-seo-strategy-is-obsolete-and-how-to-dominate-search"
 ---

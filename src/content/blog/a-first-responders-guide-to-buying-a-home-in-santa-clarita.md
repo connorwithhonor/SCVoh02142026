@@ -1,7 +1,8 @@
 ---
 title: "A First Responder’s Guide to Buying a Home in Santa Clarita"
 description: "Get expert tips on buying a home in Santa Clarita with insights from Connor with Honor, the First Responder Realtor. This guide covers everything from financing options to choosing the right neighborh"
-publishDate: 2026-02-15T16:07:55.347167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/5%20A%20close-up%20image%20of%20a%20handshake%20between%20a%20realtor%20and%20a%20homebuyer,%20symbolizing%20trust%20and%20partnership%20in%20the%20home-buying%20process.%20The%20setting%20is%20profes.webp"
 source: "https://www.santaclaritaopenhouses.com/a-first-responders-guide-to-buying-a-home-in-santa-clarita"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Paying less than sticker price for a Santa Clarita home requires proof of value"
 description: "November 4th, 2024 - Santa Clarita Valley Real Estate Market Update  Hello, Santa Clarita! I'm Connor MacIvor, also known as \"Connor with Honor,\" here to bring you today's deep dive into the Santa C"
-publishDate: 2026-02-15T16:07:55.368801
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/309%20how%20to%20pay%20less%20than%20asking%20price%20for%20a%20Santa%20Clarita%20home%20or%20home%20anywhere%20by%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/paying-less-than-sticker-price-for-a-santa-clarita-home-requires-proof-of-value"
 ---

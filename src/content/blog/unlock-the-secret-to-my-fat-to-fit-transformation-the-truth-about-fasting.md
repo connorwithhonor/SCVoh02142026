@@ -1,7 +1,8 @@
 ---
 title: "Unlock the Secret to My Fat-to-Fit Transformation: The Truth About Fasting"
 description: "Welcome to my journey, where I share the real struggles and triumphs of transforming from fat to fit. Today is August 5th, and it's 6:33 AM. I haven't hit the gym yet, but trust me, it's on the agenda"
-publishDate: 2026-02-15T16:07:55.475622
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting"
 ---
 

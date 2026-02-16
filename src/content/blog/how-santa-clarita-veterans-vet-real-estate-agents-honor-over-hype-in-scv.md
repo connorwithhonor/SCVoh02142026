@@ -1,7 +1,8 @@
 ---
 title: "How Santa Clarita Veterans Vet Real Estate Agents: Honor Over Hype in SCV"
 description: "TL;DR  Not all real estate agents are created equal. Connor MacIvor—25-year Santa Clarita real estate veteran and 20-year LAPD officer—uses law enforcement-grade vetting to identify agents with proven"
-publishDate: 2026-02-15T16:07:54.630070
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-13%20092249.png"
 source: "https://www.santaclaritaopenhouses.com/how-santa-clarita-veterans-vet-real-estate-agents-honor-over-hype-in-scv"
 ---

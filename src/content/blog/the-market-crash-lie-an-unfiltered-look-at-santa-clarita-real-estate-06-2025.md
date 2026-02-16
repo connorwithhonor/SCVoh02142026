@@ -1,7 +1,8 @@
 ---
 title: "The \"Market Crash\" Lie: An Unfiltered Look at Santa Clarita Real Estate 06-2025"
 description: "Hey everybody, it's Connor. Welcome to your essential real estate recon for June 19, 2025. Today, we're cutting through the noise. We're going to dissect the local Santa Clarita inventory, unpack what"
-publishDate: 2026-02-15T16:07:54.948971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20market%20crash%20lie.png"
 source: "https://www.santaclaritaopenhouses.com/the-market-crash-lie-an-unfiltered-look-at-santa-clarita-real-estate-06-2025"
 ---

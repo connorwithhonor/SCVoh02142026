@@ -1,8 +1,9 @@
 ---
 title: "Welcome to my new website"
 description: "Welcome to my new and improved real estate website. I invite you to look around and see what is available. As your Santa Clarita, California real estate expert I can provide you will all of the inform"
-publishDate: 2026-02-15T16:07:55.508138
-heroImage: "/images/web/template/common/featurette-contact-me.png"
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
+heroImage: "https://www.santaclaritaopenhouses.com/images/web/template/common/featurette-contact-me.png"
 source: "https://www.santaclaritaopenhouses.com/welcome-to-my-new-website"
 ---
 

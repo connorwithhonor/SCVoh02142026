@@ -1,7 +1,8 @@
 ---
 title: "Do not buy a Santa Clarita home or sell one just because they are saying it"
 description: "I was a cop for a long time and it came down to whether or not a person was telling the truth. Most times the truth is found out when data is provided about the market and how that \"data\" was interp"
-publishDate: 2026-02-15T16:07:55.370800
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/307-2024%20focus%20on%20the%20real%20estate%20data%20by%20the%20first%20responder%20realtor,%20not%20opinions%20in%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/do-not-buy-a-santa-clarita-home-or-sell-one-just-because-they-are-saying-it"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Emotional Side of Relocation: Supporting Employees and Their Families"
 description: "The Emotional Side of Relocation: Supporting Employees and Their Families By Connor with Honor, The First Responder Realtor   Table of Contents   	Introduction 	Understanding the Emotional Impact of R"
-publishDate: 2026-02-15T16:07:55.172164
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20relocation%20certified%20real%20estate%20agent%20-%20emotional%20side%20of%20relocation.png"
 source: "https://www.santaclaritaopenhouses.com/the-emotional-side-of-relocation-supporting-employees-and-their-families"
 ---

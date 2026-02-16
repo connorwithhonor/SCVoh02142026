@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country real estate update and fear of balloons"
 description: "Canyon Country Real Estate Update: December 13, 2024  Introduction  Welcome to today's deep dive into the Canyon Country real estate market, part of the greater Santa Clarita Valley (SCV). As we appro"
-publishDate: 2026-02-15T16:07:55.264236
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12132024%20Canyon%20country%20real%20estate%20update%20by%20Connor%20with%20honor%20first%20responder%20realtor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-update-and-fear-of-balloons"
 ---

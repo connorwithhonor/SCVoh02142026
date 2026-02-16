@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita daily real estate update by Connor with Honor for June 12, 2025"
 description: "Santa Clarita Real Estate Daily Report – June 13, 2025  	Welcome to your daily Santa Clarita real estate market overview, delivering a focused, data-driven recap of residential real estate activity fr"
-publishDate: 2026-02-15T16:07:54.963482
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-daily-real-estate-update-by-connor-with-honor-for-june-12-2025"
 ---
 

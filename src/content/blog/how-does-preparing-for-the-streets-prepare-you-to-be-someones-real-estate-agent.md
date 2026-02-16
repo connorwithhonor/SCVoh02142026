@@ -1,7 +1,8 @@
 ---
 title: "how does preparing for the streets prepare you to be someone's real estate agent"
 description: "When I tell people that I transitioned from law enforcement to real estate, I often get a mix of surprise and curiosity. But the truth is, my time as a police officer—specifically with the LAPD—equipp"
-publishDate: 2026-02-15T16:07:55.419314
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/I'm%20a%20lapd%20officer%20who%20became%20a%20realtor.%20i%20represent%20buyers%20and%20sellers%20of%20homes%20and%20real%20estate%20in%20...%20(11).png"
 source: "https://www.santaclaritaopenhouses.com/how-does-preparing-for-the-streets-prepare-you-to-be-someones-real-estate-agent"
 ---

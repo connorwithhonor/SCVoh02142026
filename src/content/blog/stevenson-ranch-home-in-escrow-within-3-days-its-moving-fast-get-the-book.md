@@ -1,7 +1,8 @@
 ---
 title: "Stevenson Ranch home in escrow within 3 days it's moving fast - get the book"
 description: "The Ultimate Guide to Stevenson Ranch Real Estate in 2024  Welcome to Stevenson Ranch, one of Santa Clarita Valley's most prestigious communities. This highly coveted neighborhood is a haven for famil"
-publishDate: 2026-02-15T16:07:55.270238
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12102024%20Stevenson%20Ranch%20real%20estate%20upate%20by%20the%20first%20responder%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-home-in-escrow-within-3-days-its-moving-fast-get-the-book"
 ---

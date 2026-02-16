@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate Negotiator that has been to hostage negotiator school"
 description: "In today's Santa Clarita real estate market, choosing an agent isn't just about who knows the neighborhoods or lists the most homes. It's about selecting someone who can negotiate effectively, who can"
-publishDate: 2026-02-15T16:07:55.372802
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/305%20what%20hostage%20negotiation%20school%20taught%20connor%20macivor%20about%20santa%20clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-negotiator-that-has-been-to-hostage-negotiator-school"
 ---

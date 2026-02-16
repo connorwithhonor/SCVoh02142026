@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence in real estate"
 description: "The Future of Artificial intelligence in real estate. Let's get into the water, it feels great, but it's getting warmer quickly. Do a search for Mo Gawdat - he's amazing.   How Artificial Intelligence"
-publishDate: 2026-02-15T16:07:55.445125
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/the%20future%20of%20artificial%20intelligence%20in%20real%20estate.jpg"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate"
 ---

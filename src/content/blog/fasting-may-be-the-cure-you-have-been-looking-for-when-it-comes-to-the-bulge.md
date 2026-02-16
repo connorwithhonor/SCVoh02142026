@@ -1,7 +1,8 @@
 ---
 title: "Fasting may be the cure you have been looking for when it comes to the bulge"
 description: "The Power of Fasting: Unlocking Your Body's Natural Healing and Fat-Burning Potential  Hello, Connor with Honor here, and I'm thrilled by the fantastic feedback from last week's show! It's clear that "
-publishDate: 2026-02-15T16:07:54.959481
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-13%20095127.png"
 source: "https://www.santaclaritaopenhouses.com/fasting-may-be-the-cure-you-have-been-looking-for-when-it-comes-to-the-bulge"
 ---

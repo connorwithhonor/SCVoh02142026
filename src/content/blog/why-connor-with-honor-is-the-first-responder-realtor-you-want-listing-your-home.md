@@ -1,7 +1,8 @@
 ---
 title: "Why Connor with Honor is the First Responder Realtor You Want Listing your home"
 description: "Selling your home in Santa Clarita is a major decision, and selecting the right listing agent is critical to achieving a successful, profitable sale. In a market as dynamic and competitive as ours, yo"
-publishDate: 2026-02-15T16:07:55.058705
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Connor%20with%20honor%20the%20first%20responder%20realtor%20to%20list%20your%20santa%20clarita%20home.png"
 source: "https://www.santaclaritaopenhouses.com/why-connor-with-honor-is-the-first-responder-realtor-you-want-listing-your-home"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita sellers with a camper are selling and waiting"
 description: "August 6th, 2024: Santa Clarita Real Estate Update  Good day, everyone! I'm Connor MacIvor, and today, August 6th, 2024, I'll be bringing you the latest updates in the Santa Clarita real estate market"
-publishDate: 2026-02-15T16:07:55.472508
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/buy%20a%20santa%20clarita%20home%20today%20or%20else%20wait%20for%20the%20consequences%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-sellers-with-a-camper-are-selling-and-waiting"
 ---

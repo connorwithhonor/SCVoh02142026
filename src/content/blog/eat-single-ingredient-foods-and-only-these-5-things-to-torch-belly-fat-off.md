@@ -1,7 +1,8 @@
 ---
 title: "Eat single ingredient foods and only these 5 things to torch belly fat off"
 description: "Torching Fat with Single-Ingredient Foods: The 5 Essential Things You Should Be Eating for Fasting and Fat Loss  Hello, my friend. I'm Connor with Honor—the Fat to Fit Realtor—and I'm here to share a "
-publishDate: 2026-02-15T16:07:55.118597
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0201%201%20ingredient%20foods%20only%20only%20eat%20these%205%20things%20to%20bring%20yourself%20into%20your%20best%20shape%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/eat-single-ingredient-foods-and-only-these-5-things-to-torch-belly-fat-off"
 ---

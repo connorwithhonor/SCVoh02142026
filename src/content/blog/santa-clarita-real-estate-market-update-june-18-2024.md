@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate market update June 18, 2024"
 description: "Santa Clarita Real Estate Update: Connor with Honor Breaks Down the Latest Market TrendsWelcome to the Santa Clarita Daily Real Estate Show and News Update, where Connor T. MacIvor, the renowned 'Conn"
-publishDate: 2026-02-15T16:07:55.506138
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://firebasestorage.googleapis.com/v0/b/videotoblog-35c6e.appspot.com/o/users%2FU9fgfygMraba0P6QpjvdIyQFVcO2%2Fy8WbWeCd8fKaCuXKRqeq%2F37997b39-0975-445d-b03e-1e365432a31c.png?alt=media&token=a718f785-3d29-460d-b3be-9146b161ad37"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-june-18-2024"
 ---

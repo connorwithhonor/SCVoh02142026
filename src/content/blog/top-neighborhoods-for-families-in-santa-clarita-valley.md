@@ -1,7 +1,8 @@
 ---
 title: "Top Neighborhoods for Families in Santa Clarita Valley"
 description: "<meta name="
-publishDate: 2026-02-15T16:07:55.231698
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Top%20neighborhoods%20for%20families%20in%20Santa%20Clarita%20Valley.png"
 source: "https://www.santaclaritaopenhouses.com/top-neighborhoods-for-families-in-santa-clarita-valley"
 ---

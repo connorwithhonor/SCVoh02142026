@@ -1,7 +1,8 @@
 ---
 title: "Passions are Real Estate - Fat torching and Muscle building - Longevity"
 description: "Santa Clarita Real Estate Market Update: November 7, 2024  Welcome to today's Santa Clarita real estate update. It's a powerful time to dive into the local market, discuss the impact of recent economi"
-publishDate: 2026-02-15T16:07:55.353167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/312%20524%20homes%20need%20to%20be%20sold%20by%20january%202025%20santa%20clarita%20real%20estate%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/passions-are-real-estate-fat-torching-and-muscle-building-longevity"
 ---

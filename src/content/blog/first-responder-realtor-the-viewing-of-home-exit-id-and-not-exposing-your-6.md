@@ -1,7 +1,8 @@
 ---
 title: "First responder realtor the viewing of home exit ID and not exposing your 6"
 description: "Santa Clarita Valley Real Estate Data (as of October 11, 2024)  Active Inventory Data   	Coming Soon Listings: 9 	New Listings in the Last 7 Days: 73 	Price Changes: 55 	Back on the Market (Fell Out o"
-publishDate: 2026-02-15T16:07:55.412298
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/285%202024%20youtube%20thumbnail%20first%20responder%20realtor%20connor%20with%20honor%20macivor.png"
 source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Silent Giant: Why Google’s Quiet AI Moves Could Outshine the Loudest Players"
 description: "The Silent Giant: Why Google's Quiet AI Moves Could Outshine the Loudest Players in 2025      TL;DR: Google's AI advancements, like Notebook LM and quantum computing experiments, are flying under the "
-publishDate: 2026-02-15T16:07:54.770396
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0816%20google%20is%20not%20playing%20around%20like%20the%20other%20kids%20on%20the%20playground.png"
 source: "https://www.santaclaritaopenhouses.com/the-silent-giant-why-googles-quiet-ai-moves-could-outshine-the-loudest-players"
 ---

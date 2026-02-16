@@ -1,7 +1,8 @@
 ---
 title: "How to get best real estate agent Santa Clarita"
 description: "How to Get the Best Real Estate Agent in Santa Clarita  Choosing the right real estate agent is one of the most important decisions you'll make when buying or selling a home in Santa Clarita. The real"
-publishDate: 2026-02-15T16:07:55.427334
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/how-to-get-best-real-estate-agent-santa-clarita"
 ---
 

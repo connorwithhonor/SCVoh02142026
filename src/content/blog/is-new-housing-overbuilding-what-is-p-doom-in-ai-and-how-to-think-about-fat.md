@@ -1,7 +1,8 @@
 ---
 title: "Is New housing overbuilding, What is P-Doom in AI?, and how to think about fat!"
 description: "Why Santa Clarita Real Estate Is Cooling (And How to Still Win Big in 2025)      TL;DR: Santa Clarita's real estate market is cooling with 753 active listings, down from 810, as school season slows bu"
-publishDate: 2026-02-15T16:07:54.745676
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0829%20connor%20with%20honor%20santa%20clarita%20open%20houses%20daily%20real%20estate%20show.png"
 source: "https://www.santaclaritaopenhouses.com/is-new-housing-overbuilding-what-is-p-doom-in-ai-and-how-to-think-about-fat"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Navigating Distressed Properties in Santa Clarita: Your Guide to Foreclosures +"
 description: "TL;DR  Distressed properties, including foreclosures, short sales, and bankruptcies, make up a tiny fraction of Santa Clarita's real estate market in 2025, with only eight active listings out of over "
-publishDate: 2026-02-15T16:07:54.905893
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0701%20hunting%20the%20distressed%20real%20estate%20properties%20for%20sale%20in%20any%20city%20facebook%20image.png"
 source: "https://www.santaclaritaopenhouses.com/navigating-distressed-properties-in-santa-clarita-your-guide-to-foreclosures"
 ---

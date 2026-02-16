@@ -1,7 +1,8 @@
 ---
 title: "Real Estate Survey: What do you think about buying now?"
 description: "Housing Market Pulse: What's Holding You Back?                     Housing Market Pulse: What's Holding You Back?         Are you on the fence about buying a home, planning to buy later, or stepping b"
-publishDate: 2026-02-15T16:07:55.073215
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Real%20estate%20survey,%20would%20you%20buy%20a%20home%20now%20-%20results%20posted%20in%20a%20future%20video.png"
 source: "https://www.santaclaritaopenhouses.com/real-estate-survey-what-do-you-think-about-buying-now"
 ---

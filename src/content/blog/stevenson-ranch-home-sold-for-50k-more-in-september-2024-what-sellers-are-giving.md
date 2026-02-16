@@ -1,7 +1,8 @@
 ---
 title: "Stevenson ranch home sold for 50k more in September 2024 what sellers are giving"
 description: "Welcome back, folks! Connor with Honor here, and today is day 272 of 2024, that's right, Saturday, September 28th, and we've got your weekly Santa Clarita Real Estate Market update. If you've been won"
-publishDate: 2026-02-15T16:07:55.437623
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/WIN_20240928_12_38_35_Pro%20(2).jpg"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-home-sold-for-50k-more-in-september-2024-what-sellers-are-giving"
 ---

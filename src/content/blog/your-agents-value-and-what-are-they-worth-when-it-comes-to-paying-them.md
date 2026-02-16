@@ -1,7 +1,8 @@
 ---
 title: "Your agents value and what are they worth when it comes to paying them"
 description: "The Real Estate Agent's Role: Beyond Just Opening Doors  Being a successful real estate agent involves much more than simply opening doors for showings. It requires a deep understanding of market dyna"
-publishDate: 2026-02-15T16:07:54.951971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-17%20112609.png"
 source: "https://www.santaclaritaopenhouses.com/your-agents-value-and-what-are-they-worth-when-it-comes-to-paying-them"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Pricing your home too high maybe the reason it's not selling"
 description: "Pricing Your Home Too High? That Might Be the Reason It's Not Selling Posted on October 18, 2024  Welcome back to another insightful update on the real estate market here in Santa Clarita! As of today"
-publishDate: 2026-02-15T16:07:55.396245
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/home%20sellers%20reducing%20the%20home%20prices%20First%20Responder%20Realtor%20update.png"
 source: "https://www.santaclaritaopenhouses.com/pricing-your-home-too-high-maybe-the-reason-its-not-selling"
 ---

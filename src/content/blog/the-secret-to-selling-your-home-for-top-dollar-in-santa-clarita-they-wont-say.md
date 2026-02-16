@@ -1,7 +1,8 @@
 ---
 title: "The Secret to Selling Your Home for Top Dollar in Santa Clarita they won't say"
 description: "Selling your home for top dollar isn't just about listing it and waiting for offers. In a competitive market like Santa Clarita, achieving the highest possible sale price requires a strategic blend of"
-publishDate: 2026-02-15T16:07:55.056706
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0226%20Secrets%20to%20selling%20your%20home%20for%20top%20dollar%20in%20the%20santa%20clarita%20valley%20ca%20by%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/the-secret-to-selling-your-home-for-top-dollar-in-santa-clarita-they-wont-say"
 ---

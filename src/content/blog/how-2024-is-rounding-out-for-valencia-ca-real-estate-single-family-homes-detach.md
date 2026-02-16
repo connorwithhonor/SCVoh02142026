@@ -1,7 +1,8 @@
 ---
 title: "How 2024 is Rounding Out for Valencia, CA Real Estate Single Family Homes detach"
 description: "The Valencia, CA real estate market for single-family detached homes has had an active year in 2024. From fluctuating prices to shifts in how quickly homes are selling, Valencia's housing market offer"
-publishDate: 2026-02-15T16:07:55.346167
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/2024%20for%20Valencia%20CA%20detached%20single%20family%20homes%20increased%20over%20100%20thousand%20dollars%20in%20value.png"
 source: "https://www.santaclaritaopenhouses.com/how-2024-is-rounding-out-for-valencia-ca-real-estate-single-family-homes-detach"
 ---

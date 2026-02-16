@@ -1,7 +1,8 @@
 ---
 title: "Over 150 open houses scheduled for the last weekend in October of 2024 in SCV"
 description: "Santa Clarita Real Estate Market Update: Over 150 Open Houses Scheduled – Current Market Overview and Analysis  Welcome back to SantaClaritaOpenHouses.com! This is your trusted First Responder Realtor"
-publishDate: 2026-02-15T16:07:55.386740
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/300%20Santa%20Clarita%20Open%20Houses%20First%20Responder%20Realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/over-150-open-houses-scheduled-for-the-last-weekend-in-october-of-2024-in-scv"
 ---

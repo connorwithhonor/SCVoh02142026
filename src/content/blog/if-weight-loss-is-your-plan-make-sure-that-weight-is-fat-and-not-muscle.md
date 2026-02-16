@@ -1,7 +1,8 @@
 ---
 title: "If weight loss is your plan, make sure that weight is fat and not muscle!"
 description: "Fit to Fat to Fit Again: The Real Journey to Sustainable Weight Loss – Part 1  Losing fat is tough, no doubt about it. If you've been trying for a long time, I know you can relate. I still struggle wi"
-publishDate: 2026-02-15T16:07:55.132605
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0131%20Weight%20Loss%20is%20Bad%20you%20want%20maximum%20fat%20loss%20and%20make%20it%20great%20by%20activating%20your%20muscles.png"
 source: "https://www.santaclaritaopenhouses.com/if-weight-loss-is-your-plan-make-sure-that-weight-is-fat-and-not-muscle"
 ---

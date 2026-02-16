@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Alert: 792 Listings in August 2025 – Must-Know Facts"
 description: "Santa Clarita Real Estate Alert: 792 Listings in August 2025 – Must-Know Facts to Stay Safe  TL;DR: Santa Clarita's housing market is surging with 792 active and coming soon listings, 71 homes sold la"
-publishDate: 2026-02-15T16:07:54.828387
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0726%20santa%20clarita%20open%20houses%20connor%20with%20honor%20macivor%20real%20estate%20market%20update.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-alert-792-listings-in-august-2025-must-know-facts"
 ---

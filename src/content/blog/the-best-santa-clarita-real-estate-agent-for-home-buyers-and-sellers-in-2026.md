@@ -1,7 +1,8 @@
 ---
 title: "The BEST Santa Clarita real estate agent for home buyers and sellers in 2026"
 description: "Finding the right real estate agent in Santa Clarita should be one of the most important decisions you make when buying or selling a home. After all, this person will guide you through one of the larg"
-publishDate: 2026-02-15T16:07:54.662157
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-09%20114055.png"
 source: "https://www.santaclaritaopenhouses.com/the-best-santa-clarita-real-estate-agent-for-home-buyers-and-sellers-in-2026"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update 07-22-2025: Inventory Surge and rates"
 description: "Santa Clarita Real Estate Market Update July 2025: Inventory Surge, Interest Rates, and Insider Tips  TL;DR  The Santa Clarita real estate market in July 2025 is buzzing with activity, boasting 800 to"
-publishDate: 2026-02-15T16:07:54.835520
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0722%20santa%20clarita%20real%20estate%20interest%20rates%20connor%20with%20honor%20santa%20clarita%20open%20houses%20date%20connor%20macivor%20agent.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-07-22-2025-inventory-surge-and-rates"
 ---

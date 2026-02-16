@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country Real Estate Market Unveiled: Why Buyers and Sellers Need to Act"
 description: "Canyon Country Real Estate Market Update – December 2024  As we approach the end of 2024, the Canyon Country real estate market continues to showcase resilience, diversity, and opportunity. Part of th"
-publishDate: 2026-02-15T16:07:55.250256
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Canyon%20Country%20update%20for%20real%20estate%20buyers%20and%20sellers%20as%20we%20close%20out%202024%20By%20Santa%20Clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-market-unveiled-why-buyers-and-sellers-need-to-act"
 ---

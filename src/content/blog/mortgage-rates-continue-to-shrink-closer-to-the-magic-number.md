@@ -1,7 +1,8 @@
 ---
 title: "Mortgage rates continue to shrink closer to the magic number"
 description: "Santa Clarita real estate is moving, but with the strong rumors of the fed potentially reducing their Fed Funds Rate and the proposed \"positive\" impact - which in this market a reduction of the mort"
-publishDate: 2026-02-15T16:07:55.454125
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/real%20estate%20data%20corrupted%20on%20purpose%20by%20the%20syndication%20real%20estate%20websites.png"
 source: "https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number"
 ---

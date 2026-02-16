@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Recon: Unpacking Inventory, Price Reductions"
 description: "TL;DR  The Santa Clarita real estate market in mid-June 2025 is active and nuanced, with inventory levels fluctuating around 173 active listings. Those much-discussed price reductions you're seeing ar"
-publishDate: 2026-02-15T16:07:54.947971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20price%20reductions.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-recon-unpacking-inventory-price-reductions"
 ---

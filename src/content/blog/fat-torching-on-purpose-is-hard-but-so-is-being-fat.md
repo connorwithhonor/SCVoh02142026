@@ -1,7 +1,8 @@
 ---
 title: "Fat Torching on purpose is hard but so is being fat"
 description: "From Fat to Fit: My Journey Through Fasting, Muscle Building, and Longevity  Welcome to Connor with Honor! If you're ready to transform your life, break free from unhealthy habits, and achieve lasting"
-publishDate: 2026-02-15T16:07:55.223195
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Fat%20fasting%20for%20those%20who%20want%20to%20get%20lean%20and%20increase%20their%20life.png"
 source: "https://www.santaclaritaopenhouses.com/fat-torching-on-purpose-is-hard-but-so-is-being-fat"
 ---

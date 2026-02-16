@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Open Houses 2026: Your Complete Guide to Finding Your Dream Home"
 description: "TL;DR: Discover why Santa Clarita open houses remain the smartest way to find your dream home in 2026. Learn insider strategies from certified open house experts, explore exclusive neighborhood insigh"
-publishDate: 2026-02-15T16:07:54.615058
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202026-01-18%20184221.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-2026-your-complete-guide-to-finding-your-dream-home"
 ---

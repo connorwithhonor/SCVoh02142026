@@ -1,7 +1,8 @@
 ---
 title: "What you need to know about buying a Santa Clarita home August 21, 2024"
 description: "Not a self-serving post! - You know the kind, many are being written by AI, but mine are never perfect enough to match up. But, I must admit that typing a few words into ChatGPT after assigning a role"
-publishDate: 2026-02-15T16:07:55.467507
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20podcast.png"
 source: "https://www.santaclaritaopenhouses.com/what-you-need-to-know-about-buying-a-santa-clarita-home-august-21-2024"
 ---

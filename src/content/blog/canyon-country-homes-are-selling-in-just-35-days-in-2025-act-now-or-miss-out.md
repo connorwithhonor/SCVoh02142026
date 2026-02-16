@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country Homes Are Selling in Just 35 Days in 2025 – Act Now or Miss Out!"
 description: "TL;DR: Canyon Country Real Estate Market Sizzles in July 2025  Breaking news from Canyon Country, folks! I'm Connor MacIvor, your battle-tested Realtor since 1998, forged in the streets as an LAPD mot"
-publishDate: 2026-02-15T16:07:54.897390
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0704%20homes%20selling%20in%2035%20days%20in%20canyon%20country%20california%20by%20santa%20clarita%20open%20houses.jpg"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-homes-are-selling-in-just-35-days-in-2025-act-now-or-miss-out"
 ---

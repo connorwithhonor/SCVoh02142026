@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Artificial Intelligence in real estate search and home pricing"
 description: "Part 1: Santa Clarita Real Estate Market Overview – February 2025  The Santa Clarita Valley, nestled in the picturesque landscape of Southern California, has long been a sought-after destination for h"
-publishDate: 2026-02-15T16:07:55.106585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20artificial%20intelligence%20in%20real%20estate%20some%20is%20real%20estate%20syndication%20site%20owned%20is%20it%20lying%20to%20us.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-artificial-intelligence-in-real-estate-search-and-home-pricing"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Moderation is dangerous as it relates to Fat Loss what I learned when dropping"
 description: "Why Moderation Is a Trap and Forgiveness Is Your Secret Weapon for Weight Loss                 TL;DR: Moderation doesn't work for everyone—especially not for those with food or alcohol addictions. The"
-publishDate: 2026-02-15T16:07:54.765395
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0819%20being%20fat%20was%20hard%20and%20not%20for%20the%20faint%20of%20heart%20I'm%20connor%20with%20honor%20youtube%20master.jpg"
 source: "https://www.santaclaritaopenhouses.com/moderation-is-dangerous-as-it-relates-to-fat-loss-what-i-learned-when-dropping"
 ---

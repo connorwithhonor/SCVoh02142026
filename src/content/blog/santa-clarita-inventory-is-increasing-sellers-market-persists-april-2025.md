@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita inventory is increasing Seller's market persists April 2025"
 description: "Your Ultimate Guide to Santa Clarita Real Estate in 2025  Welcome to your comprehensive resource for navigating the dynamic **Santa Clarita real estate market in 2025**. Whether you're a prospective b"
-publishDate: 2026-02-15T16:07:55.008016
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/best%20rate%20for%20buying%20a%20home%20in%20santa%20clarita%20california%20by%20the%20santa%20clarita%20open%20houses%20realtor%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-inventory-is-increasing-sellers-market-persists-april-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "808 Total Active Listings for sale and 111 Price Changes in Santa Clarita Valley"
 description: "Santa Clarita Real Estate Market Update July 2025: Insider Tips from a First Responder Realtor  TL;DR  The Santa Clarita real estate market is buzzing with activity as of July 2025, with 808 active li"
-publishDate: 2026-02-15T16:07:54.842520
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0719%20santa%20clarita%20open%20houses%20connor%20with%20honor%20macivor%20santa%20clarita%20realtor%20ai%20adopter.png"
 source: "https://www.santaclaritaopenhouses.com/808-total-active-listings-for-sale-and-111-price-changes-in-santa-clarita-valley"
 ---

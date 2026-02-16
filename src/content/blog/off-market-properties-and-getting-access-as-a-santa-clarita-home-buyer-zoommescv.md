@@ -1,7 +1,8 @@
 ---
 title: "Off Market properties and getting access as a Santa Clarita home buyer ZoomMeSCV"
 description: "Santa Clarita Real Estate Market Update: July 17, 2025 – Insider Tips from a First-Responder-Turned-Realtor  Introduction: Navigating the Santa Clarita Real Estate Market with Confidence  The Santa Cl"
-publishDate: 2026-02-15T16:07:54.846765
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20real%20estate%20update%200717%20connor%20with%20honor%20santa%20clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/off-market-properties-and-getting-access-as-a-santa-clarita-home-buyer-zoommescv"
 ---

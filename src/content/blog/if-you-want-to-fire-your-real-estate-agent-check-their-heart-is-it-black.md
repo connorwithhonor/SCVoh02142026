@@ -1,7 +1,8 @@
 ---
 title: "If you want to fire your real estate agent check their heart, is it black?"
 description: "Fired Your Realtor? The Shocking Truth About Breaking Up with Your Agent in Santa Clarita Real Estate – And How to Do It Without Losing Your Shirt  TL;DR: Falling out with your real estate agent in Sa"
-publishDate: 2026-02-15T16:07:54.813153
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Fed%20held%20the%20rate%20connor%20with%20honor%20macivor%20local%20real%20estate%20agent%20santa%20clarita%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/if-you-want-to-fire-your-real-estate-agent-check-their-heart-is-it-black"
 ---

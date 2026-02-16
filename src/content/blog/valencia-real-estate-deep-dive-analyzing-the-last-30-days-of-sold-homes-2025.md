@@ -1,7 +1,8 @@
 ---
 title: "Valencia Real Estate Deep Dive: Analyzing the Last 30 Days of SOLD Homes 2025"
 description: "Hey everyone, Connor MacIvor here – your dedicated First Responder Realtor® serving the Santa Clarita Valley and greater Southern California. You might know me from my website, SantaClaritaOpenHouses."
-publishDate: 2026-02-15T16:07:55.003506
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Valencia%20real%20estate%20update%200326.png"
 source: "https://www.santaclaritaopenhouses.com/valencia-real-estate-deep-dive-analyzing-the-last-30-days-of-sold-homes-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Hiring the right Santa Clarita real estate agent under the new commission rules"
 description: "Welcome back to SantaClaritaOpenHouses.com Market Watch, your daily update on the Santa Clarita Valley real estate market. I'm Connor with Honor, and today is [Insert Date]. Let's dive into the latest"
-publishDate: 2026-02-15T16:07:55.476625
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Save%20money%20when%20you%20hire%20a%20santa%20clarita%20real%20estate%20agent.png"
 source: "https://www.santaclaritaopenhouses.com/hiring-the-right-santa-clarita-real-estate-agent-under-the-new-commission-rules"
 ---

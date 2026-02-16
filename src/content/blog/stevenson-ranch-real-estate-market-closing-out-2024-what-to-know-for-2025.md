@@ -1,7 +1,8 @@
 ---
 title: "Stevenson Ranch real estate market closing out 2024 what to know for 2025"
 description: "Santa Clarita Valley Real Estate Market Update: December 24, 2024 Day 359 of the Year, Week 52  As we approach the end of the year, the Santa Clarita Valley real estate market remains active and full "
-publishDate: 2026-02-15T16:07:55.245256
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Stevenson%20Ranch%20Market%20update%202025%20by%20SantaClaritaopenhouses%20and%20the%20first%20responder%20realtor%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/stevenson-ranch-real-estate-market-closing-out-2024-what-to-know-for-2025"
 ---

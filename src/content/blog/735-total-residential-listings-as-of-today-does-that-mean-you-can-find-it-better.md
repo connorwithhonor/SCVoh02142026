@@ -1,7 +1,8 @@
 ---
 title: "735 Total residential listings as of today does that mean you can find it better"
 description: "Shocking AI Fix for Real Estate Nightmares: Santa Clarita's Market Hits 735 Listings – Is This the Boom You've Been Waiting For?                 TL;DR: Santa Clarita's real estate market is exploding "
-publishDate: 2026-02-15T16:07:54.715192
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-09-19%20075729.png"
 source: "https://www.santaclaritaopenhouses.com/735-total-residential-listings-as-of-today-does-that-mean-you-can-find-it-better"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Shocking Santa Clarita Real Estate Secrets: Why Your Offer Might Be Sabotaging"
 description: "Shocking Santa Clarita Real Estate Secrets: Why Your Offer Might Be Sabotaging Your Dream Home Deal                 TL;DR: The Santa Clarita real estate market is buzzing with 789 active listings, a t"
-publishDate: 2026-02-15T16:07:54.767395
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0818%20repairs%20requested%20and%20the%20home%20seller's%20deny%20you%20in%20santa%20clarita%20real%20estate%20by%20connor%20with%20honor%20macivor.png"
 source: "https://www.santaclaritaopenhouses.com/shocking-santa-clarita-real-estate-secrets-why-your-offer-might-be-sabotaging"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Realtor - Why is it Artificial Intelligence, why not just smart?"
 description: "The Mind-Blowing Origin of \"Artificial Intelligence\" That No One Talks About – And How It's Sneaking Into Your Santa Clarita Home Hunt  TL;DR: Artificial Intelligence isn't some fake, lab-grown mons"
-publishDate: 2026-02-15T16:07:54.806153
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20open%20houses%200801%20what%20is%20happening%20with%20ai%20and%20what%20does%20it%20mean.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-realtor-why-is-it-artificial-intelligence-why-not-just-smart"
 ---

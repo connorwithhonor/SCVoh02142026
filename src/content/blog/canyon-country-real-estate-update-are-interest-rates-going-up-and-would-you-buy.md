@@ -1,7 +1,8 @@
 ---
 title: "Canyon Country real estate update are interest rates going up and would you buy"
 description: "Canyon Country Real Estate Update: Are Interest Rates Going Up and Would You Buy?  November 22, 2024 – Day 327 of the Year – Week 47  Welcome to the Canyon Country Real Estate Update! Today, we're div"
-publishDate: 2026-02-15T16:07:55.309643
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11222024%20Canyon%20Country%20real%20estate%20update%20for%20home%20buyers%20and%20home%20sellers%20with%20questions.png"
 source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy"
 ---

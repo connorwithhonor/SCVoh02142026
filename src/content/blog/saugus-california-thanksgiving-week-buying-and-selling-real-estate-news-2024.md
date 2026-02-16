@@ -1,7 +1,8 @@
 ---
 title: "Saugus California Thanksgiving week buying and selling real estate news 2024"
 description: "Saugus, California Real Estate Update – November 27, 2024  Welcome to the Saugus, California real estate market update for November 27, 2024. Today marks the 330th day of the year and the 48th week of"
-publishDate: 2026-02-15T16:07:55.297354
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11272024%20saugus%20california%20real%20estate%20update%20by%20connor%20with%20honor%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/saugus-california-thanksgiving-week-buying-and-selling-real-estate-news-2024"
 ---

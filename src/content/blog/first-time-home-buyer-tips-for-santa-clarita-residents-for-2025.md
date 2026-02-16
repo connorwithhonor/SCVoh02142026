@@ -1,7 +1,8 @@
 ---
 title: "First time home buyer tips for Santa Clarita residents for 2025"
 description: "Buying your first home is a significant and exciting milestone, especially in the beautiful and vibrant community of Santa Clarita. With the right guidance and preparation, you can navigate the real e"
-publishDate: 2026-02-15T16:07:55.364487
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/First-Time%20Home%20Buyer%20Tips%20for%20Santa%20Clarita%20Residents.'%20The%20image%20shows%20a%20cheerful%20couple.webp"
 source: "https://www.santaclaritaopenhouses.com/first-time-home-buyer-tips-for-santa-clarita-residents-for-2025"
 ---

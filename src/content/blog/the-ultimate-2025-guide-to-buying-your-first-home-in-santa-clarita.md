@@ -1,7 +1,8 @@
 ---
 title: "The Ultimate 2025 Guide to Buying Your First Home in Santa Clarita"
 description: "Introduction: Your Journey to Santa Clarita Homeownership Begins Here, with Honor.  Buying your first home is an exhilarating, yet often daunting, prospect. For many, it represents the cornerstone of "
-publishDate: 2026-02-15T16:07:54.980495
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0523%20the%20ultimate%202025%20guide%20to%20buying%20your%20first%20home%20in%20santa%20clarita.png"
 source: "https://www.santaclaritaopenhouses.com/the-ultimate-2025-guide-to-buying-your-first-home-in-santa-clarita"
 ---

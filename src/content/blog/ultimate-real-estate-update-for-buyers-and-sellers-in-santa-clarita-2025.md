@@ -1,7 +1,8 @@
 ---
 title: "Ultimate real estate update for buyers and sellers in Santa Clarita 2025"
 description: "..."
-publishDate: 2026-02-15T16:07:55.217689
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/WIN_20250106_06_57_07_Pro.jpg"
 source: "https://www.santaclaritaopenhouses.com/ultimate-real-estate-update-for-buyers-and-sellers-in-santa-clarita-2025"
 ---

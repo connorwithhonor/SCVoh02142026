@@ -1,7 +1,8 @@
 ---
 title: "How much do you charge to sell my Santa Clarita home or help me buy April 2025"
 description: "Santa Clarita Real Estate Update April 2025 – Commissions, MLS Data & More             Santa Clarita Real Estate Market Update – April 2025 Welcome to your in-depth guide on Santa Clarita real estate "
-publishDate: 2026-02-15T16:07:55.010016
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0324%20santa%20clarita%20real%20estate%20update%20by%20connor%20with%20honor%20and%20santa%20clarita%20open%20houses%20facebook.png"
 source: "https://www.santaclaritaopenhouses.com/how-much-do-you-charge-to-sell-my-santa-clarita-home-or-help-me-buy-april-2025"
 ---

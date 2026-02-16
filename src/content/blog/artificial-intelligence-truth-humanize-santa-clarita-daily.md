@@ -1,7 +1,8 @@
 ---
 title: "Artificial Intelligence - Truth - Humanize Santa Clarita Daily"
 description: "AI - Artificial Intelligence maybe the next great step, like the agricultural and industrial revolutions. I'm sure there were some bumps and bruises obtained (and a lot of \"life ending\" tragedies) a"
-publishDate: 2026-02-15T16:07:55.438622
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20show%20271%202024%20ai%20truth%20and%20humanize.webp"
 source: "https://www.santaclaritaopenhouses.com/artificial-intelligence-truth-humanize-santa-clarita-daily"
 ---

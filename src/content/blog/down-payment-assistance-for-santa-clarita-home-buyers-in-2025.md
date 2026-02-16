@@ -1,7 +1,8 @@
 ---
 title: "Down payment assistance for Santa Clarita home buyers in 2025"
 description: "Down Payment Assistance for Santa Clarita Home Buyers in 2025  By Connor with Honor, The First Responder Realtor Published: February 24, 2025  Hey there, Santa Clarita home buyers! I'm Connor with Hon"
-publishDate: 2026-02-15T16:07:55.075461
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/guides%20for%20santa%20clarita%20%20real%20estate%20buyers%20and%20home%20sellers%20for%202025%20updated%20gray%20with%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/down-payment-assistance-for-santa-clarita-home-buyers-in-2025"
 ---

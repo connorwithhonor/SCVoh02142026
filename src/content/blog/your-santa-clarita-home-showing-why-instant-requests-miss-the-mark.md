@@ -1,7 +1,8 @@
 ---
 title: "Your Santa Clarita Home Showing: Why Instant Requests Miss the Mark"
 description: "As Connor MacIvor, also known as Connor with Honor, a full-time Realtor and a retired LAPD officer, I bring a unique perspective to the real estate market in Santa Clarita and Southern California. My "
-publishDate: 2026-02-15T16:07:54.952971
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-17%20090248.png"
 source: "https://www.santaclaritaopenhouses.com/your-santa-clarita-home-showing-why-instant-requests-miss-the-mark"
 ---

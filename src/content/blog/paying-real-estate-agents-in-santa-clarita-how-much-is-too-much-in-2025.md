@@ -1,7 +1,8 @@
 ---
 title: "Paying Real Estate Agents in Santa Clarita, how much is too much in 2025"
 description: "Unlocking the Future of Santa Clarita Real Estate: How Flexible Commission Models and Local Expertise Are Changing the Game   Welcome to Santa Clarita Open Houses – your go‐to resource for the latest "
-publishDate: 2026-02-15T16:07:55.040040
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-03-05%20085708.png"
 source: "https://www.santaclaritaopenhouses.com/paying-real-estate-agents-in-santa-clarita-how-much-is-too-much-in-2025"
 ---

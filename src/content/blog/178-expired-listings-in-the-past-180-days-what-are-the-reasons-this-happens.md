@@ -1,7 +1,8 @@
 ---
 title: "178 Expired listings in the past 180 days, what are the reasons this happens"
 description: "Why 178 Santa Clarita Homes Failed to Sell in 2024 – The Shocking Truth Behind Expired Listings      TL;DR: In the past 180 days, 178 Santa Clarita real estate listings expired without selling, with 1"
-publishDate: 2026-02-15T16:07:54.754178
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0825%20santa%20clarita%20open%20houses%20presents%20expired%20listings.png"
 source: "https://www.santaclaritaopenhouses.com/178-expired-listings-in-the-past-180-days-what-are-the-reasons-this-happens"
 ---

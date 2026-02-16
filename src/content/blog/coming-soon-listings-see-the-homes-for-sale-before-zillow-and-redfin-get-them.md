@@ -1,7 +1,8 @@
 ---
 title: "Coming Soon Listings - see the homes for sale before Zillow and Redfin get them"
 description: "Unlocking the Power of Early Access: The Benefits of Subscribing to Santa Clarita \"Coming Soon\" Listings  Date: April 4, 2025  Table of Contents   	 	Introduction: Why \"Coming Soon\" Listings Matte"
-publishDate: 2026-02-15T16:07:54.992999
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/coming%20soon%20listings%20for%20santa%20clarita%20california.png"
 source: "https://www.santaclaritaopenhouses.com/coming-soon-listings-see-the-homes-for-sale-before-zillow-and-redfin-get-them"
 ---

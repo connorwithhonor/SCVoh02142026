@@ -1,7 +1,8 @@
 ---
 title: "The Hidden Costs Nobody Tells You About Buying in Santa Clarita in 2026"
 description: "EXECUTIVE SUMMARY  Buying a home in Santa Clarita comes with far more costs than your mortgage payment. Most real estate agents won't break down Mello-Roos, HOA fees, property taxes, insurance, and sp"
-publishDate: 2026-02-15T16:07:54.633070
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-12%20071256.png"
 source: "https://www.santaclaritaopenhouses.com/the-hidden-costs-nobody-tells-you-about-buying-in-santa-clarita-in-2026"
 ---

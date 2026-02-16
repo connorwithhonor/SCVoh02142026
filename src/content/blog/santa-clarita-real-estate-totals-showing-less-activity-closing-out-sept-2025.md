@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate totals showing less activity closing out Sept. 2025"
 description: "Shocking Drop in Santa Clarita Home Sales: Is the Market Cooling or Just Taking a Breather Before the Boom?  TL;DR    October 1, 2025, brings fresh data on Santa Clarita real estate: September sales d"
-publishDate: 2026-02-15T16:07:54.701181
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1001%20santa%20clarita%20real%20estate%20market%20is%20slowing%20as%20a%20result%20of%20being%20past%20summer%20and%20schools%20being%20in%20session.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-totals-showing-less-activity-closing-out-sept-2025"
 ---

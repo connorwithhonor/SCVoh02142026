@@ -1,7 +1,8 @@
 ---
 title: "Seller Concessions Explained: A First Responder Realtor’s Guide to Selling"
 description: "Why Should Santa Clarita Sellers Consider Offering Concessions?  In Santa Clarita, the real estate market can be competitive, especially for higher-end properties. By offering seller concessions, you "
-publishDate: 2026-02-15T16:07:55.401244
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1%20seller%20concessions%20explained%20by%20First%20Responder%20Realtor%20Connor%20with%20honor%20Santa%20Clarita.webp"
 source: "https://www.santaclaritaopenhouses.com/seller-concessions-explained-a-first-responder-realtors-guide-to-selling"
 ---

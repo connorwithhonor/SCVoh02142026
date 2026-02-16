@@ -1,7 +1,8 @@
 ---
 title: "AI in Real Estate: How Smart Tech Is Flipping Santa Clarita Homes (and Your Mind"
 description: "Discover how AI is revolutionizing Santa Clarita real estate in 2025. From smarter home searches to pricing pitfalls, learn how to navigate the market with Connor MacIvor, your first-responder Realtor"
-publishDate: 2026-02-15T16:07:54.742572
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0831%20artificial%20intelligence%20update%20by%20connor%20with%20honor%20at%20santaclaritaai%20dot%20com%20youtube.png"
 source: "https://www.santaclaritaopenhouses.com/ai-in-real-estate-how-smart-tech-is-flipping-santa-clarita-homes-and-your-mind"
 ---

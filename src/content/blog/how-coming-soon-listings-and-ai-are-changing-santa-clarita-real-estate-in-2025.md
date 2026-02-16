@@ -1,7 +1,8 @@
 ---
 title: "How ‘Coming Soon’ Listings and AI Are Changing Santa Clarita Real Estate in 2025"
 description: "Real estate in Santa Clarita Valley continues to evolve at a fast pace. Technology, specifically artificial intelligence (AI), is affecting how people search for homes. Simultaneously, the rise of \"C"
-publishDate: 2026-02-15T16:07:55.211186
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/How%20%E2%80%98Coming%20Soon%E2%80%99%20Listings%20and%20AI%20Are%20Changing%20Santa%20Clarita%20Real%20Estate%20in%202025.png"
 source: "https://www.santaclaritaopenhouses.com/how-coming-soon-listings-and-ai-are-changing-santa-clarita-real-estate-in-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Is Buying a Home Still a Smart Plan for Santa Clarita Valley and Los Angeles"
 description: "With the burst of the housing bubble, credit crisis, and millions of foreclosures across the country, you may wonder if buying a home is such a good idea after all. However, it's important to consider"
-publishDate: 2026-02-15T16:07:55.089571
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://library-ihouseprd.b-cdn.net/blog/dream-home.jpg"
 source: "https://www.santaclaritaopenhouses.com/is-buying-a-home-still-a-smart-plan"
 ---

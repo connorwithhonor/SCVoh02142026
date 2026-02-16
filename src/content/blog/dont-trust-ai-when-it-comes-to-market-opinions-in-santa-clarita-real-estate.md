@@ -1,7 +1,8 @@
 ---
 title: "Don't trust AI when it comes to market opinions in Santa Clarita real estate"
 description: "Navigating the 2025 Santa Clarita Real Estate Market: Why Human Insight Trumps AI Predictions By Connor With Honor, First Responder Realtor® at Santa Clarita Open Houses   Introduction: The Rise of AI"
-publishDate: 2026-02-15T16:07:55.112585
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0203%20alien%20intelligence%20is%20only%20trying%20to%20get%20you%20to%20buy%20or%20sell%20santa%20clarita%20real%20estate%20depending%20on%20the%20creator.png"
 source: "https://www.santaclaritaopenhouses.com/dont-trust-ai-when-it-comes-to-market-opinions-in-santa-clarita-real-estate"
 ---

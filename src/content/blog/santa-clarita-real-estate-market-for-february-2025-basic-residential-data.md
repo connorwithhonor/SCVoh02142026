@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate market for February 2025 - Basic Residential Data"
 description: "Santa Clarita Residential Market Update: Basic Market Statistics  By your trusted real‐estate guide, here to help you navigate the market with clarity and wisdom.   Introduction  When it comes to real"
-publishDate: 2026-02-15T16:07:55.122099
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20market%20update%20february%202025%20basic%20residential%20data%20by%20Santa%20Clarita%20open%20houses.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-for-february-2025-basic-residential-data"
 ---

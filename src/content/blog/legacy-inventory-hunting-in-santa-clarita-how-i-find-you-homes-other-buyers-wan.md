@@ -1,7 +1,8 @@
 ---
 title: "Legacy Inventory Hunting in Santa Clarita: How I Find You Homes Other Buyers wan"
 description: "Legacy Inventory Hunting in Santa Clarita: How I Find You Homes Other Buyers Overlook  By Connor with Honor — Santa Clarita Valley Real Estate   Executive Summary (TL;DR)  Most buyers chase only what'"
-publishDate: 2026-02-15T16:07:54.679166
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/1109%20santa%20clarita%20open%20houses%20connor%20with%20honor.png"
 source: "https://www.santaclaritaopenhouses.com/legacy-inventory-hunting-in-santa-clarita-how-i-find-you-homes-other-buyers-wan"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Pre marketed listings access portal for Santa Clarita home buyers and sellers"
 description: "────────────────────────────────────────────── Santa Clarita Real Estate Market Update: A Seven-Day Review & Exclusive Coming Soon Listings Date: April 5, 2025  "
-publishDate: 2026-02-15T16:07:54.990999
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/coming%20soon%20listings%20in%20santa%20clarita%20ca.png"
 source: "https://www.santaclaritaopenhouses.com/pre-marketed-listings-access-portal-for-santa-clarita-home-buyers-and-sellers"
 ---

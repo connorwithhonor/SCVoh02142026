@@ -1,7 +1,8 @@
 ---
 title: "AI Revolution: Why Women Face Greater Job Displacement Than Men in 2025/26"
 description: "Beyond the CRM: Why the Honor Elevate System is Your Key to Market Domination  Part 1: The Introduction - The Breaking Point for Every Agent  How many leads slipped through the cracks this month? How "
-publishDate: 2026-02-15T16:07:54.903389
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20artificial%20intelligence%20talk%20integration%20and%20women%20being%20displaced%20more%20than%20men.jpg"
 source: "https://www.santaclaritaopenhouses.com/ai-revolution-why-women-face-greater-job-displacement-than-men-in-202526"
 ---

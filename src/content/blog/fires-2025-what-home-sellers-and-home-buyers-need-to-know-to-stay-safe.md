@@ -1,7 +1,8 @@
 ---
 title: "Fires 2025 what home sellers and home buyers need to know to stay safe"
 description: "Part 1: Fires in Southern California – The Real Estate Impact  Understanding the Trend  Southern California is no stranger to the wildfire phenomenon. Its dry climate, abundant vegetation, and rugged "
-publishDate: 2026-02-15T16:07:55.198682
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/California%20fires%20and%20insurance%20concerns%20for%20prospective%20home%20sellers%20and%20savvy%20home%20buyers.png"
 source: "https://www.santaclaritaopenhouses.com/fires-2025-what-home-sellers-and-home-buyers-need-to-know-to-stay-safe"
 ---

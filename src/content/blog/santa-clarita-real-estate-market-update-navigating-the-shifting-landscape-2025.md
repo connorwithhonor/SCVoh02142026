@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita Real Estate Market Update: Navigating the Shifting Landscape 2025"
 description: "Santa Clarita Real Estate Market Update: Navigating the Shifting Landscape in Early 2025  Welcome to the latest edition of our Santa Clarita Open Houses blog! As we step into January 14th, 2025, the S"
-publishDate: 2026-02-15T16:07:55.196683
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/California%20fires%20and%20insurance%20concerns%20for%20prospective%20home%20sellers%20and%20savvy%20home%20buyers.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-update-navigating-the-shifting-landscape-2025"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita real estate market trends"
 description: "Santa Clarita Market Trends: What to Expect This Year  If you're keeping a close eye on the Santa Clarita real estate market, 2024 is shaping up to be another dynamic year for buyers and sellers. With"
-publishDate: 2026-02-15T16:07:55.422822
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-trends"
 ---
 

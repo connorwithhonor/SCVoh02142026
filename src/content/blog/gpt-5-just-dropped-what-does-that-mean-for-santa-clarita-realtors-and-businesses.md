@@ -1,7 +1,8 @@
 ---
 title: "GPT-5 just dropped what does that mean for Santa Clarita Realtors and Businesses"
 description: "Shocking GPT-5 Drop: How This AI Beast is Revolutionizing Santa Clarita Real Estate – And Why You Can't Afford to Ignore It!                 TL;DR: ChatGPT-5 just launched on August 9, 2025, and it's "
-publishDate: 2026-02-15T16:07:54.788143
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0809%20artificial%20intelligence%20for%20santa%20clarita%20ai%20community%20and%20local%20real%20estate%20agents%20to%20give%20their%20sellers%20the%20edge%20connor.png"
 source: "https://www.santaclaritaopenhouses.com/gpt-5-just-dropped-what-does-that-mean-for-santa-clarita-realtors-and-businesses"
 ---

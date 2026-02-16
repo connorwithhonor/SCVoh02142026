@@ -1,7 +1,8 @@
 ---
 title: "The Shocking Truth About AI-Fueled Fake Reviews in Real Estate"
 description: "The Shocking Truth About AI-Fueled Fake Reviews in Real Estate – Don't Get Duped When Picking Your Santa Clarita Agent  TL;DR    In a world where AI is sneaking into everything – including those \"hel"
-publishDate: 2026-02-15T16:07:54.704684
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0926%20santa%20clarita%20artificial%20intelligence%20working%20with%20other%20agents%20and%20local%20businesses.png"
 source: "https://www.santaclaritaopenhouses.com/the-shocking-truth-about-ai-fueled-fake-reviews-in-real-estate"
 ---

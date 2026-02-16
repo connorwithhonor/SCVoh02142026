@@ -1,7 +1,8 @@
 ---
 title: "My home did not sell to the buyer we agreed to, what should I be considering?"
 description: "Understanding Back-on-Market Properties: What You Need to Know in Valencia, CA  When navigating the real estate market in Valencia, CA, you'll inevitably encounter properties labeled as Back on Market"
-publishDate: 2026-02-15T16:07:55.315150
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11202025%20what%20happens%20when%20escrow%20cancels%20and%20the%20buyer%20moves%20on%20thoughts%20by%20the%20first%20responder%20realtor.png"
 source: "https://www.santaclaritaopenhouses.com/my-home-did-not-sell-to-the-buyer-we-agreed-to-what-should-i-be-considering"
 ---

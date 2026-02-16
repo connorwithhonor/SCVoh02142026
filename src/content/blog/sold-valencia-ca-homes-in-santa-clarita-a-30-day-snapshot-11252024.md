@@ -1,7 +1,8 @@
 ---
 title: "Sold Valencia CA Homes in Santa Clarita: A 30-Day Snapshot 11252024"
 description: "Sold Valencia CA Homes in Santa Clarita: A 30-Day Snapshot  Valencia, California, located in the vibrant Santa Clarita Valley, continues to be a sought-after real estate market. Whether you're buying "
-publishDate: 2026-02-15T16:07:55.302355
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11252024%20Valencia%20ca%20sold%20homes%20and%20real%20estate%20data.png"
 source: "https://www.santaclaritaopenhouses.com/sold-valencia-ca-homes-in-santa-clarita-a-30-day-snapshot-11252024"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "AI, the New Midlife Disrupter: What Every 50-Year-Old Needs to Know Now"
 description: "Welcome to the crossroads of technology and wisdom. If you're over 50, you've probably witnessed the arrival of the internet, smartphones, and social media. Each innovation disrupted the way we live, "
-publishDate: 2026-02-15T16:07:55.321147
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11192024%20ai%20with%20honor%20for%20those%20over%2050%20need%20to%20pay%20attention%20to%20artificial%20intelligence%20AI%20is%20coming....png"
 source: "https://www.santaclaritaopenhouses.com/ai-the-new-midlife-disrupter-what-every-50-year-old-needs-to-know-now"
 ---

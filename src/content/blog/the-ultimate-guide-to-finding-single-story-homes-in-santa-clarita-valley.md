@@ -1,7 +1,8 @@
 ---
 title: "The Ultimate Guide to Finding Single-Story Homes in Santa Clarita Valley"
 description: "The Ultimate Guide to Finding Single-Story Homes in Santa Clarita Valley  TL;DR  Single-story homes in Santa Clarita Valley are rare, making up just 25.4% of single-family residences in a market of 49"
-publishDate: 2026-02-15T16:07:54.912892
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/santa%20clarita%20single%20family%20homes%20for%20sale%200629.jpg"
 source: "https://www.santaclaritaopenhouses.com/the-ultimate-guide-to-finding-single-story-homes-in-santa-clarita-valley"
 ---

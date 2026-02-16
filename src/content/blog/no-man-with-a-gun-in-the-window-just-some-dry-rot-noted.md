@@ -1,7 +1,8 @@
 ---
 title: "No man with a gun in the window, just some dry rot noted"
 description: "Santa Clarita Real Estate Market Watch: A 7-Day Snapshot and Strategic Guidance for Sellers and Buyers  Day 288 of 2024 (October 14, 2024)  Welcome to another update of the Santa Clarita Real Estate M"
-publishDate: 2026-02-15T16:07:55.409299
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20Valley%20first%20responder%20realtor%20show%20today%20october%202024%20connor%20with%20honor%20288.png"
 source: "https://www.santaclaritaopenhouses.com/no-man-with-a-gun-in-the-window-just-some-dry-rot-noted"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santa Clarita open houses real estate market update for September 2025"
 description: "Santa Clarita Real Estate Bombshell: Active Listings Dip to 716 While Weekly Closings Spike to 46 – Buyer's Paradise or Seller's Wake-Up Call?                 TL;DR  Santa Clarita's housing market is "
-publishDate: 2026-02-15T16:07:54.707687
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0924%20santa%20clarita%20open%20houses%20real%20estate%20update%20and%20local%20real%20estate%20news%20for%20home%20buyers%20and%20sellers%20youtube.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-real-estate-market-update-for-september-2025"
 ---

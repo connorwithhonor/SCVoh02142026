@@ -1,7 +1,8 @@
 ---
 title: "Fire Danger in Santa Clarita California and how a home owners can mitigate them"
 description: "From the Force to Your Front Door: Protecting Your Santa Clarita Home from Fire and Enhancing Security  The allure of Santa Clarita real estate is undeniable. Nestled amidst rolling hills and pictures"
-publishDate: 2026-02-15T16:07:55.167164
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Hughes%20Fire%20Castaic%20CA%202025%20looters%20and%20criminals.png"
 source: "https://www.santaclaritaopenhouses.com/fire-danger-in-santa-clarita-california-and-how-a-home-owners-can-mitigate-them"
 ---

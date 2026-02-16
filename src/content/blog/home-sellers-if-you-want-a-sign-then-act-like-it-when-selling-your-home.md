@@ -1,7 +1,8 @@
 ---
 title: "Home sellers, if you want a sign, then act like it when selling your home"
 description: "Santa Clarita Real Estate Market Update – July 28, 2024  Good day, everyone! This is Connor MacIVOR with your Santa Clarita real estate update for Sunday, July 28, 2024. Here's what's been happening i"
-publishDate: 2026-02-15T16:07:55.481624
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Muscle%20in%20Santa%20Clarita%20Valley%20and%20open%20houses%20for%20sale%20today.png"
 source: "https://www.santaclaritaopenhouses.com/home-sellers-if-you-want-a-sign-then-act-like-it-when-selling-your-home"
 ---

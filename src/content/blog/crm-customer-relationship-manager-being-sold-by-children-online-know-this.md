@@ -1,7 +1,8 @@
 ---
 title: "CRM - Customer Relationship Manager being sold by children online - know this"
 description: "Beyond the CRM: How the Agentic Honor System Transforms Your Real Estate Business  Part 1: The Introduction - The Breaking Point for Every Agent  How many leads slipped through the cracks this month? "
-publishDate: 2026-02-15T16:07:54.932407
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/kids%20selling%20realtor%20tech.jpg"
 source: "https://www.santaclaritaopenhouses.com/crm-customer-relationship-manager-being-sold-by-children-online-know-this"
 ---

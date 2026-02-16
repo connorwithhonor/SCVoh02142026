@@ -1,7 +1,8 @@
 ---
 title: "My Journey: From Fat to Fit & What It Means for Your Santa Clarita Home Sale"
 description: "Introduction: The Unseen Strength Behind Your Real Estate Success  Every journey, whether personal or professional, is shaped by discipline, resilience, and unwavering commitment. My own path has take"
-publishDate: 2026-02-15T16:07:54.976495
+publishDate: 2026-02-15T16:07:54
+pubDate: 2026-02-15T16:07:54
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-05-23%20100644.png"
 source: "https://www.santaclaritaopenhouses.com/my-journey-from-fat-to-fit-what-it-means-for-your-santa-clarita-home-sale"
 ---

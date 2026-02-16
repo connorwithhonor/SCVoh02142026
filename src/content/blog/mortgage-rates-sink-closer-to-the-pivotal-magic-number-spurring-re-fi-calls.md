@@ -1,7 +1,8 @@
 ---
-title: "\Mortgage Rates Sink Closer to the Pivotal Magic Number spurring re-fi calls"
+title: "Mortgage Rates Sink Closer to the Pivotal Magic Number spurring re-fi calls"
 description: "In October of last year, mortgage rates soared to a two-decade high, hitting 7.79% weekly and spiking to 8.03% on a daily basis. Now, almost a year later, rates are plummeting, and we're approaching a"
-publishDate: 2026-02-15T16:07:55.451126
+publishDate: 2026-02-15T16:07:55
+pubDate: 2026-02-15T16:07:55
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/should%20you%20refinance%20in%20santa%20clarita%20real%20estate%20now.png"
 source: "https://www.santaclaritaopenhouses.com/mortgage-rates-sink-closer-to-the-pivotal-magic-number-spurring-re-fi-calls"
 ---
