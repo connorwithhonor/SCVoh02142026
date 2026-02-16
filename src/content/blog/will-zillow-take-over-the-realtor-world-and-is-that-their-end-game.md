@@ -110,7 +110,7 @@ Ask ChatGPT,
 And ChatGPT responds—with Zillow data—without the user ever visiting your website or mine.
 That’s not a feature; that’s **a funnel bypass**.
 
-If consumers stop visiting property sites like **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)** and get their answers inside ChatGPT, Zillow becomes the invisible layer between every buyer and every agent.
+If consumers stop visiting property sites like **[SantaClaritaOpenHouses.com](/)** and get their answers inside ChatGPT, Zillow becomes the invisible layer between every buyer and every agent.
 
 ## **7. The Parallel to REALTOR.com**
 
@@ -152,7 +152,7 @@ The challenge for us is to **make that value visible again**.
 ## **10. Santa Clarita as Ground Zero**
 
 Let’s localize this.
-Our market here in the **Santa Clarita Valley**—from **[Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca)** and **[Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca)** to **[Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca)** and **[Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca)**—is a prime example of how these power shifts play out.
+Our market here in the **Santa Clarita Valley**—from **[Valencia](/)** and **[Saugus](/)** to **[Canyon Country](/)** and **[Stevenson Ranch](/)**—is a prime example of how these power shifts play out.
 
 Buyers here are **tech-savvy** and **data-driven**.
 They’re on their phones, comparing Zestimates, even while standing in an open house.
@@ -184,7 +184,7 @@ Imagine this prompt:
 Within seconds, ChatGPT can return listings directly from Zillow’s feed—complete with mortgage est., school scores, commute times, and a “connect with Ziltor Agent” button.
 
 That button is where the money lives.
-And unless you’ve built your own AI-driven site—like **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)**—you’ll never see that lead.
+And unless you’ve built your own AI-driven site—like **[SantaClaritaOpenHouses.com](/)**—you’ll never see that lead.
 
 ## **13. What Smart Agents Can Do Right Now**
 
@@ -204,7 +204,7 @@ That’s exactly why I built **HonorElevate.com**, so agents and small businesse
 ### **3. Build Local Authority**
 
 Publish weekly **market updates** using your own MLS access.
-For example, here on my site you can check the **[Santa Clarita Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)** or drill down into **Valencia**, **[Saugus](https://www.santaclaritaopenhouses.com/saugus-market-report)**, and **[Castaic](https://www.santaclaritaopenhouses.com/castaic-market-report)** reports.
+For example, here on my site you can check the **[Santa Clarita Market Report](/blog)** or drill down into **Valencia**, **Saugus**, and **Castaic** reports.
 That’s real data with your interpretation, not algorithmic guesses.
 
 ### **4. Speak with Personality**

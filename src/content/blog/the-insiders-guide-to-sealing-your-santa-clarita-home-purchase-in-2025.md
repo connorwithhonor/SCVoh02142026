@@ -37,7 +37,7 @@ Contingencies are your safety net as a buyer. They give you the right to back ou
 
 Contingencies are contractual clauses that let you investigate the property and secure financing within a set timeframe. Common ones include:
 
-In Santa Clarita’s 2025 market, contingency periods are typically 17–21 days, but check your contract at [https://www.santaclaritaopenhouses.com/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate](https://www.santaclaritaopenhouses.com/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate) for specifics. Missing these deadlines or signing without due diligence is like pulling the pin on a grenade and hoping it’s a dud.
+In Santa Clarita’s 2025 market, contingency periods are typically 17–21 days, but check your contract at https://www.santaclaritaopenhouses.com/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate for specifics. Missing these deadlines or signing without due diligence is like pulling the pin on a grenade and hoping it’s a dud.
 
 ### The Active Process of Removing Contingencies
 
@@ -45,7 +45,7 @@ Back in the day, contingencies expired passively—if you didn’t cancel escrow
 
 Here’s how to do it right:
 
-For a deeper dive into avoiding scams during this phase, visit [https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing](https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing).
+For a deeper dive into avoiding scams during this phase, visit https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing.
 
 ## Navigating the Closing Process: From Contingencies to Keys
 
@@ -63,7 +63,7 @@ Escrow is the neutral third party holding your funds until the deal is done. The
 
 What to expect:
 
-For more on escrow, see [https://www.santaclaritaopenhouses.com/the-functions-of-an-escrow](https://www.santaclaritaopenhouses.com/the-functions-of-an-escrow).
+For more on escrow, see https://www.santaclaritaopenhouses.com/the-functions-of-an-escrow.
 
 ### Step 3: Funding and Recording
 
@@ -73,7 +73,7 @@ Pro tip: Schedule a free consultation at [https://zoomescv.com](https://zoomescv
 
 ## Insider Tips to Avoid Costly Mistakes
 
-Santa Clarita’s market is hot—inventory hit 505 listings in 2024, the highest in over two years (see [https://www.santaclaritaopenhouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years](https://www.santaclaritaopenhouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years)). But more options mean more pitfalls. Here’s how to stay sharp:
+Santa Clarita’s market is hot—inventory hit 505 listings in 2024, the highest in over two years (see https://www.santaclaritaopenhouses.com/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years). But more options mean more pitfalls. Here’s how to stay sharp:
 
 ## How AI Can Boost Your Home-Buying Game
 
@@ -83,15 +83,15 @@ Want to see AI in action? Call my AI voice system at 661-219-7299 to hear how it
 
 ## Why Choose a First Responder-Turned-Realtor?
 
-My LAPD background—motor cop, firearms instructor, drug recognition expert—taught me to stay calm under pressure and spot BS a mile away. That’s why attorneys trust me for divorce-related real estate (see [https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce](https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce)). I bring that same grit and honesty to every deal, ensuring you’re protected from start to finish.
+My LAPD background—motor cop, firearms instructor, drug recognition expert—taught me to stay calm under pressure and spot BS a mile away. That’s why attorneys trust me for divorce-related real estate (see https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce). I bring that same grit and honesty to every deal, ensuring you’re protected from start to finish.
 
-Ready to buy or sell in Santa Clarita? Contact me at 661-888-4983 or [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact) for a no-BS consultation. Veterans, first responders, and first-time buyers—I’ve got your back. See my guide for vets at [https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor](https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor).
+Ready to buy or sell in Santa Clarita? Contact me at 661-888-4983 or [https://www.santaclaritaopenhouses.com/contact](/contact) for a no-BS consultation. Veterans, first responders, and first-time buyers—I’ve got your back. See my guide for vets at https://www.santaclaritaopenhouses.com/veteran-home-buyers-guide-to-buying-by-a-supportive-first-responder-realtor.
 
 ## The Santa Clarita Market in 2025: What’s Hot?
 
-Santa Clarita’s market is shifting. With 505 active listings, buyers have more choices, but competition is fierce for well-priced homes. Neighborhoods like Valencia and Stevenson Ranch are seeing multiple offers. Mortgage rates are dipping closer to the “magic number” (see [https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number](https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number)), making now a prime time to buy.
+Santa Clarita’s market is shifting. With 505 active listings, buyers have more choices, but competition is fierce for well-priced homes. Neighborhoods like Valencia and Stevenson Ranch are seeing multiple offers. Mortgage rates are dipping closer to the “magic number” (see https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number), making now a prime time to buy.
 
-Check the latest market trends at [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) or explore listings at [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings).
+Check the latest market trends at [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](/blog) or explore listings at [https://www.santaclaritaopenhouses.com/active-listings](/).
 
 ## Recap: Key Takeaways for Closing Your Santa Clarita Home Purchase
 

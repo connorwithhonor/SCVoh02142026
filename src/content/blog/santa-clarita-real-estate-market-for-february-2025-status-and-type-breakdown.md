@@ -42,7 +42,7 @@ For “Coming Soon” condominiums (n = 2):
 
 **What Does This Tell Us?**
 
-Coming Soon condominiums in Santa Clarita are positioned in the mid‑$600K range. Although a small sample, the data indicates a moderate increase in size, newer construction on the higher end, and variability in lot size—all factors that may appeal to buyers looking for a low‑maintenance lifestyle combined with outdoor space. For those eager to see what’s about to hit the market, consider setting up alerts on our [Dream Home Finder](https://www.santaclaritaopenhouses.com/dream-home-finder) tool.
+Coming Soon condominiums in Santa Clarita are positioned in the mid‑$600K range. Although a small sample, the data indicates a moderate increase in size, newer construction on the higher end, and variability in lot size—all factors that may appeal to buyers looking for a low‑maintenance lifestyle combined with outdoor space. For those eager to see what’s about to hit the market, consider setting up alerts on our [Dream Home Finder](/contact) tool.
 
 ### 2.2. Single Family Residence – Coming Soon
 
@@ -94,7 +94,7 @@ When all 509 active listings are aggregated:
 
 **Summary for Active Listings:**
 
-Active listings are diverse. Condominiums offer entry points for buyers and investors, single‑family homes provide a broad range of options and price points, and townhouses fill the niche for those seeking a compromise between affordability and space. Buyers who wish to search the current inventory can explore our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) page.
+Active listings are diverse. Condominiums offer entry points for buyers and investors, single‑family homes provide a broad range of options and price points, and townhouses fill the niche for those seeking a compromise between affordability and space. Buyers who wish to search the current inventory can explore our [Active Listings](/) page.
 
 ## 4. Active Under Contract: When Offers Are In
 
@@ -128,7 +128,7 @@ Although the sample for townhouses under contract is small, the quick turnaround
 
 When all 96 properties are combined:
 
-For a closer look at properties that are almost off the market, our [Active Under Contract](https://www.santaclaritaopenhouses.com/active-listings) section is updated regularly.
+For a closer look at properties that are almost off the market, our [Active Under Contract](/) section is updated regularly.
 
 ## 5. Pending Transactions: The Near‑Final Stage
 
@@ -162,7 +162,7 @@ Pending townhouses have a similar pace to the pending single‑family segment, a
 
 When combining all pending properties (n = 129):
 
-For buyers ready to seal the deal, understanding pending market trends is crucial. To learn more about the final steps in a transaction, check out our [Buyers Guide](https://www.santaclaritaopenhouses.com/buyers-guide).
+For buyers ready to seal the deal, understanding pending market trends is crucial. To learn more about the final steps in a transaction, check out our Buyers Guide.
 
 ## 6. Closed Transactions: Lessons from Final Sales
 
@@ -196,7 +196,7 @@ Combining all closed transactions (n = 50):
 
 Closed transaction data is a powerful indicator of market health. In Santa Clarita, the fact that most properties are closing at or near list price—with relatively short days on market—suggests that demand remains strong across the board.
 
-For more insights into what happens at closing, check out our [Sellers Guide](https://www.santaclaritaopenhouses.com/sellers-guide).
+For more insights into what happens at closing, check out our Sellers Guide.
 
 ## 7. Expired Listings: Pricing Lessons
 
@@ -286,7 +286,7 @@ When we combine data for all statuses (n = 880 properties) by type, we see the f
 
 ### Overall – Combined (All 880 Properties)
 
-For a complete picture of current listings, we encourage you to explore our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) page.
+For a complete picture of current listings, we encourage you to explore our [Active Listings](/) page.
 
 ## 12. Tips and Recommendations for Buyers, Sellers, and Investors
 
@@ -306,7 +306,7 @@ The “Statistics by Status and Type” data offers a powerful snapshot of the S
 
 **Final Recommendations:**
 
-By staying informed and using detailed market data like the statistics by status and type, you can confidently navigate the Santa Clarita real estate market. Our website is designed to serve as your comprehensive resource for up‑to‑date market insights and practical advice. Whether you’re exploring our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings), reading our [Buyers Guide](https://www.santaclaritaopenhouses.com/buyers-guide), or contacting us for personalized support via our [Contact](https://www.santaclaritaopenhouses.com/contact) page, we’re here to help.
+By staying informed and using detailed market data like the statistics by status and type, you can confidently navigate the Santa Clarita real estate market. Our website is designed to serve as your comprehensive resource for up‑to‑date market insights and practical advice. Whether you’re exploring our [Active Listings](/), reading our Buyers Guide, or contacting us for personalized support via our [Contact](/contact) page, we’re here to help.
 
 Thank you for taking the time to review this comprehensive analysis. We hope it provides the clarity and guidance you need to make your next real estate decision with confidence. Happy house hunting, and here’s to your success in the Santa Clarita Valley market!
 

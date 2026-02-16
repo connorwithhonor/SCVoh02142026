@@ -50,7 +50,7 @@ As we move into August, we’re anticipating potential changes in interest rates
 
 ## Contact Information
 
-I'm Connor MacIvor, your trusted real estate partner. For more detailed information and personalized advice, feel free to reach out to me. You can find me online at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) or simply Google "Connor with Honor."
+I'm Connor MacIvor, your trusted real estate partner. For more detailed information and personalized advice, feel free to reach out to me. You can find me online at [SantaClaritaOpenHouses.com](/) or simply Google "Connor with Honor."
 
 ### Contact Details:
 

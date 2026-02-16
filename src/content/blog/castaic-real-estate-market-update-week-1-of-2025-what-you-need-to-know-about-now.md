@@ -128,9 +128,9 @@ As a First Responder Realtor, I prioritize a client-centered approach that empha
 
 **Ready to explore the Santa Clarita Valley real estate market further?**
 
-**Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) for more resources, including open houses and available inventory.**
+**Visit [SantaClaritaOpenHouses.com](/) for more resources, including open houses and available inventory.**
 
-**You can also find my comprehensive real estate guide at [SantaClaritaOpenHouses.com/book](https://www.santaclaritaopenhouses.com/book).**
+**You can also find my comprehensive real estate guide at SantaClaritaOpenHouses.com/book.**
 
 **Have questions or need assistance?**
 

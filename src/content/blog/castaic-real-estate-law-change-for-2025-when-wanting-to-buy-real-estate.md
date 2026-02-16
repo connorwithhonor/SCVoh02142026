@@ -22,7 +22,7 @@ Nestled in the northernmost reaches of the Santa Clarita Valley,&nbsp;**Castaic,
 
 This comprehensive real estate market update will delve into current trends, key statistics, financing options, legislative updates, and actionable advice for buyers and sellers. Whether you’re preparing to buy your dream home, sell a cherished property, or invest in a promising market, this guide will equip you with the knowledge to succeed.
 
-Visit&nbsp;[Santa&nbsp;Clarita&nbsp;Open&nbsp;Houses](https://www.santaclaritaopenhouses.com/)&nbsp;for in-depth resources, property listings, and expert insights tailored to the Castaic area.
+Visit&nbsp;[Santa&nbsp;Clarita&nbsp;Open&nbsp;Houses](/)&nbsp;for in-depth resources, property listings, and expert insights tailored to the Castaic area.
 
 ## AB2992: How This New Law Changes California Real Estate
 

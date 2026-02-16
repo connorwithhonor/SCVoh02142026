@@ -76,7 +76,7 @@ Saugus is more than a neighborhood—it’s a community where families grow, mem
 
 Don’t forget to check out my book,&nbsp;*How to Buy and Sell Real Estate in Santa Clarita—2025 Edition,*&nbsp;for even more insights and strategies. Let’s connect today to discuss how I can help you achieve your real estate goals in Saugus, CA.
 
-Explore the latest listings and learn more about the Saugus community at&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/).
+Explore the latest listings and learn more about the Saugus community at&nbsp;[SantaClaritaOpenHouses.com](/).
 
 ** Share This Post## Comments
 

@@ -24,7 +24,7 @@ When you’re planning to sell your home, an accurate valuation is essential. No
 
 **Why Home Value Matters:**
 
-For real-time insights on how similar homes are performing, visit our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
+For real-time insights on how similar homes are performing, visit our [Market Report](/blog).
 
 ## 2. Key Factors That Determine Your Home’s Value
 
@@ -37,7 +37,7 @@ Several factors play a role in establishing your home’s worth in the Santa Cla
 ### C. Comparative Market Analysis (CMA)
 
 A detailed CMA compares your home with similar properties in your neighborhood that have recently sold or are currently on the market. This analysis provides a baseline for setting your price competitively.
-*Get Started:* Request your personalized [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) to see how your home stacks up.
+*Get Started:* Request your personalized [Free Market Analysis](/contact) to see how your home stacks up.
 
 ### D. External Factors
 
@@ -54,11 +54,11 @@ A certified appraiser can offer an unbiased, detailed valuation based on in-pers
 ### C. Comparative Market Analysis (CMA)
 
 Working with a seasoned agent like me ensures that you get a detailed CMA. I review local sales data, assess your home’s condition, and adjust for unique features to give you an accurate market value.
-*Learn More:* Visit our [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) page to get started.
+*Learn More:* Visit our [Free Market Analysis](/contact) page to get started.
 
 ### D. Review of Recent Sales and Active Listings
 
-Examining similar properties in your area provides real-world data. Check out our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) to see how current homes are priced and how quickly they’re selling. This information can be a strong indicator of market conditions and your home’s potential value.
+Examining similar properties in your area provides real-world data. Check out our [Active Listings](/) to see how current homes are priced and how quickly they’re selling. This information can be a strong indicator of market conditions and your home’s potential value.
 
 ## 4. What to Do Next: Actionable Steps for Home Sellers
 
@@ -86,7 +86,7 @@ A homeowner in Newhall received a comprehensive CMA that accurately reflected th
 
 In Canyon Country, a well-priced and marketed home was able to sell quickly in a competitive market. The seller’s decision to invest in professional photography and virtual tours played a key role in attracting buyers, leading to a fast, successful sale.
 
-For more inspiring testimonials, please visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more inspiring testimonials, please visit our [Testimonials](/) page.
 
 ## 6. Why Choose Connor with Honor for Your Home Valuation
 

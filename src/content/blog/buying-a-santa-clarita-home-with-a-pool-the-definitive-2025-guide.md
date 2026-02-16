@@ -32,13 +32,13 @@ Before diving into pool ownership, weigh the pros and cons:
 
 **Cons**
 
-If you’re looking for a property **with** a pool, you can start your search on **[Homes with a Pool for Sale in Santa Clarita CA](https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-santa-clarita-ca)**. Conversely, if you’re not 100% sold on the idea, you can compare listings that don’t have a pool by browsing the main site or the **[Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search)** feature.
+If you’re looking for a property **with** a pool, you can start your search on **Homes with a Pool for Sale in Santa Clarita CA**. Conversely, if you’re not 100% sold on the idea, you can compare listings that don’t have a pool by browsing the main site or the **[Advanced Search](/)** feature.
 
 ### 3. Market Insights: Pool Properties in 2025
 
 Real estate in Santa Clarita has historically shown that homes with pools attract a wide range of potential buyers, especially during peak summer months or times when inventory is lower in certain neighborhoods. However, pool homes can also be priced higher:
 
-Check the **[Santa Clarita Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)** for up-to-date stats on list prices and how pool homes are performing relative to the broader market.
+Check the **[Santa Clarita Market Report](/blog)** for up-to-date stats on list prices and how pool homes are performing relative to the broader market.
 
 ### 4. Finding the Right Neighborhood
 
@@ -48,11 +48,11 @@ Santa Clarita is diverse, featuring everything from suburban enclaves to more ru
 
 Owning a pool comes with ongoing responsibilities. Key costs to budget for:
 
-A typical Santa Clarita homeowner might spend anywhere from $100 to $300/month (or more) on maintenance, equipment costs, and utility charges. Thoroughly discussing these factors with your agent or property inspector during **[Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca)** can provide valuable insight.
+A typical Santa Clarita homeowner might spend anywhere from $100 to $300/month (or more) on maintenance, equipment costs, and utility charges. Thoroughly discussing these factors with your agent or property inspector during **Open Houses** can provide valuable insight.
 
 ### 6. Leveraging “Coming Soon” and AI Tools
 
-**Coming Soon** listings are often hidden gems—pool homes that aren’t fully on the market yet. By watching the **[ComingSoon](https://www.santaclaritaopenhouses.com/comingsoon)** section, you might get the first look at a potential dream property.
+**Coming Soon** listings are often hidden gems—pool homes that aren’t fully on the market yet. By watching the **ComingSoon** section, you might get the first look at a potential dream property.
 
 Also, be mindful that AI-driven real estate sites can filter out some listings based on your browsing history, so double-check with local websites like SantaClaritaOpenHouses.com or talk to a local agent to ensure you don’t miss out on any new pool properties hitting the market.
 
@@ -68,7 +68,7 @@ Also, be mindful that AI-driven real estate sites can filter out some listings b
 
 With some sellers declining to pay the buyer-agent commission, you may need to budget extra. This can affect your total purchasing power for a property with a pool, as the higher asking price plus a buyer-agent fee might stretch your budget.
 
-For more on this topic, see **[Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules](https://www.santaclaritaopenhouses.com/hiring-the-right-santa-clarita-real-estate-agent-under-the-new-commission-rules)**.
+For more on this topic, see **Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules**.
 
 ### 10. Financing Pool Homes: Mortgage Options &amp; Rates
 

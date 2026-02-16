@@ -145,8 +145,8 @@ Here’s a quick overview of the top tools I recommend. Many are free to start, 
   - **Follow Up Boss**
   - **Canva Magic Write**
   - **RPR (Realtors Property Resource) with AI**
-  - **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)**
-If you’d like more in-depth reviews of these tools, check out my article on **[AI for Everyone but you need to start as soon as you can you are behind already](https://www.santaclaritaopenhouses.com/ai-for-everyone-but-you-need-to-start-as-soon-as-you-can-you-are-behind-already)** for additional tips.
+  - **[SantaClaritaOpenHouses.com](/)**
+If you’d like more in-depth reviews of these tools, check out my article on **AI for Everyone but you need to start as soon as you can you are behind already** for additional tips.
 
 ## 4. How to Get Started with AI Integration
 
@@ -218,7 +218,7 @@ Feel free to watch that video first, then jump back into this blog post for a de
 
 ## 7. Leveraging AI on SantaClaritaOpenHouses.com
 
-[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) is my local platform that lists homes, open houses, and market updates in Santa Clarita and beyond. You might have seen references to its **extensive sitemap** (like the huge XML excerpt provided), full of pages on local communities, market reports, tips, and specialized property searches.
+[SantaClaritaOpenHouses.com](/) is my local platform that lists homes, open houses, and market updates in Santa Clarita and beyond. You might have seen references to its **extensive sitemap** (like the huge XML excerpt provided), full of pages on local communities, market reports, tips, and specialized property searches.
 
 ### 7.1 How AI Enhances This Platform
 
@@ -232,11 +232,11 @@ Feel free to watch that video first, then jump back into this blog post for a de
 
 To see how AI specifically ties into local real estate, check out the following blog posts on SantaClaritaOpenHouses.com:
 
-  - [Artificial Intelligence in Real Estate](https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate)
+  - Artificial Intelligence in Real Estate
 
-  - [AI for Everyone but you need to start as soon as you can you are behind already](https://www.santaclaritaopenhouses.com/ai-for-everyone-but-you-need-to-start-as-soon-as-you-can-you-are-behind-already)
+  - AI for Everyone but you need to start as soon as you can you are behind already
 
-  - [Santa Clarita Real Estate Thrives with Artificial Intelligence in 2025](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-thrives-with-artificial-intelligence-in-2025)
+  - Santa Clarita Real Estate Thrives with Artificial Intelligence in 2025
 
 These articles go into more technical detail about **how AI sifts through market data** and can drastically reduce guesswork in property valuation.
 
@@ -268,7 +268,7 @@ Internal linking to relevant pages (like the ones in the sitemap you shared) imp
 
 Imagine having a system that scours social media, local real estate forums, and listing websites for potential buyers or sellers who are actively in the market. Then, it automatically sorts them based on the likelihood they’ll convert, so you only spend time on the hottest leads.
 
-  - **Behavior Tracking:** AI knows if a lead visited your “[mortgage rates](https://www.santaclaritaopenhouses.com/mortgage-rates)” page or read your “[first-time buyer](https://www.santaclaritaopenhouses.com/first-time-home-buyer-tips-for-santa-clarita-residents-for-2025)” guide, indicating their stage in the buying cycle.
+  - **Behavior Tracking:** AI knows if a lead visited your “[mortgage rates](/blog)” page or read your “first-time buyer” guide, indicating their stage in the buying cycle.
 
   - **Automated Follow-Ups:** Instead of waiting days to respond, an AI-driven system can email or text them instantly, setting up an appointment on your calendar if they’re truly ready to talk.
 
@@ -284,7 +284,7 @@ Once you have a qualified lead, AI helps you close the deal:
 
 ### 9.3 Case Example
 
-  - **Open House Scenario:** You hold an open house for a property listed on [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/). Attendees sign in via an AI-driven kiosk that collects their email, phone, and property interests.
+  - **Open House Scenario:** You hold an open house for a property listed on [SantaClaritaOpenHouses.com](/). Attendees sign in via an AI-driven kiosk that collects their email, phone, and property interests.
 
   - **Follow-Up Sequence:** Within an hour, each attendee receives a personalized “thank you” email with property details and *similar* listings.
 
@@ -306,7 +306,7 @@ Your brand thrives on consistent, high-quality posts. AI can:
 
   - **Schedule** posts at peak engagement times.
 
-(*If you’re curious how AI can automate more advanced tasks, check out the specialized real estate marketing articles on [SantaClaritaOpenHouses.com/blog](https://www.santaclaritaopenhouses.com/blog) for deep dives.*)
+(*If you’re curious how AI can automate more advanced tasks, check out the specialized real estate marketing articles on [SantaClaritaOpenHouses.com/blog](/blog) for deep dives.*)
 
 ### 10.2 Video Editing &amp; Transcription
 

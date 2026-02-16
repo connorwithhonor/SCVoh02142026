@@ -36,7 +36,7 @@ As of July 19, 2025, the Santa Clarita Valley boasts 808 active listings, encomp
 
 Here’s a breakdown of the past seven days’ activity:
 
-This data is pulled directly from the California Regional Multiple Listing Service (CRMLS) through my agreement with the Southland Regional Association of Realtors, ensuring you get the most accurate and up-to-date information (https://www.santaclaritaopenhouses.com/). Unlike third-party syndication sites, my platform at Santa Clarita Open Houses provides unfiltered access to 99.5% of listings, excluding only rare for-sale-by-owner properties.
+This data is pulled directly from the California Regional Multiple Listing Service (CRMLS) through my agreement with the Southland Regional Association of Realtors, ensuring you get the most accurate and up-to-date information (/). Unlike third-party syndication sites, my platform at Santa Clarita Open Houses provides unfiltered access to 99.5% of listings, excluding only rare for-sale-by-owner properties.
 
 ### Why Open Houses Are Key This Weekend
 
@@ -66,7 +66,7 @@ However, don’t rush in unprepared. Avoid major credit purchases during the buy
 
 ### Pricing Your Home Right
 
-With inventory swelling, pricing your home correctly is more critical than ever (https://www.santaclaritaopenhouses.com/pricing-your-home-too-high-maybe-the-reason-its-not-selling). Overpricing can lead to your home sitting on the market, while underpricing might leave money on the table. My approach, honed by years of analyzing high-pressure situations, involves a detailed market analysis to set a competitive price (https://www.santaclaritaopenhouses.com/free-market-analysis).
+With inventory swelling, pricing your home correctly is more critical than ever (https://www.santaclaritaopenhouses.com/pricing-your-home-too-high-maybe-the-reason-its-not-selling). Overpricing can lead to your home sitting on the market, while underpricing might leave money on the table. My approach, honed by years of analyzing high-pressure situations, involves a detailed market analysis to set a competitive price (/contact).
 
 Consider these tips:
 

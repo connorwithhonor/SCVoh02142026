@@ -50,7 +50,7 @@ SantaClaritaOpenHouses.com offers:
 
 Buying or selling a home is a significant milestone. With SantaClaritaOpenHouses.com, you gain a partner committed to your success. From the first contact to the closing table, our personalized approach ensures a smooth, stress-free real estate journey.
 
-For all your real estate needs, visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/). Together, we’ll find your dream home or ensure a successful sale in the beautiful Santa Clarita Valley.
+For all your real estate needs, visit&nbsp;[SantaClaritaOpenHouses.com](/). Together, we’ll find your dream home or ensure a successful sale in the beautiful Santa Clarita Valley.
 
 ** Share This Post## Comments
 

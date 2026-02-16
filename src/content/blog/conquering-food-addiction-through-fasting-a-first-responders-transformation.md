@@ -24,7 +24,7 @@ Fast food is engineered to keep you hooked. Those curly fries, milkshakes, and d
 
 I’m Connor MacIvor, a former LAPD motor cop, firearms instructor, and now a realtor (CALDRE 01238257) and body transformation specialist. At my heaviest, I was 365 pounds, battling health issues and fed up with doctor visits. At 52, I decided enough was enough. Through fasting, I dropped 135 pounds in 7.5 months, going from 365 to 230 pounds. My longest fast was 14 days. This post shares how I broke free from food addiction and how you can too. Let’s get into the raw truth about food addiction, the power of fasting, and the steps to take control of your health.
 
-For more on my transformation journey, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in the Santa Clarita Valley and need real estate guidance, explore [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or book a free consultation at [https://zoommescv.com/](https://zoommescv.com/).
+For more on my transformation journey, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in the Santa Clarita Valley and need real estate guidance, explore [https://www.santaclaritaopenhouses.com/](/) or book a free consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 ### The Reality of Food Addiction
 
@@ -34,7 +34,7 @@ Here’s why food addiction is so tough:
 
 If you’re stuck in this loop, know this: you’re not weak, and you’re not alone. Food addiction is real, but it’s not unbeatable. My turning point came when I was tired of being sick and tired. I was done with doctor visits, medications, and feeling trapped in my own body. That’s when I discovered fasting—a tool that helped me reset my relationship with food.
 
-For more insights on breaking food addiction, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and curious about real estate opportunities, explore [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or contact me at 661-888-4983.
+For more insights on breaking food addiction, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and curious about real estate opportunities, explore [https://www.santaclaritaopenhouses.com/](/) or contact me at 661-888-4983.
 
 ### How Fasting Changed My Life
 
@@ -44,7 +44,7 @@ At 52, I hit rock bottom. At 365 pounds, I was battling health issues and fed up
 
 Fasting isn’t just about not eating—it’s about giving your body a break to reset. Here’s what happens when you fast:
 
-For a deeper dive into fasting science, check out my videos at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who delivers results, visit [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
+For a deeper dive into fasting science, check out my videos at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who delivers results, visit [https://www.santaclaritaopenhouses.com/about](/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 #### My Fasting Journey
 
@@ -52,31 +52,31 @@ I started small, skipping a meal here and there. The first few days were rough�
 
 The result? I dropped 135 pounds in 7.5 months, going from 365 to 230 pounds. More importantly, I broke free from the drive-through diet. I stopped hiding in parking lots and started living with purpose.
 
-If you’re curious about fasting or want to explore Santa Clarita real estate, reach out at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact).
+If you’re curious about fasting or want to explore Santa Clarita real estate, reach out at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](/contact).
 
 ### Practical Tips to Combat Food Addiction with Fasting
 
 Ready to take control? Here’s how to start fasting and break the cycle of food addiction:
 
-For more fasting tips, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who’s all about results, check out [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about) or call 661-888-4983.
+For more fasting tips, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who’s all about results, check out [https://www.santaclaritaopenhouses.com/about](/) or call 661-888-4983.
 
 ### The Mental Battle: Overcoming the Hunger Dilemma
 
 Fasting is as much a mental game as a physical one. The first few days, your brain screams, “Eat!” But hunger is temporary. It’s a wave, not a tsunami. Here’s how I tackled the mental side:
 
-If you’re struggling with the mental side of fasting, I’m here to help. Check out [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) or email me at [connormacivor@gmail.com](mailto:connormacivor@gmail.com). For Santa Clarita real estate, visit [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
+If you’re struggling with the mental side of fasting, I’m here to help. Check out [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) or email me at [connormacivor@gmail.com](mailto:connormacivor@gmail.com). For Santa Clarita real estate, visit [https://www.santaclaritaopenhouses.com/](/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 ### Why Fasting Works for Food Addiction
 
 Fasting isn’t a quick fix—it’s a lifestyle shift. Here’s why it’s effective for breaking food addiction:
 
-For more on fasting’s benefits, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and want to explore real estate while working on your health, check out [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings) or call 661-888-4983.
+For more on fasting’s benefits, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and want to explore real estate while working on your health, check out [https://www.santaclaritaopenhouses.com/active-listings](/) or call 661-888-4983.
 
 ### My Story: From First Responder to Transformation Specialist
 
 As a former LAPD motor cop and firearms instructor, I’ve faced high-stakes situations. But nothing prepared me for the battle with food addiction. At 365 pounds, I was a prisoner in my own body. Fasting was my way out. It wasn’t easy, but it was worth it. Today, I’m 230 pounds, healthier than ever, and helping others transform their lives.
 
-I bring the same no-nonsense approach to my real estate business. Whether you’re buying or selling in Santa Clarita, I’m here to guide you with honesty and expertise. Check out my sold listings at [https://www.santaclaritaopenhouses.com/my-sold-listings](https://www.santaclaritaopenhouses.com/my-sold-listings) or get a free market analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis).
+I bring the same no-nonsense approach to my real estate business. Whether you’re buying or selling in Santa Clarita, I’m here to guide you with honesty and expertise. Check out my sold listings at https://www.santaclaritaopenhouses.com/my-sold-listings or get a free market analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact).
 
 ### FAQs About Fasting and Food Addiction
 
@@ -94,7 +94,7 @@ A: Yes. Fasting reduces insulin spikes and breaks the craving cycle. See my full
 
 **Q: How do I stay motivated during a fast?**
 
-A: Track progress, visualize goals, and forgive slip-ups. Connect with me at [connormacivor@gmail.com](mailto:connormacivor@gmail.com) or explore Santa Clarita real estate at [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/).
+A: Track progress, visualize goals, and forgive slip-ups. Connect with me at [connormacivor@gmail.com](mailto:connormacivor@gmail.com) or explore Santa Clarita real estate at [https://www.santaclaritaopenhouses.com/](/).
 
 ### Recap: Key Points to Conquer Food Addiction with Fasting
 

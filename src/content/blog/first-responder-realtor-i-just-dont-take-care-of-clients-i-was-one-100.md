@@ -116,7 +116,7 @@ Ultimately, choosing a first responder realtor means partnering with someone who
 
 Ready to work with a realtor who understands your needs and delivers exceptional results? Contact me today at 661.400.1720 or email connor@santaclaritaopenhouses.com. Together, let’s achieve your real estate goals with honor and integrity.
 
-Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). Let’s make your real estate journey a success—together.
+Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](/). Let’s make your real estate journey a success—together.
 
 Ready to take the next step? Contact me today at 661.400.1720 or email connor@santaclaritaopenhouses.com.
 
@@ -124,7 +124,7 @@ Ready to take the next step? Contact me today at 661.400.1720 or email connor@sa
 
 The Santa Clarita real estate market offers abundant opportunities for buyers, sellers, and homeowners. With the right strategies and a trusted partner by your side, you can achieve your goals confidently.
 
-Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). Let’s make your real estate journey a success—together.
+Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](/). Let’s make your real estate journey a success—together.
 
 #### **Why Choose a First Responder Realtor?**
 
@@ -188,7 +188,7 @@ Ultimately, choosing a first responder realtor means partnering with someone who
 
 Ready to work with a realtor who understands your needs and delivers exceptional results? Contact me today at 661.400.1720 or email connor@santaclaritaopenhouses.com. Together, let’s achieve your real estate goals with honor and integrity.
 
-Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). Let’s make your real estate journey a success—together.
+Explore more resources, browse listings, or schedule a consultation at [SantaClaritaOpenHouses.com](/). Let’s make your real estate journey a success—together.
 
 ** Share This Post## Comments
 

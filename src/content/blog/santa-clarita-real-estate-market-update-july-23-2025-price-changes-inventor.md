@@ -50,11 +50,11 @@ Sellers, pricing your home correctly is critical in a market with 787 active lis
 
 ## The Role of Artificial Intelligence in Real Estate
 
-As an AI influencer and adopter, I leverage cutting-edge tools to enhance the buying and selling experience. AI can analyze market trends, predict price movements, and identify properties that match your criteria with pinpoint accuracy. At HonorElevate.com, my AI agency systems help realtors and clients stay ahead of the curve. Curious about how AI can streamline your real estate journey? Check out [https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate](https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate) or contact me at [Connor@HonorElevate.com](mailto:Connor@HonorElevate.com).
+As an AI influencer and adopter, I leverage cutting-edge tools to enhance the buying and selling experience. AI can analyze market trends, predict price movements, and identify properties that match your criteria with pinpoint accuracy. At HonorElevate.com, my AI agency systems help realtors and clients stay ahead of the curve. Curious about how AI can streamline your real estate journey? Check out https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate or contact me at [Connor@HonorElevate.com](mailto:Connor@HonorElevate.com).
 
 ## Why Work with a First-Responder-Turned-Realtor?
 
-My background as an LAPD motor cop, firearms instructor, and drug recognition expert gives me a unique edge in real estate. I approach every transaction with discipline, attention to detail, and a commitment to fairness. Whether you’re a veteran, first-time buyer, or navigating a divorce, I’m here to protect your interests and guide you to success. Learn why my experience sets me apart at [https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge).
+My background as an LAPD motor cop, firearms instructor, and drug recognition expert gives me a unique edge in real estate. I approach every transaction with discipline, attention to detail, and a commitment to fairness. Whether you’re a veteran, first-time buyer, or navigating a divorce, I’m here to protect your interests and guide you to success. Learn why my experience sets me apart at https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
 
 ## Market Outlook: Is Now the Time to Buy or Sell?
 
@@ -62,7 +62,7 @@ The Santa Clarita market is stable but dynamic, with inventory at a two-year hig
 
 ## Take the Next Step with Connor MacIvor
 
-Ready to dive into the Santa Clarita real estate market? I’m Connor MacIvor, your first-responder-turned-realtor, here to guide you with honesty, expertise, and a touch of sarcasm. Book a free, no-obligation consultation at [https://www.zoommescv.com](https://www.zoommescv.com) or call me at 661-888-4983. Visit [https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com) for the latest listings, market reports, and resources. If you’re outside Santa Clarita, I can connect you with top agents nationwide through my referral network.
+Ready to dive into the Santa Clarita real estate market? I’m Connor MacIvor, your first-responder-turned-realtor, here to guide you with honesty, expertise, and a touch of sarcasm. Book a free, no-obligation consultation at [https://www.zoommescv.com](https://www.zoommescv.com) or call me at 661-888-4983. Visit [https://www.santaclaritaopenhouses.com](/) for the latest listings, market reports, and resources. If you’re outside Santa Clarita, I can connect you with top agents nationwide through my referral network.
 
 Don’t let the market overwhelm you. Let’s build a plan, glove up, and make your real estate goals a reality. Reach out today—I’m here to help you navigate the chaos with honor.
 

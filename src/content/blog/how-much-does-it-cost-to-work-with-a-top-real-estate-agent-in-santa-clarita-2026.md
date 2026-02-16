@@ -22,7 +22,7 @@ Understanding the true cost of real estate transactions—including agent commis
 
 After 27 years in Santa Clarita real estate, I've seen commission structures evolve, witnessed the impact of various fee arrangements on transaction outcomes, and learned that the lowest-cost option rarely delivers the best results. In this comprehensive guide, I'll break down exactly what you can expect to pay when working with real estate agents in Santa Clarita in 2026, explain how the compensation system works, clarify who pays what, and help you understand what you're actually getting for your investment.
 
-Whether you're considering [buying your first home in Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [selling a property in Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), or navigating any other real estate transaction in the Santa Clarita Valley, this guide will give you the financial clarity you need.
+Whether you're considering [buying your first home in Valencia](/), [selling a property in Canyon Country](/), or navigating any other real estate transaction in the Santa Clarita Valley, this guide will give you the financial clarity you need.
 
 ## How Do Real Estate Agents Get Paid in Santa Clarita?
 
@@ -46,7 +46,7 @@ Following the 2024 NAR settlement, significant changes have reshaped how agent c
 
 **What This Means Practically in Santa Clarita**
 
-In the [Santa Clarita Valley real estate market](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca), typical commission rates in 2026 generally range as follows:
+In the Santa Clarita Valley real estate market, typical commission rates in 2026 generally range as follows:
 
 However, these rates are fully negotiable, and the actual amount can vary based on property price, market conditions, services provided, and individual negotiations.
 
@@ -122,7 +122,7 @@ When selling a property, sellers can expect the following costs:
 
 **Transfer Tax**: County transfer taxes in Los Angeles County are $1.10 per $1,000 of sale price. Some cities add additional transfer taxes.
 
-**HOA Documentation Fees**: If your property is in an HOA (common in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca-over-1000000) and other planned communities), expect to pay $400-$800 for required HOA documents and transfer fees.
+**HOA Documentation Fees**: If your property is in an HOA (common in Valencia and other planned communities), expect to pay $400-$800 for required HOA documents and transfer fees.
 
 **Home Warranty**: If offering a home warranty to the buyer (common practice), expect $400-$600 for a one-year policy.
 
@@ -244,9 +244,9 @@ Real estate transactions involve substantial sums of money and complex cost stru
 
 The key takeaways about working with real estate agents in Santa Clarita in 2026:
 
-Whether you're a first-time buyer exploring [affordable options in Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000), a seller looking to maximize value on your [luxury Stevenson Ranch property](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca-over-1000000), or anywhere in between, understanding the financial aspects of your transaction positions you for success.
+Whether you're a first-time buyer exploring affordable options in Canyon Country, a seller looking to maximize value on your luxury Stevenson Ranch property, or anywhere in between, understanding the financial aspects of your transaction positions you for success.
 
-If you have questions about costs specific to your situation, or if you'd like a free referral to a top agent who will provide transparent, professional service at fair rates, I'm here to help. Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) or [schedule a consultation](https://www.santaclaritaopenhouses.com/contact) to discuss your real estate goals.
+If you have questions about costs specific to your situation, or if you'd like a free referral to a top agent who will provide transparent, professional service at fair rates, I'm here to help. Visit [SantaClaritaOpenHouses.com](/) or [schedule a consultation](/contact) to discuss your real estate goals.
 
 Remember: the right agent is an investment in your success, not just an expense. Choose quality, expertise, and alignment with your needs—not just the lowest cost.
 

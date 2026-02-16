@@ -34,7 +34,7 @@ With this expectation of lower rates, competition will intensify, and we’re li
 
 In the first responder world, acting decisively is critical, and the same holds true in real estate. As “Connor with Honor,” I leverage my 20+ years in LAPD and my real estate expertise since 1998 to guide buyers and sellers with integrity, precision, and insight. And in today’s post-election real estate market, being prepared means everything.
 
-Santa Clarita, known for its family-friendly environment, top-notch schools, and scenic vistas, is seeing a significant shift in inventory and demand post-election. I’m currently handling 527 active listings across this sought-after region, with homes spanning neighborhoods from Valencia to Newhall. Each of these listings is available on my website, [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com), where you can explore your dream home without the hassle of spam or unsolicited contact.
+Santa Clarita, known for its family-friendly environment, top-notch schools, and scenic vistas, is seeing a significant shift in inventory and demand post-election. I’m currently handling 527 active listings across this sought-after region, with homes spanning neighborhoods from Valencia to Newhall. Each of these listings is available on my website, [SantaClaritaOpenHouses.com](/), where you can explore your dream home without the hassle of spam or unsolicited contact.
 
 With a Trump presidency, the financial policies that favor sellers are back in play, and I expect to see listings flying off the market as more buyers flock to grab properties before rates climb back up. If you're thinking of selling, consider this a green light—Santa Clarita homes will likely move faster, and bidding wars may return. As a seller, this is your moment to capitalize on the market’s pace and heightened buyer interest.
 
@@ -64,7 +64,7 @@ For a market as active as this one, finding the right home without added pressur
 
 In the realm of real estate, as in life, timing is everything. With the economic winds favoring home buyers, we’re on the cusp of another wave in Santa Clarita’s market. My goal, as always, is to deliver the insights you need and help you make a move that feels not only secure but empowered. I’m here to help you navigate the steps, whether you’re buying or selling, and keep your best interests at the forefront.
 
-With 527 listings ready for sale, the Santa Clarita market is primed, and I’m ready to make it happen for you. Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com), get in touch, and let’s talk about how we can make the most of these opportunities together.
+With 527 listings ready for sale, the Santa Clarita market is primed, and I’m ready to make it happen for you. Visit [SantaClaritaOpenHouses.com](/), get in touch, and let’s talk about how we can make the most of these opportunities together.
 
 **Call to Action**: Connect with “Connor with Honor,” your First Responder Realtor, today! Don’t wait for the wave—ride it with the confidence that comes from experience, insight, and unwavering dedication.
 
@@ -74,7 +74,7 @@ With the recent election results, the Santa Clarita real estate market is poised
 
 Anticipated Mortgage Rate Drops: Pro-business policies could drive down interest rates, boosting buyer confidence and demand. If you’re thinking about buying, now may be the best time to get ahead of the competition. For sellers, this means more buyers and possibly higher offers as we head into a competitive market.
 
-For more in-depth insights, explore the full blog here: [https://www.santaclaritaopenhouses.com/what-a-trump-presidency-means-for-santa-clarita-real-estate](https://www.santaclaritaopenhouses.com/what-a-trump-presidency-means-for-santa-clarita-real-estate)
+For more in-depth insights, explore the full blog here: https://www.santaclaritaopenhouses.com/what-a-trump-presidency-means-for-santa-clarita-real-estate
 
 Tune into the podcast episode for the latest updates: [https://www.buzzsprout.com/admin/298109/episodes/16058631-what-a-trump-presidency-means-for-santa-clarita-real-estate](https://www.buzzsprout.com/admin/298109/episodes/16058631-what-a-trump-presidency-means-for-santa-clarita-real-estate)
 

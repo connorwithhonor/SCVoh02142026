@@ -42,7 +42,7 @@ Before I became a full-time real estate professional, I served as a first respon
 
 **Why First Responder Values Matter:**
 
-For more details on my background and approach, please visit our [About](https://www.santaclaritaopenhouses.com/about) page.
+For more details on my background and approach, please visit our [About](/) page.
 
 ## 3. Innovative, Data-Driven Marketing Strategies
 
@@ -62,7 +62,7 @@ One of the most critical stages of the home selling process is negotiating the b
 
 **What You Can Expect:**
 
-For more insights into effective negotiation and closing strategies, explore our [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) and [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) pages.
+For more insights into effective negotiation and closing strategies, explore our [Free Market Analysis](/contact) and [Market Report](/blog) pages.
 
 ## 5. Client Success Stories: Real Results in Santa Clarita
 
@@ -80,13 +80,13 @@ A homeowner in Newhall benefited from a detailed CMA that informed a strategic p
 
 In Saugus, a property that had lingered on the market was given new life through a refreshed marketing campaign. Enhanced curb appeal, updated online content, and an engaging open house event led to significant online traffic and in-person showings. The home ultimately sold at a strong price point, demonstrating the power of an effective rebranding strategy.
 
-For more inspiring stories and testimonials, please visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more inspiring stories and testimonials, please visit our [Testimonials](/) page.
 
 ## 6. Why Choose Connor with Honor? Your Trusted Partner in Home Sales
 
 As you weigh your options for a listing agent, consider the unique combination of expertise, innovative marketing, and personal dedication that I offer. Here’s a quick recap of why I am the best choice for your home sale:
 
-For a deeper look into my approach and how I can help you, please visit our [About](https://www.santaclaritaopenhouses.com/about) page.
+For a deeper look into my approach and how I can help you, please visit our [About](/) page.
 
 ## 7. Get Started Today: Your Home Sale Journey Begins Here
 

@@ -37,11 +37,11 @@ Let’s dive in.
 
 AI tools are only as unbiased as their programming—and many are designed to keep you engaged, not informed. For instance:
 
-*Example*: A buyer told me last week that a chatbot advised them to “wait for rates to drop below 5%” before purchasing. But with&nbsp;**[current mortgage rates](https://www.santaclaritaopenhouses.com/mortgage-rates)**&nbsp;at 6.2% and inventory climbing, waiting could mean losing out on their dream home.
+*Example*: A buyer told me last week that a chatbot advised them to “wait for rates to drop below 5%” before purchasing. But with&nbsp;**[current mortgage rates](/blog)**&nbsp;at 6.2% and inventory climbing, waiting could mean losing out on their dream home.
 
 #### **Why Human Expertise Can’t Be Replaced**
 
-**Takeaway**: Use AI for data points, but always consult a human agent. Start with a&nbsp;**[free market analysis](https://www.santaclaritaopenhouses.com/free-market-analysis)**&nbsp;tailored to your home.
+**Takeaway**: Use AI for data points, but always consult a human agent. Start with a&nbsp;**[free market analysis](/contact)**&nbsp;tailored to your home.
 
 ### **Part 2: Santa Clarita’s 2025 Market Trends—What We’re Seeing On the Ground**
 
@@ -57,7 +57,7 @@ Mid-February typically marks the start of our spring market, and 2025 is no exce
 
 At yesterday’s open house, a seller insisted on listing their Newhall home at&nbsp;1.2M—1.2M—150K above comps. Two weeks later, it’s still sitting. Meanwhile, a competitively priced Saugus home drew 12 offers in 3 days.
 
-**Pro Tip**: Use our&nbsp;**[Santa Clarita Market Reports](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)**&nbsp;to benchmark your home’s value.
+**Pro Tip**: Use our&nbsp;**[Santa Clarita Market Reports](/blog)**&nbsp;to benchmark your home’s value.
 
 ### **Part 3: 2025 Predictions—3 Possible Scenarios**
 
@@ -71,11 +71,11 @@ At yesterday’s open house, a seller insisted on listing their Newhall home at&
 
 #### **The Appeal of New Construction**
 
-**Explore**:&nbsp;**[Stevenson Ranch New Homes](https://www.santaclaritaopenhouses.com/stevenson-ranch-market-report)**&nbsp;vs.&nbsp;**[Castaic Builders](https://www.santaclaritaopenhouses.com/castaic-market-report)**.
+**Explore**:&nbsp;**Stevenson Ranch New Homes**&nbsp;vs.&nbsp;**Castaic Builders**.
 
 #### **The Hidden Costs of “Mello-Roos”**
 
-Many new developments include Mello-Roos taxes, adding&nbsp;300−300−800/month to payments. Always review the&nbsp;**[Property Tax Guide](https://www.santaclaritaopenhouses.com/real-estate-glossary)**&nbsp;before signing.
+Many new developments include Mello-Roos taxes, adding&nbsp;300−300−800/month to payments. Always review the&nbsp;**Property Tax Guide**&nbsp;before signing.
 
 ### **Part 5: Your Action Plan for 2025**
 
@@ -85,7 +85,7 @@ Many new developments include Mello-Roos taxes, adding&nbsp;300−300−800/mont
 
 ### **Conclusion: Stay Informed, Stay Local**
 
-The 2025 market isn’t about fear—it’s about preparation. Whether you’re eyeing a&nbsp;**[luxury home in Valencia](https://www.santaclaritaopenhouses.com/luxury-homes-for-sale-in-santa-clarita-valley-ca)**&nbsp;or a starter condo in Newhall, success hinges on partnering with experts who know Santa Clarita inside and out.
+The 2025 market isn’t about fear—it’s about preparation. Whether you’re eyeing a&nbsp;**luxury home in Valencia**&nbsp;or a starter condo in Newhall, success hinges on partnering with experts who know Santa Clarita inside and out.
 
 **Your Next Steps**:
 

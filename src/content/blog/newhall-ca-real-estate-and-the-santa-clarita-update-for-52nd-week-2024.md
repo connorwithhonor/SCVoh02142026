@@ -74,7 +74,7 @@ Buyers are frequently negotiating for closing cost assistance or minor repairs. 
 
 If your property hasn’t sold, it may be time to revisit your pricing or enhance its presentation. A fresh approach can make all the difference.
 
-List your property with confidence. Contact me at&nbsp;**661.400.1720**&nbsp;or visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/).
+List your property with confidence. Contact me at&nbsp;**661.400.1720**&nbsp;or visit&nbsp;[SantaClaritaOpenHouses.com](/).
 
 ### **For Buyers: What to Know**
 

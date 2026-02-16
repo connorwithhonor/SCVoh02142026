@@ -34,11 +34,11 @@ When you click a button on a massive real estate portal or a celebrity-endorsed 
 
 **Here is the ugly truth:** In most corporate referral networks, the "best" agent is simply the one who paid the most money for your contact information.
 
-These platforms operate on a lead-generation model. They gather your data and auction it off to agents who have signed up for a subscription service. They do not necessarily care if that agent is an expert in **[Valencia real estate](https://www.santaclaritaopenhouses.com/valencia-homes)** or if they have never sold a property in **[Canyon Country](https://www.santaclaritaopenhouses.com/canyon-country-homes)**. They care that the credit card on file cleared.
+These platforms operate on a lead-generation model. They gather your data and auction it off to agents who have signed up for a subscription service. They do not necessarily care if that agent is an expert in **Valencia real estate** or if they have never sold a property in **Canyon Country**. They care that the credit card on file cleared.
 
 ### **The "One Size Fits All" Fallacy**
 
-Real estate is not a commodity. A specialized agent who excels at negotiating multi-million dollar luxury estates in **[Stevenson Ranch](https://www.santaclaritaopenhouses.com/stevenson-ranch-homes)** may be completely out of their depth when handling a complex probate sale in **[Saugus](https://www.santaclaritaopenhouses.com/saugus-homes)**.
+Real estate is not a commodity. A specialized agent who excels at negotiating multi-million dollar luxury estates in **Stevenson Ranch** may be completely out of their depth when handling a complex probate sale in **Saugus**.
 
 The algorithms don't know the difference. **I do.**
 
@@ -62,23 +62,23 @@ Every real estate transaction is a unique mission. You wouldn't send a SWAT team
 
 ### **1. The Luxury Specialist**
 
-Selling a home in the high-end enclaves of **[West Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-near-west-ranch-high-school-valencia-ca)** or a gated estate in **[Sand Canyon](https://www.santaclaritaopenhouses.com/santa-clarita-homes)** requires a specific marketing budget and network. I know which agents invest in high-end video production and which ones just snap photos with their iPhones.
+Selling a home in the high-end enclaves of **West Ranch** or a gated estate in **Sand Canyon** requires a specific marketing budget and network. I know which agents invest in high-end video production and which ones just snap photos with their iPhones.
 
 ### **2. The Condo and Townhome Expert**
 
-Condos come with HOAs, CC&amp;Rs, and specific financing rules. If you are buying a unit in **[Mariposa](https://www.santaclaritaopenhouses.com/santa-clarita-homes)** or a townhome in **[Valencia](https://www.santaclaritaopenhouses.com/valencia)**, you need an agent who understands how to navigate HOA documents to prevent you from buying into a lawsuit or a special assessment.
+Condos come with HOAs, CC&amp;Rs, and specific financing rules. If you are buying a unit in **Mariposa** or a townhome in **Valencia**, you need an agent who understands how to navigate HOA documents to prevent you from buying into a lawsuit or a special assessment.
 
 ### **3. The "Fixer" for Distressed Properties**
 
-If you are looking for **[fixer-upper homes](https://www.santaclaritaopenhouses.com/fixer-upper-homes-for-sale-in-santa-clarita-valley-ca)** or navigating a short sale, you need an agent with grit. You need someone who isn't afraid to get their hands dirty and understands construction costs.
+If you are looking for **fixer-upper homes** or navigating a short sale, you need an agent with grit. You need someone who isn't afraid to get their hands dirty and understands construction costs.
 
 ### **4. The Rural Property Specialist**
 
-Buying land or horse property in **[Agua Dulce](https://www.santaclaritaopenhouses.com/agua-dulce-homes)** is a completely different ballgame than buying in the suburbs. You have to worry about septic tanks, wells, and zoning. I refer you to agents who live that lifestyle and know the dirt—literally.
+Buying land or horse property in **Agua Dulce** is a completely different ballgame than buying in the suburbs. You have to worry about septic tanks, wells, and zoning. I refer you to agents who live that lifestyle and know the dirt—literally.
 
 ## **Integrating AI for Precision, keeping Humans for Trust**
 
-I am an **AI Growth Architect**. I believe in the power of Artificial Intelligence to streamline business. I use advanced AI tools to analyze market trends, track agent performance stats, and monitor inventory levels across the **[Santa Clarita Valley](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)**.
+I am an **AI Growth Architect**. I believe in the power of Artificial Intelligence to streamline business. I use advanced AI tools to analyze market trends, track agent performance stats, and monitor inventory levels across the **[Santa Clarita Valley](/blog)**.
 
 However, AI cannot look an agent in the eye and determine if they are telling the truth. AI cannot sense if an agent is burnt out or hungry.
 
@@ -90,7 +90,7 @@ The process is simple, free for you, and rooted in transparency.
 
 ## **A Warning About "Syndication Sites"**
 
-You may be tempted to just browse listings on the big syndication sites. I have written extensively about **[why Santa Clarita buyers and sellers are ditching syndication sites for local experts](https://www.santaclaritaopenhouses.com/why-santa-clarita-buyers-and-sellers-are-ditching-syndication-sites-for-local)**.
+You may be tempted to just browse listings on the big syndication sites. I have written extensively about **why Santa Clarita buyers and sellers are ditching syndication sites for local experts**.
 
 These sites often display outdated information. They show homes as "Active" that are actually in escrow. They utilize "steering" tactics to push you toward their premier agents, regardless of fit.
 
@@ -100,7 +100,7 @@ By using **SantaClaritaOpenHouses.com**, you are accessing a direct feed from th
 
 Santa Clarita is a collection of distinct villages and communities.
 
-An out-of-area agent, or an agent assigned by a generic algorithm, might miss these nuances. A mistake regarding Mello-Roos or school district boundaries (like **[William S. Hart Union](https://www.santaclaritaopenhouses.com/homes-for-sale-in-william-s-hart-union-school-district-ca)** vs. others) can cost you thousands of dollars or impact your children's education.
+An out-of-area agent, or an agent assigned by a generic algorithm, might miss these nuances. A mistake regarding Mello-Roos or school district boundaries (like **William S. Hart Union** vs. others) can cost you thousands of dollars or impact your children's education.
 
 ## **My Pledge: Honor Above All**
 

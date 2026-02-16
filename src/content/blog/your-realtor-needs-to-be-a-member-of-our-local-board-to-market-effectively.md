@@ -82,7 +82,7 @@ If your realtor isn’t a member of the local board, your listing may lack impor
 
 Looking ahead, it’s likely that we’ll see continued price adjustments as sellers adapt to the current market conditions. Inventory is higher than it was just a few months ago, and while **buyer activity remains strong**, sellers should be prepared for a slightly slower market as we move into the holiday season and election year.
 
-Stay tuned for more updates, and remember to subscribe to my blog at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) for all the latest Santa Clarita real estate news, market trends, and property listings.
+Stay tuned for more updates, and remember to subscribe to my blog at [SantaClaritaOpenHouses.com](/) for all the latest Santa Clarita real estate news, market trends, and property listings.
 
 ### Upcoming Video Shorts for Santa Clarita Real Estate
 

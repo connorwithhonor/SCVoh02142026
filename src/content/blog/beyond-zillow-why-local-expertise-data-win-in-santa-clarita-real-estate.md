@@ -30,7 +30,7 @@ While platforms like Zillow have democratized access to real estate listings, th
 
 #### Why Local Websites Outperform National Giants
 
-My website, [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/), is specifically designed to address the shortcomings of national platforms by focusing intensely on the Santa Clarita Valley and Southern California real estate.
+My website, [SantaClaritaOpenHouses.com](/), is specifically designed to address the shortcomings of national platforms by focusing intensely on the Santa Clarita Valley and Southern California real estate.
 
 ### Chapter 2: The Power of Local Expertise – My Unmatched Advantage
 
@@ -62,7 +62,7 @@ In the dynamic Santa Clarita real estate market of 2025, navigating effectively 
 
 As Connor MacIvor, your First Responder Realtor, I combine my extensive local knowledge and protective instincts, honed during my years with the LAPD, with the cutting-edge power of Artificial Intelligence. This unique blend ensures that whether you are buying your first home, selling a cherished property, or investing in our vibrant community, you receive the most accurate information, strategic advice, and dedicated advocacy. My commitment is to deliver results with honor, transparency, and a level of service that goes far beyond the digital screen.
 
-Don't settle for "good enough" when it comes to your real estate dreams. Choose a partner who provides the intelligent edge. Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) today to experience the difference that true local expertise, empowered by AI, can make for your Santa Clarita real estate journey. Let's make your real estate aspirations a reality, with honor.
+Don't settle for "good enough" when it comes to your real estate dreams. Choose a partner who provides the intelligent edge. Visit [SantaClaritaOpenHouses.com](/) today to experience the difference that true local expertise, empowered by AI, can make for your Santa Clarita real estate journey. Let's make your real estate aspirations a reality, with honor.
 
 ** Share This Post## Comments
 

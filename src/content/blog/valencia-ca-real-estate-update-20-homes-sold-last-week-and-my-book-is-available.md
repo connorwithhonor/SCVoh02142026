@@ -66,7 +66,7 @@ Browse&nbsp;homes&nbsp;with&nbsp;open&nbsp;houses&nbsp;in&nbsp;Valencia
 
 #### **Advice for Sellers**
 
-[Get&nbsp;a&nbsp;free&nbsp;home&nbsp;valuation&nbsp;for&nbsp;your&nbsp;Valencia&nbsp;property](https://www.santaclaritaopenhouses.com/)
+[Get&nbsp;a&nbsp;free&nbsp;home&nbsp;valuation&nbsp;for&nbsp;your&nbsp;Valencia&nbsp;property](/)
 
 ### Valencia’s Appeal: Why Buyers Love This Community
 

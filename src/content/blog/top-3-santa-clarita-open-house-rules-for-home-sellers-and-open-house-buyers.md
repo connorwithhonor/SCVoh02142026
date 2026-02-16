@@ -62,7 +62,7 @@ Emphasize your property’s unique selling points, such as:
 
 Statistics show that open houses directly lead to sales only 2-7% of the time. However, their real value lies in creating buzz and leveraging networks. The concept of "six degrees of separation" applies here: even if a visitor isn’t interested, they may know someone who is.
 
-By depersonalizing and decluttering your home, you ensure visitors focus on its best features. For more detailed guidance, visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca) for open house schedules in your area.
+By depersonalizing and decluttering your home, you ensure visitors focus on its best features. For more detailed guidance, visit Santa Clarita Open Houses for open house schedules in your area.
 
 ## Dual Agency: Pros and Cons
 
@@ -86,7 +86,7 @@ For personalized assistance, reach out to me, Connor MacIvor, at 661.400.1720 or
 
 **About the Author**
 
-Connor MacIvor, also known as "Connor with Honor," is a seasoned real estate professional and former first responder. With a commitment to integrity and excellence, he specializes in helping clients buy and sell homes in Santa Clarita and beyond. Learn more at [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com).
+Connor MacIvor, also known as "Connor with Honor," is a seasoned real estate professional and former first responder. With a commitment to integrity and excellence, he specializes in helping clients buy and sell homes in Santa Clarita and beyond. Learn more at [Santa Clarita Open Houses](/).
 
 # Challenges with Buyer Broker Agreements: A Comprehensive Analysis
 

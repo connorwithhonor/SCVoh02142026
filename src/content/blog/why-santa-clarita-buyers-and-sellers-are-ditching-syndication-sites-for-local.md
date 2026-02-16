@@ -304,7 +304,7 @@ Whether you're a first-time buyer navigating the confusing process of purchasing
 
 Don't leave this crucial decision to chance. Don't assume the agent advertised most heavily is the best agent. Don't trust pay-to-play platforms with questionable incentives to match you with the right representation.
 
-Instead, visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/) and let's have a conversation about your specific needs. Tell me what you're looking for, what concerns you have, and what priorities matter most to you. I'll use my knowledge of both the local market and the agents who work in it to connect you with representation that's truly the right fit.
+Instead, visit [Santa Clarita Open Houses](/) and let's have a conversation about your specific needs. Tell me what you're looking for, what concerns you have, and what priorities matter most to you. I'll use my knowledge of both the local market and the agents who work in it to connect you with representation that's truly the right fit.
 
 For agents reading this who want to build better systems, leverage AI effectively, or understand how to position themselves for success in the evolving real estate landscape, visit [Santa Clarita Artificial Intelligence](https://www.santaclaritaartificialintelligence.com/) to learn about my AI growth architect services. The future of real estate is here—the question is whether you'll adapt to it strategically or get left behind by agents who do.
 
@@ -312,7 +312,7 @@ The choice is yours. You can roll the dice with syndication platforms currently 
 
 I'm Connor, and after 20-plus years serving this community, I'm all in on connecting buyers, sellers, and agents in ways that serve everyone involved. The syndication platforms had their moment, and their legal troubles suggest that moment may be ending. The future belongs to transparency, local expertise, and proper alignment of incentives—exactly what Santa Clarita Open Houses provides.
 
-Ready to find the right agent for your real estate needs? Stop searching and start with a conversation. Reach out through [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) and let's talk about what you're looking for. The right agent is waiting—you just need someone who knows how to connect you with them.
+Ready to find the right agent for your real estate needs? Stop searching and start with a conversation. Reach out through [SantaClaritaOpenHouses.com](/) and let's talk about what you're looking for. The right agent is waiting—you just need someone who knows how to connect you with them.
 
 Thank you for reading, and I look forward to helping you navigate your real estate journey with the expertise, transparency, and local knowledge you deserve.
 

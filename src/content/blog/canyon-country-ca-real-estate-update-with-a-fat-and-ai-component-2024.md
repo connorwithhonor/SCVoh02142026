@@ -82,7 +82,7 @@ Start 2025 by prioritizing health. Simplify your diet with:
 
 Santa Clarita Valley’s real estate market is vibrant and full of potential. Whether you’re exploring Canyon Country or considering your next big move, I’m here to guide you with honor, integrity, and a deep understanding of the market.
 
-**Reach out today!** Visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com) or call **661.400.1720**. Together, let’s make 2025 your year of health, wealth, and smart decisions.
+**Reach out today!** Visit [Santa Clarita Open Houses](/) or call **661.400.1720**. Together, let’s make 2025 your year of health, wealth, and smart decisions.
 
 ** Share This Post## Comments
 

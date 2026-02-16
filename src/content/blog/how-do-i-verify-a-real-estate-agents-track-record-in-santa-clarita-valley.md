@@ -34,7 +34,7 @@ This information asymmetry puts buyers and sellers at a significant disadvantage
 
 But verification IS possible—if you know where to look, what to ask, and how to interpret the information you find. In this comprehensive guide, I'll show you exactly how to verify real estate agent track records in Santa Clarita Valley, what sources provide reliable information, what red flags indicate exaggerated or false claims, and how to separate genuinely excellent agents from skilled self-promoters.
 
-Whether you're preparing to [buy your first home in Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000) or [sell a luxury property in Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), verifying agent credentials protects your interests and ensures you work with proven professionals rather than convincing talkers.
+Whether you're preparing to buy your first home in Canyon Country or [sell a luxury property in Stevenson Ranch](/), verifying agent credentials protects your interests and ensures you work with proven professionals rather than convincing talkers.
 
 ## Why Agent Track Record Verification Matters
 
@@ -48,7 +48,7 @@ Real estate is a sales profession, and agents are skilled at presenting themselv
 
 **Selective Time Frames**: "I sold 50 homes last year!" sounds impressive until you learn this was during a hot market when almost every agent saw record volume, and this year they're on pace for 20. Or they're referencing their single best year from five years ago rather than current performance.
 
-**Geographic Ambiguity**: "I'm a top producer in Santa Clarita Valley!" might mean they do high volume somewhere in the valley, but zero business in your specific neighborhood. If you're in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), their "track record" in [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca) is largely irrelevant.
+**Geographic Ambiguity**: "I'm a top producer in Santa Clarita Valley!" might mean they do high volume somewhere in the valley, but zero business in your specific neighborhood. If you're in [Valencia](/), their "track record" in Castaic is largely irrelevant.
 
 **Team Production vs. Individual Production**: Many agents work on teams where the team leader gets credit for all team transactions. The agent you're interviewing might be claiming the team's production numbers while personally handling only a fraction of those deals.
 
@@ -352,7 +352,7 @@ Some red flags are so serious they should eliminate agents from consideration re
 
 ## How Expert Referral Services Verify Track Records
 
-This is where services like [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com) provide significant value: professional track record verification that individual consumers struggle to perform comprehensively.
+This is where services like [Santa Clarita Open Houses](/) provide significant value: professional track record verification that individual consumers struggle to perform comprehensively.
 
 **Professional Verification Advantages**
 
@@ -370,7 +370,7 @@ Consumers cannot access this data directly, but I can verify agent claims in min
 
 **Efficient, Accurate Matching**
 
-When you [schedule a consultation](https://www.santaclaritaopenhouses.com/schedule-calendar), I can:
+When you schedule a consultation, I can:
 
 **No Conflicts of Interest**:
 
@@ -398,7 +398,7 @@ Here's your practical step-by-step verification process:
 
 If interviewing three agents, you're looking at 6-9 hours of verification work—which explains why many people skip verification and later regret it.
 
-**Alternative**: 45-minute consultation with [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/contact) where verification has already been done professionally, saving you hours while providing superior information.
+**Alternative**: 45-minute consultation with [Santa Clarita Open Houses](/contact) where verification has already been done professionally, saving you hours while providing superior information.
 
 ## What to Do When Verification Reveals Problems
 
@@ -424,11 +424,11 @@ Professional track record verification:
 
 The verification process takes time and effort if you do it yourself—or you can leverage expert referral services where verification has already been done professionally.
 
-When you're ready to [buy in Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), [sell in Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), or transact anywhere in Santa Clarita Valley, contact [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com) for free expert consultation and agent referrals based on objectively verified track records.
+When you're ready to [buy in Canyon Country](/), [sell in Valencia](/), or transact anywhere in Santa Clarita Valley, contact [Santa Clarita Open Houses](/) for free expert consultation and agent referrals based on objectively verified track records.
 
 No cost. No obligation. Just professional guidance toward agents whose expertise has been thoroughly vetted and verified.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) or [schedule a consultation](https://www.santaclaritaopenhouses.com/schedule-calendar) to discuss your real estate goals with someone who's spent 27 years verifying agent track records professionally.
+Visit [SantaClaritaOpenHouses.com](/) or schedule a consultation to discuss your real estate goals with someone who's spent 27 years verifying agent track records professionally.
 
 I'm Connor with Honor, and I'm here to ensure you work with agents whose impressive claims are backed by verified performance.
 

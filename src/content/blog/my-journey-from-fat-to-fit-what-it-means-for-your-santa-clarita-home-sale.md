@@ -66,7 +66,7 @@ Buying or selling a home in Santa Clarita in 2025 is a complex endeavor, but it 
 
 My personal transformation, fueled by discipline, strategic planning, and unwavering commitment, is not just a personal achievement; it's the foundation of how I approach every client relationship. I bring the same level of integrity, problem-solving, and protective instincts honed in law enforcement to safeguard your real estate interests. With me, Connor MacIvor, your First Responder Realtor, you gain a partner who understands the market, leverages technology, and is deeply committed to your success.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) today to connect with a Realtor who offers more than just a transaction – a partnership built on honor, experience, and a proven track record of achieving extraordinary results. Let's make your real estate dreams a reality.
+Visit [SantaClaritaOpenHouses.com](/) today to connect with a Realtor who offers more than just a transaction – a partnership built on honor, experience, and a proven track record of achieving extraordinary results. Let's make your real estate dreams a reality.
 
 ** Share This Post## Comments
 

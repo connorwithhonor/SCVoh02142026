@@ -74,7 +74,7 @@ As a First Responder Realtor, I’ve spent decades serving the community with in
 
 The Canyon Country real estate market is active and full of opportunities for buyers and sellers alike. Whether you’re ready to make a move or just exploring your options, it’s essential to stay informed and work with an experienced professional.
 
-Visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)&nbsp;for the latest listings and market insights. Have questions? Call me at&nbsp;**661-400-1720**, or simply search “Connor with Honor” to find all my resources.
+Visit&nbsp;[SantaClaritaOpenHouses.com](/)&nbsp;for the latest listings and market insights. Have questions? Call me at&nbsp;**661-400-1720**, or simply search “Connor with Honor” to find all my resources.
 
 Let’s make your real estate dreams a reality. I’ll see you tomorrow for the Castaic real estate update. Until then, stay informed, stay engaged, and let’s keep the conversation going.
 

@@ -74,7 +74,7 @@ When it comes to buying or selling a home in Santa Clarita, choosing the right p
 
 Your home search deserves more than automated algorithms and outdated data. With&nbsp;**SantaClaritaOpenHouses.com**, you gain access to real-time information, local expertise, and a commitment to your success. Don’t settle for less—choose the platform that prioritizes your needs, protects your privacy, and delivers results.
 
-Ready to get started? Visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)&nbsp;today and discover the difference for yourself.
+Ready to get started? Visit&nbsp;[SantaClaritaOpenHouses.com](/)&nbsp;today and discover the difference for yourself.
 
 Let your next home-buying or selling experience be guided by someone who truly cares. Contact&nbsp;**Connor with Honor**&nbsp;and see how real estate should be done—with honesty, integrity, and a dedication to excellence.
 

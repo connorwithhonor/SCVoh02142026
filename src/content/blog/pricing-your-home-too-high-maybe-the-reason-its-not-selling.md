@@ -56,7 +56,7 @@ If you’re wondering why the interest rate you see online is different from wha
 
 The Santa Clarita real estate market is evolving, but by staying informed and working with experienced professionals, both buyers and sellers can navigate these changes successfully. I’m here to help you every step of the way.
 
-For more information, or to see the latest listings in the Santa Clarita Valley, visit **[Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com)**.
+For more information, or to see the latest listings in the Santa Clarita Valley, visit **[Santa Clarita Open Houses](/)**.
 
 Feel free to contact me directly at **661.400.1720**, or follow me on **[YouTube](https://www.youtube.com/firstresponderrealtor)** for daily updates.
 

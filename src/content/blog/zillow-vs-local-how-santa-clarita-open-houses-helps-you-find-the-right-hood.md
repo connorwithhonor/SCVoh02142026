@@ -42,7 +42,7 @@ Your dream home isn’t just about square footage or a backyard. It’s about fi
 
 Explore our latest listings today:
 
-[Santa&nbsp;Clarita&nbsp;Homes&nbsp;for&nbsp;Sale](https://www.santaclaritaopenhouses.com/homes-for-sale).
+Santa&nbsp;Clarita&nbsp;Homes&nbsp;for&nbsp;Sale.
 
 ** Share This Post## Comments
 

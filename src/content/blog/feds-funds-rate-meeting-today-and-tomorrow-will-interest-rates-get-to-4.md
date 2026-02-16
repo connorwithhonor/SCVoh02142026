@@ -56,11 +56,11 @@ For **sellers**, a rate cut could attract more buyers, potentially leading to qu
 
 As a first responder turned realtor, I bring a unique perspective to the Santa Clarita real estate market, combining my commitment to service with deep market expertise. Whether buying or selling, I’m here to help you navigate the current trends with confidence and make the best decisions for your real estate needs.
 
-Visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com) for ongoing updates, insights, and personalized guidance tailored to your real estate journey. Connect with Connor with Honor today to capitalize on current opportunities and secure your future in the Santa Clarita real estate market.
+Visit [Santa Clarita Open Houses](/) for ongoing updates, insights, and personalized guidance tailored to your real estate journey. Connect with Connor with Honor today to capitalize on current opportunities and secure your future in the Santa Clarita real estate market.
 
 #### **Stay Informed with Santa Clarita Open Houses – 261-2024**
 
-For the most up-to-date information on Santa Clarita real estate, check back regularly on [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com). I’m here to provide expert insights and help you make informed decisions in an ever-changing market.
+For the most up-to-date information on Santa Clarita real estate, check back regularly on [Santa Clarita Open Houses](/). I’m here to provide expert insights and help you make informed decisions in an ever-changing market.
 
 **YouTube Video Description – 261-2024**
 
@@ -74,7 +74,7 @@ Are you ready to make informed decisions in this dynamic market? Watch the video
 
 **Stay Connected:**
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) for all the latest updates and to connect with me, Connor with Honor – your local go-to realtor. As a first responder turned realtor, I am here to serve with integrity, transparency, and expert knowledge of the Santa Clarita market.
+Visit [SantaClaritaOpenHouses.com](/) for all the latest updates and to connect with me, Connor with Honor – your local go-to realtor. As a first responder turned realtor, I am here to serve with integrity, transparency, and expert knowledge of the Santa Clarita market.
 
 **Don't Forget to Subscribe!** Get more insights on the Santa Clarita real estate market, tips for buyers and sellers, and the latest updates by subscribing to my channel.
 

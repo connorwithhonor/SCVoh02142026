@@ -64,7 +64,7 @@ Navigating today’s real estate landscape requires more than just basic market 
 
 Whether you’re buying, selling, or investing, I’m here to ensure you’re equipped with the best information to make confident decisions in the Santa Clarita market.
 
-For more insights and the latest updates on Santa Clarita real estate, visit [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/) or check out my Google Business update at [https://posts.gle/qjuX9K](https://posts.gle/qjuX9K).
+For more insights and the latest updates on Santa Clarita real estate, visit [https://www.santaclaritaopenhouses.com/](/) or check out my Google Business update at [https://posts.gle/qjuX9K](https://posts.gle/qjuX9K).
 
 ** Share This Post## Comments
 

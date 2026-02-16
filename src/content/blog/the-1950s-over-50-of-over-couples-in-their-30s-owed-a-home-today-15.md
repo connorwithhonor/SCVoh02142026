@@ -26,9 +26,9 @@ As someone who's walked the walk—from LAPD streets chasing bad guys to navigat
 
 Picture this: It's 1950. Post-war boom, white picket fences, and a steady job could land you a house without selling a kidney. Data shows more than 50% of married 30-year-olds were homeowners back then. Fast-forward to 2025, and that number's tanked—barely scraping 30% in some estimates. Why? Wages haven't kept pace with housing prices, student debt is a ball and chain, and let's not forget inflation playing dirty tricks.
 
-In Santa Clarita real estate, this gap hits home (pun intended). Young couples are eyeing areas like Canyon Country or Saugus, but affordability feels like a myth. I've crunched the numbers: A starter home that cost $20,000 in the '50s (adjusted for inflation) now runs $600K-plus. Sarcasm alert: Thanks, economy! But here's the silver lining—as inventory creeps up, we're seeing more entry-level options. Check out our active listings at [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings) for the latest gems under $750K.
+In Santa Clarita real estate, this gap hits home (pun intended). Young couples are eyeing areas like Canyon Country or Saugus, but affordability feels like a myth. I've crunched the numbers: A starter home that cost $20,000 in the '50s (adjusted for inflation) now runs $600K-plus. Sarcasm alert: Thanks, economy! But here's the silver lining—as inventory creeps up, we're seeing more entry-level options. Check out our active listings at [https://www.santaclaritaopenhouses.com/active-listings](/) for the latest gems under $750K.
 
-Don't get me wrong; it's not all doom and gloom. As a Generation X'er who's dropped 135 pounds through sheer grit (more on that at YouTube.com/@homemuscle), I know transformation starts with facing facts. If you're a 30-something dreaming of roots in Valencia or Newhall, start by assessing your finances. Use our dream home finder tool at [https://www.santaclaritaopenhouses.com/dream-home-finder](https://www.santaclaritaopenhouses.com/dream-home-finder) to filter by budget—no pie-in-the-sky promises here.
+Don't get me wrong; it's not all doom and gloom. As a Generation X'er who's dropped 135 pounds through sheer grit (more on that at YouTube.com/@homemuscle), I know transformation starts with facing facts. If you're a 30-something dreaming of roots in Valencia or Newhall, start by assessing your finances. Use our dream home finder tool at [https://www.santaclaritaopenhouses.com/dream-home-finder](/contact) to filter by budget—no pie-in-the-sky promises here.
 
 ## Santa Clarita Market Pulse: What's Hot in the Last 7 Days
 
@@ -36,7 +36,7 @@ Let's cut to the chase on the fresh data. In the past week alone, Santa Clarita 
 
 Inventory's fluctuating, but we're not in panic mode yet. Last week's highs dipped a bit this morning, but end-of-month pushes could spike it again. Think of it like car dealers hustling quotas; real estate agents do the same. We ended with 27 back-on-market properties (escrows that fizzled), 47 pendings (in escrow), 35 closings, 14 expirations, 15 holds, 13 withdrawals, and those pesky cancels.
 
-Pro tip: Those canceled listings? Goldmines. Sellers pull them for reasons like frustration or overpricing, but they're often motivated. As your first-responder Realtor (CALDRE 01238257), I can dig into the historicals and approach them directly. Imagine knocking on a door with a ready buyer—bam, off-market deal. Head to [https://www.santaclaritaopenhouses.com/my-sold-listings](https://www.santaclaritaopenhouses.com/my-sold-listings) to see how I've closed similar steals.
+Pro tip: Those canceled listings? Goldmines. Sellers pull them for reasons like frustration or overpricing, but they're often motivated. As your first-responder Realtor (CALDRE 01238257), I can dig into the historicals and approach them directly. Imagine knocking on a door with a ready buyer—bam, off-market deal. Head to https://www.santaclaritaopenhouses.com/my-sold-listings to see how I've closed similar steals.
 
 Humor break: If inventory keeps swelling, we might hit "lions, tigers, and bears" levels—oh my! But seriously, at 479 active condos, homes, and townhomes, it's the highest in over two years. Buyers, this is your cue. Sellers, price right or watch your listing gather dust.
 
@@ -48,13 +48,13 @@ Under new rules, everything's negotiable. Sellers, you might pay less than the o
 
 As an ex-LAPD motor cop turned Realtor, I keep it fair and honest. No fluff commissions here; we hash it out upfront. Want to run scenarios? Schedule a no-obligation Zoom at ZoomMeSCV.com or dial 661-888-4983. We'll cover what charges hit your pocket as a seller (title, escrow) versus buyer (inspections, appraisals).
 
-Internal nudge: Dive deeper into our real estate glossary at [https://www.santaclaritaopenhouses.com/real-estate-glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary) for terms like "concessions" that could save you thousands.
+Internal nudge: Dive deeper into our real estate glossary at https://www.santaclaritaopenhouses.com/real-estate-glossary for terms like "concessions" that could save you thousands.
 
 ## Mortgage Rates and Fed Drama: The Magic Number Approaching?
 
 Mortgage rates are dipping, teasing that "magic number" around 4-5% that could unleash a buying frenzy. The Fed's funds rate influences this, tied to 10-year bonds. If they cut (eyes on the next meeting), expect rates to follow suit—maybe not dramatically, but enough to qualify more buyers.
 
-Current vibe: Rates stalled but competition's heating. Refi calls are pouring in as folks lock in before the drop. In Santa Clarita, this means more action in neighborhoods like Castaic or Acton. Check our mortgage rates page at [https://www.santaclaritaopenhouses.com/mortgage-rates](https://www.santaclaritaopenhouses.com/mortgage-rates) for live updates.
+Current vibe: Rates stalled but competition's heating. Refi calls are pouring in as folks lock in before the drop. In Santa Clarita, this means more action in neighborhoods like Castaic or Acton. Check our mortgage rates page at [https://www.santaclaritaopenhouses.com/mortgage-rates](/blog) for live updates.
 
 Advice from the trenches: Don't buy major credit items mid-process—it tanks your score. Get pre-approved legit; I've seen shady lenders ruin deals. As someone who's regulated firearms and radars in LAPD days, I spot BS a mile away. Test my AI voice system at 661-219-7299 for quick rate chats, or call 661-51-Homes for full intel.
 
@@ -62,11 +62,11 @@ Advice from the trenches: Don't buy major credit items mid-process—it tanks yo
 
 Buyers, prep like you're suiting up for a raid. Get that pre-approval, know your debt-to-income ratio, and scout canceled listings. Sellers overpromise on price? Walk. I've got your back—let's solicit those frustrated owners.
 
-For sellers: Know why you're selling. Job relocation? Divorce? (I've handled plenty; attorneys trust me for discreet sales—see [https://www.santaclaritaopenhouses.com/testimonials](https://www.santaclaritaopenhouses.com/testimonials)). Price too high? It'll sit. Use our free market analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) to get real numbers.
+For sellers: Know why you're selling. Job relocation? Divorce? (I've handled plenty; attorneys trust me for discreet sales—see [https://www.santaclaritaopenhouses.com/testimonials](/)). Price too high? It'll sit. Use our free market analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact) to get real numbers.
 
 Humor: If your agent's talking more than listening, fire 'em. Like an LAPD interrogation gone wrong—results suck. Build a plan: Clean, stage, and get ready for multiple offers.
 
-Explore by area: Homes in Canyon Country under $500K at [https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000). Pools? Golf? We've got filters at [https://www.santaclaritaopenhouses.com/search-by-area](https://www.santaclaritaopenhouses.com/search-by-area).
+Explore by area: Homes in Canyon Country under $500K at https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca-under-500000. Pools? Golf? We've got filters at https://www.santaclaritaopenhouses.com/search-by-area.
 
 ## AI in Real Estate: Friend or Foe?
 
@@ -78,37 +78,37 @@ In Santa Clarita, AI helps predict trends, but I add the sarcasm: "AI says buy n
 
 From drug recognition expert to body transformation guru (lost 135 lbs at 52 via fasting—YouTube.com/@homemuscle), I've mastered high-stakes. In real estate, that means protecting you like I did on the streets. Fair housing? Non-negotiable. Veteran buyers? I've got VA loan hacks.
 
-Humble brag: Clients rave because I listen, negotiate like a pro, and deliver. See testimonials at [https://www.santaclaritaopenhouses.com/testimonials](https://www.santaclaritaopenhouses.com/testimonials).
+Humble brag: Clients rave because I listen, negotiate like a pro, and deliver. See testimonials at [https://www.santaclaritaopenhouses.com/testimonials](/).
 
 ## Market Reports and Forecasts: Eyes on the Horizon
 
-Santa Clarita's market report? Inventory up, but absorption steady. Watch Agua Dulce at [https://www.santaclaritaopenhouses.com/agua-dulce-market-report](https://www.santaclaritaopenhouses.com/agua-dulce-market-report) or Canyon Country at [https://www.santaclaritaopenhouses.com/canyon-country-market-report](https://www.santaclaritaopenhouses.com/canyon-country-market-report).
+Santa Clarita's market report? Inventory up, but absorption steady. Watch Agua Dulce at https://www.santaclaritaopenhouses.com/agua-dulce-market-report or Canyon Country at https://www.santaclaritaopenhouses.com/canyon-country-market-report.
 
-Forecast: If rates hit 4%, expect 2021 vibes—fast sales, rising values. But with more listings, buyers gain leverage. Relocating? Use [https://www.santaclaritaopenhouses.com/relocation-1](https://www.santaclaritaopenhouses.com/relocation-1).
+Forecast: If rates hit 4%, expect 2021 vibes—fast sales, rising values. But with more listings, buyers gain leverage. Relocating? Use https://www.santaclaritaopenhouses.com/relocation-1.
 
 ## Buying Guide: Step-by-Step No-Fluff Edition
 
-Foreclosures? Short sales? Understand at [https://www.santaclaritaopenhouses.com/foreclosure-search](https://www.santaclaritaopenhouses.com/foreclosure-search).
+Foreclosures? Short sales? Understand at https://www.santaclaritaopenhouses.com/foreclosure-search.
 
 ## Seller Secrets: Maximize Your Profit
 
 Know your why. Set price right—overprice and you're toast. Consider offers wisely; net sheet first.
 
-Marketing: As a local board member, I blast to max exposure. Newsletter sign-up at [https://www.santaclaritaopenhouses.com/newsletter](https://www.santaclaritaopenhouses.com/newsletter) for tips.
+Marketing: As a local board member, I blast to max exposure. Newsletter sign-up at https://www.santaclaritaopenhouses.com/newsletter for tips.
 
 ## Neighborhood Spotlights: Where to Buy Now
 
-New construction? [https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-santa-clarita-ca](https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-santa-clarita-ca).
+New construction? https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-santa-clarita-ca.
 
 ## Economic Ties: Why Santa Clarita Stands Out
 
 Unlike NYC's socialist shifts scaring investors, SCV's stable. Low crime (thanks, LAPD roots), great schools, and proximity to LA without the chaos.
 
-Investment ops: Flip or rent—see [https://www.santaclaritaopenhouses.com/lots-and-land-for-sale-in-santa-clarita-ca](https://www.santaclaritaopenhouses.com/lots-and-land-for-sale-in-santa-clarita-ca).
+Investment ops: Flip or rent—see https://www.santaclaritaopenhouses.com/lots-and-land-for-sale-in-santa-clarita-ca.
 
 ## Personal Touch: Connect with Connor
 
-Test my AI voice at 661-219-7299. Call 661-888-4983 or email [connor@SantaClaritaOpenHouses.com](mailto:connor@SantaClaritaOpenHouses.com). About me? [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about).
+Test my AI voice at 661-219-7299. Call 661-888-4983 or email [connor@SantaClaritaOpenHouses.com](mailto:connor@SantaClaritaOpenHouses.com). About me? [https://www.santaclaritaopenhouses.com/about](/).
 
 ## Wrapping Up: Action Steps
 

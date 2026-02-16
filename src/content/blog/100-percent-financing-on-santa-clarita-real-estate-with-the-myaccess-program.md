@@ -21,7 +21,7 @@ Connor "with Honor" MacIvor - March 26, 2025** [0 Comments](/#comments) | [Add C
 
 Intrigued by the possibilities of CalHFA? Let's connect! As your dedicated Realtor specializing in helping buyers like you navigate these programs, I can answer your initial questions and connect you with a highly experienced, CalHFA-approved lending partner to start the official prequalification process.
 
-[Contact Connor About CalHFA Programs](https://www.santaclaritaopenhouses.com/contact)
+[Contact Connor About CalHFA Programs](/contact)
 
 (Opens my main contact page in a new tab)
 

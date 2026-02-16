@@ -22,7 +22,7 @@ Understanding how long it takes to sell your home is a crucial element of any su
 
 The "days on market" (DOM) metric is a critical indicator of how long properties typically take to sell in a given area. It reflects market conditions, buyer demand, and seller pricing strategies. By understanding these trends, homeowners can:
 
-For real-time market trends, visit our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) page.
+For real-time market trends, visit our [Market Report](/blog) page.
 
 ## 2. Analyzing Historical Days on Market Data in Santa Clarita
 
@@ -30,7 +30,7 @@ Recent data from over 4,969 listings in key Santa Clarita neighborhoods (includi
 
 **Key Observations:**
 
-For a more detailed breakdown and ongoing updates, explore our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
+For a more detailed breakdown and ongoing updates, explore our [Market Report](/blog).
 
 ## 3. Factors Influencing Days on Market in Santa Clarita
 
@@ -66,7 +66,7 @@ A homeowner in Canyon Country listed their home at a competitive price, invested
 
 In Newhall, a property initially listed at a higher price lingered on the market. After re-evaluating the CMA and adjusting the price, coupled with enhanced visual marketing, the home sold within a more competitive timeframe, demonstrating the importance of flexibility in pricing.
 
-For more inspiring testimonials and detailed case studies, visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more inspiring testimonials and detailed case studies, visit our [Testimonials](/) page.
 
 ## 6. What This Means for Home Sellers
 

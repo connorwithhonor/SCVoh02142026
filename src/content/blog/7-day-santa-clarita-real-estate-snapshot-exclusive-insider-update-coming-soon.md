@@ -20,7 +20,7 @@ Connor "with Honor" MacIvor - April 14, 2025** Tags: [Santa Clarita Real Estate]
 
 Good morning, Santa Clarita! Today is April 14, 2025, and as always, I’m Connor with Honor – your First Responder Realtor – bringing you an in‐depth look at our local real estate market. In this post, we’ll break down the past seven days of market activity throughout the Santa Clarita Valley. Whether you’re a buyer searching for your dream home or a seller ready to make a move, this exclusive snapshot highlights everything you need to know about new listings, price adjustments, and key trends affecting our community.
 
-You can explore all active listings by visiting our site at [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/). For even more detailed property data and further market insights, check out additional pages on our website through internal links such as our [active listings section](https://www.santaclaritaopenhouses.com/active-listings) and neighborhood-specific pages. Let’s dive in!
+You can explore all active listings by visiting our site at [https://www.santaclaritaopenhouses.com/](/). For even more detailed property data and further market insights, check out additional pages on our website through internal links such as our [active listings section](/) and neighborhood-specific pages. Let’s dive in!
 
 ## Overview of the 7-Day Market Snapshot
 
@@ -72,7 +72,7 @@ Our goal at Santa Clarita Open Houses is to empower you with the most up-to-date
 
 ### Explore Active Listings
 
-Visit our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) page to find the most recent properties on the market. Here you’ll find the complete details for each listing—square footage, listing price, renovations, community amenities, and more.
+Visit our [Active Listings](/) page to find the most recent properties on the market. Here you’ll find the complete details for each listing—square footage, listing price, renovations, community amenities, and more.
 
 ### Neighborhood-Specific Searches
 

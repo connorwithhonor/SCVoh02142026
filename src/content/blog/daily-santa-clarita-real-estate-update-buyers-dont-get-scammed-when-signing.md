@@ -34,7 +34,7 @@ Here’s a quick look at the numbers from the past week in the Santa Clarita rea
 
 To dive deeper into these updates and explore specific properties, head over to my website:
 
-[https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com)
+[https://www.santaclaritaopenhouses.com](/)
 
 ### **Buyers: Don’t Get Scammed When Signing**
 
@@ -64,7 +64,7 @@ While most criminals don’t plan their crimes, the fact that your home’s layo
 
 For more tips and the latest real estate updates, visit:
 
-[https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing](https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing)
+https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing
 
 ** Share This Post## Comments
 

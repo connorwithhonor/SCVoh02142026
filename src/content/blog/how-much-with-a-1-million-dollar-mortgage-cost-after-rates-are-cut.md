@@ -22,7 +22,7 @@ I thought it would be a good idea to see what various loan amounts become when t
 
 So, if the fed meeting next week is going to be&nbsp;
 
-In today’s show, we discussed what a $1 million mortgage could cost after a rate cut. Whether you’re planning to buy or are already in the market, understanding how interest rates impact your mortgage is crucial. To catch up on all the details, check out the full show on our blog at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/how-much-with-a-1-million-dollar-mortgage-cost-after-rates-are-cut).
+In today’s show, we discussed what a $1 million mortgage could cost after a rate cut. Whether you’re planning to buy or are already in the market, understanding how interest rates impact your mortgage is crucial. To catch up on all the details, check out the full show on our blog at SantaClaritaOpenHouses.com.
 
 ### Santa Clarita Real Estate Market Watch - Last 7 Days
 
@@ -76,7 +76,7 @@ Explore all the ways you can connect, follow, and engage with Connor across vari
 
 For a comprehensive look at all available properties, recent market trends, and expert advice, visit the main website:
 
-**Santa Clarita Open Houses** - [santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com)
+**Santa Clarita Open Houses** - [santaclaritaopenhouses.com](/)
 
 ### Connect with Connor Today!
 

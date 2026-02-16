@@ -48,7 +48,7 @@ Both buyers and sellers face exciting opportunities and challenges in the curren
 
 Thank you for joining me today. Please share this update and stay tuned for more insights. I’m Connor with Honor, over and out.
 
-For more details and to explore current listings, visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). If you have any questions or need personalized advice, feel free to reach out to me at connor@santaclaritaopenhouses.com or call 661-400-1720.
+For more details and to explore current listings, visit [SantaClaritaOpenHouses.com](/). If you have any questions or need personalized advice, feel free to reach out to me at connor@santaclaritaopenhouses.com or call 661-400-1720.
 
 ** Share This Post## Comments
 

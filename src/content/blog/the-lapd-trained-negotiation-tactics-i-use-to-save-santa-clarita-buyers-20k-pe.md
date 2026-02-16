@@ -44,7 +44,7 @@ During my time with LAPD, I went through crisis negotiation training. The core p
 
 **In real estate:** Before writing an offer, I pull:
 
-**Example:** You love a home in [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca) listed at $700,000. I pull comps and find similar homes sold for $670K-$685K in the past 60 days. The home has been on the market for 45 days (above the 30-day average). The listing agent mentions the seller "needs to close quickly."
+**Example:** You love a home in [Saugus](/) listed at $700,000. I pull comps and find similar homes sold for $670K-$685K in the past 60 days. The home has been on the market for 45 days (above the 30-day average). The listing agent mentions the seller "needs to close quickly."
 
 **Translation:** The seller is motivated, the home is overpriced, and we have leverage. We offer $680K with a 21-day close. The seller accepts.
 
@@ -58,7 +58,7 @@ During my time with LAPD, I went through crisis negotiation training. The core p
 
 **Why this matters:** Listing agents are more likely to advocate for YOUR offer if they trust you'll close the deal smoothly. If you're difficult to work with, they'll push the seller toward other buyers—even if your offer is higher.
 
-**Example:** Two offers on a home in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca):
+**Example:** Two offers on a home in [Valencia](/):
 
 The seller chooses Offer B because their agent trusts ME to close the deal without drama.
 
@@ -70,7 +70,7 @@ The seller chooses Offer B because their agent trusts ME to close the deal witho
 
 **In real estate:** Multiple offer situations, inspection issues, appraisal gaps—these create stress. Weak agents panic and make bad decisions. Strong agents stay calm and think strategically.
 
-**Example:** My client is in escrow on a home in [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca). The appraisal comes in $15K below the purchase price. The seller demands my client make up the difference or they'll cancel.
+**Example:** My client is in escrow on a home in [Stevenson Ranch](/). The appraisal comes in $15K below the purchase price. The seller demands my client make up the difference or they'll cancel.
 
 **Weak agent response:** Panic and tell the buyer to pay the extra $15K.
 
@@ -84,7 +84,7 @@ The seller chooses Offer B because their agent trusts ME to close the deal witho
 
 **In real estate:** Leverage comes from:
 
-**Example:** You're bidding on a home in [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca) listed at $650,000. The inspection reveals $12,000 in roof and HVAC repairs.
+**Example:** You're bidding on a home in [Canyon Country](/) listed at $650,000. The inspection reveals $12,000 in roof and HVAC repairs.
 
 **Weak negotiation:** Ask the seller to fix everything (they'll say no).
 
@@ -100,7 +100,7 @@ The seller agrees because they don't want to deal with repairs and they need to 
 
 **In real estate:** If a deal doesn't make sense, WALK AWAY. Buyers who fall in love with a house and refuse to walk away end up overpaying or buying homes with serious issues.
 
-**Example:** My client is bidding on a home in [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca). The seller refuses to negotiate on price, won't provide repair credits, and demands we waive all contingencies.
+**Example:** My client is bidding on a home in Castaic. The seller refuses to negotiate on price, won't provide repair credits, and demands we waive all contingencies.
 
 I tell my client: "This seller is unreasonable. Let's walk away and find a better deal."
 
@@ -302,7 +302,7 @@ For 20 years, my job was to protect people. Now I do it in real estate. If a dea
 
 ## Final Thoughts: Negotiation Is a Skill (And I've Been Training for 20+ Years)
 
-Buying a home in Santa Clarita—whether in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca), [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), or [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca)—is the biggest financial decision most people ever make.
+Buying a home in Santa Clarita—whether in [Valencia](/), [Saugus](/), [Stevenson Ranch](/), [Canyon Country](/), or Castaic—is the biggest financial decision most people ever make.
 
 You don't want a "nice" agent. You want a STRONG negotiator who will fight for every dollar.
 
@@ -310,7 +310,7 @@ I spent 20 years on the streets of Los Angeles protecting people. I went through
 
 Now I bring those skills to real estate. And my clients save $10,000-$50,000+ because of it.
 
-If you're ready to work with someone who negotiates like their own money is on the line, [reach out to me](https://www.santaclaritaopenhouses.com/contact). I'll match you with a vetted agent in my network—or represent you myself.
+If you're ready to work with someone who negotiates like their own money is on the line, [reach out to me](/contact). I'll match you with a vetted agent in my network—or represent you myself.
 
 No games. No weak offers. Just aggressive, data-driven negotiation from someone who's been protecting people for over 20 years.
 
@@ -318,9 +318,9 @@ No games. No weak offers. Just aggressive, data-driven negotiation from someone 
 
 Former LAPD Officer | Santa Clarita Real Estate Advisor
 
-[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)
+[SantaClaritaOpenHouses.com](/)
 
-[Schedule a Free Consultation](https://www.santaclaritaopenhouses.com/booking)
+Schedule a Free Consultation
 
 ** Share This Post## Comments
 

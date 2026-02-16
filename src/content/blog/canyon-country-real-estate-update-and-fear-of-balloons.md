@@ -92,7 +92,7 @@ This weekend, over 55 open houses are scheduled across the Santa Clarita Valley,
 
 #### Notable Open Houses:
 
-For a full list of open houses, visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/).
+For a full list of open houses, visit&nbsp;[SantaClaritaOpenHouses.com](/).
 
 ### Looking Ahead: 2025 Market Predictions
 

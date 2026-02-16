@@ -19,7 +19,7 @@ Connor "with Honor" MacIvor - August 31, 2025** Tags: [fasting for weight loss](
 # Why Fasting Beats Weight Loss Drugs: The No-BS Guide to Dropping Pounds and Keeping Muscle
 
   
-**TL;DR**: Fasting helped me drop 135 pounds in 7.5 months at age 52, and it’s a game-changer for weight loss without the risks of trendy drugs. Unlike injections that may cause muscle loss or long-term issues, fasting boosts growth hormone to preserve muscle, resets your eating habits, and costs nothing. I’ll break down how fasting works, why weight loss drugs might not be the answer, and how to start moving your body—no matter your size. Ready to ditch the grazing and get real results? Book a free consultation at [https://zoommescv.com](https://zoommescv.com) or call 661-888-4983 to talk health and homes with a first-responder-turned-Realtor who’s walked the walk.
+**TL;DR**: Fasting helped me drop 135 pounds in 7.5 months at age 52, and it’s a game-changer for weight loss without the risks of trendy drugs. Unlike injections that may cause muscle loss or long-term issues, fasting boosts growth hormone to preserve muscle, resets your eating habits, and costs nothing. I’ll break down how fasting works, why weight loss drugs might not be the answer, and how to start moving your body—no matter your size. Ready to ditch the grazing and get real results? Book a free consultation at [https://zoommescv.com](/) or call 661-888-4983 to talk health and homes with a first-responder-turned-Realtor who’s walked the walk.
 
 ## The Problem: We’re Grazing Like Cattle
 
@@ -39,7 +39,7 @@ Fasting isn’t starvation. It’s giving your body a break from the constant fo
 
 I don’t eat for 2-3 days at a time, depending on my weight and goals. Sometimes longer. Sounds crazy? It’s not. Your body’s designed for this. Back when we were chasing mammoths, we didn’t have a fridge full of chips. Here’s how I do it:
 
-**Pro Tip**: If you’re on meds, talk to your doctor first. Some pills need food to work right. Don’t be a hero and screw up your health. Learn more about my approach at [https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting](https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting).
+**Pro Tip**: If you’re on meds, talk to your doctor first. Some pills need food to work right. Don’t be a hero and screw up your health. Learn more about my approach at https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
 
 ## Weight Loss Drugs: The Shiny New Toy with a Catch
 
@@ -63,19 +63,19 @@ Here’s the deal: whether you’re fasting or on drugs, you’ve got to move. M
 
 ### Why It Matters
 
-I was 365 pounds, huffing and puffing. Now I’m 230, lifting weights, and feeling like I could chase down a suspect like my LAPD days. You don’t need a gym membership to start—just a plan. Get inspired at [https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting](https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting).
+I was 365 pounds, huffing and puffing. Now I’m 230, lifting weights, and feeling like I could chase down a suspect like my LAPD days. You don’t need a gym membership to start—just a plan. Get inspired at https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
 
 ## Testosterone Therapy: The Secret Sauce?
 
 At 51, I started testosterone replacement therapy (TRT). Game-changer. Low T was killing my energy, my drive, my ability to push iron. TRT fixed that, but it’s not a magic bullet. Here’s the deal:
 
-TRT helped me, but fasting and movement were the real MVPs. Curious about how I balanced health and hustle? Check out [https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge) for my story.
+TRT helped me, but fasting and movement were the real MVPs. Curious about how I balanced health and hustle? Check out https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge for my story.
 
 ## The Mental Game: Forgive and Keep Going
 
 Here’s where most people screw up: they “cheat,” feel like garbage, and quit. I’ve been there. At 365 pounds, I’d lose 50, “deserve” a pizza, and spiral back to chips and soda. Don’t do that.
 
-Need a plan to stay on track? Book a free consult at [https://zoommescv.com](https://zoommescv.com) or call 661-888-4983. I’ll help you apply that first-responder discipline to your health or your home search.
+Need a plan to stay on track? Book a free consult at [https://zoommescv.com](/) or call 661-888-4983. I’ll help you apply that first-responder discipline to your health or your home search.
 
 ## Fasting vs. Drugs: The Verdict
 
@@ -85,15 +85,15 @@ Weight loss drugs might work, but they’re a gamble. Fasting is free, natural, 
 
 Ready to try? Here’s your no-BS starter plan:
 
-Want more? Check out [https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting](https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting) for my full story.
+Want more? Check out https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting for my full story.
 
 ## Why Trust Me?
 
-I’m Connor MacIvor, ex-LAPD motor cop turned Realtor (CALDRE 01238257). I went from 365 pounds to 230 in 7.5 months at 52, using fasting, TRT, and discipline. No drugs, no excuses. I’ve walked the streets and the weight loss journey, so I know what it takes to get results. Whether it’s dropping pounds or finding your dream home in Santa Clarita, I’m here to guide you with no-BS advice. Book a free consult at [https://zoommescv.com](https://zoommescv.com) or call 661-888-4983.
+I’m Connor MacIvor, ex-LAPD motor cop turned Realtor (CALDRE 01238257). I went from 365 pounds to 230 in 7.5 months at 52, using fasting, TRT, and discipline. No drugs, no excuses. I’ve walked the streets and the weight loss journey, so I know what it takes to get results. Whether it’s dropping pounds or finding your dream home in Santa Clarita, I’m here to guide you with no-BS advice. Book a free consult at [https://zoommescv.com](/) or call 661-888-4983.
 
 ## Real Estate Tie-In: Health and Homeownership
 
-Why’s this on a real estate site? Because health and wealth go hand-in-hand. Dropping weight gave me the energy to hustle harder as a Realtor, helping clients find homes in Santa Clarita’s hottest neighborhoods. A clear mind and strong body make you a sharper buyer or seller. Check out [https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024](https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024) for the top spots to live, or [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) to see what your home’s worth.
+Why’s this on a real estate site? Because health and wealth go hand-in-hand. Dropping weight gave me the energy to hustle harder as a Realtor, helping clients find homes in Santa Clarita’s hottest neighborhoods. A clear mind and strong body make you a sharper buyer or seller. Check out https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024 for the top spots to live, or [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact) to see what your home’s worth.
 
 ## Recap
 

@@ -58,9 +58,9 @@ Whether you’re buying, selling, or simply exploring, choosing the right platfo
 
 **Discover your dream home today:**
 
-[Explore&nbsp;all&nbsp;Santa&nbsp;Clarita&nbsp;Valley&nbsp;homes](https://www.santaclaritaopenhouses.com/).
+[Explore&nbsp;all&nbsp;Santa&nbsp;Clarita&nbsp;Valley&nbsp;homes](/).
 
-[Homes&nbsp;for&nbsp;sale&nbsp;in&nbsp;Saugus](https://www.santaclaritaopenhouses.com/saugus-homes).
+Homes&nbsp;for&nbsp;sale&nbsp;in&nbsp;Saugus.
 
 Condos&nbsp;for&nbsp;sale&nbsp;in&nbsp;Valencia.
 

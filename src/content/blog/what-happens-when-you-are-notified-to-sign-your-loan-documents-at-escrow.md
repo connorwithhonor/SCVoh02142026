@@ -25,7 +25,7 @@ Signing loan documents at escrow is a make-or-break moment in your Santa Clarita
 
 ## The Inside Scoop: Navigating Loan Document Signing
 
-As someone who’s traded an LAPD badge for the frontlines of Santa Clarita real estate, I’m here to cut through the noise with no-BS insights. Today, August 20, 2025, at 08:19 AM PDT, the Santa Clarita Valley real estate market is alive with 767 active listings, a surge that includes 7 fresh “Coming Soon” properties dropped in the last 24 hours. Names like Ironwood, Flynn Drive, Claudette, and Dorothy are lighting up [https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/), my go-to site powered by the Southland Regional Association of Realtors’ Multiple Listing Service (MLS) via a direct IDX feed. This isn’t syndicated fluff from Redfin or Realtor.com—it’s raw, local data held to a higher standard, giving you the edge.
+As someone who’s traded an LAPD badge for the frontlines of Santa Clarita real estate, I’m here to cut through the noise with no-BS insights. Today, August 20, 2025, at 08:19 AM PDT, the Santa Clarita Valley real estate market is alive with 767 active listings, a surge that includes 7 fresh “Coming Soon” properties dropped in the last 24 hours. Names like Ironwood, Flynn Drive, Claudette, and Dorothy are lighting up [https://www.santaclaritaopenhouses.com/](/), my go-to site powered by the Southland Regional Association of Realtors’ Multiple Listing Service (MLS) via a direct IDX feed. This isn’t syndicated fluff from Redfin or Realtor.com—it’s raw, local data held to a higher standard, giving you the edge.
 
 But let’s zero in on the escrow finish line: signing loan documents. After your offer’s accepted, inspections cleared, and appraisals sorted, your lender hands off the baton to escrow. They review the docs for completeness—think loan amounts, interest rates, and terms—then schedule you with a specialized notary. These aren’t your garden-variety stamp-and-go notaries; they’re trained to handle residential loan paperwork, often dispatched to you if you’re out of state. My recent clients closed from Idaho, vacating 35 days before an offer, proving geography won’t stop the process if you’re prepared.
 
@@ -35,7 +35,7 @@ This signing session isn’t a quick signature sprint. It can drag into 9:30 or 
 
 Preparation turns chaos into control. Know your signing date and time—tell your agent (that’s me, Connor MacIvor, CALDRE 01238257, at 661-888-4983) and lender to be on standby. A simple, “Jack, I’m signing Thursday, 8-9:30 PM—can you be on call?” works wonders. Most pros will agree, especially if they value your business. Bring a clear head, a highlighter, and maybe a coffee. If you’re out of state, confirm escrow’s notary logistics early—video calls or in-person visits depend on your location.
 
-Docs might include a Closing Disclosure, promissory note, deed of trust, and more—over 100 pages of legalese. My JPL clients read every word, keeping me sharp and them informed. Even if contracts aren’t your forte, skimming reveals red flags. Don’t understand a clause? Lean on legal counsel, your agent, or me. Pre-funding conditions—like a fresh pay stub or employment verification—can pop up, so have those ready. Delays here risk rate lock expirations, so submit fast. Check [https://www.santaclaritaopenhouses.com/blog](https://www.santaclaritaopenhouses.com/blog) for a deeper dive into this prep work.
+Docs might include a Closing Disclosure, promissory note, deed of trust, and more—over 100 pages of legalese. My JPL clients read every word, keeping me sharp and them informed. Even if contracts aren’t your forte, skimming reveals red flags. Don’t understand a clause? Lean on legal counsel, your agent, or me. Pre-funding conditions—like a fresh pay stub or employment verification—can pop up, so have those ready. Delays here risk rate lock expirations, so submit fast. Check [https://www.santaclaritaopenhouses.com/blog](/blog) for a deeper dive into this prep work.
 
 ### Timing the Signing
 
@@ -57,7 +57,7 @@ You’re vested. Maybe you’ve toured 10 homes, lost two offers, and sunk $1,50
 
 ### Legal Safeguards
 
-California law gives you a three-day right of rescission on certain loans (e.g., refinances), but purchase loans lack this buffer. Once signed, you’re committed unless fraud or mutual mistake is proven—a high bar. Reading docs upfront is your shield. If a lender promised 5.5% but delivers 6%, document it—emails, texts, voicemails. I’d call them mid-signing, leveraging my network to resolve it. Check [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact) for my direct line.
+California law gives you a three-day right of rescission on certain loans (e.g., refinances), but purchase loans lack this buffer. Once signed, you’re committed unless fraud or mutual mistake is proven—a high bar. Reading docs upfront is your shield. If a lender promised 5.5% but delivers 6%, document it—emails, texts, voicemails. I’d call them mid-signing, leveraging my network to resolve it. Check [https://www.santaclaritaopenhouses.com/contact](/contact) for my direct line.
 
 ## Deep Dive: Decoding the Documents
 
@@ -85,7 +85,7 @@ Funding day one, recording day two—standard in SoCal. A weekend delay means Mo
 
 ### Insurance Tie-In
 
-With wildfires looming, lenders require proof of insurance before funding. My partner Scott Wilk (contact via video comments) can secure policies fast, even supplemental ones for high-risk areas. Delays here stall escrow—get quotes early. Check [https://www.santaclaritaopenhouses.com/mortgage-rates](https://www.santaclaritaopenhouses.com/mortgage-rates) for related insights.
+With wildfires looming, lenders require proof of insurance before funding. My partner Scott Wilk (contact via video comments) can secure policies fast, even supplemental ones for high-risk areas. Delays here stall escrow—get quotes early. Check [https://www.santaclaritaopenhouses.com/mortgage-rates](/blog) for related insights.
 
 ## The Human Element: Building Confidence
 

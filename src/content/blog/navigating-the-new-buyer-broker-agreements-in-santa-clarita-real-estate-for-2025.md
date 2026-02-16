@@ -76,7 +76,7 @@ Hashtags: #SantaClaritaHomes #FirstResponderRealtor #RealEstate2025 #AB2992 #Hom
 
 &nbsp;
 
-Author Bio: Connor T. MacIvor, known as Connor with Honor, is a First Responder Realtor dedicated to serving the Santa Clarita Valley. With years of experience in both emergency response and real estate, Connor brings a unique perspective to the industry, focusing on integrity and client advocacy. Connect with Connor for your real estate needs at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/).
+Author Bio: Connor T. MacIvor, known as Connor with Honor, is a First Responder Realtor dedicated to serving the Santa Clarita Valley. With years of experience in both emergency response and real estate, Connor brings a unique perspective to the industry, focusing on integrity and client advocacy. Connect with Connor for your real estate needs at [SantaClaritaOpenHouses.com](/).
 
 ** Share This Post## Comments
 

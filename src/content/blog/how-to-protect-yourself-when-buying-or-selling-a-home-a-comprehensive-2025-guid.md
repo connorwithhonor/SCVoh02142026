@@ -131,7 +131,7 @@ Feel free to explore my **YouTube Channel** for daily market updates and real es
 [https://youtu.be/X0L_na4bjOk](https://youtu.be/X0L_na4bjOk)
 
 For personalized assistance, you can reach out to me or explore detailed listings, market analyses, and more through my main website:
-[https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com)
+[https://www.santaclaritaopenhouses.com](/)
 
 **Thank you for reading, and here’s to a safe, informed, and successful real estate journey!**
 

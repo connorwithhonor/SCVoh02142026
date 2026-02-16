@@ -35,7 +35,7 @@ Cell: 661-400-1720 | 661-51-Homes | 661-219-7299 (AI voice bot demo)
 
 I served Los Angeles for two decades as a police officer and detective before moving full-time into real estate. Tactics, safety, and precise execution matter—at a crime scene and at an open house. In 1998, I began helping buyers and sellers in the Santa Clarita Valley (SCV). Since then I’ve run thousands of showings and open houses. I’ve seen what moves the needle and what wastes your Saturday. This playbook distills that experience into clear, repeatable steps for buyers and for sellers. No drama, no fluff—just actions that work in the field.
 
-Every tool I reference here lives on [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/). If you’re new to the site, start with the dedicated page for [Open Houses in the Santa Clarita Valley](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca), or widen your scan via [Open Houses in California](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-california). From there, this guide will help you set your search, safely tour, ask the right questions, and write an offer that gets taken seriously.
+Every tool I reference here lives on [SantaClaritaOpenHouses.com](/). If you’re new to the site, start with the dedicated page for Open Houses in the Santa Clarita Valley, or widen your scan via Open Houses in California. From there, this guide will help you set your search, safely tour, ask the right questions, and write an offer that gets taken seriously.
 
 ## Key Takeaways
 
@@ -43,7 +43,7 @@ Every tool I reference here lives on [SantaClaritaOpenHouses.com](https://www.sa
 
 Use these city pages to scan real inventory and match your budget to your lifestyle. Each area has its own rhythm, amenities, and price dynamics. Start with the live “homes for sale” pages, then dive into specialty searches (pools, 55+, golf, gated, lots/land) as needed.
 
-Pro tip: After scanning the city pages, jump to niche searches to align lifestyle with property features: [Homes with a Pool in SCV](https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-santa-clarita-valley-ca), [55+ Communities in SCV](https://www.santaclaritaopenhouses.com/homes-in-55-active-adult-communities-for-sale-in-santa-clarita-valley-ca), [Gated Communities in SCV](https://www.santaclaritaopenhouses.com/homes-in-gated-communities-for-sale-in-santa-clarita-valley-ca), [Fixer‑Uppers in SCV](https://www.santaclaritaopenhouses.com/fixer-upper-homes-for-sale-in-santa-clarita-valley-ca), [Homes with RV Parking in SCV](https://www.santaclaritaopenhouses.com/homes-with-rv-parking-for-sale-in-santa-clarita-valley-ca), and [Homes with a Garage in SCV](https://www.santaclaritaopenhouses.com/homes-with-a-garage-for-sale-in-santa-clarita-valley-ca).
+Pro tip: After scanning the city pages, jump to niche searches to align lifestyle with property features: Homes with a Pool in SCV, 55+ Communities in SCV, Gated Communities in SCV, Fixer‑Uppers in SCV, Homes with RV Parking in SCV, and Homes with a Garage in SCV.
 
 ## Buyer Playbook: Step‑by‑Step Guide to Winning the Right Home
 
@@ -61,7 +61,7 @@ If you want a quiet, experienced approach, loop me in. We’ll write in a way th
 
 ## Financing Clarity in 2025
 
-Rates move. Good decisions don’t. Study the basics, talk with a lender who can execute, and match your offer to your reality. You’ll find ongoing rate context on the site. For buyers comparing payments and buydown strategies, start with the core [Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates) page; it links to current discussions and deeper dives on rate movements and strategies.
+Rates move. Good decisions don’t. Study the basics, talk with a lender who can execute, and match your offer to your reality. You’ll find ongoing rate context on the site. For buyers comparing payments and buydown strategies, start with the core [Mortgage Rates](/blog) page; it links to current discussions and deeper dives on rate movements and strategies.
 
 ## FAQs (Direct Answers)
 

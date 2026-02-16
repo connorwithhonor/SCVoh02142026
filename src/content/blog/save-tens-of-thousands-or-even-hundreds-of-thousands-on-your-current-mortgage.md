@@ -32,7 +32,7 @@ Buying or selling a home in Santa Clarita today isn’t just about open houses a
 
 In a digital landscape flooded with instant-quote websites, national portals, and AI-generated listings, **you need an agent who knows both the neighborhood and the numbers.** That’s where **Connor MacIvor**, widely known as *Connor with Honor*, comes in.
 
-Connor’s journey — from **LAPD Police Officer (1990–2013)** to one of **Santa Clarita’s most respected Realtors** — reflects exactly the kind of integrity and strategic thinking you want on your side. Backed by decades of negotiation experience, and now powered by advanced AI tools through **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)**, Connor delivers a home-buying and selling experience that’s transparent, intelligent, and fiercely client-centered.
+Connor’s journey — from **LAPD Police Officer (1990–2013)** to one of **Santa Clarita’s most respected Realtors** — reflects exactly the kind of integrity and strategic thinking you want on your side. Backed by decades of negotiation experience, and now powered by advanced AI tools through **[SantaClaritaOpenHouses.com](/)**, Connor delivers a home-buying and selling experience that’s transparent, intelligent, and fiercely client-centered.
 
 ## Q2: What Does “Personally Vetted by Connor with Honor” Mean?
 
@@ -126,7 +126,7 @@ Sellers in Santa Clarita face a modern challenge: standing out in a sea of samen
 
 Connor’s approach blends **data science**, **AI-driven marketing**, and **classic police-grade investigation** to find every advantage:
 
-And since Connor manages the **[My Sold Listings](https://www.santaclaritaopenhouses.com/my-sold-listings)** archive publicly, sellers can verify success through facts, not fluff.
+And since Connor manages the **My Sold Listings** archive publicly, sellers can verify success through facts, not fluff.
 
 ## Q11: How Does AI Voice Technology Fit Into Real Estate Service?
 
@@ -152,7 +152,7 @@ Everything.
 
 From mortgage awareness to equity strategy, Connor believes informed clients make better long-term decisions.
 
-He regularly publishes on **[SantaClaritaOpenHouses.com/blog](https://www.santaclaritaopenhouses.com/blog)**, covering:
+He regularly publishes on **[SantaClaritaOpenHouses.com/blog](/blog)**, covering:
 
 Education isn’t a marketing tool — it’s Connor’s duty as a community leader.
 

@@ -144,7 +144,7 @@ Yes, the region is expected to see continued growth, making it a viable option f
 
 ### Where can I find more information about Santa Clarita real estate?
 
-Visit [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/) for detailed listings and market insights.
+Visit [Santa Clarita Open Houses](/) for detailed listings and market insights.
 
 I'm Connor with Honor, AKA Connor MacIvor. I have lived in CA since 1990, when I came out to be an LAPD Police Officer. Life has a way of beating the heck out of you, as it did me. I am glad for the experiences and still have many more to go. I was able to finally beat the FAT problem I had for my entire pre-teen, teenage, and adult life up until I was 52 years old, back in 2021, when I was able to figure out what worked and how I wanted my journey to operate.&nbsp;
 

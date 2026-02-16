@@ -88,7 +88,7 @@ Castaic remains a hidden gem in Santa Clarita Valley, offering affordability and
 
 Whether you’re looking to buy, sell, or invest, having a local expert by your side is essential. With deep insights into the nuances of each neighborhood, I’m here to ensure your next real estate move is your best one yet.
 
-**Explore the latest listings and market updates on [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)**.
+**Explore the latest listings and market updates on [SantaClaritaOpenHouses.com](/)**.
 
 **Connor with Honor**
 

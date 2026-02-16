@@ -78,7 +78,7 @@ Santa Clarita is a competitive real estate market with unique dynamics. Hiring a
 
 Whether you’re selling a home in Valencia or buying your first condo in Canyon Country, remember: when you have a strong negotiator on your side, you don’t have to worry about leaving money on the table or making costly mistakes. I’m Connor MacIvor, the First Responder Realtor, and when you’re ready to navigate Santa Clarita’s market with confidence, I’ll be here to guide you every step of the way.
 
-For more tips, insights, and up-to-date market information, visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) and follow along as I continue to serve Santa Clarita with honor and expertise.
+For more tips, insights, and up-to-date market information, visit [SantaClaritaOpenHouses.com](/) and follow along as I continue to serve Santa Clarita with honor and expertise.
 
 ** Share This Post## Comments
 

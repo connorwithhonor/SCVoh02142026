@@ -220,7 +220,7 @@ In an era where automation and technology often outpace legislation and public u
 
 **Thank you for reading this comprehensive guide.** If you have any questions or want to schedule a consultation, visit:
 
-**[https://www.santaclaritaopenhouses.com/](https://www.santaclaritaopenhouses.com/)**
+**[https://www.santaclaritaopenhouses.com/](/)**
 
 Remember: no matter how advanced AI becomes, real estate remains a deeply personal decision that benefits from human empathy, real-world context, and skilled negotiation. Here’s to embracing 2025 with confidence, clarity, and the excitement of new beginnings. Whether you’re aiming to buy, sell, or simply stay informed, the road ahead in Santa Clarita real estate is one of endless possibility—provided you’re prepared to navigate its twists, turns, and technological leaps with diligence and curiosity.
 

@@ -95,7 +95,7 @@ A homeowner in Newhall was initially skeptical about lowering the price to attra
 *"Working with Connor was a game-changer. His deep understanding of the Santa Clarita market and innovative marketing approach not only sped up the sale of our home but also resulted in an offer that far exceeded our expectations. We couldn’t be happier with the outcome."*
 — A Satisfied Home Seller
 
-For more testimonials and success stories, visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more testimonials and success stories, visit our [Testimonials](/) page.
 
 ## 8. Take Action: Secure Your Top-Dollar Sale Today
 

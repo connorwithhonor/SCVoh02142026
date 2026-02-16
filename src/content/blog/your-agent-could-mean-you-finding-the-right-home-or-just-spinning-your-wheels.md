@@ -53,13 +53,13 @@ When it comes to crafting offers, I educate my clients on providing "good comps"
 
 As Connor MacIvor, your First Responder Realtor, I am committed to providing you with the most accurate, up-to-date, and strategic real estate guidance in Santa Clarita and Southern California. My journey from LAPD officer to Realtor, combined with my extensive knowledge of AI integration in business, means I approach every client interaction with discipline, integrity, and a proactive mindset. I understand the local market intimately and am dedicated to helping you achieve your real estate goals, whether you're buying your dream home or selling for top dollar.
 
-I also believe in holistic well-being, sharing my own journey of dropping 135 pounds of fat through intermittent fasting and fitness, and how that discipline translates into my professional life. My content reflects these passions, from real estate insights to personal development, all aimed at providing value to my community. You can find more on my fasting journey on my [Fat to Fit](https://www.santaclaritaopenhouses.com/fattofit) page and learn about AI integration in real estate on my [AI with Honor](https://www.santaclaritaopenhouses.com/aiwithhonor) page.
+I also believe in holistic well-being, sharing my own journey of dropping 135 pounds of fat through intermittent fasting and fitness, and how that discipline translates into my professional life. My content reflects these passions, from real estate insights to personal development, all aimed at providing value to my community. You can find more on my fasting journey on my Fat to Fit page and learn about AI integration in real estate on my AI with Honor page.
 
 **Conclusion:**
 
 The Santa Clarita real estate market is dynamic, and navigating it successfully requires more than just basic online searches. It demands a proactive, informed, and dedicated agent who can uncover hidden opportunities and provide honest, data-backed insights. As your First Responder Realtor, I am here to be that agent for you.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) today to begin your tailored real estate journey. Let me know how I can use my AI-powered tools and extensive local knowledge to help you achieve your real estate goals.
+Visit [SantaClaritaOpenHouses.com](/) today to begin your tailored real estate journey. Let me know how I can use my AI-powered tools and extensive local knowledge to help you achieve your real estate goals.
 
 ** Share This Post## Comments
 

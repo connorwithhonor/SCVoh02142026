@@ -64,7 +64,7 @@ They want to buy your home, I am here to sell it to them, through themselves or 
 
 I'm Connor with Honor and I will be of great service to you and yours.&nbsp;
 
-[Do you want to know what my value in real estate is? Click here and have a great day.](https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer)
+Do you want to know what my value in real estate is? Click here and have a great day.
 
 ** Share This Post## Comments
 

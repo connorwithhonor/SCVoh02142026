@@ -48,7 +48,7 @@ If your agent takes 48+ hours to return a call or text, they're either overwhelm
 
 **Red flag:** They only respond when YOU initiate contact, or they go silent for days at a time.
 
-**Why this matters in Santa Clarita:** Homes in Valencia, Saugus, and Stevenson Ranch are moving fast. If your agent is slow to respond, you'll miss out on [homes for sale in Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca) and [Saugus properties](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca) before you even get a chance to tour them.
+**Why this matters in Santa Clarita:** Homes in Valencia, Saugus, and Stevenson Ranch are moving fast. If your agent is slow to respond, you'll miss out on [homes for sale in Valencia](/) and [Saugus properties](/) before you even get a chance to tour them.
 
 ### 2. They Send You New Listings BEFORE You Find Them on Zillow
 
@@ -58,7 +58,7 @@ Your agent should be sending you properties that match your criteria every singl
 
 **Red flag:** You're the one sending THEM listings and asking, "What about this one?"
 
-**Why this matters in Santa Clarita:** Santa Clarita has [active listings](https://www.santaclaritaopenhouses.com/active-listings) that change daily. A good agent monitors the MLS in real-time and gets you access to [coming soon listings](https://www.santaclaritaopenhouses.com/comingsoon) before the competition even knows they exist.
+**Why this matters in Santa Clarita:** Santa Clarita has [active listings](/) that change daily. A good agent monitors the MLS in real-time and gets you access to coming soon listings before the competition even knows they exist.
 
 ### 3. They Give You a Clear Strategy (And Stick to It)
 
@@ -68,7 +68,7 @@ A real agent doesn't just "show you houses." They build a game plan based on you
 
 **Red flag:** They're "winging it" or can't explain why you're looking at certain neighborhoods over others.
 
-**Why this matters in Santa Clarita:** [Neighborhoods like Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca) have different price points, school districts, and HOA structures than [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca). Your agent should know which areas align with your goals and explain the trade-offs.
+**Why this matters in Santa Clarita:** [Neighborhoods like Canyon Country](/) have different price points, school districts, and HOA structures than [Stevenson Ranch](/). Your agent should know which areas align with your goals and explain the trade-offs.
 
 ### 4. They Negotiate Like Their Own Money Is on the Line
 
@@ -78,7 +78,7 @@ When you make an offer, your agent should fight for every dollar. If they're imm
 
 **Red flag:** They pressure you to "just accept" the counteroffer or tell you "this is as good as it gets" without showing proof.
 
-**Why this matters in Santa Clarita:** The difference between a weak agent and a strong negotiator can save you $10,000-$30,000 on a [Santa Clarita home purchase](https://www.santaclaritaopenhouses.com/buyers-guide). I've been through LAPD hostage negotiation training—I know how to create leverage and get sellers to move.
+**Why this matters in Santa Clarita:** The difference between a weak agent and a strong negotiator can save you $10,000-$30,000 on a Santa Clarita home purchase. I've been through LAPD hostage negotiation training—I know how to create leverage and get sellers to move.
 
 ### 5. They Show You EVERY Home That Fits Your Criteria (Not Just the Ones That Pay Them More)
 
@@ -88,7 +88,7 @@ Some agents will steer you toward listings that offer higher commissions or are 
 
 **Red flag:** They avoid showing you certain homes or say "that one's not a good fit" without a valid reason.
 
-**Why this matters in Santa Clarita:** Whether you're looking at [Castaic homes](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca), [Newhall properties](https://www.santaclaritaopenhouses.com/homes-for-sale-in-newhall-ca), or [Acton land](https://www.santaclaritaopenhouses.com/homes-for-sale-in-acton-ca), you deserve to see everything that matches your needs—not just what's convenient for your agent.
+**Why this matters in Santa Clarita:** Whether you're looking at Castaic homes, Newhall properties, or Acton land, you deserve to see everything that matches your needs—not just what's convenient for your agent.
 
 ### 6. They Warn You About Problems (Even If It Means Losing the Sale)
 
@@ -98,7 +98,7 @@ A great agent will tell you when a home has red flags—even if it means you wal
 
 **Red flag:** They downplay obvious issues or rush you through inspections to "keep the deal moving."
 
-**Why this matters in Santa Clarita:** Homes in areas like [Agua Dulce](https://www.santaclaritaopenhouses.com/homes-for-sale-in-agua-dulce-ca) may have well or septic issues. Homes in fire zones may have insurance challenges. A good agent discloses these risks upfront—not after you're in escrow.
+**Why this matters in Santa Clarita:** Homes in areas like Agua Dulce may have well or septic issues. Homes in fire zones may have insurance challenges. A good agent discloses these risks upfront—not after you're in escrow.
 
 ### 7. They Treat You Like Their Only Client (Even Though You're Not)
 
@@ -108,13 +108,13 @@ Your agent should make you feel like a priority, not an afterthought.
 
 **Red flag:** They cancel showings last-minute, show up late, or seem distracted during appointments.
 
-**Why this matters in Santa Clarita:** Real estate moves fast here. If your agent is stretched too thin, you'll lose out on [Santa Clarita open houses](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-today) and time-sensitive opportunities.
+**Why this matters in Santa Clarita:** Real estate moves fast here. If your agent is stretched too thin, you'll lose out on Santa Clarita open houses and time-sensitive opportunities.
 
 ## FAQ: Holding Your Santa Clarita Real Estate Agent Accountable
 
 ### Q: How often should my agent update me on the market?
 
-**A:** At minimum, weekly. A proactive agent will send you market updates, new listings, and strategy adjustments every 5-7 days. If the market shifts (like a sudden increase in [inventory](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) or interest rate changes), they should notify you immediately.
+**A:** At minimum, weekly. A proactive agent will send you market updates, new listings, and strategy adjustments every 5-7 days. If the market shifts (like a sudden increase in [inventory](/blog) or interest rate changes), they should notify you immediately.
 
 ### Q: What if my agent isn't returning my calls?
 
@@ -122,7 +122,7 @@ Your agent should make you feel like a priority, not an afterthought.
 
 ### Q: Can I fire my real estate agent?
 
-**A:** Yes, but it depends on your [buyer broker agreement](https://www.santaclaritaopenhouses.com/buyers-guide). Most agreements have termination clauses. Review your contract and look for language about cancellation. If your agent is breaching the contract (not communicating, not showing you homes, etc.), you have grounds to terminate. Contact their broker to escalate the issue.
+**A:** Yes, but it depends on your buyer broker agreement. Most agreements have termination clauses. Review your contract and look for language about cancellation. If your agent is breaching the contract (not communicating, not showing you homes, etc.), you have grounds to terminate. Contact their broker to escalate the issue.
 
 ### Q: What should I do if my agent is pressuring me to make an offer?
 
@@ -142,7 +142,7 @@ Your agent should make you feel like a priority, not an afterthought.
 
 ### Q: How can I verify my agent's track record in Santa Clarita?
 
-**A:** Ask for recent sales data in your target neighborhoods. Check their reviews on Google and [testimonials](https://www.santaclaritaopenhouses.com/testimonials). Request references from past clients. A legitimate agent will have no problem providing proof of their experience in [Valencia](https://www.santaclaritaopenhouses.com/valencia-market-report), [Saugus](https://www.santaclaritaopenhouses.com/saugus-market-report), and other Santa Clarita areas.
+**A:** Ask for recent sales data in your target neighborhoods. Check their reviews on Google and [testimonials](/). Request references from past clients. A legitimate agent will have no problem providing proof of their experience in Valencia, Saugus, and other Santa Clarita areas.
 
 ### Q: What's the difference between a buyer's agent and a listing agent?
 
@@ -160,7 +160,7 @@ Here's how I do it differently:
 
 ### 1. I Vet Every Agent in My Network
 
-I don't refer you to just any agent. I personally vet each realtor in my [agent network](https://www.santaclaritaopenhouses.com/about) based on:
+I don't refer you to just any agent. I personally vet each realtor in my [agent network](/) based on:
 
 If an agent doesn't meet my standards, they don't get referrals. Period.
 
@@ -170,7 +170,7 @@ Just because I refer you to an agent doesn't mean my job is done. I check in wit
 
 ### 3. I Educate Buyers on What "Good Service" Actually Looks Like
 
-Most people don't know what to expect from an agent because they've never bought a home before. I provide a [buyer's guide](https://www.santaclaritaopenhouses.com/buyers-guide) and [educational resources](https://www.santaclaritaopenhouses.com/learn) so you know exactly what your agent should be doing—and when to call them out for failing.
+Most people don't know what to expect from an agent because they've never bought a home before. I provide a buyer's guide and educational resources so you know exactly what your agent should be doing—and when to call them out for failing.
 
 ### 4. I Leverage My Law Enforcement Background to Negotiate Harder
 
@@ -214,7 +214,7 @@ Don't make the same mistake twice. This time, interview multiple agents and ask 
 
 If they can't give clear answers, keep looking.
 
-Or skip the guesswork and [schedule a consultation with me](https://www.santaclaritaopenhouses.com/contact). I'll match you with a vetted agent who meets my standards—or if you prefer, I'll represent you myself.
+Or skip the guesswork and [schedule a consultation with me](/contact). I'll match you with a vetted agent who meets my standards—or if you prefer, I'll represent you myself.
 
 ## Summary: The 7 Signs Your Agent Is Actually Working for You
 
@@ -224,9 +224,9 @@ If your agent isn't doing these things, it's time to have a conversation—or fi
 
 Real estate is the biggest financial decision most people ever make. You shouldn't have to wonder if your agent is working for you or just collecting a paycheck.
 
-In Santa Clarita, where homes in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca), [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), and [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca) are selling fast, having the right agent isn't optional—it's essential.
+In Santa Clarita, where homes in [Valencia](/), [Saugus](/), [Stevenson Ranch](/), [Canyon Country](/), and Castaic are selling fast, having the right agent isn't optional—it's essential.
 
-If you're frustrated with your current agent, or you're just starting your search and want to avoid hiring the wrong person, [reach out to me](https://www.santaclaritaopenhouses.com/contact). I've spent 20 years in law enforcement protecting people. Now I do it in real estate.
+If you're frustrated with your current agent, or you're just starting your search and want to avoid hiring the wrong person, [reach out to me](/contact). I've spent 20 years in law enforcement protecting people. Now I do it in real estate.
 
 Let's make sure your agent is actually working for you.
 
@@ -234,9 +234,9 @@ Let's make sure your agent is actually working for you.
 
 Former LAPD Officer | Santa Clarita Real Estate Advisor
 
-[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)
+[SantaClaritaOpenHouses.com](/)
 
-[Schedule a Free Consultation](https://www.santaclaritaopenhouses.com/booking)
+Schedule a Free Consultation
 
 ** Share This Post## Comments
 

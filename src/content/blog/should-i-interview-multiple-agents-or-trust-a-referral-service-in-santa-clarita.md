@@ -28,7 +28,7 @@ After 27 years in Santa Clarita real estate since 1998, I've watched thousands o
 
 The truth is, this isn't a binary choice between "interview everyone yourself" or "blindly accept someone else's recommendation." The optimal approach depends on several factors: your knowledge of real estate, your available time, the complexity of your transaction, and the quality of your referral source if you choose that route.
 
-In this comprehensive guide, I'll explain the advantages and disadvantages of each approach, when each makes most sense, what you risk with each strategy, and how to combine the best elements of both to make the smartest agent selection decision. Whether you're preparing to [sell your home in Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca) or [buy your first property in Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), understanding these selection strategies will help you find the right representation for your success.
+In this comprehensive guide, I'll explain the advantages and disadvantages of each approach, when each makes most sense, what you risk with each strategy, and how to combine the best elements of both to make the smartest agent selection decision. Whether you're preparing to [sell your home in Valencia](/) or [buy your first property in Canyon Country](/), understanding these selection strategies will help you find the right representation for your success.
 
 ## The Case for Interviewing Multiple Agents Yourself
 
@@ -182,7 +182,7 @@ This accumulated expertise allows much more accurate agent evaluation than any i
 
 **Advantage #2: Personalized Matching Based on Your Specific Needs**
 
-Quality referral services don't use one-size-fits-all approaches. When you [schedule a consultation with Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/schedule-calendar), I ask detailed questions to understand:
+Quality referral services don't use one-size-fits-all approaches. When you schedule a consultation with Santa Clarita Open Houses, I ask detailed questions to understand:
 
 **Your Transaction Specifics**:
 
@@ -284,7 +284,7 @@ The optimal strategy for many people combines elements of both approaches:
 
 **Step 1: Start With Expert Referral Consultation**
 
-Begin with a consultation from a quality referral service like [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/contact). This provides:
+Begin with a consultation from a quality referral service like [Santa Clarita Open Houses](/contact). This provides:
 
 **Step 2: Meet the Referred Agent(s)**
 
@@ -398,11 +398,11 @@ For many people, spending hours interviewing multiple agents they've discovered 
 
 The hybrid approach often works best: begin with expert consultation to identify quality agents suited for your needs, meet those recommended agents to assess personal fit, and optionally interview one or two additional agents for comparison if desired. This combines the advantages of expert guidance with the confidence that comes from personal verification.
 
-When you're ready to [buy or sell in Santa Clarita Valley](https://www.santaclaritaopenhouses.com), I invite you to [schedule a free consultation](https://www.santaclaritaopenhouses.com/schedule-calendar) to discuss your real estate goals. There's no obligation, no cost, and no pressure—just professional guidance from someone who's spent 27 years in this market learning exactly which agents excel at what.
+When you're ready to [buy or sell in Santa Clarita Valley](/), I invite you to schedule a free consultation to discuss your real estate goals. There's no obligation, no cost, and no pressure—just professional guidance from someone who's spent 27 years in this market learning exactly which agents excel at what.
 
 Whether you ultimately work with an agent I recommend, someone you discover independently, or combine both approaches, you'll benefit from the perspective our conversation provides.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) or [contact me directly](https://www.santaclaritaopenhouses.com/contact) to get started. Finding the right agent for your success is too important to leave to chance—let's ensure you make the best choice for your situation.
+Visit [SantaClaritaOpenHouses.com](/) or [contact me directly](/contact) to get started. Finding the right agent for your success is too important to leave to chance—let's ensure you make the best choice for your situation.
 
 I'm Connor with Honor, and I'm here to help you navigate agent selection with confidence.
 

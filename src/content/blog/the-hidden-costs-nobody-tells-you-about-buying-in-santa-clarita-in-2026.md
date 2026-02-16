@@ -100,7 +100,7 @@ Some Santa Clarita areas charge for water, sewer, and trash separately. Others b
 
 **Budget:** $150-$250/month depending on location
 
-**Related:** [Search by Area in Santa Clarita Valley](https://www.santaclaritaopenhouses.com/search-by-area)
+**Related:** Search by Area in Santa Clarita Valley
 
 ### Maintenance Reserve (Often Forgotten)
 
@@ -204,7 +204,7 @@ Compare APR, not just interest rate. APR includes fees and gives you the true co
 
 **How to negotiate this:**
 
-**Related:** [Understanding Seller Concessions in Real Estate](https://www.santaclaritaopenhouses.com/seller-concessions-explained-a-first-responder-realtors-guide-to-selling)
+**Related:** Understanding Seller Concessions in Real Estate
 
 ### Q: Are there neighborhoods in Santa Clarita with NO Mello-Roos?
 
@@ -264,7 +264,7 @@ Because buying a home is the biggest financial decision most people make. You de
 
 Don't go in blind. Let's have a real conversation about what you can actually afford, which neighborhoods fit your budget, and how to work with an agent who puts your financial health first.
 
-**[Schedule Your Free Consultation](https://www.santaclaritaopenhouses.com/booking)**
+**Schedule Your Free Consultation**
 
 No pressure. No commission conflicts. Just honest guidance from someone who's been in Santa Clarita real estate for 27 years and actually cares about getting you the right home at the right price.
 

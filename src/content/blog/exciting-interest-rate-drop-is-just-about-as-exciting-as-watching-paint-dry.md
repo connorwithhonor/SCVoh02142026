@@ -206,7 +206,7 @@ In summary, the evolving landscape of interest rates presents significant opport
 
 Buying real estate, selling real estate, whether you are in Santa Clarita or Los Angeles. I ensured that I have taken the proper steps to keep my clients informed and without a worry when it comes putting the proverbial pen to paper.&nbsp;
 
-I have been selling homes since 1998 and here is the "[why I am worth being your realtor" article here](https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer).
+I have been selling homes since 1998 and here is the "why I am worth being your realtor" article here.
 
 Have the best week, It's Sunday and things in the real estate landscape are moving along with some changes.
 

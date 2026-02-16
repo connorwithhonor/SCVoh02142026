@@ -124,7 +124,7 @@ VR technology allows potential buyers to explore properties remotely, providing 
 
 ### Online Listings and Marketing
 
-Comprehensive online listings with high-quality images, detailed descriptions, and interactive maps are essential for attracting modern buyers. Utilizing platforms like [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) ensures your property reaches a broad audience.
+Comprehensive online listings with high-quality images, detailed descriptions, and interactive maps are essential for attracting modern buyers. Utilizing platforms like [SantaClaritaOpenHouses.com](/) ensures your property reaches a broad audience.
 
 ### Data Analytics
 

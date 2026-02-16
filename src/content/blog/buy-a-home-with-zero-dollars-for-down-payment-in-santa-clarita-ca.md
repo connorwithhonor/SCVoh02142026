@@ -83,7 +83,7 @@ Call/Text: [661-400-1720](tel:6614001720)
 
 Email: [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
 
-Website: [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com)
+Website: [Santa Clarita Open Houses](/)
 
 ### Tim Slominsky – Mortgage Lender
 
@@ -179,7 +179,7 @@ Call/Text: [661-400-1720](tel:6614001720)
 
 Email: [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
 
-Website: [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com)
+Website: [Santa Clarita Open Houses](/)
 
 ### Tim Slominsky – Mortgage Lender
 
@@ -265,7 +265,7 @@ Call/Text: [661-400-1720](tel:6614001720)
 
 Email: [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
 
-Website: [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com)
+Website: [Santa Clarita Open Houses](/)
 
 ### Tim Slominsky – Mortgage Lender
 
@@ -349,7 +349,7 @@ Call/Text: [661-400-1720](tel:6614001720)
 
 Email: [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
 
-Website: [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com)
+Website: [Santa Clarita Open Houses](/)
 
 ### Tim Slominsky – Mortgage Lender
 

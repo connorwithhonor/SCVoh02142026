@@ -72,7 +72,7 @@ Signing a Buyer Broker Agreement is a significant step in your home-buying journ
 
 ### **Visit Us at SantaClaritaOpenHouses.com**
 
-For more expert advice and resources on buying and selling homes, visit us at [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). Our team is dedicated to providing you with the best real estate experience in Santa Clarita and the surrounding areas.
+For more expert advice and resources on buying and selling homes, visit us at [SantaClaritaOpenHouses.com](/). Our team is dedicated to providing you with the best real estate experience in Santa Clarita and the surrounding areas.
 
 ** Share This Post## Comments
 

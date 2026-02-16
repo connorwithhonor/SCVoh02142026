@@ -46,7 +46,7 @@ When multiple offers come in, it’s essential to assess them holistically. Inst
 
 ### Key Factors to Compare:
 
-For additional guidance, explore our [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) page to understand how similar properties have performed in your area.
+For additional guidance, explore our [Free Market Analysis](/contact) page to understand how similar properties have performed in your area.
 
 ## 5. Expert Negotiation Tactics to Secure the Best Deal
 
@@ -54,7 +54,7 @@ Handling multiple offers successfully requires expert negotiation skills. With m
 
 ### Negotiation Strategies:
 
-For further insights into negotiation techniques, check out our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
+For further insights into negotiation techniques, check out our [Market Report](/blog).
 
 ## 6. Real Success Stories: How Multiple Offers Delivered Outstanding Results
 
@@ -69,7 +69,7 @@ A homeowner in Newhall received several offers within days of listing. Through s
 *"Connor’s expertise turned what I thought was a typical sale into a bidding war that resulted in a much higher sale price. His negotiation skills and market insights made all the difference."*
 — A Satisfied Home Seller
 
-For more inspiring testimonials, please visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more inspiring testimonials, please visit our [Testimonials](/) page.
 
 ## 7. Your Next Step: Partner with a Proven Expert
 

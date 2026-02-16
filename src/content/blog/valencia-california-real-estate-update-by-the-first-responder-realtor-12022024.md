@@ -78,7 +78,7 @@ As your First Responder Realtor, I bring a unique perspective to real estate. My
 
 ### **Explore More with Santa Clarita Open Houses**
 
-My website, [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com), is your go-to resource for real estate in Valencia and beyond. Updated minute-by-minute, it features:
+My website, [Santa Clarita Open Houses](/), is your go-to resource for real estate in Valencia and beyond. Updated minute-by-minute, it features:
 
 ### **Your Next Steps**
 

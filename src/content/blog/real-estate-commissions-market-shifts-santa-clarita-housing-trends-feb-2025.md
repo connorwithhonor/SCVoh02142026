@@ -55,7 +55,7 @@ If you’re looking for homes in Santa Clarita, explore these listings:
 
 Before listing your home, know its true market value. Get a **free home evaluation** today:
 
-[Get Your Free Home Value Report](https://www.santaclaritaopenhouses.com/free-market-analysis)
+[Get Your Free Home Value Report](/contact)
 
 ## What’s Next?
 
@@ -103,7 +103,7 @@ For example, here’s what a true expert does to maximize exposure:
 
 Looking to sell your home? Get a **free home evaluation** today:
 
-[Get Your Free Home Value Report](https://www.santaclaritaopenhouses.com/free-market-analysis)
+[Get Your Free Home Value Report](/contact)
 
 ## The Danger of “Discount Agents” &amp; DIY Real Estate
 
@@ -179,7 +179,7 @@ A skilled negotiator can add **$10,000-$50,000** to a seller’s bottom line. Fu
 
 Before you hire a discount agent, get a real market analysis to understand what your home is truly worth:
 
-[Get Your Free Home Value Report](https://www.santaclaritaopenhouses.com/free-market-analysis)
+[Get Your Free Home Value Report](/contact)
 
 ## Search Homes for Sale in Santa Clarita
 
@@ -253,7 +253,7 @@ Sellers who offer **interest rate buy-downs or closing cost credits** can attrac
 
 **Thinking about selling?** Get a free home valuation:
 
-[Get Your Free Home Value Report](https://www.santaclaritaopenhouses.com/free-market-analysis)
+[Get Your Free Home Value Report](/contact)
 
 ## Final Thoughts: Act Before the Market Shifts
 

@@ -24,7 +24,7 @@ Welcome to today’s detailed update on the Santa Clarita real estate market! Th
 
 As of today, there are **444 active listings** across all Santa Clarita Valley cities. This total includes a mix of condominiums, townhomes, and single-family residences—everything that falls under the residential category. Compared to last week, the market has seen a significant uptick in activity with **59 new listings** posted in the past seven days. Additionally, there are **18 "coming soon" listings** currently in process.
 
-To access these exclusive coming soon properties, you’ll need to have a trusted real estate professional on your side. Your agent can provide detailed insights and access to properties before they officially hit the market. Learn more about finding the perfect agent by visiting [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com).
+To access these exclusive coming soon properties, you’ll need to have a trusted real estate professional on your side. Your agent can provide detailed insights and access to properties before they officially hit the market. Learn more about finding the perfect agent by visiting [SantaClaritaOpenHouses.com](/).
 
 #### Lending Trends: A Calm Market
 
@@ -44,7 +44,7 @@ If you’re thinking about selling your home, my **100-point marketing plan** is
 
 Southern California has seen devastating fires over the past year, and the real estate market is feeling the effects. Many homeowners are facing challenges with insurance claims, as policies are often falling short of covering the full value of their homes. These issues could lead to shifts in the market as regulations evolve to address these gaps.
 
-If you’re a buyer, understanding how these changes could impact your investment is critical. Sellers, too, should be aware of how insurance trends might influence their home’s marketability. For the latest updates and guidance, reach out at **661.400.1720** or visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com).
+If you’re a buyer, understanding how these changes could impact your investment is critical. Sellers, too, should be aware of how insurance trends might influence their home’s marketability. For the latest updates and guidance, reach out at **661.400.1720** or visit [SantaClaritaOpenHouses.com](/).
 
 #### Tech Industry Professionals Are Moving to Santa Clarita
 
@@ -56,7 +56,7 @@ When evaluating properties, it’s a good idea to check the available internet o
 
 For buyers, having the right lender can make or break your real estate journey. While there are many lenders to choose from, not all of them prioritize your needs. A great lender will focus on serving and protecting you, ensuring the loan process is smooth and tailored to your financial goals. If you’re unsure where to start, let me refer you to a trusted professional.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) for additional resources or call me at **661.400.1720** for a personal consultation.
+Visit [SantaClaritaOpenHouses.com](/) for additional resources or call me at **661.400.1720** for a personal consultation.
 
 #### The Future of Santa Clarita Real Estate
 
@@ -94,7 +94,7 @@ When it comes to Santa Clarita real estate, understanding home values is key to 
 
 Santa Clarita\u2019s diverse neighborhoods offer opportunities for every type of buyer and seller. Whether you\u2019re aiming for the high-end market in Tesoro de Valle or looking for a hidden gem in Val Verde, understanding the nuances of each area is essential.
 
-For personalized guidance on your real estate journey, contact me at **661.400.1720** or email [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com). Stay updated with the latest listings and trends by visiting [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com).
+For personalized guidance on your real estate journey, contact me at **661.400.1720** or email [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com). Stay updated with the latest listings and trends by visiting [SantaClaritaOpenHouses.com](/).
 
 **Connor with Honor**
 

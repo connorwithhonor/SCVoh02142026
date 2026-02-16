@@ -68,7 +68,7 @@ They hesitated. "Um... I'd have to check."
 
 **I didn't refer that agent.**
 
-Learn more about [how to spot dishonest real estate agents in Santa Clarita](https://www.santaclaritaopenhouses.com/red-flags-dishonest-real-estate-agents-santa-clarita/).
+Learn more about how to spot dishonest real estate agents in Santa Clarita.
 
 ### **Skill 2: Assessing Performance Under Pressure**
 
@@ -100,7 +100,7 @@ I asked an agent about a deal that fell apart. She said:
 
 **That agent is in my referral network.**
 
-Want to know how top agents handle tough negotiations? Read about [Santa Clarita real estate negotiation strategies](https://www.santaclaritaopenhouses.com/how-to-win-bidding-wars-in-santa-clarita-without-overpaying/).
+Want to know how top agents handle tough negotiations? Read about Santa Clarita real estate negotiation strategies.
 
 ### **Skill 3: Verifying Credibility**
 
@@ -170,7 +170,7 @@ A bad real estate agent isn't just "annoying." They create **real financial and 
 
 **That's why I'm ruthless about vetting agents.** I'm not referring you to someone who might cost you $50,000 because they were careless, dishonest, or incompetent.
 
-Learn about [the real cost of bad real estate agents in Santa Clarita](https://www.santaclaritaopenhouses.com/the-real-cost-of-choosing-the-wrong-real-estate-agent-in-scv/).
+Learn about the real cost of bad real estate agents in Santa Clarita.
 
 ## **How LAPD Background Protects You From the Three Most Common Agent Problems**
 
@@ -228,7 +228,7 @@ One agent in my network uses AI voice systems. If you call at 9 PM on Saturday, 
 
 **That's modern responsiveness.**
 
-Want to learn how AI improves agent communication? Read [how Santa Clarita agents use AI to serve clients better](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/).
+Want to learn how AI improves agent communication? Read how Santa Clarita agents use AI to serve clients better.
 
 ### **Problem 3: The Conflict-Avoider**
 
@@ -294,7 +294,7 @@ In Santa Clarita, people don't just buy a house and leave. They:
 
 **That's who I refer.**
 
-Explore [Santa Clarita neighborhoods](https://www.santaclaritaopenhouses.com/santa-clarita-neighborhoods/) to see where you might want to plant roots.
+Explore Santa Clarita neighborhoods to see where you might want to plant roots.
 
 ## **The Questions I Ask That Reveal an Agent's True Character**
 
@@ -436,7 +436,7 @@ When your agent uses Honor Elevate:
 
 **Translation:** AI doesn't replace the human relationship—it enhances it.
 
-Learn more about [how AI transforms Santa Clarita real estate](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/).
+Learn more about how AI transforms Santa Clarita real estate.
 
 ## **Common Questions About LAPD-Vetted Referrals**
 
@@ -458,7 +458,7 @@ If you're buying/selling in Burbank, Glendale, Pasadena, San Fernando Valley, or
 
 ### **"How do I know your vetting process actually works?"**
 
-Ask the clients I've referred. [Contact me](https://www.santaclaritaopenhouses.com/contact/) and I'll connect you with past referrals who can share their experience.
+Ask the clients I've referred. Contact me and I'll connect you with past referrals who can share their experience.
 
 ## **Summary: Why Law Enforcement Experience Creates Better Real Estate Referrals**
 
@@ -482,7 +482,7 @@ When you get a referral from me, you're not getting a random Zillow match or an 
 
 Ready to work with a vetted professional?
 
-[Let's talk](https://www.santaclaritaopenhouses.com/contact/).
+Let's talk.
 
 ** Share This Post## Comments
 

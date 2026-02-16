@@ -40,7 +40,7 @@ More homebuyers are starting their property searches online, using large portals
 
 **Con:**
 
-If you’re selling, also look at the **[Seller’s Guide](https://www.santaclaritaopenhouses.com/sellers-guide)** on the website for more detailed advice.
+If you’re selling, also look at the **Seller’s Guide** on the website for more detailed advice.
 
 ### 4. Implications for Buyers
 
@@ -48,7 +48,7 @@ If you’re selling, also look at the **[Seller’s Guide](https://www.santaclar
 
 **Con:**
 
-If you’re shopping for a home, try the **[Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search)** feature to refine by price, beds, baths, or even amenities like pools or golf-course views.
+If you’re shopping for a home, try the **[Advanced Search](/)** feature to refine by price, beds, baths, or even amenities like pools or golf-course views.
 
 ### 5. Local Santa Clarita Resources
 
@@ -66,11 +66,11 @@ If you’re shopping for a home, try the **[Advanced Search](https://www.santacl
 
 Real estate commissions are evolving. Some sellers no longer cover the buyer-agent commission, shifting costs to the buyer. For 2025, this means:
 
-Learn more by reading specialized content like **[Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules](https://www.santaclaritaopenhouses.com/hiring-the-right-santa-clarita-real-estate-agent-under-the-new-commission-rules)**.
+Learn more by reading specialized content like **Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules**.
 
 ### 9. Navigating Mortgage Options
 
-Mortgage rates can swing up or down, impacting your budget significantly. Tools like the site’s **[Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates)** page and **[Get Pre-Approved](https://www.santaclaritaopenhouses.com/get-pre-approved)** resource help you shop around. Consider:
+Mortgage rates can swing up or down, impacting your budget significantly. Tools like the site’s **[Mortgage Rates](/blog)** page and **Get Pre-Approved** resource help you shop around. Consider:
 
 ### 10. Frequently Asked Questions
 

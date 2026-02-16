@@ -72,7 +72,7 @@ Call or text: 661.400.1720
 
 Email: Connor@santaclaritaopenhouses.com
 
-Visit: [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)
+Visit: [SantaClaritaOpenHouses.com](/)
 
 ### **Closing Thoughts**
 

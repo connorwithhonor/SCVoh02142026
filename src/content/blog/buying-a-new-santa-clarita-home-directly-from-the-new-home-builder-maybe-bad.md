@@ -50,13 +50,13 @@ Let’s unravel the typical hidden costs that often slip under a buyer’s radar
 
 Then there are **HOA fees**. While these aren’t exclusive to new homes, builders often create robust community features—clubhouses, pools, well-manicured walking trails—that come with monthly dues. Sometimes a new community that looks like single-family homes is actually classified as detached condos, which also come with HOAs, plus some financing quirks.
 
-**Action Step:** Before you fall in love with that perfect new-home model, get a breakdown of the Mello-Roos, property tax percentage, and HOA fees for the community. You can also check out the local neighborhoods and their tax rates by visiting [Santa Clarita Homes For Sale](https://www.santaclaritaopenhouses.com/santa-clarita-homes) to see different property types and their associated costs.
+**Action Step:** Before you fall in love with that perfect new-home model, get a breakdown of the Mello-Roos, property tax percentage, and HOA fees for the community. You can also check out the local neighborhoods and their tax rates by visiting Santa Clarita Homes For Sale to see different property types and their associated costs.
 
 ### 2.2 Builder Incentives: Are They Really Good Deals?
 
 The builder might say, “We’ll give you $20,000 toward closing costs if you use our preferred lender!” Hey, it sounds like free money, right? But guess what? Builders often tie these incentives to an in-house or preferred lender. It might be a good deal if the terms are competitive. Or it might not be, if that lender’s interest rate or fees offset the so-called “free” money.
 
-**Reality Check:** Incentives can reduce your out-of-pocket expenses, but they sometimes limit your freedom to shop around for better mortgage rates. For a better sense of where rates are at, do a quick comparison by checking this page: [Mortgage Rates in Santa Clarita](https://www.santaclaritaopenhouses.com/mortgage-rates). That way, you’ll know if the builder’s lender is in line with the market—or if you’re being sold a higher rate with sparkly marketing.
+**Reality Check:** Incentives can reduce your out-of-pocket expenses, but they sometimes limit your freedom to shop around for better mortgage rates. For a better sense of where rates are at, do a quick comparison by checking this page: [Mortgage Rates in Santa Clarita](/blog). That way, you’ll know if the builder’s lender is in line with the market—or if you’re being sold a higher rate with sparkly marketing.
 
 ### 2.3 Budgeting for the Unknown
 
@@ -84,7 +84,7 @@ The **builder’s sales rep** is typically a lovely human being, but they repres
 
 A good agent will:
 
-Wondering how to find the best agent for your needs? You can read more about how I operate as a [First Responder Realtor here](https://www.santaclaritaopenhouses.com/about) (I proudly served in law enforcement, so trust me, I know how crucial it is to have a protector in your corner). Also, feel free to reach out for a chat anytime at
+Wondering how to find the best agent for your needs? You can read more about how I operate as a [First Responder Realtor here](/) (I proudly served in law enforcement, so trust me, I know how crucial it is to have a protector in your corner). Also, feel free to reach out for a chat anytime at
 
 **Phone/Text**: 661.400.1720
 
@@ -96,7 +96,7 @@ I’m a father at heart, who’s walked many miles around this world—literally
 
 Builders often have a design center loaded with optional upgrades, from fancy countertops to top-of-the-line flooring. Depending on the market, you might have some leeway to ask for certain upgrades to be included at no additional cost—or to request a closing cost credit. This is a key area where your agent can help.
 
-By the way, if you want to see how different property types in Santa Clarita stack up in price and style (including new construction), have a look at the [Quick Search](https://www.santaclaritaopenhouses.com/quick-search) or the [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search). Doing a quick reconnaissance on the area’s resale homes can give you leverage when talking upgrades with a builder.
+By the way, if you want to see how different property types in Santa Clarita stack up in price and style (including new construction), have a look at the Quick Search or the [Advanced Search](/). Doing a quick reconnaissance on the area’s resale homes can give you leverage when talking upgrades with a builder.
 
 ## 4. Concern #3: Customization Pitfalls
 
@@ -122,7 +122,7 @@ Sometimes buyers assume that not having an agent will reduce the home’s price 
 
 If you’re even *thinking* about new construction, **bring an agent on your very first visit** or let the builder know you have an agent. Otherwise, they might deny your agent the right to represent you, leaving you with no advocate.
 
-Have more questions about representation and commissions? I break it down in detail on my [Blog](https://www.santaclaritaopenhouses.com/blog).
+Have more questions about representation and commissions? I break it down in detail on my [Blog](/blog).
 
 ## 6. Key Takeaways for a Smooth New-Home Purchase
 
@@ -130,11 +130,11 @@ Have more questions about representation and commissions? I break it down in det
 
 I wear a couple of hats, friend. I’ve been a first responder, a police officer, and now I proudly serve as a Realtor, dedicated to the good folks of Santa Clarita. I’ve seen how important it is to trust and to verify. When I say I want to protect you, I mean it in the truest sense—like a father who wants only the best for his child. My entire approach is about safeguarding your interests, just like I used to safeguard the community in uniform.
 
-If you want to chat with me directly, maybe test out a bit of fatherly sarcasm and see if we’re a good fit, I’m always a phone call or text away: 661.400.1720. Or email me at connor@santaclaritaopenhouses.com. Or simply [Contact Me Here](https://www.santaclaritaopenhouses.com/contact).
+If you want to chat with me directly, maybe test out a bit of fatherly sarcasm and see if we’re a good fit, I’m always a phone call or text away: 661.400.1720. Or email me at connor@santaclaritaopenhouses.com. Or simply [Contact Me Here](/contact).
 
 ## 8. Additional Resources for Santa Clarita Homebuyers
 
-Also, if you love hearing real stories and experiences, my [Testimonials Page](https://www.santaclaritaopenhouses.com/testimonials) is where you can read about how I’ve helped others navigate this sometimes tricky path.
+Also, if you love hearing real stories and experiences, my [Testimonials Page](/) is where you can read about how I’ve helped others navigate this sometimes tricky path.
 
 ## 9. Conclusion: Your Next Steps Toward a Successful Purchase
 
@@ -148,7 +148,7 @@ Feel free to watch the full video breakdown I put together:
 
 **[Video Link: https://youtu.be/8xuu1hm_lOM](https://youtu.be/8xuu1hm_lOM)**
 
-If you have any lingering questions, don’t hesitate to [reach out](https://www.santaclaritaopenhouses.com/contact). I’m Connor with Honor, your First Responder Realtor, dedicated to “Saving the world one honest real estate sale at a time.”
+If you have any lingering questions, don’t hesitate to [reach out](/contact). I’m Connor with Honor, your First Responder Realtor, dedicated to “Saving the world one honest real estate sale at a time.”
 
 **Contact Details:**
 

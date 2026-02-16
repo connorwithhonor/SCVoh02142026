@@ -28,7 +28,7 @@ Cash buyers or companies advertising “We Buy Houses” typically purchase prop
 
 **Cons of Cash Offers:**
 
-For more market insights, check our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) to see how current trends might impact your sale.
+For more market insights, check our [Market Report](/blog) to see how current trends might impact your sale.
 
 ## 2. The Realtor Advantage in Santa Clarita
 
@@ -42,7 +42,7 @@ Listing your home with a seasoned realtor like *Connor with Honor, the First Res
 
 In Santa Clarita, local market nuances—such as neighborhood trends, buyer demographics, and seasonal variations—play a significant role in determining your home’s value. By partnering with a realtor who has deep roots in the community, you can ensure your property is positioned perfectly to attract competitive offers.
 
-For more about my approach, visit the [About](https://www.santaclaritaopenhouses.com/about) page.
+For more about my approach, visit the [About](/) page.
 
 ## 3. Comparing the Two Approaches: Cash Offers vs. Realtor Listings
 
@@ -81,7 +81,7 @@ A homeowner in Newhall received multiple offers after listing their home. Throug
 *"Working with Connor was a game-changer. His expertise not only brought in multiple competitive offers but also ensured that we got the best possible deal for our home. We highly recommend his approach to anyone looking to sell in Santa Clarita."*
 — Satisfied Seller
 
-For more testimonials, visit our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page.
+For more testimonials, visit our [Testimonials](/) page.
 
 ## 6. Take Action: Get Your Free Home Value Analysis Today
 

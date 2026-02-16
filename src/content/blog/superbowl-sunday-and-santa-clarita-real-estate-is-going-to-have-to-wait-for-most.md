@@ -62,7 +62,7 @@ For a deeper dive into the current state of the market, tune in to the latest po
 
 For the latest homes available in Santa Clarita, visit our property listings:
 
-[Santa Clarita Homes with Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca)
+Santa Clarita Homes with Open Houses
 
 ## Get Expert Guidance on Buying or Selling
 

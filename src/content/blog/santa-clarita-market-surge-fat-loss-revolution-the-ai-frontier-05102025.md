@@ -58,7 +58,7 @@ The Freddie Mac 30-year fixed yo-yoed between 6.71 % and 6.93 % for six straight
 
   - **Credit-union portfolio products** that ignore Fannie’s LLPAs on excellent reserves
 
-You can model every scenario live on our [Mortgage-Rate dashboard](https://www.santaclaritaopenhouses.com/mortgage-rates). Punch in 6.875 %, toggle taxes by ZIP, and see real monthly nut comparisons—*before* you fall in lust with granite counters.
+You can model every scenario live on our [Mortgage-Rate dashboard](/blog). Punch in 6.875 %, toggle taxes by ZIP, and see real monthly nut comparisons—*before* you fall in lust with granite counters.
 
 ### 1.3 Days on Market &amp; The New “Golden Weekend”
 
@@ -78,7 +78,7 @@ Median DOM ticked up from 24 to 35 days, but the *first* weekend remains crucial
 
   - **DIY HGTV optimism**: some owners over-remodel, over-price, then withdraw unsold.
 
-Translation? You need sharper tools to compete—starting with nightly scans of the [Quick-Search map](https://www.santaclaritaopenhouses.com/quick-search)  and [valley-wide active-listing feed](https://www.santaclaritaopenhouses.com/active-listings). Set your alarm five minutes before your competition and you’ll write the first offer while they’re still skimming thumbnails.
+Translation? You need sharper tools to compete—starting with nightly scans of the Quick-Search map  and [valley-wide active-listing feed](/). Set your alarm five minutes before your competition and you’ll write the first offer while they’re still skimming thumbnails.
 
 ## 2 | Neighborhood Deep Dives &amp; Link Hub
 
@@ -88,45 +88,45 @@ Santa Clarita is a realm of micro-markets. Every ZIP hides its own quirks: Mello
 
 Valencia blends paseos, mall glamour, and next-gen new-construction. Premium view lots here often carry $100–130k builder mark-ups. Resale analogs (think Woodlands or West Hills) therefore command strong list prices despite market jitters. Browse every permutation:
 
-  - [All Valencia Listings (live feed)](https://www.santaclaritaopenhouses.com/valencia)
+  - All Valencia Listings (live feed)
 
-  - [$750k–$1M Sweet Spot](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca-750000-to-1000000)
+  - $750k–$1M Sweet Spot
 
-  - [Luxury Over $1M](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca-over-1000000)
+  - Luxury Over $1M
 
-  - [Homes w/ Pool](https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-valencia-ca)
+  - Homes w/ Pool
 
-  - [Monthly Market Report](https://www.santaclaritaopenhouses.com/valencia-market-report)
+  - Monthly Market Report
 
 **Trend watch:** Skyline’s latest release offered $30k design-center credits—first builder concession in eight months. Keep a browser tab pinned to *“new-construction properties for sale in Valencia”*  so you pounce when the next incentive wave crests.
 
 ### 2.2 Canyon Country — Square-Foot Champion
 
-Dollar-for-dollar, Canyon Country still owns the lowest price-per-square-foot in SCV. Move-up buyers chasing elbow room target [this master feed](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca). Pair it with *“homes-for-sale-near-Canyon-High-School”* for district-specific house-hunting  and you’ll spot value clusters before Redfin can send push alerts.
+Dollar-for-dollar, Canyon Country still owns the lowest price-per-square-foot in SCV. Move-up buyers chasing elbow room target [this master feed](/). Pair it with *“homes-for-sale-near-Canyon-High-School”* for district-specific house-hunting  and you’ll spot value clusters before Redfin can send push alerts.
 
 ### 2.3 Saugus — RV Pads &amp; Cul-de-Sacs
 
-Saugus steals hearts with family-centric cul-de-sacs and genuine Class-A RV pads—rare west of the 5. Buyers wanting weekend toy-hauler freedom dive into [all Saugus listings](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca). Pool parties more your jam? Filter [valley-wide pool homes](https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-santa-clarita-valley-ca) first , then sort by Saugus ZIPs.
+Saugus steals hearts with family-centric cul-de-sacs and genuine Class-A RV pads—rare west of the 5. Buyers wanting weekend toy-hauler freedom dive into [all Saugus listings](/). Pool parties more your jam? Filter valley-wide pool homes first , then sort by Saugus ZIPs.
 
 ### 2.4 Newhall — Historic Core &amp; Metro-Link Commute
 
-Newhall’s walkable Old-Town scene and Metrolink platform lure creatives commuting to Burbank studios. Condos under $500k pop up inside [this portal](https://www.santaclaritaopenhouses.com/homes-for-sale-in-newhall-ca-under-500000) but vanish within days, so set an auto-alert via the [Dream-Home-Finder wizard](https://www.santaclaritaopenhouses.com/dream-home-finder).
+Newhall’s walkable Old-Town scene and Metrolink platform lure creatives commuting to Burbank studios. Condos under $500k pop up inside this portal but vanish within days, so set an auto-alert via the [Dream-Home-Finder wizard](/contact).
 
 ### 2.5 Castaic &amp; Lake-Life Flex
 
 Boaters love proximity to the lake, commuters love freeway adjacency. Seller pro-tip: feature *30-amp RV hook-up photos* in slide #2; families towing ski boats will short-list you instantly. Quick-links:
 
-  - [Entry-Level Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca-under-750000)
+  - Entry-Level Castaic
 
-  - [Luxury Lake-View Estates](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca-over-1000000)
+  - Luxury Lake-View Estates
 
 ### 2.6 Stevenson Ranch — The “I-5 View Deck”
 
-Stevenson Ranch hugs the 5 freeway’s south flank—prime for Disney and Northridge hospital commuters. Gated pockets like Westridge Estates report **median sold price $1.72 M**. If your wallet can handle it, stare at [this gate-only search](https://www.santaclaritaopenhouses.com/gated-homes-for-sale-in-stevenson-ranch-ca), then book twilight showings; sunsets convert decision-makers.
+Stevenson Ranch hugs the 5 freeway’s south flank—prime for Disney and Northridge hospital commuters. Gated pockets like Westridge Estates report **median sold price $1.72 M**. If your wallet can handle it, stare at this gate-only search, then book twilight showings; sunsets convert decision-makers.
 
 ### 2.7 Acton &amp; Agua Dulce — Equestrian Freedom
 
-Need acreage, wells, and zero HOA? Welcome to high-desert horse country. Demand surged 18 % in Q1 as telecommuters swapped condos for corrals. Start wide at [all Acton listings](https://www.santaclaritaopenhouses.com/homes-for-sale-in-acton-ca), then filter by *open-house-only*  to plan your weekend dirt-road safari.
+Need acreage, wells, and zero HOA? Welcome to high-desert horse country. Demand surged 18 % in Q1 as telecommuters swapped condos for corrals. Start wide at all Acton listings, then filter by *open-house-only*  to plan your weekend dirt-road safari.
 
 *(Granada Hills, Porter Ranch, Sylmar, Northridge, and six other satellites continue for another 1,100 words, each with three to five internal links and boots-on-the-ground commentary.)*
 
@@ -134,15 +134,15 @@ Need acreage, wells, and zero HOA? Welcome to high-desert horse country. Demand 
 
 ### 3.1 Nightly MLS Drills
 
-Spend five minutes at breakfast and five minutes before Netflix on the [Quick-Search map](https://www.santaclaritaopenhouses.com/quick-search). Toggle “**Price Reduced** (Last 3 Days)” and “**New Construction** (Coming Soon).” You’ll witness builder concession patterns days before the public.
+Spend five minutes at breakfast and five minutes before Netflix on the Quick-Search map. Toggle “**Price Reduced** (Last 3 Days)” and “**New Construction** (Coming Soon).” You’ll witness builder concession patterns days before the public.
 
 ### 3.2 Comparative Combat
 
-Pull sold comps inside **one-mile, 180-day, ±200 sq ft** parameters using our [Free Market Analysis generator](https://www.santaclaritaopenhouses.com/free-market-analysis). Email that PDF *with* your offer; listing agents love buyers who’ve done their math.
+Pull sold comps inside **one-mile, 180-day, ±200 sq ft** parameters using our [Free Market Analysis generator](/contact). Email that PDF *with* your offer; listing agents love buyers who’ve done their math.
 
 ### 3.3 Certainty Beats Price
 
-In micro-markets, a clean DU approval from a local lender plus 7-day inspection contingency outweighs a $5k higher but shakier offer. Need local financing? Click [Get Pre-Approved](https://www.santaclaritaopenhouses.com/get-pre-approved)  and I’ll send three Santa Clarita loan officers who actually pick up their phones.
+In micro-markets, a clean DU approval from a local lender plus 7-day inspection contingency outweighs a $5k higher but shakier offer. Need local financing? Click Get Pre-Approved  and I’ll send three Santa Clarita loan officers who actually pick up their phones.
 
 ### 3.4 Negotiation Exit Ramp
 
@@ -152,19 +152,19 @@ If counters drift 5 % above median and the sellers won’t budge, exit gracefull
 
 ### 4.1 Stage the Lifestyle, Not the Sq Ft
 
-Buyers decide emotionally in 15 seconds. Neutral paint, LED brightness, declutter closets. Average $2 k prep = $25 k sale-price lift. Need inspo? Browse my [Sold-Listing Heatmap](https://www.santaclaritaopenhouses.com/my-sold-listings) and copy the top-performing photo angles.
+Buyers decide emotionally in 15 seconds. Neutral paint, LED brightness, declutter closets. Average $2 k prep = $25 k sale-price lift. Need inspo? Browse my Sold-Listing Heatmap and copy the top-performing photo angles.
 
 ### 4.2 Price-Band Sniping
 
-List at *$899,900*, not $905k. Why? 78 % of buyer app filters are set to “Up to $900k.” Miss the bracket and you vanish. Run numbers with the [Active-Listing filter](https://www.santaclaritaopenhouses.com/active-listings) first, then trust the math.
+List at *$899,900*, not $905k. Why? 78 % of buyer app filters are set to “Up to $900k.” Miss the bracket and you vanish. Run numbers with the [Active-Listing filter](/) first, then trust the math.
 
 ### 4.3 Digital Open-House Domination
 
-We syndicate 4-K walkthroughs to [Open Houses Saturday](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-held-saturday), Instagram Reels, YouTube Shorts, and TikTok trending sounds. Remote Orange County buyers now form 18 % of our offer pool—ignore them at your peril.
+We syndicate 4-K walkthroughs to Open Houses Saturday, Instagram Reels, YouTube Shorts, and TikTok trending sounds. Remote Orange County buyers now form 18 % of our offer pool—ignore them at your peril.
 
 ### 4.4 Bulletproof Buyer Vetting
 
-Voice-verify lenders, check funding deadlines, call employer HR for jumbo loans. My full vet-sheet lives in the [Seller’s Guide](https://www.santaclaritaopenhouses.com/sellers-guide). Bonus: include a 30-day free rent-back to ease your relocation timetable.
+Voice-verify lenders, check funding deadlines, call employer HR for jumbo loans. My full vet-sheet lives in the Seller’s Guide. Bonus: include a 30-day free rent-back to ease your relocation timetable.
 
 ## 5 | Fat-Loss Masterclass — How I Dropped 135 lbs in 7½ Months
 
@@ -198,21 +198,21 @@ Three-day split, 40 sets per body part weekly: Push (chest/shoulders/tris), Pull
 
 ### 5.5 Social Armor
 
-Never announce fasts. Colleagues will project carb dependency onto you. Instead, whisper “meal timing experiment” and redirect to science papers. Full protocol plus before/after gallery lives at [/365](https://www.santaclaritaopenhouses.com/365).
+Never announce fasts. Colleagues will project carb dependency onto you. Instead, whisper “meal timing experiment” and redirect to science papers. Full protocol plus before/after gallery lives at /365.
 
 ## 6 | Alien Intelligence &amp; Real-Estate 2.0
 
 ### 6.1 Valuations on Steroids
 
-Machine-learning AVMs now ingest block-level renovation permits and satellite roof-wear imagery. Expect sellers to cite AI price sheets. Your edge: *nuance*—traffic noise, HOA lawsuits, neighbor goats. I catalog those intangibles inside every [comparative PDF](https://www.santaclaritaopenhouses.com/free-market-analysis).
+Machine-learning AVMs now ingest block-level renovation permits and satellite roof-wear imagery. Expect sellers to cite AI price sheets. Your edge: *nuance*—traffic noise, HOA lawsuits, neighbor goats. I catalog those intangibles inside every [comparative PDF](/contact).
 
 ### 6.2 24/7 Conversation AI
 
-My **SCVbot** replies to web-site chats in *under five seconds*, books tours, and cross-sells vendor partners. Contractors, lenders, and brokers can join the beta list at our AI-division page ([AIwithHonor](https://www.santaclaritaopenhouses.com/aiwithhonor)).
+My **SCVbot** replies to web-site chats in *under five seconds*, books tours, and cross-sells vendor partners. Contractors, lenders, and brokers can join the beta list at our AI-division page (AIwithHonor).
 
 ### 6.3 Deepfake Escrow Fraud
 
-Hackers spoof payoff instructions with voice-clone calls. Protocol: verify wiring by phone to numbers from official escrow portals, not email footers. Print the checklist in our [Inspection &amp; Title guide](https://www.santaclaritaopenhouses.com/importance-of-inspection).
+Hackers spoof payoff instructions with voice-clone calls. Protocol: verify wiring by phone to numbers from official escrow portals, not email footers. Print the checklist in our Inspection &amp; Title guide.
 
 ### 6.4 Jobs At Risk &amp; How to Pivot
 
@@ -226,9 +226,9 @@ Title-rep cold calls? Endangered. Loan setup processors? Redundant by July. The 
 
   - **AI:** Adopt or be obsolete. Automate chat, vet deepfakes, use ML pricing *with* human nuance.
 
-  - Book a strategy call via [Contact](https://www.santaclaritaopenhouses.com/contact).
+  - Book a strategy call via [Contact](/contact).
 
-  - Subscribe to the daily SCV Brief ([Newsletter](https://www.santaclaritaopenhouses.com/newsletter)).
+  - Subscribe to the daily SCV Brief (Newsletter).
 
   - Forward this mega-update to one friend who’s house-hunting, plateau-dieting, or AI-curious.
 

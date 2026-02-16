@@ -140,7 +140,7 @@ Let's get tactical. Here's your day-by-day playbook for a mid-January listing th
 
 ### December 23-27, 2025: Post-Holiday Prep Week
 
-**Day 1 (Dec 23):** Interview agents. Not just any agent—talk to the agents I refer from [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com). Ask them: "What's your strategy for January listings? How do you handle low inventory markets?"
+**Day 1 (Dec 23):** Interview agents. Not just any agent—talk to the agents I refer from [SantaClaritaOpenHouses.com](/). Ask them: "What's your strategy for January listings? How do you handle low inventory markets?"
 
 **Day 2 (Dec 24-25):** Enjoy the holidays. Seriously. You need this break before the sprint begins.
 
@@ -154,7 +154,7 @@ Let's get tactical. Here's your day-by-day playbook for a mid-January listing th
 
 **Day 6 (Dec 29):** Hire contractors. Handyman for minor fixes, painter for touch-ups, landscaper for curb appeal. Get them scheduled for the first week of January.
 
-**Day 7 (Dec 30):** Review comparable sales with your agent. What sold in Q4 2025? What's active now? Where should you price? Don't guess—use data. Check [Santa Clarita Market Reports](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) for current trends.
+**Day 7 (Dec 30):** Review comparable sales with your agent. What sold in Q4 2025? What's active now? Where should you price? Don't guess—use data. Check [Santa Clarita Market Reports](/blog) for current trends.
 
 **Day 8 (Dec 31):** Finalize your agent agreement. Sign contracts, discuss commission structure (yes, this is negotiable now), and confirm marketing strategy. Lock in your photographer for January 7-8.
 
@@ -172,11 +172,11 @@ Let's get tactical. Here's your day-by-day playbook for a mid-January listing th
 
 ### January 13-20, 2026: Launch Week
 
-**Day 16 (Jan 13, Monday):** Your home goes live on MLS at 9:00 AM. It immediately syndicates to [Zillow, Realtor.com, Redfin](https://www.santaclaritaopenhouses.com/why-choose-local-the-advantages-of-using-santaclaritaopenhousescom-over-zillow), and every major platform. Your agent schedules open houses for the weekend.
+**Day 16 (Jan 13, Monday):** Your home goes live on MLS at 9:00 AM. It immediately syndicates to Zillow, Realtor.com, Redfin, and every major platform. Your agent schedules open houses for the weekend.
 
 **Day 17-18 (Jan 14-15):** Showing requests flood in. Your agent pre-qualifies every buyer (are they pre-approved? serious? working with an agent?). You leave the house spotless for showings.
 
-**Day 19-20 (Jan 17-18, Weekend):** Open houses Saturday and Sunday, 1-4 PM. Agents bring qualified buyers. You're not home—you're letting the house sell itself. Check [Santa Clarita Open Houses This Weekend](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-today) to see how your listing compares.
+**Day 19-20 (Jan 17-18, Weekend):** Open houses Saturday and Sunday, 1-4 PM. Agents bring qualified buyers. You're not home—you're letting the house sell itself. Check Santa Clarita Open Houses This Weekend to see how your listing compares.
 
 **Day 21 (Jan 20, Tuesday):** Offers start arriving. Your agent reviews each one: price, terms, contingencies, buyer strength. You're negotiating from a position of power because inventory is still low.
 
@@ -192,7 +192,7 @@ Here's what separates elite agents from average agents in January:
 
 **The difference?** Elite agents get you $30k-$50k more and close faster. Average agents get you headaches and price reductions.
 
-That's why I built [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)—to connect sellers with agents who actually understand strategy, not just paperwork.
+That's why I built [SantaClaritaOpenHouses.com](/)—to connect sellers with agents who actually understand strategy, not just paperwork.
 
 ## Neighborhood-Specific January Strategies: Valencia, Saugus, Canyon Country, and Beyond
 
@@ -302,7 +302,7 @@ Typically 45-60 days total: 2 weeks to go under contract, 30-45 days for escrow 
 
 ### 11. Do I need to disclose everything, even minor issues?
 
-Yes. Disclose everything. California law requires full disclosure of known defects. Don't hide issues hoping buyers won't notice. They will—during inspections—and they'll walk away or renegotiate. Better to disclose upfront and price accordingly. Learn more about [disclosure requirements](https://www.santaclaritaopenhouses.com/buyers-guide).
+Yes. Disclose everything. California law requires full disclosure of known defects. Don't hide issues hoping buyers won't notice. They will—during inspections—and they'll walk away or renegotiate. Better to disclose upfront and price accordingly. Learn more about disclosure requirements.
 
 ### 12. What's the biggest mistake January sellers make?
 

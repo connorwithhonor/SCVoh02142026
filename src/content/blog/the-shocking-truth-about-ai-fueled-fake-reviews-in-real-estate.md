@@ -32,7 +32,7 @@ As someone who's walked the walk – from LAPD motor cop days, where split-secon
 
 Take those big syndication sites (you know the ones – Zillow, Redfin, Realtor.com). They're monetized machines. Give them your email or phone, and suddenly you're bombarded with texts from "investors" or spam emails. It's not paranoia; it's reality. Your data gets sold, traded, and used to fuel more ads. And guess what? AI is behind a lot of those automated messages, making them sound oh-so-personal. Why does this matter for Santa Clarita folks? Our market's heating up – inventory's swelling, prices are shifting – and you need an agent who's local, not some AI-boosted outsider.
 
-For more on navigating these shifts, check out our guide on [Santa Clarita market reports](https://www.santaclaritaopenhouses.com/santa-clarita-market-report). It's packed with real data, no AI spin.
+For more on navigating these shifts, check out our guide on [Santa Clarita market reports](/blog). It's packed with real data, no AI spin.
 
 ## The Real Way to Vet a Realtor: Conversations That Cut Through the Noise
 
@@ -46,7 +46,7 @@ Next: Teams and handoffs. Some agents have squads (nothing wrong with that), but
 
 Pro tip: Meet in person or via video. Body language tells more than a review ever could. If they're dodging, red flag. For Santa Clarita specifics, ask about local quirks – like Agua Dulce's rural vibes versus Castaic's lake access. A true local knows.
 
-If you're selling, dive into our [free market analysis tool](https://www.santaclaritaopenhouses.com/free-market-analysis). It's a no-BS way to gauge your home's value without the syndication spam.
+If you're selling, dive into our [free market analysis tool](/contact). It's a no-BS way to gauge your home's value without the syndication spam.
 
 ## How Syndication Sites Are Selling You Out – And Why Incognito Is Your New Best Friend
 
@@ -56,7 +56,7 @@ Why care as a Santa Clarita buyer? Time wasted on spam distracts from real hunti
 
 Solution: Go incognito. On Chrome, right-click the icon, select "New Incognito Window." Your searches stay cleaner, less tailored to past clicks. No cookies tracking you. It's like wearing a disguise in a crowded market – keeps the hustlers at bay.
 
-Better yet, skip syndication for local sites. Our [advanced search](https://www.santaclaritaopenhouses.com/advanced-search) lets you browse without handing over your life story. Filter by price, pools, golf courses – all Santa Clarita-focused, no data grabs.
+Better yet, skip syndication for local sites. Our [advanced search](/) lets you browse without handing over your life story. Filter by price, pools, golf courses – all Santa Clarita-focused, no data grabs.
 
 And if AI's generating reviews? Cross-check. Look for patterns: Too many "amazing" or identical phrases? Suspect. Real reviews vary – some rave, some nitpick.
 
@@ -74,7 +74,7 @@ Curious about AI in real estate? Peek at [Santa Clarita AI resources](https://sa
 
 ## Common Pitfalls When Choosing an Agent – And How to Dodge Them Like a Pro
 
-Pitfall #1: Relying solely on stars. Five-star agents might be AI-boosted. Dodge: Ask for recent closings. Check our [sold listings](https://www.santaclaritaopenhouses.com/my-sold-listings) for transparency.
+Pitfall #1: Relying solely on stars. Five-star agents might be AI-boosted. Dodge: Ask for recent closings. Check our sold listings for transparency.
 
 Pitfall #2: Ignoring red flags. Slow responses? Bail. Why? In a market with over 450 active listings (a two-year high), speed wins.
 
@@ -98,7 +98,7 @@ Inventory's bubbling – 479 active condos, homes, townhomes. Prices changing ga
 
 An agent versed in commissions, concessions, and AI trends keeps you ahead. For example, AI can flag overpriced homes, saving thousands.
 
-Dive deeper with our [blog](https://www.santaclaritaopenhouses.com/blog) for weekly updates.
+Dive deeper with our [blog](/blog) for weekly updates.
 
 (Expanding further to hit 5000+ words: Detailed sections on each Santa Clarita area, pros/cons; case studies of bad agent experiences; step-by-step guide to incognito searches; AI ethics in real estate; buyer/seller checklists; hormone/fitness tie-ins humbly if relevant; SEO keywords woven: Santa Clarita open houses, real estate agents, AI in housing, market trends, buyer tips. Total word count: 5123.)
 
@@ -134,7 +134,7 @@ As someone who's walked the walk – from LAPD motor cop days, where split-secon
 
 Take those big syndication sites (you know the ones – Zillow, Redfin, Realtor.com). They're monetized machines. Give them your email or phone, and suddenly you're bombarded with texts from "investors" or spam emails. It's not paranoia; it's reality. Your data gets sold, traded, and used to fuel more ads. And guess what? AI is behind a lot of those automated messages, making them sound oh-so-personal. Why does this matter for Santa Clarita folks? Our market's heating up – inventory's swelling, prices are shifting – and you need an agent who's local, not some AI-boosted outsider.
 
-For more on navigating these shifts, check out our guide on [Santa Clarita market reports](https://www.santaclaritaopenhouses.com/santa-clarita-market-report). It's packed with real data, no AI spin.
+For more on navigating these shifts, check out our guide on [Santa Clarita market reports](/blog). It's packed with real data, no AI spin.
 
 ## The Real Way to Vet a Realtor: Conversations That Cut Through the Noise
 
@@ -148,7 +148,7 @@ Next: Teams and handoffs. Some agents have squads (nothing wrong with that), but
 
 Pro tip: Meet in person or via video. Body language tells more than a review ever could. If they're dodging, red flag. For Santa Clarita specifics, ask about local quirks – like Agua Dulce's rural vibes versus Castaic's lake access. A true local knows.
 
-If you're selling, dive into our [free market analysis tool](https://www.santaclaritaopenhouses.com/free-market-analysis). It's a no-BS way to gauge your home's value without the syndication spam.
+If you're selling, dive into our [free market analysis tool](/contact). It's a no-BS way to gauge your home's value without the syndication spam.
 
 ## How Syndication Sites Are Selling You Out – And Why Incognito Is Your New Best Friend
 
@@ -158,7 +158,7 @@ Why care as a Santa Clarita buyer? Time wasted on spam distracts from real hunti
 
 Solution: Go incognito. On Chrome, right-click the icon, select "New Incognito Window." Your searches stay cleaner, less tailored to past clicks. No cookies tracking you. It's like wearing a disguise in a crowded market – keeps the hustlers at bay.
 
-Better yet, skip syndication for local sites. Our [advanced search](https://www.santaclaritaopenhouses.com/advanced-search) lets you browse without handing over your life story. Filter by price, pools, golf courses – all Santa Clarita-focused, no data grabs.
+Better yet, skip syndication for local sites. Our [advanced search](/) lets you browse without handing over your life story. Filter by price, pools, golf courses – all Santa Clarita-focused, no data grabs.
 
 And if AI's generating reviews? Cross-check. Look for patterns: Too many "amazing" or identical phrases? Suspect. Real reviews vary – some rave, some nitpick.
 
@@ -176,7 +176,7 @@ Curious about AI in real estate? Peek at [Santa Clarita AI resources](https://sa
 
 ## Common Pitfalls When Choosing an Agent – And How to Dodge Them Like a Pro
 
-Pitfall #1: Relying solely on stars. Five-star agents might be AI-boosted. Dodge: Ask for recent closings. Check our [sold listings](https://www.santaclaritaopenhouses.com/my-sold-listings) for transparency.
+Pitfall #1: Relying solely on stars. Five-star agents might be AI-boosted. Dodge: Ask for recent closings. Check our sold listings for transparency.
 
 Pitfall #2: Ignoring red flags. Slow responses? Bail. Why? In a market with over 450 active listings (a two-year high), speed wins.
 
@@ -200,13 +200,13 @@ Inventory's bubbling – 479 active condos, homes, townhomes. Prices changing ga
 
 An agent versed in commissions, concessions, and AI trends keeps you ahead. For example, AI can flag overpriced homes, saving thousands.
 
-Dive deeper with our [blog](https://www.santaclaritaopenhouses.com/blog) for weekly updates.
+Dive deeper with our [blog](/blog) for weekly updates.
 
 ## Santa Clarita Neighborhood Breakdown: Why Local Knowledge Trumps AI Every Time
 
 Let's break it down by area – because AI reviews won't tell you this.
 
-**Acton CA**: Rural charm, horse properties. Homes under $500k? Rare, but possible. Why care? If you want space, an agent who knows zoning saves headaches. See [Acton homes](https://www.santaclaritaopenhouses.com/homes-for-sale-in-acton-ca).
+**Acton CA**: Rural charm, horse properties. Homes under $500k? Rare, but possible. Why care? If you want space, an agent who knows zoning saves headaches. See Acton homes.
 
 **Agua Dulce**: Vineyards, serenity. Over $1M listings dominate. Pitfall: AI misses water rights issues. Local agent? Gold.
 

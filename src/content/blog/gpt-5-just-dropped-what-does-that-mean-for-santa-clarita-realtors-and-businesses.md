@@ -31,7 +31,7 @@ In this monster of a post (we're talking over 5,000 words of pure value), I'll u
 
 Santa Clarita real estate is booming, but it's also brutal. With homes flying off the market in areas like Valencia and Saugus, agents need every edge. Enter GPT-5. This isn't your grandma's chatbot; it's a superhuman intelligence with PhD-level smarts across domains. OpenAI's latest model promises seamless integration – no more fiddling with buttons for web searches or deep dives. Just ask, and it delivers.
 
-Think about it: In a city where Santa Clarita real estate searches spike for keywords like "homes for sale in Santa Clarita CA," GPT-5 can analyze market trends faster than you can say "escrow." I've used previous versions to crunch data from my listings at [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings), spotting patterns in price changes or buyer preferences. Now, with GPT-5's enhanced reasoning, it's like having a crystal ball for predicting shifts in Canyon Country or Newhall markets.
+Think about it: In a city where Santa Clarita real estate searches spike for keywords like "homes for sale in Santa Clarita CA," GPT-5 can analyze market trends faster than you can say "escrow." I've used previous versions to crunch data from my listings at [https://www.santaclaritaopenhouses.com/active-listings](/), spotting patterns in price changes or buyer preferences. Now, with GPT-5's enhanced reasoning, it's like having a crystal ball for predicting shifts in Canyon Country or Newhall markets.
 
 But here's the sarcastic kicker: If you're still resisting AI because "I'm old school," prepare to get lapped by the new kids who aren't. Remember when fax machines were cutting-edge? Yeah, that's you without AI in 2025.
 
@@ -43,11 +43,11 @@ Prompting is key. Tell GPT-5 your story: "I'm Connor MacIvor, Realtor at SantaCl
 
 It'll spit out strategies – SEO tweaks, content ideas, even competitor analysis. For instance, it might suggest mirroring successful tactics from local pros without copying (plagiarism is a no-go, remember?). Refine by saying, "Expand on that" or "Give me five alternatives." Humor me here: It's like training a puppy – persistent nudges get the best results.
 
-In my world, I've used it to optimize listings. Plug in data from [https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca), and ask for market reports. Boom – instant insights on under-$500K homes or luxury over $1M.
+In my world, I've used it to optimize listings. Plug in data from https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca, and ask for market reports. Boom – instant insights on under-$500K homes or luxury over $1M.
 
 ## AI for Realtors: Enhancing, Not Replacing, Your Game
 
-Santa Clarita real estate agents, listen up. AI like GPT-5 isn't coming for your job; it's your sidekick. At HonorElevate.com, my AI agency for realtors, we focus on systems that save time. Imagine using GPT-5 to draft buyer agreements or analyze comps from [https://www.santaclaritaopenhouses.com/my-sold-listings](https://www.santaclaritaopenhouses.com/my-sold-listings).
+Santa Clarita real estate agents, listen up. AI like GPT-5 isn't coming for your job; it's your sidekick. At HonorElevate.com, my AI agency for realtors, we focus on systems that save time. Imagine using GPT-5 to draft buyer agreements or analyze comps from https://www.santaclaritaopenhouses.com/my-sold-listings.
 
 Key applications:
 
@@ -59,7 +59,7 @@ Beyond real estate, local biz owners – plumbers, electricians, roofers – GPT
 
 Steps to build:
 
-For example, analyze competitors' traffic via prompts: "Compare my site to top Santa Clarita real estate sites." Then optimize for AEO, ensuring your content answers queries like "best neighborhoods in Santa Clarita" linking to [https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024](https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024).
+For example, analyze competitors' traffic via prompts: "Compare my site to top Santa Clarita real estate sites." Then optimize for AEO, ensuring your content answers queries like "best neighborhoods in Santa Clarita" linking to https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024.
 
 Humble brag: As an ex-cop who's lost 135 lbs through fasting (check YouTube.com/@homemuscle), I know transformation. AI did that for my business – more prospecting time, bigger base.
 
@@ -67,7 +67,7 @@ Humble brag: As an ex-cop who's lost 135 lbs through fasting (check YouTube.com/
 
 AI isn't all rainbows. On YouTube.com/@aiwithhonor, I explore regulations and pitfalls. GPT-5's power means potential misuse – biased outputs or data privacy issues. Always verify facts; it's smart but not infallible.
 
-In Santa Clarita real estate, use it ethically. No fabricating market data from [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report). Transparency wins – tell clients you're AI-assisted for better service.
+In Santa Clarita real estate, use it ethically. No fabricating market data from [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](/blog). Transparency wins – tell clients you're AI-assisted for better service.
 
 Sarcastic aside: Ignore regulations, and you'll end up like those shady agents from the '08 crash – busted and broke.
 
@@ -77,11 +77,11 @@ Walk through my day: Record a Loom video on GPT-5. Transcribe, feed to a custom 
 
 Then, Notebook LM (Google's tool) turns transcripts into podcasts for learning. Result? Content that ranks for "AI for realtors in Santa Clarita," driving traffic to consultations at 661-888-4983.
 
-This workflow saved me hours weekly, letting me focus on clients browsing [https://www.santaclaritaopenhouses.com/dream-home-finder](https://www.santaclaritaopenhouses.com/dream-home-finder).
+This workflow saved me hours weekly, letting me focus on clients browsing [https://www.santaclaritaopenhouses.com/dream-home-finder](/contact).
 
 ## Future-Proofing Your Santa Clarita Real Estate Career with AI
 
-The market's shifting – more inventory means fiercer competition. GPT-5 helps forecast via prompts on data from [https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca).
+The market's shifting – more inventory means fiercer competition. GPT-5 helps forecast via prompts on data from [https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca](/).
 
 Build CRM systems: AI nurtures leads, follows up post-sale. Sell your biz later? A tidy database fetches premium.
 
@@ -91,7 +91,7 @@ Join santaclaritaai.com – invite-only for locals. Discuss implementations, sha
 
 I get it – typing vs. speaking? Keyboard loyalist here, but voice prompts convey more. Practice: "Give me a 7-day AI plan for Santa Clarita real estate SEO."
 
-Common pitfalls: Vague prompts yield garbage. Be specific: "Analyze [https://www.santaclaritaopenhouses.com/canyon-country-market-report](https://www.santaclaritaopenhouses.com/canyon-country-market-report) for trends."
+Common pitfalls: Vague prompts yield garbage. Be specific: "Analyze https://www.santaclaritaopenhouses.com/canyon-country-market-report for trends."
 
 Humor: If AI feels overwhelming, remember – it's like learning to drive stick. Awkward at first, smooth sailing later.
 
@@ -101,7 +101,7 @@ Blend old-school grit with AI smarts. As a firearms instructor and drug recognit
 
 For buyers: Simulate scenarios via role-play. "Pretend you're a first-time buyer in Saugus – quiz me."
 
-Links to wisdom: [https://www.santaclaritaopenhouses.com/real-estate-glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary) for terms, [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) for valuations.
+Links to wisdom: https://www.santaclaritaopenhouses.com/real-estate-glossary for terms, [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact) for valuations.
 
 ## AI and Fitness: A Side Note from My Transformation Journey
 
@@ -111,11 +111,11 @@ Sarcasm: Who knew dropping pounds and dominating real estate both need strategy?
 
 ## Scaling Up: AI for Larger Real Estate Operations
 
-Brokers, lenders – GPT-5 scales teams. Automate reports, nurture leads from [https://www.santaclaritaopenhouses.com/newsletter](https://www.santaclaritaopenhouses.com/newsletter) sign-ups.
+Brokers, lenders – GPT-5 scales teams. Automate reports, nurture leads from https://www.santaclaritaopenhouses.com/newsletter sign-ups.
 
 At HonorElevate.com, we build agentic wrappers: AI handles DMs, books via calendars.
 
-Example: Voice AI at 661-51-Homes fields queries, links to [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact).
+Example: Voice AI at 661-51-Homes fields queries, links to [https://www.santaclaritaopenhouses.com/contact](/contact).
 
 ## Ethical AI Use in Santa Clarita Real Estate
 
@@ -127,7 +127,7 @@ Regulations loom; stay informed via YouTube.com/@aiwithhonor ([connormacivor@gma
 
 Track metrics: Traffic from AI-optimized posts? Leads from chatbots?
 
-My ROI: Doubled content output, more closings. Link to testimonials: [https://www.santaclaritaopenhouses.com/testimonials](https://www.santaclaritaopenhouses.com/testimonials).
+My ROI: Doubled content output, more closings. Link to testimonials: [https://www.santaclaritaopenhouses.com/testimonials](/).
 
 ## Advanced Prompts for GPT-5 Mastery
 

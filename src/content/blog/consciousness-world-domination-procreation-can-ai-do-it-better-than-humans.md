@@ -18,7 +18,7 @@ source: "https://www.santaclaritaopenhouses.com/consciousness-world-domination-p
 Connor "with Honor" MacIvor - July 20, 2025** Tags: [artificial intelligence](/-/Blog/tag/artificial intelligence), [AI consciousness](/-/Blog/tag/AI consciousness), [human consciousness](/-/Blog/tag/human consciousness), [Santa Clarita real estate](/-/Blog/tag/Santa Clarita real estate), [first responder realtor](/-/Blog/tag/first responder realtor), [deepfakes](/-/Blog/tag/deepfakes), [real estate market trends](/-/Blog/tag/real estate market trends), [home buying](/-/Blog/tag/home buying), [home selling](/-/Blog/tag/home selling), [real estate scams](/-/Blog/tag/real estate scams), [AI in real estate](/-/Blog/tag/AI in real estate), [Santa Clarita homes](/-/Blog/tag/Santa Clarita homes), [real estate age](/-/Blog/tag/real estate age)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
 ### TL;DR
 
-In this thought-provoking discussion, Connor MacIvor, a former LAPD officer turned real estate expert and AI influencer, dives into the concept of consciousness and its potential in artificial intelligence (AI). He explores whether AI can achieve human-like consciousness, reflecting on human self-awareness, self-sabotage, and the ability to learn from mistakes. Connor draws parallels between human and animal consciousness, questions the ethical implications of AI cloning voices and images, and speculates on AI’s potential to surpass human intelligence. He ties this to his real estate expertise, emphasizing the importance of human judgment in navigating complex markets like Santa Clarita. For more insights, visit [https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com) or book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com).
+In this thought-provoking discussion, Connor MacIvor, a former LAPD officer turned real estate expert and AI influencer, dives into the concept of consciousness and its potential in artificial intelligence (AI). He explores whether AI can achieve human-like consciousness, reflecting on human self-awareness, self-sabotage, and the ability to learn from mistakes. Connor draws parallels between human and animal consciousness, questions the ethical implications of AI cloning voices and images, and speculates on AI’s potential to surpass human intelligence. He ties this to his real estate expertise, emphasizing the importance of human judgment in navigating complex markets like Santa Clarita. For more insights, visit [https://www.santaclaritaopenhouses.com](/) or book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com).
 
 ### Blog Post: Can Artificial Intelligence Achieve Human Consciousness? A First Responder Realtor’s Perspective
 
@@ -26,7 +26,7 @@ In this thought-provoking discussion, Connor MacIvor, a former LAPD officer turn
 
 What makes us human? Is it our ability to reflect, to make mistakes, to learn, and sometimes to ignore what we know is best? Consciousness is that elusive quality that defines our self-awareness, our ability to ponder our existence, and even our tendency to self-sabotage. As a former LAPD motor cop turned Santa Clarita real estate expert and AI influencer, I’ve spent years observing human behavior—both on the streets and in the real estate market. Now, I’m diving into a question that’s both philosophical and practical: Can artificial intelligence (AI) ever achieve a form of consciousness comparable to ours? And what does this mean for industries like real estate, where human judgment is paramount? Let’s crawl down this rabbit hole and explore.
 
-For those looking to navigate the Santa Clarita real estate market with a trusted guide, visit [https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com) for the latest listings and insights, or book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com) to discuss your needs with me, Connor MacIvor, your first responder realtor.
+For those looking to navigate the Santa Clarita real estate market with a trusted guide, visit [https://www.santaclaritaopenhouses.com](/) for the latest listings and insights, or book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com) to discuss your needs with me, Connor MacIvor, your first responder realtor.
 
 **What Is Consciousness, Anyway?**
 
@@ -42,7 +42,7 @@ The idea of AI achieving human-like consciousness is both thrilling and unnervin
 
 AI doesn’t “live” like we do—it doesn’t eat food or bask in the sun—but it does require energy, often from fossil fuels or solar power. In a way, this energy is its life force, much like food is ours. AI can also “procreate” by creating millions of copies of itself, far surpassing human reproduction rates. If consciousness is about self-awareness and decision-making, AI is already showing signs of it. It can analyze data, make predictions, and even “learn” from its environment. But does this make it conscious, or is it just a sophisticated mimic?
 
-In real estate, AI is transforming how we search for homes and analyze market trends. But it’s the human element—trust, intuition, and experience—that closes deals. As a first responder turned realtor, I bring that human edge to every transaction. Learn more about my approach at [https://www.santaclaritaopenhouses.com/about](https://www.santaclaritaopenhouses.com/about).
+In real estate, AI is transforming how we search for homes and analyze market trends. But it’s the human element—trust, intuition, and experience—that closes deals. As a first responder turned realtor, I bring that human edge to every transaction. Learn more about my approach at [https://www.santaclaritaopenhouses.com/about](/).
 
 **The Dark Side of AI: Cloning and Manipulation**
 
@@ -50,7 +50,7 @@ AI’s ability to clone voices and images is a double-edged sword. It’s not ha
 
 As AI becomes more advanced, it could push us toward a state of indifference, where we’re desensitized to manipulation. Growing up, certain words or images were taboo, rarely seen or heard. Now, the internet exposes us to everything—violence, explicit content, you name it. If AI can amplify this exposure, what does that mean for our collective consciousness? Will we become numb to the point where we can’t distinguish truth from fiction?
 
-For homebuyers, this underscores the importance of working with a trusted agent who prioritizes your interests. My background as a first responder gives me a unique perspective on protecting clients from scams and misinformation. Check out my guide on avoiding real estate scams at [https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing](https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing) or call me at 661-51-HOMES for a free consultation.
+For homebuyers, this underscores the importance of working with a trusted agent who prioritizes your interests. My background as a first responder gives me a unique perspective on protecting clients from scams and misinformation. Check out my guide on avoiding real estate scams at https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing or call me at 661-51-HOMES for a free consultation.
 
 **AI Consciousness vs. Human Consciousness**
 
@@ -58,13 +58,13 @@ If AI achieves a form of consciousness, it won’t be human consciousness—it�
 
 The question isn’t just whether AI will be conscious, but whether it’ll be so advanced that we can’t tell the difference. Imagine an AI that negotiates a home purchase better than any human agent. It could analyze every listing in Santa Clarita, predict price changes, and even tailor its pitch to your emotions. Scary? Maybe. But it’s also an opportunity to leverage AI as a tool, not a replacement, for human expertise.
 
-At [https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com), I combine AI-driven insights with my first responder instincts to give you an edge in the market. Whether you’re buying a condo in Saugus or selling a luxury home in Stevenson Ranch, I’m here to guide you. Book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com).
+At [https://www.santaclaritaopenhouses.com](/), I combine AI-driven insights with my first responder instincts to give you an edge in the market. Whether you’re buying a condo in Saugus or selling a luxury home in Stevenson Ranch, I’m here to guide you. Book a free consultation at [https://www.zoommescv.com](https://www.zoommescv.com).
 
 **The Competitive Edge: Humans vs. Machines**
 
 Humans thrive on competition—it’s what drives us to improve. The same is true for the tech giants racing to develop AI. This competition is pushing AI to new heights, but it’s also raising ethical questions. If AI becomes conscious, will it have a moral compass? Will it care about fair housing or client trust? Probably not, unless we program it to.
 
-In real estate, competition is fierce. Buyers are vying for the same homes, and sellers are adjusting prices to stand out. AI can help analyze these trends, but it’s the human touch—understanding your needs, negotiating on your behalf—that makes the difference. As a former LAPD officer, I bring a disciplined, no-nonsense approach to every deal. Learn why clients trust me at [https://www.santaclaritaopenhouses.com/testimonials](https://www.santaclaritaopenhouses.com/testimonials).
+In real estate, competition is fierce. Buyers are vying for the same homes, and sellers are adjusting prices to stand out. AI can help analyze these trends, but it’s the human touch—understanding your needs, negotiating on your behalf—that makes the difference. As a former LAPD officer, I bring a disciplined, no-nonsense approach to every deal. Learn why clients trust me at [https://www.santaclaritaopenhouses.com/testimonials](/).
 
 **The Soul Question: Does AI Have a Place for It?**
 

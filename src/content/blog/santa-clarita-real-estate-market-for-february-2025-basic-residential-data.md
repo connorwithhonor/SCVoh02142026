@@ -90,7 +90,7 @@ No matter your role—buyer, seller, or investor—these numbers provide a factu
 
 ## Final Thoughts
 
-As you plan your next steps in the Santa Clarita market, whether you’re looking for that perfect family home or scouting for the next big investment opportunity, these basic market statistics are here to guide you. They offer a snapshot of where the market stands today—one that is both competitive and balanced. Use this information alongside our other resources, such as our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings), [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis), and [Contact](https://www.santaclaritaopenhouses.com/contact) page to get personalized advice.
+As you plan your next steps in the Santa Clarita market, whether you’re looking for that perfect family home or scouting for the next big investment opportunity, these basic market statistics are here to guide you. They offer a snapshot of where the market stands today—one that is both competitive and balanced. Use this information alongside our other resources, such as our [Active Listings](/), [Free Market Analysis](/contact), and [Contact](/contact) page to get personalized advice.
 
 Thank you for joining me on this journey through the basic market statistics. May the facts empower your decisions and guide you to a brighter, more informed real estate future in Santa Clarita. Happy house hunting, selling, and investing!
 

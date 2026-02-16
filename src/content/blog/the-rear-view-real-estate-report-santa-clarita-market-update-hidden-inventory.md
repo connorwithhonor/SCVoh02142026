@@ -106,7 +106,7 @@ We aren't selling a promise; we are presenting a solution.
 
 I want to draw your attention to a specific property that represents incredible value in today's market.
 
-**[Click Here to View 23321 Beachcomber Lane](https://www.santaclaritaopenhouses.com/idx/listing/CA-CRISNET/SR25235393/23321-Beachcomber-Lane-Valencia-CA-91355?sharing=1197716)**
+**Click Here to View 23321 Beachcomber Lane**
 
 ### Why Bridgeport?
 
@@ -136,7 +136,7 @@ This isn't a generic "Zestimate." This is a tool designed to help you understand
 
 I mentioned in the video that I was trying a new format on my search site. I hate pop-ups. I hate being forced to register just to look at a picture of a kitchen.
 
-I have completely unlocked my primary search portal: **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)**
+I have completely unlocked my primary search portal: **[SantaClaritaOpenHouses.com](/)**
 
 ## Q&amp;A: Frequently Asked Questions (FAQ)
 

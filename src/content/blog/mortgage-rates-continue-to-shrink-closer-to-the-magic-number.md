@@ -54,7 +54,7 @@ The market update delves into the details of what buyers and sellers should anti
 
 Join Connor MacIvor as he unpacks these trends and offers actionable advice for making the most of this weekend's real estate opportunities in Santa Clarita. Be sure to follow the blog for more updates and visit [Santa Clarita Open Houses](https://santaclaritaopenhouses.com) for the latest property listings and market in
 
-Hey there, Santa Clarita! Connor MacIvor here, your trusted real estate advisor at [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com). Welcome back to our daily Market Watch update, where I bring you the freshest insights, straight from the field, that you won’t hear anywhere else. Let's dive into today’s numbers and trends, and discuss what you need to know if you’re thinking about buying, selling, or investing in a home, condo, or townhome in Santa Clarita.
+Hey there, Santa Clarita! Connor MacIvor here, your trusted real estate advisor at [Santa Clarita Open Houses](/). Welcome back to our daily Market Watch update, where I bring you the freshest insights, straight from the field, that you won’t hear anywhere else. Let's dive into today’s numbers and trends, and discuss what you need to know if you’re thinking about buying, selling, or investing in a home, condo, or townhome in Santa Clarita.
 
 We’ve got some interesting numbers today! Starting with **Coming Soon** listings, we currently have 11 properties in the pipeline. These are not yet on the market but will be soon, providing an excellent opportunity for buyers to get a head start. Moving to **New Listings**, there are 82 fresh properties that have just hit the market, including single-family homes, condos, and townhomes. If you're in the market to buy, these properties offer a wide range of choices, but with competition heating up, you’ll need to act fast!
 
@@ -84,7 +84,7 @@ Now, let’s cover some **Real Estate Insights Other Agents Aren't Talking About
 
 **Preparing for a Surge in Market Activity**: Mortgage rates are dropping, and economic indicators are stabilizing, signaling a potential surge in market activity. Sellers, now is the time to prep your home to stand out. Buyers, get pre-approved, have your financials in order, and be ready to act fast.
 
-**Closing Thoughts**: Folks, the Santa Clarita real estate market is moving fast, and being informed is your best asset. As always, I’m here to help you navigate these waters with confidence and clarity. Remember, when it comes to choosing the best agent to sell, list, or help you buy a home, 'Connor with Honor' has got your back. Reach out to me directly at [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com) and let’s make your real estate dreams a reality.
+**Closing Thoughts**: Folks, the Santa Clarita real estate market is moving fast, and being informed is your best asset. As always, I’m here to help you navigate these waters with confidence and clarity. Remember, when it comes to choosing the best agent to sell, list, or help you buy a home, 'Connor with Honor' has got your back. Reach out to me directly at [Santa Clarita Open Houses](/) and let’s make your real estate dreams a reality.
 
 ****
 

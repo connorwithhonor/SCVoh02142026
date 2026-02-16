@@ -67,11 +67,11 @@ Test my AI voice at 661-219-7299 or call 661-51-Homes for real estate/AI mashups
 
 ## AI in Real Estate: A Sneak Peek at Disruption
 
-Tying back to my roots – Santa Clarita real estate (browse [https://www.santaclaritaopenhouses.com/active-listings](https://www.santaclaritaopenhouses.com/active-listings)). AI's already here: virtual staging, predictive pricing. But full ASI? Agents become consultants, not door-openers.
+Tying back to my roots – Santa Clarita real estate (browse [https://www.santaclaritaopenhouses.com/active-listings](/)). AI's already here: virtual staging, predictive pricing. But full ASI? Agents become consultants, not door-openers.
 
-Buyers: Sign agreements wisely under new rules. Sellers: Price right or languish (free analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](https://www.santaclaritaopenhouses.com/free-market-analysis)).
+Buyers: Sign agreements wisely under new rules. Sellers: Price right or languish (free analysis at [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact)).
 
-Market reports? Dive into [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report) for trends.
+Market reports? Dive into [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](/blog) for trends.
 
 ## The Human Edge: Why We're Not Doomed (Yet)
 
@@ -93,7 +93,7 @@ We're at AGI stealthily – systems self-improve. ASI? Months away, fueled by co
 
 Schools: AI tutors personalize, but job loss looms. Law: Licensing protects, but AI drafts flawlessly.
 
-Real estate: Check foreclosures at [https://www.santaclaritaopenhouses.com/foreclosure-search](https://www.santaclaritaopenhouses.com/foreclosure-search).
+Real estate: Check foreclosures at https://www.santaclaritaopenhouses.com/foreclosure-search.
 
 ## Economic Fallout: UBI or Bust?
 
@@ -109,7 +109,7 @@ Humbly, I've chased perps, taught radar, sold homes, and now probe AI. It's all 
 
 That Thursday's coming – utopia or dystopia? Depends on us. Don't sleep on it.
 
-For real estate in Canyon Country: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca).
+For real estate in Canyon Country: [https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca](/).
 
 **Recap:**
 

@@ -34,7 +34,7 @@ The first key metric is **active listings** — the number of homes available fo
 
 This climb is significant. From early 2021 to mid-2025, **inventory nearly doubled**. For buyers, that means more options. For sellers, it signals more competition — staging, pricing strategy, and presentation are now critical.
 
-Explore the full breakdown of [Saugus Homes for Sale by Price Range](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca-500000-to-750000).
+Explore the full breakdown of Saugus Homes for Sale by Price Range.
 
 # Section 2: Days to Sell – Median Time on Market
 
@@ -44,7 +44,7 @@ This increase in DOM shows that **buyers have more breathing room**. They can to
 
 ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/saugus%20california%20real%20estate.png?width=601&amp;height=298&amp;aspect_ratio=601%3A298)
 
-If you’re a buyer looking for properties that linger longer (and may present negotiation opportunities), see [Saugus Homes Over $1,000,000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca-over-1000000).
+If you’re a buyer looking for properties that linger longer (and may present negotiation opportunities), see Saugus Homes Over $1,000,000.
 
 # Section 3: Seasonal Trends in Saugus
 
@@ -54,11 +54,11 @@ These cycles matter when timing your move. Listing in spring can maximize exposu
 
 # Section 4: What Buyers Need to Know in September 2025
 
-Start browsing at [All Active Listings in Saugus](https://www.santaclaritaopenhouses.com/active-listings).
+Start browsing at [All Active Listings in Saugus](/).
 
 # Section 5: What Sellers Need to Know in September 2025
 
-For a customized valuation, request a [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis).
+For a customized valuation, request a [Free Market Analysis](/contact).
 
 # Section 6: Comparing Saugus to the Santa Clarita Valley
 

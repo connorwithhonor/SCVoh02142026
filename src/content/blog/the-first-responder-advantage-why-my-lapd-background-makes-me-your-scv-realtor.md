@@ -58,7 +58,7 @@ Choosing a Realtor is one of the most critical decisions you'll make in your rea
 
 As Connor MacIvor, your First Responder Realtor, my 17 years with the LAPD have equipped me with a unique and invaluable skill set that translates directly to unparalleled service in real estate. From strategic negotiation and meticulous attention to detail to calm problem-solving and a protective mindset, I am here to ensure your buying or selling experience is not just successful, but also secure and stress-free. My dedication to honor and my proven track record of achieving extraordinary results (both personally and professionally) mean you are in the most capable hands.
 
-Experience the First Responder Advantage. Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) today to begin your real estate journey with a partner who is truly committed to serving you, with honor, every step of the way.
+Experience the First Responder Advantage. Visit [SantaClaritaOpenHouses.com](/) today to begin your real estate journey with a partner who is truly committed to serving you, with honor, every step of the way.
 
 ** Share This Post## Comments
 

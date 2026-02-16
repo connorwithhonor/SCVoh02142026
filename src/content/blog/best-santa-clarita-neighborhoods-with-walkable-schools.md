@@ -50,7 +50,7 @@ There are also different systems in place that give "grades" on the school's per
 
 Some will have a great review by one person that will send the school to the top of the "best of Santa Clarita schools" list. This is bad data and the sample size is way too small to give the better data. If you have any questions about buying a home within certain school boundaries in the Santa Clarita Valley, I have you covered. I can give you that data, but I will also make mandatory for my clients to make their own follow up calls in order to self-validate any and all information I give them.&nbsp;
 
-That leaves up with this topic covered and updated as of August 24, 2024. I'm Connor with Honor, when you are ready, you can read more about [my "value proposition" for home buyers in the Santa Clarita Valley](https://www.santaclaritaopenhouses.com/value-when-it-comes-to-hiring-a-santa-clarita-buyers-agent-x-police-officer).
+That leaves up with this topic covered and updated as of August 24, 2024. I'm Connor with Honor, when you are ready, you can read more about my "value proposition" for home buyers in the Santa Clarita Valley.
 
 ** Share This Post## Comments
 

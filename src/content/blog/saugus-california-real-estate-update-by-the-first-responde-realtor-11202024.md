@@ -50,7 +50,7 @@ Living in Saugus means enjoying a blend of community charm and modern convenienc
 
 ### **Let’s Connect!**
 
-Whether you’re buying, selling, or just exploring your options, I’m here to help. Visit&nbsp;**[https://www.santaclaritaopenhouses.com](https://www.santaclaritaopenhouses.com/)**&nbsp;or call me at&nbsp;**661.400.1720**. Follow me on social media for daily updates, expert tips, and market insights:
+Whether you’re buying, selling, or just exploring your options, I’m here to help. Visit&nbsp;**[https://www.santaclaritaopenhouses.com](/)**&nbsp;or call me at&nbsp;**661.400.1720**. Follow me on social media for daily updates, expert tips, and market insights:
 
 ### **Connor with Honor: Saving the World One Honest Home Sale at a Time**
 

@@ -81,13 +81,13 @@ Let’s break down a few specific tools that I’ve referenced and used. None of
 
 **ChatGPT** is one of the most recognizable AI language models today. It can handle tasks like writing **listing descriptions**, creating **email campaigns**, answering **client FAQs**, or even drafting **scripts** for your real estate videos. You simply **prompt** it with what you need, and it generates text in seconds.
 
-For more insights on how I use ChatGPT and other AI solutions, visit my **[Blog](https://www.santaclaritaopenhouses.com/blog)**, where I share in-depth tutorials, real estate market updates, and more.
+For more insights on how I use ChatGPT and other AI solutions, visit my **[Blog](/blog)**, where I share in-depth tutorials, real estate market updates, and more.
 
 ### 4.2 Video Tools (Opus Clip, CapCut)
 
 For short-form video marketing, **Opus Clip** and **CapCut** are game-changers. You can record a **3-4 minute video** about local property market conditions, and these tools can **split it** into multiple short videos with seamless cuts, captions, and even emojis. You get bite-sized content perfect for **Instagram Reels, TikTok, or YouTube Shorts**.
 
-If you’re interested in seeing how video marketing ties into **Santa Clarita open houses**, check out my regular event updates and resources on **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)**.
+If you’re interested in seeing how video marketing ties into **Santa Clarita open houses**, check out my regular event updates and resources on **[SantaClaritaOpenHouses.com](/)**.
 
 ### 4.3 Canva AI
 
@@ -99,7 +99,7 @@ Several real estate CRMs and chatbot platforms have integrated **AI** for advanc
 
 #### Example:
 
-If you’d like to see how advanced searching can be integrated into your site, explore my **[Quick Search](https://www.santaclaritaopenhouses.com/quick-search)** and **[Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search)** options. While these aren’t strictly AI chatbots, they are stepping stones to more interactive AI solutions.
+If you’d like to see how advanced searching can be integrated into your site, explore my **Quick Search** and **[Advanced Search](/)** options. While these aren’t strictly AI chatbots, they are stepping stones to more interactive AI solutions.
 
 ### 4.5 Narrow vs. General AI: The Future
 
@@ -113,7 +113,7 @@ For real estate, the promise of narrow AI is already enormous. By focusing on th
 
 One of the biggest challenges for realtors is **responding** to leads quickly and **staying engaged** throughout their journey. Research shows that the sooner you reply to a new inquiry, the **more likely** you are to convert that prospect into a client. AI’s ability to **instantly respond** is invaluable:
 
-Want to see an example of how I handle lead capture? Check out **[Contact](https://www.santaclaritaopenhouses.com/contact)** on my website, where clients can reach out directly, and behind the scenes, I may use AI-driven tools to help categorize and respond to certain inquiries.
+Want to see an example of how I handle lead capture? Check out **[Contact](/contact)** on my website, where clients can reach out directly, and behind the scenes, I may use AI-driven tools to help categorize and respond to certain inquiries.
 
 ## 6. Content Creation &amp; Video Marketing
 
@@ -183,7 +183,7 @@ Don’t just link externally—**internal links** guide visitors around your sit
 
 ### 11.3 Regular Updates
 
-Your **[Blog](https://www.santaclaritaopenhouses.com/blog)** should be updated frequently with new articles, videos, or market insights. AI can help produce these updates quickly, but ensure you’re **fact-checking** to maintain credibility.
+Your **[Blog](/blog)** should be updated frequently with new articles, videos, or market insights. AI can help produce these updates quickly, but ensure you’re **fact-checking** to maintain credibility.
 
 ## 12. Hyperlinked Resources to Boost Your Real Estate Business
 

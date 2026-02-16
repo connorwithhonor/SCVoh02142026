@@ -106,7 +106,7 @@ Whether you’re buying or selling, navigating the Valencia real estate market r
 
 Explore current listings, schedule open house tours, or contact us directly for personalized advice. Valencia’s vibrant market awaits, and we’re here to guide you every step of the way.
 
-**Contact Us Today**: Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) or call us at **661-400-1720** for all your real estate needs in Valencia and the Santa Clarita Valley.
+**Contact Us Today**: Visit [SantaClaritaOpenHouses.com](/) or call us at **661-400-1720** for all your real estate needs in Valencia and the Santa Clarita Valley.
 
 ** Share This Post## Comments
 

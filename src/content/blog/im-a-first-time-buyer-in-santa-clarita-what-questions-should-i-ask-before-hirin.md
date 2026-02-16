@@ -64,7 +64,7 @@ If they can't provide references, that's a major red flag.
 
 **Why this matters:** Santa Clarita has distinct neighborhoods with different price points, school districts, HOA structures, and Mello-Roos fees. An agent who "covers the whole valley" probably doesn't know any area deeply.
 
-**What a good agent says:** "I focus primarily on [Valencia, Saugus, Stevenson Ranch, Canyon Country], and I can speak to the pros and cons of each. For example, [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca) has newer homes and top-rated schools, but you'll pay Mello-Roos. [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca) has older homes with no Mello-Roos, which saves you $200-$400/month. Let's talk about your priorities so I can recommend the best fit."
+**What a good agent says:** "I focus primarily on [Valencia, Saugus, Stevenson Ranch, Canyon Country], and I can speak to the pros and cons of each. For example, [Valencia](/) has newer homes and top-rated schools, but you'll pay Mello-Roos. [Saugus](/) has older homes with no Mello-Roos, which saves you $200-$400/month. Let's talk about your priorities so I can recommend the best fit."
 
 **Red flags:**
 
@@ -86,7 +86,7 @@ A good agent will say yes and walk you through the math. A bad agent will push y
 
 ### Question 5: "What's Your Strategy for Finding Homes Before They Hit the Market?"
 
-**Why this matters:** In Santa Clarita's competitive market (especially in [Valencia](https://www.santaclaritaopenhouses.com/valencia-market-report) and [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca)), many homes sell before they're widely advertised. You need an agent with off-market access.
+**Why this matters:** In Santa Clarita's competitive market (especially in Valencia and [Stevenson Ranch](/)), many homes sell before they're widely advertised. You need an agent with off-market access.
 
 **What a good agent says:** "I monitor 'coming soon' listings through the MLS, I have relationships with other agents who give me early access to listings, and I send daily email alerts to my buyers so they see homes before they're on Zillow. I also attend broker previews and open houses to scout properties for my clients."
 
@@ -136,7 +136,7 @@ A good agent will explain contingency timelines in detail. A bad agent will glos
 
 **Why this matters:** Post-NAR settlement (effective August 2024, still in effect in 2026), buyer's agent commissions are negotiable and must be disclosed upfront. You need to know exactly what you're paying.
 
-**What a good agent says:** "My standard fee is [2.5% of purchase price / flat fee / hourly rate]. This is negotiable based on the services you need. For example, if you want full service (home search, showings, negotiation, escrow management), that's one price. If you only need help with negotiations, I can offer a lower rate. Everything will be documented in our [buyer broker agreement](https://www.santaclaritaopenhouses.com/buyers-guide) before we start working together."
+**What a good agent says:** "My standard fee is [2.5% of purchase price / flat fee / hourly rate]. This is negotiable based on the services you need. For example, if you want full service (home search, showings, negotiation, escrow management), that's one price. If you only need help with negotiations, I can offer a lower rate. Everything will be documented in our buyer broker agreement before we start working together."
 
 **Red flags:**
 
@@ -240,7 +240,7 @@ A good agent will have multiple examples.
 
 ### Q: How do I verify an agent's track record?
 
-**A:** Ask for recent sales data in your target neighborhoods. Check reviews on Google, Yelp, and [testimonials](https://www.santaclaritaopenhouses.com/testimonials). Request references from past clients. A legitimate agent will have no problem providing proof.
+**A:** Ask for recent sales data in your target neighborhoods. Check reviews on Google, Yelp, and [testimonials](/). Request references from past clients. A legitimate agent will have no problem providing proof.
 
 ### Q: What if my agent pressures me to make an offer?
 
@@ -258,11 +258,11 @@ Most agents rush you into making offers. I take time upfront to explain the enti
 
 ### 2. I Build a Real Budget (Not Just What the Lender Says)
 
-I calculate your TRUE monthly cost, including [Mello-Roos](https://www.santaclaritaopenhouses.com/real-estate-glossary), HOA fees, insurance, and maintenance. I'd rather you buy a $600K home comfortably than stretch to $700K and regret it.
+I calculate your TRUE monthly cost, including Mello-Roos, HOA fees, insurance, and maintenance. I'd rather you buy a $600K home comfortably than stretch to $700K and regret it.
 
 ### 3. I Show You EVERY Home in Your Budget
 
-No steering. No games. If it fits your criteria, we'll tour it—whether it's in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca), [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), or [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca).
+No steering. No games. If it fits your criteria, we'll tour it—whether it's in [Valencia](/), [Saugus](/), [Canyon Country](/), or Castaic.
 
 ### 4. I Negotiate Like a Cop (Because I Was One)
 
@@ -280,7 +280,7 @@ If an agent can't answer these questions clearly and confidently, keep looking.
 
 Buying your first home is a big deal. You deserve an agent who educates, communicates, and fights for you—not someone who's just collecting a commission.
 
-If you're ready to start your home search in Santa Clarita, [schedule a consultation with me](https://www.santaclaritaopenhouses.com/contact). I'll answer all 15 questions, show you my track record, and explain exactly how I'll help you find the right home in the right neighborhood for your budget.
+If you're ready to start your home search in Santa Clarita, [schedule a consultation with me](/contact). I'll answer all 15 questions, show you my track record, and explain exactly how I'll help you find the right home in the right neighborhood for your budget.
 
 No pressure. No games. Just honest guidance from someone who's been protecting people for 20+ years.
 
@@ -288,9 +288,9 @@ No pressure. No games. Just honest guidance from someone who's been protecting p
 
 Former LAPD Officer | Santa Clarita Real Estate Advisor
 
-[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)
+[SantaClaritaOpenHouses.com](/)
 
-[Schedule a Free Consultation](https://www.santaclaritaopenhouses.com/booking)
+Schedule a Free Consultation
 
 ** Share This Post## Comments
 

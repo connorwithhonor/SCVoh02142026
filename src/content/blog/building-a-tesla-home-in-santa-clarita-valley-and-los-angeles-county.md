@@ -99,7 +99,7 @@ If you’re interested in affordable, eco-friendly housing options, check out my
 
 **Podcast**: [https://www.buzzsprout.com/298109/episodes/15956299](https://www.buzzsprout.com/298109/episodes/15956299)
 
-**Full Blog Post**: [https://www.santaclaritaopenhouses.com/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county](https://www.santaclaritaopenhouses.com/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county)
+**Full Blog Post**: https://www.santaclaritaopenhouses.com/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county
 
 I’m **Connor with Honor**, and as always, I’m here to guide you through the world of real estate with integrity and expertise. Let’s make your sustainable homeownership dreams come true today!
 

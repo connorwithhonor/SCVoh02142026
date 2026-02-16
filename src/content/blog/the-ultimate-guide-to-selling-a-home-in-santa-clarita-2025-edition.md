@@ -24,7 +24,7 @@ In 2025, the Santa Clarita real estate market remains competitive yet full of op
 
 ### Key Market Insights:
 
-For real-time market updates, visit our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
+For real-time market updates, visit our [Market Report](/blog).
 
 ## 2. Preparing Your Home for Sale
 
@@ -68,7 +68,7 @@ Embracing technology can give your home a significant advantage in a crowded mar
 
 ### B. Data Analytics &amp; AI
 
-For a closer look at our technological approach, explore our [Quick Search](https://www.santaclaritaopenhouses.com/quick-search) and [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search) features.
+For a closer look at our technological approach, explore our Quick Search and [Advanced Search](/) features.
 
 ## 7. Real Success Stories: Homes Sold in Santa Clarita
 
@@ -76,7 +76,7 @@ Nothing speaks louder than proven results. Here are a few success stories that d
 
 ### A. Case Study: A Quick Turnaround in Canyon Country
 
-A family in Canyon Country needed to sell quickly. With professional staging, targeted online marketing, and expert negotiation, their home sold within days at a competitive price. Visit our [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) to see current examples.
+A family in Canyon Country needed to sell quickly. With professional staging, targeted online marketing, and expert negotiation, their home sold within days at a competitive price. Visit our [Active Listings](/) to see current examples.
 
 ### B. Case Study: Maximizing Value in Newhall
 
@@ -84,7 +84,7 @@ A homeowner in Newhall benefited from a detailed CMA and a dynamic pricing strat
 
 ### C. Case Study: Building Buzz in Saugus
 
-Using social media campaigns and local open houses, a property in Saugus generated high engagement and sold above asking price. Check out our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials) page to read more success stories.
+Using social media campaigns and local open houses, a property in Saugus generated high engagement and sold above asking price. Check out our [Testimonials](/) page to read more success stories.
 
 ## 8. Call to Action: Your Journey to a Successful Home Sale Begins Here
 
@@ -96,7 +96,7 @@ If you’re ready to sell your home in Santa Clarita and want to work with an ag
 
 Selling your home is a major decision that requires expert guidance and a strategic approach. In 2025, the Santa Clarita market offers tremendous opportunities for sellers who are well-prepared and informed. By leveraging the right marketing tools, technology, and local expertise, you can ensure a smooth, profitable home sale.
 
-At [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/), we are committed to making your home selling journey a success. Trust in my experience as *Connor with Honor, the First Responder Realtor* to deliver results with integrity, dedication, and proven strategies.
+At [Santa Clarita Open Houses](/), we are committed to making your home selling journey a success. Trust in my experience as *Connor with Honor, the First Responder Realtor* to deliver results with integrity, dedication, and proven strategies.
 
 Thank you for reading this ultimate guide. I look forward to partnering with you and turning your home sale into a success story.
 

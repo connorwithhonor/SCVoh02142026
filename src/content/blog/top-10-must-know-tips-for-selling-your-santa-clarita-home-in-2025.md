@@ -24,7 +24,7 @@ If you’re considering selling your Santa Clarita property in 2025, you’re en
 
 First, know your environment. Is the inventory rising across major cities like Valencia, Saugus, or Canyon Country? Are mortgage rates going up or down, affecting buyer demand? These insights determine how you price and market your home.
 
-**Action Step**: Review local stats at **[Santa Clarita Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report)**, focusing on average days on market, median list prices, and price per square foot in your ZIP code.
+**Action Step**: Review local stats at **[Santa Clarita Market Report](/blog)**, focusing on average days on market, median list prices, and price per square foot in your ZIP code.
 
 ### 2. Tip 2: Price Competitively from Day One
 
@@ -42,11 +42,11 @@ Listing too high leads to fewer showings and price reductions, which can stigmat
 
 If you’re not ready to go live on the MLS, “Coming Soon” status can generate excitement and potentially encourage buyers to make preemptive offers.
 
-Check **[ComingSoon](https://www.santaclaritaopenhouses.com/comingsoon)** to see how other sellers in Santa Clarita are using this tactic.
+Check **ComingSoon** to see how other sellers in Santa Clarita are using this tactic.
 
 ### 5. Tip 5: Work With Local Expertise &amp; Tools
 
-Having a local agent who knows Santa Clarita’s distinct neighborhoods—like **[Newhall Homes](https://www.santaclaritaopenhouses.com/newhall-homes)** or **[Stevenson Ranch Homes](https://www.santaclaritaopenhouses.com/stevenson-ranch-homes)**—is invaluable. They can advise on micro-market trends, highlight school district perks, and use local SEO to attract qualified buyers.
+Having a local agent who knows Santa Clarita’s distinct neighborhoods—like **Newhall Homes** or **Stevenson Ranch Homes**—is invaluable. They can advise on micro-market trends, highlight school district perks, and use local SEO to attract qualified buyers.
 
 **Website Resources:**
 
@@ -56,7 +56,7 @@ In 2025, not all sellers automatically pay the buyer’s agent commission. If yo
 
 **Consider:**
 
-For deeper insights, see **[Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules](https://www.santaclaritaopenhouses.com/hiring-the-right-santa-clarita-real-estate-agent-under-the-new-commission-rules)**.
+For deeper insights, see **Hiring the Right Santa Clarita Real Estate Agent Under the New Commission Rules**.
 
 ### 7. Tip 7: Leverage AI &amp; Avoid AI Limitations
 
@@ -76,7 +76,7 @@ Buyers may ask for credits or concessions—particularly in a balanced or buyer-
 
 **Key Points:**
 
-**Resource:** Check the **[Seller’s Guide](https://www.santaclaritaopenhouses.com/sellers-guide)** for additional negotiation tips.
+**Resource:** Check the **Seller’s Guide** for additional negotiation tips.
 
 ### 10. Tip 10: When to Consider Upgrades vs. Quick Sale
 

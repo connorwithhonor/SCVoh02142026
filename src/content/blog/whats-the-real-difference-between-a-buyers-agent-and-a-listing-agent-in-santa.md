@@ -52,13 +52,13 @@ A **buyer's agent** (also called a buyer's representative) is hired by YOU to he
 
 **Who they represent:** YOU (and only you)
 
-**Who pays them:** Under new 2026 rules (post-NAR settlement), you negotiate the buyer's agent fee upfront and sign a [buyer broker agreement](https://www.santaclaritaopenhouses.com/buyers-guide) before touring homes. The fee might be paid by the seller as a concession, paid by you directly, or split—but YOU control the negotiation.
+**Who pays them:** Under new 2026 rules (post-NAR settlement), you negotiate the buyer's agent fee upfront and sign a buyer broker agreement before touring homes. The fee might be paid by the seller as a concession, paid by you directly, or split—but YOU control the negotiation.
 
 **Key point:** A buyer's agent has a LEGAL DUTY to protect your interests, get you the best deal possible, and disclose any issues that could affect your decision.
 
 ## Why This Matters in Santa Clarita (And Everywhere Else)
 
-In Santa Clarita's competitive market—especially in hot neighborhoods like [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), and newer parts of [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca)—having YOUR OWN agent isn't optional. Here's why:
+In Santa Clarita's competitive market—especially in hot neighborhoods like [Valencia](/), [Stevenson Ranch](/), and newer parts of [Canyon Country](/)—having YOUR OWN agent isn't optional. Here's why:
 
 ### 1. Information Asymmetry
 
@@ -128,7 +128,7 @@ When you hire a buyer's agent in 2026, you'll sign a buyer broker agreement that
 
 ### Q: Can I tour a home without a buyer's agent?
 
-**A:** Yes, but as of 2026, if you want an agent to represent you, you MUST sign a buyer broker agreement before they can show you homes. You can tour homes on your own at [open houses](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-today) or by contacting listing agents directly—but you won't have representation.
+**A:** Yes, but as of 2026, if you want an agent to represent you, you MUST sign a buyer broker agreement before they can show you homes. You can tour homes on your own at open houses or by contacting listing agents directly—but you won't have representation.
 
 ### Q: If I use the listing agent, will I save money on commission?
 
@@ -168,7 +168,7 @@ When you hire a buyer's agent in 2026, you'll sign a buyer broker agreement that
 
 ## How to Choose Between a Listing Agent and a Buyer's Agent (Spoiler: Always Choose Your Own Agent)
 
-If you're buying a home in Santa Clarita—whether in [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca), [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca), [Newhall](https://www.santaclaritaopenhouses.com/homes-for-sale-in-newhall-ca), or [Valencia](https://www.santaclaritaopenhouses.com/valencia-market-report)—here's the rule:
+If you're buying a home in Santa Clarita—whether in [Saugus](/), Castaic, Newhall, or Valencia—here's the rule:
 
 **ALWAYS hire your own buyer's agent.**
 
@@ -224,11 +224,11 @@ Buyer broker agreements can be confusing. I walk you through every clause, expla
 
 ### 4. I Show You EVERY Home (Not Just the High-Commission Ones)
 
-No steering. No games. If a home fits your criteria—whether it's in [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), or [Acton](https://www.santaclaritaopenhouses.com/homes-for-sale-in-acton-ca)—we'll tour it.
+No steering. No games. If a home fits your criteria—whether it's in [Valencia](/), [Stevenson Ranch](/), or Acton—we'll tour it.
 
 ### 5. I Educate, Not Pressure
 
-I want you to understand what you're buying and why. I'll explain [Mello-Roos](https://www.santaclaritaopenhouses.com/real-estate-glossary), HOA fees, property taxes, and hidden costs. I'd rather you buy a $600K home confidently than stretch to $700K and regret it.
+I want you to understand what you're buying and why. I'll explain Mello-Roos, HOA fees, property taxes, and hidden costs. I'd rather you buy a $600K home confidently than stretch to $700K and regret it.
 
 ## The Santa Clarita Referral Model: How It Works
 
@@ -236,7 +236,7 @@ I run a referral-based model in Santa Clarita. Here's how it works:
 
 ### Step 1: Free Consultation
 
-You [schedule a consultation](https://www.santaclaritaopenhouses.com/booking) and tell me what you're looking for (price range, neighborhoods, timeline).
+You schedule a consultation and tell me what you're looking for (price range, neighborhoods, timeline).
 
 ### Step 2: Agent Matching
 
@@ -266,9 +266,9 @@ I take the guesswork out. You get a PRE-VETTED agent who's proven they can deliv
 
 Buying a home is the biggest financial decision most people ever make. You wouldn't negotiate a lawsuit without a lawyer, and you shouldn't negotiate a home purchase without a buyer's agent.
 
-In Santa Clarita—whether you're looking at [Valencia](https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), [Saugus](https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca), [Canyon Country](https://www.santaclaritaopenhouses.com/homes-for-sale-in-canyon-country-ca), [Stevenson Ranch](https://www.santaclaritaopenhouses.com/homes-for-sale-in-stevenson-ranch-ca), or [Castaic](https://www.santaclaritaopenhouses.com/homes-for-sale-in-castaic-ca)—you need someone fighting for YOU.
+In Santa Clarita—whether you're looking at [Valencia](/), [Saugus](/), [Canyon Country](/), [Stevenson Ranch](/), or Castaic—you need someone fighting for YOU.
 
-If you're ready to start your home search, [reach out to me](https://www.santaclaritaopenhouses.com/contact). I'll match you with a vetted buyer's agent who will represent YOUR interests—not the seller's, not their own, but YOURS.
+If you're ready to start your home search, [reach out to me](/contact). I'll match you with a vetted buyer's agent who will represent YOUR interests—not the seller's, not their own, but YOURS.
 
 No pressure. No games. Just honest guidance from someone who's been protecting people for 20+ years.
 
@@ -276,9 +276,9 @@ No pressure. No games. Just honest guidance from someone who's been protecting p
 
 Former LAPD Officer | Santa Clarita Real Estate Advisor
 
-[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)
+[SantaClaritaOpenHouses.com](/)
 
-[Schedule a Free Consultation](https://www.santaclaritaopenhouses.com/booking)
+Schedule a Free Consultation
 
 ** Share This Post## Comments
 

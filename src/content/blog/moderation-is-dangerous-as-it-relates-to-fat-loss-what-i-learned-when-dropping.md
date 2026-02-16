@@ -19,7 +19,7 @@ Connor "with Honor" MacIvor - August 19, 2025** Tags: [weight loss transformatio
 # Why Moderation Is a Trap and Forgiveness Is Your Secret Weapon for Weight Loss
 
   
-**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20macivor%20fat%20to%20fit%20realtor.png?width=500&amp;height=728&amp;aspect_ratio=500%3A728)TL;DR**: Moderation doesn’t work for everyone—especially not for those with food or alcohol addictions. The real game-changer for sustainable weight loss is forgiving yourself when you slip up and building habits that stick. As a former LAPD officer turned Santa Clarita realtor (CALDRE 01238257), I dropped 135 pounds by ditching the moderation myth, embracing fasting, and learning to move on from setbacks. This isn’t about quick fixes or trendy diets—it’s about real, no-BS strategies to transform your body and mindset. Ready to take control? Check out my journey at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) and book a free consultation at [https://zoommescv.com](https://zoommescv.com) to discuss how discipline in fitness can translate to your real estate goals.
+**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/connor%20macivor%20fat%20to%20fit%20realtor.png?width=500&amp;height=728&amp;aspect_ratio=500%3A728)TL;DR**: Moderation doesn’t work for everyone—especially not for those with food or alcohol addictions. The real game-changer for sustainable weight loss is forgiving yourself when you slip up and building habits that stick. As a former LAPD officer turned Santa Clarita realtor (CALDRE 01238257), I dropped 135 pounds by ditching the moderation myth, embracing fasting, and learning to move on from setbacks. This isn’t about quick fixes or trendy diets—it’s about real, no-BS strategies to transform your body and mindset. Ready to take control? Check out my journey at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle) and book a free consultation at [https://zoommescv.com](/) to discuss how discipline in fitness can translate to your real estate goals.
 
 ## The Moderation Myth: Why It’s a Setup for Failure
 
@@ -35,7 +35,7 @@ Here’s the deal: you’re going to mess up. We all do. Maybe you sneak a taco 
 
 As a former cop, I know a thing or two about discipline. You don’t survive the streets without it. But discipline isn’t about being perfect—it’s about getting back up when you fall. When I started forgiving myself for slip-ups, it was like flipping a switch. Instead of beating myself up over a bad meal, I’d acknowledge it, move on, and stick to my plan. That’s the mindset that got me through those 135 pounds.
 
-Think of it like real estate. If a deal falls through, you don’t quit the business—you analyze, adjust, and move on to the next opportunity. Same goes for your fitness journey. Forgiveness lets you keep moving forward without the baggage of guilt. Want to know more about staying focused? My insights on discipline from policing to real estate can help—book a free consultation at [https://zoommescv.com](https://zoommescv.com).
+Think of it like real estate. If a deal falls through, you don’t quit the business—you analyze, adjust, and move on to the next opportunity. Same goes for your fitness journey. Forgiveness lets you keep moving forward without the baggage of guilt. Want to know more about staying focused? My insights on discipline from policing to real estate can help—book a free consultation at [https://zoommescv.com](/).
 
 ## Why Fasting Worked When Moderation Didn’t
 
@@ -51,7 +51,7 @@ I tried the trendy intermittent fasting schedules (like 16:8, where you fast for
 
 ### Why Fasting Isn’t Starvation
 
-Let’s clear this up: fasting isn’t about starving yourself. It’s a controlled, intentional choice to give your body a break from digestion and let it burn stored energy. You’re not locked in a prison—you can break your fast if you need to. The key is planning and discipline, just like preparing for a home purchase. Curious about how to approach big decisions with clarity? Check out my real estate tips at [https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale](https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale).
+Let’s clear this up: fasting isn’t about starving yourself. It’s a controlled, intentional choice to give your body a break from digestion and let it burn stored energy. You’re not locked in a prison—you can break your fast if you need to. The key is planning and discipline, just like preparing for a home purchase. Curious about how to approach big decisions with clarity? Check out my real estate tips at https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale.
 
 ## Habits Over Hype: Building a Sustainable Routine
 
@@ -69,9 +69,9 @@ Here’s where most people trip up:
 
 ## My Journey: From LAPD to Lean and Leading in Real Estate
 
-As a former LAPD motor cop, I learned to stay sharp under pressure. That same focus helped me drop 135 pounds and now drives my work as a Santa Clarita realtor (CALDRE 01238257). Whether I’m helping clients find their dream home or guiding them through a divorce-related sale (see [https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce](https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce)), I bring the same no-nonsense approach.
+As a former LAPD motor cop, I learned to stay sharp under pressure. That same focus helped me drop 135 pounds and now drives my work as a Santa Clarita realtor (CALDRE 01238257). Whether I’m helping clients find their dream home or guiding them through a divorce-related sale (see https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce), I bring the same no-nonsense approach.
 
-Discipline isn’t about perfection—it’s about progress. Just like I forgave myself for food slip-ups, I help clients navigate setbacks in the housing market. Ready to make a move? Call 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](https://www.santaclaritaopenhouses.com/contact) for a free, no-obligation consultation.
+Discipline isn’t about perfection—it’s about progress. Just like I forgave myself for food slip-ups, I help clients navigate setbacks in the housing market. Ready to make a move? Call 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](/contact) for a free, no-obligation consultation.
 
 ## How to Start Your Transformation Today
 

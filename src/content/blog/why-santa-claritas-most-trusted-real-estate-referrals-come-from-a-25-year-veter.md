@@ -60,7 +60,7 @@ When I refer someone to an agent in my network, I'm not guessing. I'm not relyin
 
 That means something.
 
-If you're looking for [Santa Clarita real estate referrals backed by 25 years of experience](https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-referrals-why-veteran-agents-recommend-trusted-professionals/), you're in the right place.
+If you're looking for Santa Clarita real estate referrals backed by 25 years of experience, you're in the right place.
 
 ## **What I Learned About Character Assessment in 20 Years With LAPD**
 
@@ -86,7 +86,7 @@ I refer agents who don't panic. Who communicate clearly. Who problem-solve inste
 
 That's not something an algorithm can measure. But it's something I can verify after 25 years of working in this industry.
 
-Want to know more about [why LAPD experience matters in real estate vetting](https://www.santaclaritaopenhouses.com/how-law-enforcement-experience-helps-vet-santa-clarita-real-estate-agents/)? Check out that deep dive.
+Want to know more about why LAPD experience matters in real estate vetting? Check out that deep dive.
 
 ## **The Evolution From Active Agent to Referral Expert**
 
@@ -122,7 +122,7 @@ Going referral-only solved multiple problems:
 
 Instead of trying to be the best agent for everyone, I became the best **connector** for people who want a trusted referral.
 
-Learn more about [why veteran agents choose the referral path](https://www.santaclaritaopenhouses.com/why-santa-clarita-veterans-choose-real-estate-referrals-over-competition/).
+Learn more about why veteran agents choose the referral path.
 
 ## **How Santa Clarita Open Houses Works: The Referral Process Explained**
 
@@ -154,7 +154,7 @@ Here's the thing about referrals: they matter to good agents. When an agent gets
 
 Compare that to a Zillow lead, where the agent paid $50-150 for your contact info and you're one of five leads they're chasing that day. **Who do you think gets better service?**
 
-If you're ready to connect with a trusted professional, [contact Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/contact/) and let's start the conversation.
+If you're ready to connect with a trusted professional, contact Santa Clarita Open Houses and let's start the conversation.
 
 ## **The Honor Elevate Connection: AI-Powered Real Estate for Modern Professionals**
 
@@ -180,7 +180,7 @@ When you work with an agent who uses Honor Elevate, you're not just getting some
 
 The agents I refer use technology to be **more responsive, more organized, and more effective**—which means you get better service.
 
-Want to learn more about [how AI is transforming real estate in Santa Clarita](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/)? That article breaks it down.
+Want to learn more about how AI is transforming real estate in Santa Clarita? That article breaks it down.
 
 ## **What People Ask Me About Santa Clarita Real Estate Referrals**
 
@@ -214,7 +214,7 @@ If you're selling in Santa Clarita, I'll connect you with an agent who:
 
 My network covers all of Santa Clarita Valley, including:
 
-If you want to explore specific neighborhoods before reaching out, check out the [Santa Clarita neighborhoods guide](https://www.santaclaritaopenhouses.com/santa-clarita-neighborhoods/) or start your [home search](https://www.santaclaritaopenhouses.com/home-search/) to see what's available.
+If you want to explore specific neighborhoods before reaching out, check out the Santa Clarita neighborhoods guide or start your home search to see what's available.
 
 ### **"How do I know your referrals are actually good agents?"**
 
@@ -256,7 +256,7 @@ Let's say you're selling a 2,000 sq ft home. In **Valencia Woodlands**, that mig
 
 The agents I refer **know these neighborhoods**. They've sold dozens (or hundreds) of homes in SCV. They understand micro-market pricing, buyer preferences, and negotiation leverage.
 
-Want to dive deeper into specific neighborhoods? Check out the [Santa Clarita area information](https://www.santaclaritaopenhouses.com/santa-clarita-area/) page for detailed breakdowns.
+Want to dive deeper into specific neighborhoods? Check out the Santa Clarita area information page for detailed breakdowns.
 
 ## **The Real Cost of Choosing the Wrong Agent**
 
@@ -292,7 +292,7 @@ The agents in my network who use Honor Elevate have systems that handle:
 
 **Translation:** The agent you work with is more responsive, more organized, and less stressed—which means better service for you.
 
-If you want to learn more about [how AI helps Santa Clarita agents serve clients better](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/), that article explains the technology in detail.
+If you want to learn more about how AI helps Santa Clarita agents serve clients better, that article explains the technology in detail.
 
 ## **Why I'm Not Worried About AI Replacing Real Estate Agents**
 
@@ -342,13 +342,13 @@ Finding the right real estate agent shouldn't be a gamble. It shouldn't be about
 
 As a 25-year veteran of Santa Clarita real estate and a 20-year LAPD officer, I've built my referral network on one principle: **I only recommend agents I'd trust with my own family.**
 
-Whether you're buying your first home, selling after decades, or relocating to Santa Clarita Valley, [Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/) connects you with professionals who have earned their spot through character and competence.
+Whether you're buying your first home, selling after decades, or relocating to Santa Clarita Valley, [Santa Clarita Open Houses](/) connects you with professionals who have earned their spot through character and competence.
 
 **No algorithms. No lead purchases. Just personal introductions backed by 25 years of relationships and a reputation I protect fiercely.**
 
 Ready to work with an agent who values honor as much as results?
 
-[Let's talk](https://www.santaclaritaopenhouses.com/contact/).
+Let's talk.
 
 ** Share This Post## Comments
 

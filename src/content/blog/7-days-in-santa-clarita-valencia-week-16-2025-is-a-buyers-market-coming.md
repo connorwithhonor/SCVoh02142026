@@ -204,7 +204,7 @@ Historically, list volume climbs 11–15 % between mid‑April and the Memoria
 
 ## 16&nbsp;&nbsp;Resources &amp; How We Serve
 
-**SantaClaritaOpenHouses.com** is repositioned as the valley’s premier **referral platform**. Our mission: connect consumers with hand‑vetted, ethical REALTOR® professionals who prioritize fiduciary duty above volume metrics. If you need a seller representative, buyer strategist, property manager, or 1031 consultant, submit a quick outline of your goals on our [contact page](https://www.santaclaritaopenhouses.com/contact) and we will curate best‑in‑class introductions.
+**SantaClaritaOpenHouses.com** is repositioned as the valley’s premier **referral platform**. Our mission: connect consumers with hand‑vetted, ethical REALTOR® professionals who prioritize fiduciary duty above volume metrics. If you need a seller representative, buyer strategist, property manager, or 1031 consultant, submit a quick outline of your goals on our [contact page](/contact) and we will curate best‑in‑class introductions.
 
 ### Quick Links
 

@@ -60,7 +60,7 @@ Unlike national platforms, our website is designed for **Santa Clarita locals**:
 
 ### **Start Your Canyon Country Real Estate Journey Today**
 
-With an active market and plenty of opportunities, there’s never been a better time to dive into Canyon Country real estate. Visit **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com)** to explore homes, condos, market trends, and more. Connect with me for personalized advice tailored to your needs.
+With an active market and plenty of opportunities, there’s never been a better time to dive into Canyon Country real estate. Visit **[SantaClaritaOpenHouses.com](/)** to explore homes, condos, market trends, and more. Connect with me for personalized advice tailored to your needs.
 
 **Connor with Honor**
 

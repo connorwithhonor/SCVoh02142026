@@ -78,7 +78,7 @@ Here’s how I can help:
 
 Acton and Agua Dulce are shining examples of the diversity within the Santa Clarita Valley real estate market. From expansive lots and equestrian properties to luxury homes and rural retreats, these areas offer something for everyone. Whether you’re a buyer seeking peace and privacy or a seller looking to maximize your property’s potential, the right strategy—and the right agent—can make all the difference.
 
-For the latest listings, market updates, and personalized real estate advice, visit&nbsp;[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)&nbsp;or reach out to Connor with Honor at 661-400-1720. Let’s make your real estate dreams a reality!
+For the latest listings, market updates, and personalized real estate advice, visit&nbsp;[SantaClaritaOpenHouses.com](/)&nbsp;or reach out to Connor with Honor at 661-400-1720. Let’s make your real estate dreams a reality!
 
 ** Share This Post## Comments
 

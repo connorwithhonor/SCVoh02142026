@@ -98,7 +98,7 @@ Choosing a home is choosing a lifestyle, and in the diverse landscape of Santa C
 
 By partnering with me, Connor MacIvor, your First Responder Realtor, you gain an invaluable advantage. My deep local knowledge, protective mindset honed by years in law enforcement, and commitment to leveraging cutting-edge AI tools ensure you receive a thorough, personalized, and strategic approach to finding your ideal community. I'm here to guide you beyond the listings and into a life where you feel truly at home.
 
-Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) today to begin exploring Santa Clarita's hidden gems and find the neighborhood that perfectly matches your lifestyle. Let's make your dream of living in the ideal Santa Clarita community a reality, with honor every step of the way.
+Visit [SantaClaritaOpenHouses.com](/) today to begin exploring Santa Clarita's hidden gems and find the neighborhood that perfectly matches your lifestyle. Let's make your dream of living in the ideal Santa Clarita community a reality, with honor every step of the way.
 
 ** Share This Post## Comments
 

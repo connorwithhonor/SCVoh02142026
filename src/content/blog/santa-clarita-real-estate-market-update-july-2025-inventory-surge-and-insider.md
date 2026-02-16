@@ -54,7 +54,7 @@ As of recent changes in California real estate, you’ll need to sign a buyer-br
 
 ### 3. Act Fast but Stay Strategic
 
-With 96 new listings and 15 open houses this weekend, speed is key. However, don’t rush into a bad deal. My background as a first responder has taught me to stay calm under pressure, and I bring that discipline to your home search. We’ll tour properties, like those in Valencia (https://www.santaclaritaopenhouses.com/homes-for-sale-in-valencia-ca), and assess their value based on market trends and comparable sales. If rates drop further, refinancing could lower your costs, as I’ve noted at https://www.santaclaritaopenhouses.com/interest-rates-are-reducing-when-will-be-the-best-time-to-buy-a-home.
+With 96 new listings and 15 open houses this weekend, speed is key. However, don’t rush into a bad deal. My background as a first responder has taught me to stay calm under pressure, and I bring that discipline to your home search. We’ll tour properties, like those in Valencia (/), and assess their value based on market trends and comparable sales. If rates drop further, refinancing could lower your costs, as I’ve noted at https://www.santaclaritaopenhouses.com/interest-rates-are-reducing-when-will-be-the-best-time-to-buy-a-home.
 
 ### 4. Avoid Common Pitfalls
 

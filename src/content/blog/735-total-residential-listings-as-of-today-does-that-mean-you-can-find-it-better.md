@@ -39,9 +39,9 @@ Sarcasm alert: Because nothing screams “top agent” like ignoring a hot lead 
 
 ## From Lead to Closing: AI Workflows That Run Themselves
 
-AI doesn’t stop at answering calls. It launches entire workflows to keep your pipeline humming. Booked an appointment? The bot updates your CRM, triggers email drips, and sends SMS reminders to reduce no-shows. Need to reschedule? It’s seamless, no human required. For sellers, this means prepped comp reports faster than you can say “CMA” (https://www.santaclaritaopenhouses.com/free-market-analysis). For buyers, it’s instant access to listings like Canyon Country’s condos (https://www.santaclaritaopenhouses.com/condos-for-sale-in-canyon-country-ca).
+AI doesn’t stop at answering calls. It launches entire workflows to keep your pipeline humming. Booked an appointment? The bot updates your CRM, triggers email drips, and sends SMS reminders to reduce no-shows. Need to reschedule? It’s seamless, no human required. For sellers, this means prepped comp reports faster than you can say “CMA” (/contact). For buyers, it’s instant access to listings like Canyon Country’s condos (https://www.santaclaritaopenhouses.com/condos-for-sale-in-canyon-country-ca).
 
-In Santa Clarita’s cutthroat market, speed is king. Miss a lead, and you’re handing a competitor a deal. AI ensures every inquiry—whether it’s a roofing contractor needing an estimate or a buyer eyeing a Saugus single-family home (https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca)—gets handled. Post-closing, it nudges clients for five-star reviews, boosting your SEO on search engines and keeping you top of mind (https://www.santaclaritaopenhouses.com/quick-search).
+In Santa Clarita’s cutthroat market, speed is king. Miss a lead, and you’re handing a competitor a deal. AI ensures every inquiry—whether it’s a roofing contractor needing an estimate or a buyer eyeing a Saugus single-family home (/)—gets handled. Post-closing, it nudges clients for five-star reviews, boosting your SEO on search engines and keeping you top of mind (https://www.santaclaritaopenhouses.com/quick-search).
 
 Humor time: Remember when “automation” meant a fancy voicemail that nobody checked? Yeah, that’s deader than my old pager from the LAPD days. Today’s AI is like having a clone—one that doesn’t need coffee or complain about traffic. Check my AI insights at YouTube.com/@aiwithhonor for more.
 
@@ -61,11 +61,11 @@ Head to https://www.santaclaritaopenhouses.com/active-listings to browse every l
 
 Of those 735 listings:
 
-Canyon Country’s leading the volume—check the latest at https://www.santaclaritaopenhouses.com/canyon-country-market-report. Mortgage rates are dipping (https://www.santaclaritaopenhouses.com/mortgage-rates), fueling buyer frenzy, but sellers face stiffer competition. Price changes are rampant—see the chaos at https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-shock-69-price-changes-in-just-one-week-do.
+Canyon Country’s leading the volume—check the latest at https://www.santaclaritaopenhouses.com/canyon-country-market-report. Mortgage rates are dipping (/blog), fueling buyer frenzy, but sellers face stiffer competition. Price changes are rampant—see the chaos at https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-shock-69-price-changes-in-just-one-week-do.
 
 ### Buyer Hacks: Door-Knocking and Neighborhood Vetting
 
-Buyers, here’s a tip most agents won’t shout from the rooftops: Door-knock your potential neighbors *before* you commit. Escrow’s open? Hit the pavement. Buying in a new Acton development (https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-acton-ca)? Walk the tract, chat up other buyers. In established areas like Saugus (https://www.santaclaritaopenhouses.com/homes-for-sale-in-saugus-ca)? Knock next door. You might dodge a bullet—like the neighbor with a 24/7 motorcycle repair hobby.
+Buyers, here’s a tip most agents won’t shout from the rooftops: Door-knock your potential neighbors *before* you commit. Escrow’s open? Hit the pavement. Buying in a new Acton development (https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-acton-ca)? Walk the tract, chat up other buyers. In established areas like Saugus (/)? Knock next door. You might dodge a bullet—like the neighbor with a 24/7 motorcycle repair hobby.
 
 Humor: Nothing says “dream home” like closing only to find out you’re next to a wannabe DJ. I’ve repped new housing deals; trust me, vet the vibe first. Save your inspection and appraisal cash until you’re sure.
 
@@ -83,7 +83,7 @@ My take: As a Gen X’er who’s seen tech evolve from pagers to AI overlords (Y
 
 ## Deep Dive: AI Workflows for Real Estate Pros
 
-Let’s unpack workflows. Appointment booked? AI updates your CRM, sends drip emails, and texts reminders. For sellers, it pulls comps instantly (https://www.santaclaritaopenhouses.com/free-market-analysis). For buyers, it filters listings by budget or area (https://www.santaclaritaopenhouses.com/advanced-search).
+Let’s unpack workflows. Appointment booked? AI updates your CRM, sends drip emails, and texts reminders. For sellers, it pulls comps instantly (/contact). For buyers, it filters listings by budget or area (/).
 
 In Santa Clarita, where condos fly (https://www.santaclaritaopenhouses.com/condos-for-sale-in-canyon-country-ca), speed wins. AI ensures no lead slips. Post-closing, it solicits reviews, boosting your SEO at https://www.santaclaritaopenhouses.com/quick-search.
 
@@ -93,7 +93,7 @@ Humble brag: I dropped 135 lbs through fasting and discipline (YouTube.com/@home
 
 Not all AI’s created equal. Generic bots can spew bad info or alienate clients. My systems at HonorElevate.com are custom-synced to avoid that. For real estate, ensure your AI knows your listings—specific to areas like Agua Dulce (https://www.santaclaritaopenhouses.com/agua-dulce-market-report).
 
-Market pitfalls? Mispricing kills. With 735 listings, buyers are picky. Overprice, and you’re stuck—see price cuts at https://www.santaclaritaopenhouses.com/price-changes-galore-in-the-santa-clarita-real-estate-world-mid-july-2024. Underprice, and you leave money on the table. Work with a pro who gets Santa Clarita (https://www.santaclaritaopenhouses.com/contact).
+Market pitfalls? Mispricing kills. With 735 listings, buyers are picky. Overprice, and you’re stuck—see price cuts at https://www.santaclaritaopenhouses.com/price-changes-galore-in-the-santa-clarita-real-estate-world-mid-july-2024. Underprice, and you leave money on the table. Work with a pro who gets Santa Clarita (/contact).
 
 ## The Human Edge: Why Connor’s Your Guy
 

@@ -55,7 +55,7 @@ Santa Clarita Valley offers a unique blend of suburban comfort and urban conveni
 
 ## Contact Us
 
-If you have any questions or need personalized advice, feel free to reach out to us directly. Visit [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com) for the latest listings and open house schedules.
+If you have any questions or need personalized advice, feel free to reach out to us directly. Visit [SantaClaritaOpenHouses.com](/) for the latest listings and open house schedules.
 
 Thank you for reading, and stay tuned for more updates!
 

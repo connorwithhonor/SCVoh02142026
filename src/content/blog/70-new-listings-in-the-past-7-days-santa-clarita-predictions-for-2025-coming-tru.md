@@ -36,7 +36,7 @@ But why such a big jump now? Let’s break it down into straightforward bullet p
 
 If you want to see all these new listings—and not just the ones hosting open houses—head over to my local resource:
 
-[Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/)
+[Santa Clarita Open Houses](/)
 
 No spammy ads, no suspicious links, just the full **Multiple Listing Service** inventory, right there for the viewing.
 
@@ -44,7 +44,7 @@ No spammy ads, no suspicious links, just the full **Multiple Listing Service** i
 
 The web is saturated with national real estate portals that bombard you with more pop-ups than a children’s fair. (We’ve all been there—you visit for a moment of clarity and get hammered with “Sign up now!” or “Get your dream home in 20 minutes!”) Let this loving father give you a quick tip: a **truly local site** is key to accurate data.
 
-That’s why I maintain [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) as a **local platform**. The listings are updated directly from the **MLS** (Multiple Listing Service), meaning you see the most accurate statuses—pending, active, active under contract. And if you’d like to branch out or do specialized searches, maybe you want to find homes near your favorite golf course or a property with a pool, you can explore:
+That’s why I maintain [SantaClaritaOpenHouses.com](/) as a **local platform**. The listings are updated directly from the **MLS** (Multiple Listing Service), meaning you see the most accurate statuses—pending, active, active under contract. And if you’d like to branch out or do specialized searches, maybe you want to find homes near your favorite golf course or a property with a pool, you can explore:
 
 No high-pressure gimmicks or random “click here, click there.” The idea is to keep it simple, local, and relevant, so your hunt is about **you**, not about entertaining some marketing machine.
 
@@ -54,7 +54,7 @@ For those new to the region, Castaic is about as Santa Clarita as it gets—beau
 
 **Why does a wildfire matter for real estate?** Because lenders, buyers, and sellers all get a bit anxious when a blaze is close by. You could see:
 
-One fatherly note of optimism: historically, real estate in Santa Clarita tends to bounce back strong after local fires. The community is resilient, and demand in scenic areas often remains high—especially if the cause for alarm is short-lived. If you’re specifically interested in how these fires are shaping the local market in Castaic, check out the [Castaic Market Report](https://www.santaclaritaopenhouses.com/castaic-market-report). It helps to keep an eye on how many listings are active, pending, or sold, so you can get a baseline for pricing, days on market, and more.
+One fatherly note of optimism: historically, real estate in Santa Clarita tends to bounce back strong after local fires. The community is resilient, and demand in scenic areas often remains high—especially if the cause for alarm is short-lived. If you’re specifically interested in how these fires are shaping the local market in Castaic, check out the Castaic Market Report. It helps to keep an eye on how many listings are active, pending, or sold, so you can get a baseline for pricing, days on market, and more.
 
 ### 5. The Political Environment: Yes, It Plays a Role
 
@@ -62,7 +62,7 @@ Now, my friend, I’ve traveled enough to know that politics, while not always p
 
 Will we see an immediate dip in buyer activity because of political friction? Possibly, but it’s more likely we’ll see a **short-term slowdown** with some folks waiting until they feel more certain. Then again, Santa Clarita has historically been a robust market with a stable job base and demand from families relocating out of denser areas. So if we keep an eye on it carefully, we might see some leveling off, but not necessarily a crash.
 
-If you’re in the camp of wanting to wait and see but still keep a digital pulse on **Santa Clarita market data**, take a peek at our [Newsletter](https://www.santaclaritaopenhouses.com/newsletter). There, I often share localized real estate news, new policies, and how they might shape your decisions in the short or long term.
+If you’re in the camp of wanting to wait and see but still keep a digital pulse on **Santa Clarita market data**, take a peek at our Newsletter. There, I often share localized real estate news, new policies, and how they might shape your decisions in the short or long term.
 
 ### 6. Forecast: Surplus or Balanced Market?
 
@@ -72,7 +72,7 @@ Historically, though, as we head into spring and early summer, families become m
 
 Keep your eyes on the local market data. If you see 525 listings balloon to 700, 800, or beyond by April, while sales volumes stay flat, you might see price softness. On the other hand, if the listings keep incrementally increasing but the** buyer drive** outpaces it, we could see quick sales, minimal price reductions, and plenty of competition.
 
-For daily or weekly updates, consider bookmarking the [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) page. You’ll see a real-time snapshot of what’s popping up, pending, or closing.
+For daily or weekly updates, consider bookmarking the [Active Listings](/) page. You’ll see a real-time snapshot of what’s popping up, pending, or closing.
 
 ### 7. School Districts: Why Parents Are Lining Up
 
@@ -86,7 +86,7 @@ Because these academically strong schools typically drive higher demand, the rea
 
 **As your fatherly figure,** I’m here to remind you that buying or selling real estate is both an emotional and financial journey. Doing it well requires a plan. Let’s break down some suggestions:
 
-Keep your eyes on interest rates, too. Sometimes, a modest shift in the mortgage rate can alter monthly payments by hundreds of dollars. For updated data, you can check out [Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates) right on our site.
+Keep your eyes on interest rates, too. Sometimes, a modest shift in the mortgage rate can alter monthly payments by hundreds of dollars. For updated data, you can check out [Mortgage Rates](/blog) right on our site.
 
 ### 9. Why “Connor With Honor” Matters
 
@@ -98,13 +98,13 @@ Being local is crucial to providing accurate guidance. I take that responsibilit
 
 If you’re a seller, let’s talk strategy. With 70 new listings in a week, competition is stiff. One of the biggest mistakes I see from well-meaning folks is **overpricing**. They say, “Let’s throw it against the wall and see what sticks.” This rarely ends well. Overpricing can lead to:
 
-A fatherly tip: you can run an in-depth, **no-obligation** analysis of your home’s value at the [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) link. It’s better to come in strong and fair than to start sky-high and chase the market downward.
+A fatherly tip: you can run an in-depth, **no-obligation** analysis of your home’s value at the [Free Market Analysis](/contact) link. It’s better to come in strong and fair than to start sky-high and chase the market downward.
 
 ### 11. Market Dynamics for Buyers: Preparing for Competition
 
 Buyers, if you’re out there sniffing around for a bargain, know that you might not be the only one. Even if the listing surge momentarily tips the scales, well-priced homes—especially in prime Santa Clarita neighborhoods—will fetch multiple offers. As a father who’s coached many through life’s big events, I can’t stress enough:
 
-If you want a more advanced dive into searching for these deals or new homes, hop over to our [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search). Tweak your parameters and get email alerts the moment a fitting home enters the MLS.
+If you want a more advanced dive into searching for these deals or new homes, hop over to our [Advanced Search](/). Tweak your parameters and get email alerts the moment a fitting home enters the MLS.
 
 ### 12. Seller vs. Buyer Market Power Struggles
 
@@ -122,19 +122,19 @@ We’re in that late winter window where new listings are hitting. Buyer activit
 
 While the **local** real estate market is often guided by local supply-demand, the macro picture matters. Keep your fatherly mentor’s advice in mind:
 
-If you’d like to do a deeper dive into finances, we have a [Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates) page updated regularly with relevant data. If that’s not enough, you can talk to one of our local lenders who can provide real-time quotes based on your financial profile.
+If you’d like to do a deeper dive into finances, we have a [Mortgage Rates](/blog) page updated regularly with relevant data. If that’s not enough, you can talk to one of our local lenders who can provide real-time quotes based on your financial profile.
 
 ### 15. Relocation: From Los Angeles to Santa Clarita
 
 In my years as a father, I’ve seen many grown children move cities, states, and even continents. One of the top reasons families come to Santa Clarita is a desire to leave the denser hustle of Los Angeles or the San Fernando Valley behind. They crave:
 
-If you’re thinking, “I’m in L.A. right now and want to see how Santa Clarita compares,” try the [Quick Search](https://www.santaclaritaopenhouses.com/quick-search) or [Search by Area](https://www.santaclaritaopenhouses.com/search-by-area) to get a sense of neighborhoods that might fit your lifestyle.
+If you’re thinking, “I’m in L.A. right now and want to see how Santa Clarita compares,” try the Quick Search or Search by Area to get a sense of neighborhoods that might fit your lifestyle.
 
 ### 16. For the Investors: Rental and Flipping Opportunities
 
 Real estate in Santa Clarita is not just for end-user families. Investors find it equally appealing. With local colleges, stable job growth, and a strong rental market, picking up a rental property here can be a rewarding strategy. Or, if you have a flair for renovations, **flipping** can be profitable—especially as more listings flood the market, giving you a chance to buy at a slightly discounted price, fix up the place, and resell in the summer, when buyer demand traditionally peaks.
 
-**Flipping Tip**: If you’re looking for properties that might need some tender loving care—what we call “fixer-uppers”—you can find them on [Fixer Upper Homes for Sale in Santa Clarita Valley, CA](https://www.santaclaritaopenhouses.com/fixer-upper-homes-for-sale-in-santa-clarita-valley-ca).
+**Flipping Tip**: If you’re looking for properties that might need some tender loving care—what we call “fixer-uppers”—you can find them on Fixer Upper Homes for Sale in Santa Clarita Valley, CA.
 
 ### 17. The Role of Home Inspections and Escrow Caution
 
@@ -166,7 +166,7 @@ Dear friend, I get it: real estate decisions are emotional. That’s normal. But
 
 ### 23. Upgrading vs. Building: Santa Clarita’s New Construction
 
-Another reason we see fresh listings appear is that some owners decide to **build** a custom home or purchase new construction in a community that’s still expanding. If you want to see new developments in the area, check out [New Construction Properties for Sale in Santa Clarita, CA](https://www.santaclaritaopenhouses.com/new-construction-properties-for-sale-in-santa-clarita-ca). While brand-new homes can come at a premium, they do offer warranties, modern designs, and the chance to customize.
+Another reason we see fresh listings appear is that some owners decide to **build** a custom home or purchase new construction in a community that’s still expanding. If you want to see new developments in the area, check out New Construction Properties for Sale in Santa Clarita, CA. While brand-new homes can come at a premium, they do offer warranties, modern designs, and the chance to customize.
 
 But a caution: new home builders often have their own preferred lenders or appear to “bundle” deals. A fatherly tip—bring your own agent to represent your interests, even if the builder says it’s not necessary. They look out for themselves, and you want someone who looks out for you.
 
@@ -174,7 +174,7 @@ But a caution: new home builders often have their own preferred lenders or appea
 
 We touched on the recent Hughes fire in Castaic. Beyond pausing escrows, it can also impact insurance premiums. If you’re new to Santa Clarita, you might wonder, “Am I in a fire zone? Will that drive up my monthly costs?” Possibly. That’s where a local agent can guide you to homes less prone to risk and connect you with insurance brokers who can handle the complexities of coverage in a region with occasional wildfires.
 
-While you’re at it, read up on general tips about [Fire Danger in Santa Clarita, California](https://www.santaclaritaopenhouses.com/fire-danger-in-santa-clarita-california-and-how-a-home-owners-can-mitigate-them). Being prepared never hurts, especially when dealing with Mother Nature.
+While you’re at it, read up on general tips about Fire Danger in Santa Clarita, California. Being prepared never hurts, especially when dealing with Mother Nature.
 
 ### 25. Low-Ball Offers: Are They Ever a Good Idea?
 
@@ -190,7 +190,7 @@ Negotiating a real estate deal isn’t about “winning” or “losing.” It�
 
 Plenty of folks love browsing open houses—like window-shopping for real estate. As the fatherly figure who’s hosted countless open houses, let me say: it’s a great way to get a feel for the market, especially if you’re just starting your search. Some tips:
 
-Check out [Santa Clarita Open Houses for Sale](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-for-sale) to plan your weekend tours. If you see something you like, follow up quickly.
+Check out Santa Clarita Open Houses for Sale to plan your weekend tours. If you see something you like, follow up quickly.
 
 ### 28. Selling During a Listing Surge: Stand Out
 
@@ -202,7 +202,7 @@ When your home is just one among hundreds, these small touches can attract the r
 
 A father’s job is often to warn you about “gotchas,” right? In real estate, **closing costs** can come as a surprise if you’re not prepared. Aside from your down payment, you’ll typically pay loan origination fees, title insurance, possibly escrow fees, property taxes, homeowners insurance, and more. If you’re selling, you might handle some of the buyer’s closing costs as a negotiation sweetener.
 
-If you want an estimate of closing costs in the Santa Clarita region, or if you’d like more title-related info, check out our post on [Title Insurance When Refinancing Your Loan](https://www.santaclaritaopenhouses.com/title-insurance-when-refinancing-your-loan) to see how these processes can differ from a standard purchase.
+If you want an estimate of closing costs in the Santa Clarita region, or if you’d like more title-related info, check out our post on Title Insurance When Refinancing Your Loan to see how these processes can differ from a standard purchase.
 
 ### 30. Tales from the Trenches: Real Buyers and Sellers
 
@@ -236,7 +236,7 @@ Curb appeal matters. If you’re listing in the next couple of months, fresh lan
 
 ### 37. Real Estate Glossary for Beginners
 
-Real estate can be riddled with jargon—escrow, contingencies, earnest money deposit, and more. If you find your head spinning, check out the [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary). Familiarizing yourself with terms arms you with knowledge, making you a more confident participant in negotiations. Don’t worry: you don’t have to memorize everything in one sitting, but a quick reference never hurts.
+Real estate can be riddled with jargon—escrow, contingencies, earnest money deposit, and more. If you find your head spinning, check out the Real Estate Glossary. Familiarizing yourself with terms arms you with knowledge, making you a more confident participant in negotiations. Don’t worry: you don’t have to memorize everything in one sitting, but a quick reference never hurts.
 
 ### 38. Fearing Multiple Offers? Strategies to Succeed
 
@@ -244,11 +244,11 @@ Occasionally, in prime neighborhoods, multiple offers can erupt. How do you stan
 
 ### 39. The “Under 500k” Crowd: Is That Possible?
 
-If your budget is tight and you’re worried about the rising cost of living, fear not—there are still pockets of Santa Clarita with **homes under $500,000**. They often move quickly, so be prepared. You can keep an eye on [Homes for Sale in Santa Clarita CA Under 500,000](https://www.santaclaritaopenhouses.com/homes-for-sale-in-santa-clarita-ca-under-500000). Patience, readiness, and a friendly agent (I know a guy!) can help you nab the right property before someone else does.
+If your budget is tight and you’re worried about the rising cost of living, fear not—there are still pockets of Santa Clarita with **homes under $500,000**. They often move quickly, so be prepared. You can keep an eye on Homes for Sale in Santa Clarita CA Under 500,000. Patience, readiness, and a friendly agent (I know a guy!) can help you nab the right property before someone else does.
 
 ### 40. Luxury Market: For the High Rollers
 
-On the other side of the spectrum, Santa Clarita offers spacious estates, especially in areas like **Stevenson Ranch** or certain pockets of **Valencia**. These can top $1 million or more. With interest rates no longer rock bottom, however, it might become a bit pricier to finance these. But if your finances are in order, you’re stepping into a premium lifestyle—tree-lined streets, modern floor plans, scenic vistas, sometimes even gated communities. For a glimpse, see [Luxury Homes for Sale in Santa Clarita Valley, CA](https://www.santaclaritaopenhouses.com/luxury-homes-for-sale-in-santa-clarita-valley-ca).
+On the other side of the spectrum, Santa Clarita offers spacious estates, especially in areas like **Stevenson Ranch** or certain pockets of **Valencia**. These can top $1 million or more. With interest rates no longer rock bottom, however, it might become a bit pricier to finance these. But if your finances are in order, you’re stepping into a premium lifestyle—tree-lined streets, modern floor plans, scenic vistas, sometimes even gated communities. For a glimpse, see Luxury Homes for Sale in Santa Clarita Valley, CA.
 
 ### 41. Pitfalls to Avoid: From Overpaying to Overlooked Repairs
 

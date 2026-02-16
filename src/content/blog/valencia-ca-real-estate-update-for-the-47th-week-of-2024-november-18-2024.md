@@ -82,7 +82,7 @@ In the guide, you’ll find:
 
 Valencia’s real estate market is vibrant, with opportunities across all property types and neighborhoods. From coming-soon listings in Northbridge to luxury condos in Fairways, there’s a home for every buyer. Sellers, take note of this active environment—use the demand to your advantage and position your property to stand out. Both buyers and sellers can benefit from **staying ahead of market trends** and adapting strategies to meet Valencia’s competitive demands.
 
-For the latest listings and a deeper look at Valencia’s current offerings, visit [SantaClaritaOpenHouses.com/valencia-homes](https://www.santaclaritaopenhouses.com/valencia-homes). And if you're serious about making the most of this market, grab your copy of the **2025 Santa Clarita Real Estate Guide** to elevate your approach.
+For the latest listings and a deeper look at Valencia’s current offerings, visit SantaClaritaOpenHouses.com/valencia-homes. And if you're serious about making the most of this market, grab your copy of the **2025 Santa Clarita Real Estate Guide** to elevate your approach.
 
 Thank you for joining me today. Tune in tomorrow for our **Stevenson Ranch Real Estate Update** and catch our Sunday show, which includes updates for all Santa Clarita Valley areas, from Acton to Agua Dulce.
 

@@ -100,7 +100,7 @@ In the second scenario, the seller recognizes that the demand is fair, documente
 
 If you are a buyer, this shift means it is imperative to **insist on a home inspection** and partner with a seasoned professional. If you are a seller, you must be prepared to address legitimate, documented repair requests to keep your closing timeline on track.
 
-My entire approach is built on this principle: winning through preparation. This commitment to detail is why my clients successfully **close** on their dream homes and why my listings consistently attract and convert qualified buyers. You deserve an agent who brings the **First Responder Advantage** to every contract negotiation: [The First Responder Advantage](https://www.santaclaritaopenhouses.com/the-first-responder-advantage-why-my-lapd-background-makes-me-your-scv-realtor).
+My entire approach is built on this principle: winning through preparation. This commitment to detail is why my clients successfully **close** on their dream homes and why my listings consistently attract and convert qualified buyers. You deserve an agent who brings the **First Responder Advantage** to every contract negotiation: The First Responder Advantage.
 
 ### The AEO and AIEO Revolution: Why Human-Initiated, AI-Enhanced Real Estate Wins
 
@@ -136,7 +136,7 @@ The AI revolution in real estate (which I cover extensively as **@AIwithHonor**)
 
 Real estate is not a short-term gamble; it is the foundation of long-term wealth. Every decision you make today, from which lender you choose to the conditions you include in your **Residential Purchase Agreement**, impacts your financial future.
 
-We offer detailed, city-specific market reports (such as the [Valencia Market Report](https://www.santaclaritaopenhouses.com/valencia-market-report) or the [Saugus Market Report](https://www.santaclaritaopenhouses.com/saugus-market-report)) that offer deeper dives than a generic update. We cover important topics like:
+We offer detailed, city-specific market reports (such as the Valencia Market Report or the Saugus Market Report) that offer deeper dives than a generic update. We cover important topics like:
 
 This educational approach, backed by real-time data, is what ensures my clients are the most informed in the SCV, ready to make a move when the right opportunity arises.
 

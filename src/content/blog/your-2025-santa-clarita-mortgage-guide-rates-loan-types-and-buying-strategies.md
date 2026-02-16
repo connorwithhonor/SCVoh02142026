@@ -30,7 +30,7 @@ The mortgage process is the linchpin of most real estate transactions. Even if y
 
 Mortgage rates have historically influenced how quickly or slowly buyers act. In 2025, rates may be variable due to economic factors like inflation or Federal Reserve decisions.
 
-For real-time data on how rates stack up in Santa Clarita, check the **[Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates)** page on SantaClaritaOpenHouses.com.
+For real-time data on how rates stack up in Santa Clarita, check the **[Mortgage Rates](/blog)** page on SantaClaritaOpenHouses.com.
 
 ### 3. Fixed-Rate vs. Adjustable-Rate Mortgages
 
@@ -50,7 +50,7 @@ For those needing lower down payments or flexible credit requirements, governmen
 
 Santa Clarita has a strong community of first responders and veterans—some of whom can access specialized loan programs or grants. While these can vary by lender, you might find:
 
-Always ask your loan officer about any local or national programs that could apply, especially if you’re a teacher, nurse, or first responder. Sites like SantaClaritaOpenHouses.com occasionally post updates on specialized grants under the **[Learn](https://www.santaclaritaopenhouses.com/learn)** or **[Update](https://www.santaclaritaopenhouses.com/update)** sections.
+Always ask your loan officer about any local or national programs that could apply, especially if you’re a teacher, nurse, or first responder. Sites like SantaClaritaOpenHouses.com occasionally post updates on specialized grants under the **Learn** or **Update** sections.
 
 ### 6. The Role of Pre-Approval: Why Timing Is Key
 
@@ -58,7 +58,7 @@ Always ask your loan officer about any local or national programs that could app
 
 **Benefits:**
 
-Use the **[Get Pre-Approved](https://www.santaclaritaopenhouses.com/get-pre-approved)** link or contact a trusted lender to start this process. Aim for pre-approval (not just pre-qualification) for maximum credibility.
+Use the **Get Pre-Approved** link or contact a trusted lender to start this process. Aim for pre-approval (not just pre-qualification) for maximum credibility.
 
 ### 7. Mortgage Tools on SantaClaritaOpenHouses.com
 
@@ -70,11 +70,11 @@ Your local resource, SantaClaritaOpenHouses.com, provides:
 
 **Tips:**
 
-Check out the **[Buyer’s Guide](https://www.santaclaritaopenhouses.com/buyers-guide)** or **[Sellers Guide](https://www.santaclaritaopenhouses.com/sellers-guide)** pages for more on how to handle these evolving commissions and negotiations.
+Check out the **Buyer’s Guide** or **Sellers Guide** pages for more on how to handle these evolving commissions and negotiations.
 
 ### 9. “Coming Soon” Properties &amp; Your Mortgage Strategy
 
-If you’re targeting **[Coming Soon](https://www.santaclaritaopenhouses.com/comingsoon)** listings, be aware that these may hit the market officially within days or weeks. Having your mortgage pre-approval ready ensures you can submit an immediate offer when the property goes active.
+If you’re targeting **Coming Soon** listings, be aware that these may hit the market officially within days or weeks. Having your mortgage pre-approval ready ensures you can submit an immediate offer when the property goes active.
 
 ### 10. Dealing with AI-Filtered Listings
 
@@ -88,7 +88,7 @@ Remember, even the best mortgage rate means little if you don’t see the right 
 
 Refinancing can lower your monthly payment, change your loan term, or let you tap into home equity:
 
-Track **[Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates)** to see if a refi could benefit you.
+Track **[Mortgage Rates](/blog)** to see if a refi could benefit you.
 
 ### 12. Mortgage Myths &amp; FAQs
 

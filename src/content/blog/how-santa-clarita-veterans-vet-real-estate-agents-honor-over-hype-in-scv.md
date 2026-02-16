@@ -60,7 +60,7 @@ New agents aren't necessarily bad, but they're learning on your dime. They haven
 
 I referred a buyer to an agent who had sold 40+ homes in Valencia Woodlands over the past five years. When the buyer found a home they loved, the agent knew the builder, the HOA rules, and even which units had better views based on tree growth patterns. That's **local expertise** you can't fake.
 
-Want to explore specific neighborhoods before you buy? Check out the [Santa Clarita neighborhoods guide](https://www.santaclaritaopenhouses.com/santa-clarita-neighborhoods/) to see what each area offers.
+Want to explore specific neighborhoods before you buy? Check out the Santa Clarita neighborhoods guide to see what each area offers.
 
 ### **Pillar 2: Integrity Under Pressure**
 
@@ -90,7 +90,7 @@ I know an agent who advised her seller to accept a lower offer from a pre-approv
 
 **That's integrity.**
 
-Learn more about [why integrity matters in Santa Clarita real estate](https://www.santaclaritaopenhouses.com/why-integrity-matters-more-than-sales-volume-in-real-estate/).
+Learn more about why integrity matters in Santa Clarita real estate.
 
 ### **Pillar 3: Responsive Communication**
 
@@ -120,7 +120,7 @@ One agent in my network uses [Honor Elevate's AI voice system](https://www.honor
 
 **That's the kind of responsiveness modern clients expect.**
 
-Want to understand how AI helps agents serve clients better? Read [how AI automation improves Santa Clarita real estate service](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/).
+Want to understand how AI helps agents serve clients better? Read how AI automation improves Santa Clarita real estate service.
 
 ### **Pillar 4: Negotiation Skills (Not Just "Closing" Skills)**
 
@@ -152,7 +152,7 @@ The agent I referred did comps, verified there weren't actually multiple offers,
 
 **That saved the buyer $40K and protected them from waiving critical protections.**
 
-Learn more about [negotiation strategies in competitive SCV markets](https://www.santaclaritaopenhouses.com/how-to-win-bidding-wars-in-santa-clarita-without-overpaying/).
+Learn more about negotiation strategies in competitive SCV markets.
 
 ### **Pillar 5: Long-Term Relationship Mindset**
 
@@ -204,7 +204,7 @@ Twenty years of law enforcement taught me that **character reveals itself under 
 
 **Those are the people I want in my referral network.**
 
-Learn more about [how law enforcement experience shapes real estate vetting](https://www.santaclaritaopenhouses.com/how-law-enforcement-experience-helps-vet-santa-clarita-real-estate-agents/).
+Learn more about how law enforcement experience shapes real estate vetting.
 
 ## **Red Flags That Disqualify Agents From My Referral Network**
 
@@ -260,7 +260,7 @@ Compare that to a Zillow referral, where the agent paid $75 for your contact inf
 
 **Which sounds better?**
 
-Ready to work with a veteran-vetted agent? [Contact Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/contact/) and let's start the conversation.
+Ready to work with a veteran-vetted agent? Contact Santa Clarita Open Houses and let's start the conversation.
 
 ## **Case Study: How Vetting Saved a Client $60,000**
 
@@ -318,7 +318,7 @@ In LA, an agent can burn bridges and move to a different neighborhood. In SCV, w
 
 **That's why the agents in my network protect their reputations fiercely—they live and work here.**
 
-Want to understand SCV neighborhoods better? Check out the [Santa Clarita area information page](https://www.santaclaritaopenhouses.com/santa-clarita-area/) for detailed breakdowns.
+Want to understand SCV neighborhoods better? Check out the Santa Clarita area information page for detailed breakdowns.
 
 ## **The Honor Elevate Advantage: Why Tech-Forward Agents Serve You Better**
 
@@ -344,7 +344,7 @@ When agents automate repetitive tasks (scheduling, follow-ups, social media), th
 
 **Translation:** Honor Elevate doesn't replace the human relationship—it enhances it.
 
-Learn more about [how AI is transforming Santa Clarita real estate](https://www.santaclaritaopenhouses.com/how-ai-automation-helps-santa-clarita-agents-serve-clients-better/).
+Learn more about how AI is transforming Santa Clarita real estate.
 
 ## **Common Questions About Agent Vetting**
 
@@ -366,7 +366,7 @@ You're not locked in. If you haven't signed a buyer representation agreement or 
 
 If you have signed something, read the contract carefully. Most have termination clauses.
 
-**Either way, [contact me](https://www.santaclaritaopenhouses.com/contact/) and we'll figure out your options.**
+**Either way, contact me and we'll figure out your options.**
 
 ### **"Do you refer agents outside Santa Clarita?"**
 
@@ -416,7 +416,7 @@ Ready to work with a vetted agent?
 
 ### **Step 1: Contact Me**
 
-[Reach out through SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/contact/) or call directly.
+Reach out through SantaClaritaOpenHouses.com or call directly.
 
 ### **Step 2: Tell Me Your Situation**
 
@@ -454,7 +454,7 @@ That means: ✅ Proven local expertise
 
 Ready to work with an agent who values honor as much as results?
 
-[Let's talk](https://www.santaclaritaopenhouses.com/contact/).
+Let's talk.
 
 ** Share This Post## Comments
 

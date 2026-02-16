@@ -46,7 +46,7 @@ This diversity ensures options for buyers seeking move-in-ready properties, spac
 
 ### **Why Work with Connor with Honor?**
 
-As your trusted real estate expert, I specialize in providing&nbsp;**timely, data-driven insights**&nbsp;tailored to your needs. Whether you're buying your dream home or selling your property, I'm here to guide you every step of the way. Visit&nbsp;[Santa&nbsp;Clarita&nbsp;Open&nbsp;Houses](https://www.santaclaritaopenhouses.com/)&nbsp;for customized market reports on Valencia and other cities in the Santa Clarita Valley.
+As your trusted real estate expert, I specialize in providing&nbsp;**timely, data-driven insights**&nbsp;tailored to your needs. Whether you're buying your dream home or selling your property, I'm here to guide you every step of the way. Visit&nbsp;[Santa&nbsp;Clarita&nbsp;Open&nbsp;Houses](/)&nbsp;for customized market reports on Valencia and other cities in the Santa Clarita Valley.
 
 I'm Connor with Honor, committed to serving you with integrity and expertise. Let’s make your real estate journey seamless and successful. Over and out.
 

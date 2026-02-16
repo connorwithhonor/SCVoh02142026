@@ -21,7 +21,7 @@ Connor "with Honor" MacIvor - September 12, 2025** Tags: [santa clarita real est
   
 ## TL;DR
 
-Santa Clarita Valley's housing market is churning like a Gen X mixtape—79 new listings, 52 sales, and 99 price drops keeping buyers hungry and sellers honest. Zoom into Saugus (one mile from Saugus High), and single-family homes in the $700K-$900K sweet spot are flying off the shelf at 100% list price, with 21-27 days on market. But miss your pricing? Add weeks of headaches. As your local Saugus Realtor who's pounded the pavement from LAPD streets to SCV doorsteps, I'm breaking it down: Prep smart, price right, and let's turn your equity into action. Book a no-BS consult at [ZoomMeSCV.com](https://zoommescv.com) or hit me up at 661-888-4983—because in this market, waiting is for amateurs.
+Santa Clarita Valley's housing market is churning like a Gen X mixtape—79 new listings, 52 sales, and 99 price drops keeping buyers hungry and sellers honest. Zoom into Saugus (one mile from Saugus High), and single-family homes in the $700K-$900K sweet spot are flying off the shelf at 100% list price, with 21-27 days on market. But miss your pricing? Add weeks of headaches. As your local Saugus Realtor who's pounded the pavement from LAPD streets to SCV doorsteps, I'm breaking it down: Prep smart, price right, and let's turn your equity into action. Book a no-BS consult at [ZoomMeSCV.com](/) or hit me up at 661-888-4983—because in this market, waiting is for amateurs.
 
 ---
 
@@ -75,7 +75,7 @@ Sellers, let's talk brass tacks. In Saugus' hot pocket, the market rewards the r
 
 Pricing day one is your superpower. Undercut the dreamers; align with closed comps. In the $700K band, it's foot traffic heaven—competitive but chill offers. Miss it? Watch DOM (days on market) balloon. For higher tiers, justify with updates; otherwise, concession city. And those back-on-market wobblers? Prime for negotiation—financing flops create openings.
 
-Humor me: I've seen sellers list high, chase reductions, and end up canceling like a bad date. Don't be that guy. As a local who's lived the SCV grind, I run buyer-match reports tailored to your floor plan. Want a days-to-sell forecast? It's yours. Book via [ZoomMeSCV.com](https://zoommescv.com) or let's chat curbside—I'm your neighbor, after all.
+Humor me: I've seen sellers list high, chase reductions, and end up canceling like a bad date. Don't be that guy. As a local who's lived the SCV grind, I run buyer-match reports tailored to your floor plan. Want a days-to-sell forecast? It's yours. Book via [ZoomMeSCV.com](/) or let's chat curbside—I'm your neighbor, after all.
 
 ## Buyer Bootcamp: Hunt Smart, Win Big in Saugus
 
@@ -93,7 +93,7 @@ But here's the Gen X truth: Markets evolve. We're post-pandemic, pre-whatever-20
 
 I've bootstrapped my way through SCV real estate since hanging up the LAPD badge—firearms instructor by day, market whisperer by night. As Connor with Honor, I'm not just an agent; I'm the guy who gets it. No corporate script, just straight talk from someone who's closed in every zip.
 
-Ready to act? Swing by [SantaClaritaOpenHouses.com](https://santaclaritaopenhouses.com) for open house intel, or lock a private Zoom at [ZoomMeSCV.com](https://zoommescv.com). Call 661-888-4983—I'll answer, because unlike those robo-lines, I pick up. Let's turn data into deeds.
+Ready to act? Swing by [SantaClaritaOpenHouses.com](https://santaclaritaopenhouses.com) for open house intel, or lock a private Zoom at [ZoomMeSCV.com](/). Call 661-888-4983—I'll answer, because unlike those robo-lines, I pick up. Let's turn data into deeds.
 
 ## Recap
 
@@ -107,7 +107,7 @@ Ready to act? Swing by [SantaClaritaOpenHouses.com](https://santaclaritaopenhous
 
 - **Buyer Hacks**: Stalk stales, strong terms, flex on older gems—negotiation's in the back-on-markets.
 
-- **Call to Action**: Book your consult at [ZoomMeSCV.com](https://zoommescv.com) or dial 661-888-4983. Saugus awaits.
+- **Call to Action**: Book your consult at [ZoomMeSCV.com](/) or dial 661-888-4983. Saugus awaits.
 
 ** Share This Post## Comments
 

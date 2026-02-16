@@ -25,7 +25,7 @@ Open houses serve as **one of the best ways to explore the Santa Clarita real es
 
 Each weekend, **Santa Clarita open houses** take place across **Valencia, Canyon Country, Saugus, Newhall, Stevenson Ranch, and Castaic**, offering buyers a wide variety of homes to explore. Open house schedules usually fall between **11:00 AM and 4:00 PM**, though some homes may have showings with shorter windows.
 
-To **simplify the process**, I have built a dedicated **[Santa Clarita Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca)** platform that pulls **real-time MLS data**—helping you instantly find and filter the latest open house listings.
+To **simplify the process**, I have built a dedicated **Santa Clarita Open Houses** platform that pulls **real-time MLS data**—helping you instantly find and filter the latest open house listings.
 
 As of today, there are **132 open houses** scheduled across Santa Clarita. If you are serious about buying, now is the time to plan your visits strategically.
 
@@ -73,7 +73,7 @@ Buying a home is one of the most **significant financial decisions** you will ma
 
 Santa Clarita open houses provide an excellent opportunity to **explore different homes, compare neighborhoods, and find the perfect property**. By using **strategic search tools**, focusing on **key home features**, and working with **an experienced real estate professional**, you can **navigate the home-buying process with confidence**.
 
-Start your home search today by visiting **[SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/)**.
+Start your home search today by visiting **[SantaClaritaOpenHouses.com](/)**.
 
 For expert advice, **contact Connor with Honor today**.
 

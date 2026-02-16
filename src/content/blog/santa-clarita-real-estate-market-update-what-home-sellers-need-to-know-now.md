@@ -24,7 +24,7 @@ Santa Clarita continues to be one of Southern California’s most desirable regi
 
 ### Key Market Insights:
 
-For the most up-to-date details, check out our [Market Report](https://www.santaclaritaopenhouses.com/santa-clarita-market-report).
+For the most up-to-date details, check out our [Market Report](/blog).
 
 ## 2. Trends Impacting Home Sellers
 
@@ -50,7 +50,7 @@ For the most up-to-date details, check out our [Market Report](https://www.santa
 
 ### B. Streamlining the Closing Process
 
-For more on negotiation strategies, visit our [Blog](https://www.santaclaritaopenhouses.com/blog) and [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) pages.
+For more on negotiation strategies, visit our [Blog](/blog) and [Free Market Analysis](/contact) pages.
 
 ## 5. Real Success Stories from Santa Clarita Home Sellers
 

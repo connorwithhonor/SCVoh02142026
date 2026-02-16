@@ -60,7 +60,7 @@ Some folks wonder, “Why should I pay thousands just to sell my house?” or �
 
 As a **home seller**, you want a **champion** who invests in your success. If you’re paying a higher commission, ask, “What are you doing for me that I can’t get from another agent at a lower rate?” For instance, do they have:
 
-*(For more insights into the **Santa Clarita** real estate process, check out my [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary) for definitions of many terms. Knowledge is power, dear friend, and I love to help you **decode** real estate lingo!)*
+*(For more insights into the **Santa Clarita** real estate process, check out my Real Estate Glossary for definitions of many terms. Knowledge is power, dear friend, and I love to help you **decode** real estate lingo!)*
 
 ## 5. Predatory Agents vs. Protective Agents—Your Knight on the Field
 
@@ -80,13 +80,13 @@ A strong real estate agent in **Santa Clarita** or beyond should be able to arti
 
 **Ask for examples** of situations where the agent overcame obstacles. For instance, maybe they faced a complicated **multiple-offer** scenario and soared above the competition, netting a higher price for the seller. Or perhaps they saved a deal from the brink of collapse by skillfully navigating repairs and contingencies.
 
-*(Want to see how past clients have appreciated my approach? Take a peek at our [Testimonials](https://www.santaclaritaopenhouses.com/testimonials). Those stories speak volumes about the real, tangible experiences of those I’ve served.)*
+*(Want to see how past clients have appreciated my approach? Take a peek at our [Testimonials](/). Those stories speak volumes about the real, tangible experiences of those I’ve served.)*
 
 ## 7. Interviewing Agents: The Questions That Reveal Character
 
 When you’re interviewing a potential agent—whether buying or selling—**don’t hold back**. You’re making what could be the **largest transaction** of your life. Here are some potent questions:
 
-*(Still shopping for the right agent? Try out our [About](https://www.santaclaritaopenhouses.com/about) page to see what we’re all about here at SantaClaritaOpenHouses.com. Learn who I am—and what I stand for—in more detail.)*
+*(Still shopping for the right agent? Try out our [About](/) page to see what we’re all about here at SantaClaritaOpenHouses.com. Learn who I am—and what I stand for—in more detail.)*
 
 ## 8. Buyers’ Representation: The Commission Question
 
@@ -96,7 +96,7 @@ If you’re a **buyer**, you might assume you don’t have to worry about paying
 
 Potentially, yes. Let’s say you buy a $600,000 home, but the listing only offers 2.5%. If your contract states your buyer’s agent must be paid 3%, that’s a difference of $3,000. If not covered in negotiations with the seller, you might pay it at closing.
 
-*(For more on the evolving **mortgage rates** that might impact your monthly budget, check out [Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates). Understanding the big picture of your finances and how commission might come into play is crucial before you sign on the dotted line.)*
+*(For more on the evolving **mortgage rates** that might impact your monthly budget, check out [Mortgage Rates](/blog). Understanding the big picture of your finances and how commission might come into play is crucial before you sign on the dotted line.)*
 
 ## 9. Seller Perspectives: Are You Paying Too Much?
 
@@ -106,7 +106,7 @@ That said, you’ll want to weigh the **agent’s experience** and **marketing b
 
 On the other hand, if the agent in question is simply recycling the same old “MLS plus yard sign” technique, paying a standard or high commission might be akin to burning money. And if an agent tries to shame you for questioning them, that’s a **red flag**.
 
-*(Curious about local market values? Head over to our [Free Market Analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) page. Because knowledge is your shield, dear friend—never walk into a battle unprepared.)*
+*(Curious about local market values? Head over to our [Free Market Analysis](/contact) page. Because knowledge is your shield, dear friend—never walk into a battle unprepared.)*
 
 ## 10. Transparency in Real Estate: Buyer-Broker Agreements and Beyond
 
@@ -114,7 +114,7 @@ One major shift in the real estate industry is the **increased push for transpar
 
 Before you sign, ensure the agreement includes a clause about **cancellation** if the agent doesn’t deliver on promises. This is your **escape hatch** to avoid being bound to an ineffective or unethical realtor.
 
-*(For more on the intricacies of real estate terms, you might find our local [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary) helpful. And if you’re relocating into the Santa Clarita area, check our [Relocation](https://www.santaclaritaopenhouses.com/relocation-1) page for tips on making a smooth transition.)*
+*(For more on the intricacies of real estate terms, you might find our local Real Estate Glossary helpful. And if you’re relocating into the Santa Clarita area, check our Relocation page for tips on making a smooth transition.)*
 
 ## 11. Behind the Scenes: Where Does Your Commission Dollar Go?
 
@@ -128,7 +128,7 @@ I’m Connor with Honor, your local **Santa Clarita** real estate specialist and
 
 I’ve dedicated my life to **protect and serve**—first in uniform, now on the real estate battlefield. I approach real estate with the same vigilance I had on the streets. When you walk into this potentially **stressful** process, I see it as my duty to shield you from unscrupulous tactics, hidden fees, and predatory practices. My vow? **Keep you safe**—financially, mentally, and emotionally—so you can realize your real estate goals **without regrets**.
 
-*(Have questions or want to chat with me directly? Visit our [Contact](https://www.santaclaritaopenhouses.com/contact) page. I’d love to guide you, fatherly-sarcasm style, toward clarity and success!)*
+*(Have questions or want to chat with me directly? Visit our [Contact](/contact) page. I’d love to guide you, fatherly-sarcasm style, toward clarity and success!)*
 
 ## 13. Avoiding Common Pitfalls (and Predatory Tactics)
 
@@ -160,7 +160,7 @@ Is that necessarily better or worse? It depends on you. Some folks prefer an all
 
 Here’s a fatherly tip: **Always research**. Type an agent’s name into Google. Check their reviews on **Zillow** (though be cautious—some unscrupulous folks might “game” the system). See if they have real reviews on **Yelp** or **Google My Business**. Also check **local** Santa Clarita community forums or Facebook groups. Additionally, ask them to provide a list of recent transactions. If they’re proud of their success, they’ll happily share.
 
-*(I keep a robust section of success stories on [My Sold Listings](https://www.santaclaritaopenhouses.com/my-sold-listings). Transparency is key; seeing what’s been done in the past can help you gauge how an agent might serve you in the future.)*
+*(I keep a robust section of success stories on My Sold Listings. Transparency is key; seeing what’s been done in the past can help you gauge how an agent might serve you in the future.)*
 
 ## 17. The SantaClaritaOpenHouses.com Edge
 
@@ -178,9 +178,9 @@ By exploring those pages, you’ll see exactly how local real estate data is cur
 
 Serving Santa Clarita means understanding each **community’s heartbeat**. Canyon Country has a different vibe than **Valencia**, which differs still from **Newhall**, **Saugus**, **Stevenson Ranch**, or outlying areas like **Acton** and **Agua Dulce**. The commission you negotiate might reflect the local norms or the property’s unique value proposition.
 
-**Example**: If you’re selling a **horse property** in **Acton** (see [Horse Properties in Santa Clarita Valley](https://www.santaclaritaopenhouses.com/horse-properties-for-sale-in-santa-clarita-valley-ca)), that requires specialized marketing to a more niche audience. A strong listing agent who invests time, money, and knowledge in effectively marketing that type of property is invaluable.
+**Example**: If you’re selling a **horse property** in **Acton** (see Horse Properties in Santa Clarita Valley), that requires specialized marketing to a more niche audience. A strong listing agent who invests time, money, and knowledge in effectively marketing that type of property is invaluable.
 
-*(Community is everything. I see it as my duty to keep the neighborhoods informed and safe. If you want to know about open houses in your community, check out [Santa Clarita Open Houses Today](https://www.santaclaritaopenhouses.com/santa-clarita-open-houses-today-1).)*
+*(Community is everything. I see it as my duty to keep the neighborhoods informed and safe. If you want to know about open houses in your community, check out Santa Clarita Open Houses Today.)*
 
 ## 20. Building a Long-Term Relationship with Your Realtor
 
@@ -202,7 +202,7 @@ We’ve covered a sprawling range of topics, from the old 3% + 3% model to the i
 
 Here are the **critical points** to remember:
 
-*(If you want to see what’s happening in the market right now, check out the [Blog](https://www.santaclaritaopenhouses.com/blog) on SantaClaritaOpenHouses.com. I regularly update it with data-driven insights, giving you an edge on the competition.)*
+*(If you want to see what’s happening in the market right now, check out the [Blog](/blog) on SantaClaritaOpenHouses.com. I regularly update it with data-driven insights, giving you an edge on the competition.)*
 
 ### A Heartfelt Closing Note
 
@@ -224,7 +224,7 @@ I’m simply here to shine a light and protect you from the dragons lurking in t
 
 **Ethical** real estate is about shining a light on everything, from how commissions are structured to how you can exit a contract if you’re unhappy. If your agent is doing things right, they have nothing to hide. They’ll emphasize clarity at every step.
 
-When searching for a home—be it in **Newhall**, **Valencia**, or **Saugus**—a local website like SantaClaritaOpenHouses.com is your friend. We maintain up-to-date listings, detailed property info, hyperlocal tips, **market reports** (e.g., [Canyon Country Market Report](https://www.santaclaritaopenhouses.com/canyon-country-market-report), [Valencia Market Report](https://www.santaclaritaopenhouses.com/valencia-market-report), and so forth), giving you an advantage you might not get using a broader portal that lumps Santa Clarita in with the rest of Los Angeles County.
+When searching for a home—be it in **Newhall**, **Valencia**, or **Saugus**—a local website like SantaClaritaOpenHouses.com is your friend. We maintain up-to-date listings, detailed property info, hyperlocal tips, **market reports** (e.g., Canyon Country Market Report, Valencia Market Report, and so forth), giving you an advantage you might not get using a broader portal that lumps Santa Clarita in with the rest of Los Angeles County.
 
 ### The Fatherly Sarcasm and Wisdom
 
@@ -252,7 +252,7 @@ Remember, you wield the **power** in your real estate transactions. Your agent�
 
 May your real estate endeavors be guided by clarity, empowered by knowledge, and sealed with success. If you ever need me, your fatherly ex-cop-turned-realtor, I’m just a **click** or **call** away.
 
-*(Ready to chat directly? Head over to my [Contact](https://www.santaclaritaopenhouses.com/contact) page or explore the rest of [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/) for more resources. Let’s get started on **saving the world**—one honest real estate dealing at a time.)*
+*(Ready to chat directly? Head over to my [Contact](/contact) page or explore the rest of [SantaClaritaOpenHouses.com](/) for more resources. Let’s get started on **saving the world**—one honest real estate dealing at a time.)*
 
 **Stay safe, stay informed, and keep that honor shining bright!**
 

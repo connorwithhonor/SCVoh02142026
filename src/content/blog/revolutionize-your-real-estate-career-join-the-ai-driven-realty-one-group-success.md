@@ -20,7 +20,7 @@ Are you a real estate professional in the Santa Clarita Valley or the San Fernan
 
 Welcome to **Realty ONE Group Success** in Santa Clarita Valley, where we believe in combining proven real estate strategies with the power of artificial intelligence to elevate your performance, enhance your client relationships, and propel your personal brand to new heights. This post, which is well over 5,000 words, will detail exactly how we do that—and how you can become part of our growing team. We’ll talk about:
 
-At Realty ONE Group Success, we don’t do the “same old, same old.” We do “new, better, and next level”—with you at the center. **If you’re ready to talk** about what your future could look like on our team, simply scroll until you see our “I’m Ready to Talk” button below and click it to visit our [Contact Page](https://www.santaclaritaopenhouses.com/contact). Make sure to say “Connor referred me,” so we know you’re coming from our latest blog outreach.
+At Realty ONE Group Success, we don’t do the “same old, same old.” We do “new, better, and next level”—with you at the center. **If you’re ready to talk** about what your future could look like on our team, simply scroll until you see our “I’m Ready to Talk” button below and click it to visit our [Contact Page](/contact). Make sure to say “Connor referred me,” so we know you’re coming from our latest blog outreach.
 
 Let’s dive in. Get comfortable, because we’re going in-depth. By the end of these paragraphs, you’ll not only know our approach, you’ll feel confident that making the switch to Realty ONE Group Success is a decision that will empower your entire career.
 
@@ -72,21 +72,21 @@ You might be thinking: “Alright, you’ve mentioned advanced training. But how
 
 ### 4.1. Linking You to Key Pages
 
-One of the first places you’ll want to check out is our **[About Page](https://www.santaclaritaopenhouses.com/about)**, which explains our mission, values, and unique approach to real estate. This page lays out everything we believe in, from ethical standards to the ways we encourage professional development.
+One of the first places you’ll want to check out is our **[About Page](/)**, which explains our mission, values, and unique approach to real estate. This page lays out everything we believe in, from ethical standards to the ways we encourage professional development.
 
-If you’re curious about **feedback** from our clients or want to see the reviews that highlight the relationships we build, visit our **[Testimonials Page](https://www.santaclaritaopenhouses.com/testimonials)**. We believe transparency is a powerful recruitment tool; when you see how our clients rave about their experiences with our agents, you’ll understand that we’re more than just a brokerage. We’re a family, and our clients are part of that family too.
+If you’re curious about **feedback** from our clients or want to see the reviews that highlight the relationships we build, visit our **[Testimonials Page](/)**. We believe transparency is a powerful recruitment tool; when you see how our clients rave about their experiences with our agents, you’ll understand that we’re more than just a brokerage. We’re a family, and our clients are part of that family too.
 
-Want more insights into local property values or the financial side of homebuying? We keep a regularly updated **[Mortgage Rates Page](https://www.santaclaritaopenhouses.com/mortgage-rates)**, which you can share with your clients. This page has the latest rates, plus tips on navigating different loan products.
+Want more insights into local property values or the financial side of homebuying? We keep a regularly updated **[Mortgage Rates Page](/blog)**, which you can share with your clients. This page has the latest rates, plus tips on navigating different loan products.
 
-In addition, our website features a **[Blog](https://www.santaclaritaopenhouses.com/blog)** that covers AI integration tips, local real estate trends, success stories, marketing strategies, and more. As a new or experienced agent, you’ll find these blog posts jam-packed with knowledge, from marketing how-to’s to market analysis. We also accept guest posts from our agents, so once you’re comfortable, you can contribute your own experiences with AI and share them with a growing audience!
+In addition, our website features a **[Blog](/blog)** that covers AI integration tips, local real estate trends, success stories, marketing strategies, and more. As a new or experienced agent, you’ll find these blog posts jam-packed with knowledge, from marketing how-to’s to market analysis. We also accept guest posts from our agents, so once you’re comfortable, you can contribute your own experiences with AI and share them with a growing audience!
 
 ### 4.2. Dream Home Finder &amp; Advanced Tools
 
-Imagine the look on a lead’s face when you tell them they can utilize powerful AI-driven property searches right on your site. Our **[Dream Home Finder](https://www.santaclaritaopenhouses.com/dream-home-finder)** tool is a prime example. Once you show prospects that you have a step-by-step, AI-enhanced method of identifying exactly the property they want, you become their hero. Need something more granular? Our **[Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search)** page provides the next level of property-searching detail. You can brand yourself as a specialized agent who knows how to harness technology to find hidden gems other agents might overlook.
+Imagine the look on a lead’s face when you tell them they can utilize powerful AI-driven property searches right on your site. Our **[Dream Home Finder](/contact)** tool is a prime example. Once you show prospects that you have a step-by-step, AI-enhanced method of identifying exactly the property they want, you become their hero. Need something more granular? Our **[Advanced Search](/)** page provides the next level of property-searching detail. You can brand yourself as a specialized agent who knows how to harness technology to find hidden gems other agents might overlook.
 
 ### 4.3. Market Intelligence &amp; Newsletters
 
-Knowing your local area thoroughly means providing up-to-date market reports and statistics. Our **[Free Market Analysis Page](https://www.santaclaritaopenhouses.com/free-market-analysis)** simplifies that for potential sellers, giving them immediate data about how their home might fare in today’s market. For more ongoing educational or data-rich content, point your prospects (or even yourself) to our **[Newsletter](https://www.santaclaritaopenhouses.com/newsletter)**. Once you join us, you can contribute to or utilize these resources in your personal brand-building strategy.
+Knowing your local area thoroughly means providing up-to-date market reports and statistics. Our **[Free Market Analysis Page](/contact)** simplifies that for potential sellers, giving them immediate data about how their home might fare in today’s market. For more ongoing educational or data-rich content, point your prospects (or even yourself) to our **Newsletter**. Once you join us, you can contribute to or utilize these resources in your personal brand-building strategy.
 
 ### 4.4. Internal Agent Portal with AI Resources
 
@@ -138,7 +138,7 @@ We know that deciding to switch brokerages can be a big move. Let’s address th
 
 ### 10.1. Harnessing Our Site for High Visibility
 
-You’ve probably noticed that we pay close attention to **SEO** (Search Engine Optimization). Our website, [SantaClaritaOpenHouses.com](https://www.santaclaritaopenhouses.com/), is structured to pull in significant traffic—**both** from clients looking to buy or sell, **and** from agents who are investigating potential brokerage opportunities. This means when you become part of the team, you’ll also benefit from the leads and visibility generated by our high-performing site.
+You’ve probably noticed that we pay close attention to **SEO** (Search Engine Optimization). Our website, [SantaClaritaOpenHouses.com](/), is structured to pull in significant traffic—**both** from clients looking to buy or sell, **and** from agents who are investigating potential brokerage opportunities. This means when you become part of the team, you’ll also benefit from the leads and visibility generated by our high-performing site.
 
 We create specific landing pages—for example, community pages such as:
 
@@ -146,7 +146,7 @@ And many others. Each page is SEO-optimized to rank well in local searches (e.g.
 
 ### 10.2. Personal Branding Within Our Framework
 
-We also encourage you to build your **personal brand**. That might mean customizing your agent profile, posting regularly on the [Blog](https://www.santaclaritaopenhouses.com/blog), or sharing your own success stories. Our approach is simple: **strengthen the brokerage brand by strengthening the personal brands** of each individual agent. Unlike older, more traditional brokerages, we’re not worried about overshadowing you; we want to highlight you.
+We also encourage you to build your **personal brand**. That might mean customizing your agent profile, posting regularly on the [Blog](/blog), or sharing your own success stories. Our approach is simple: **strengthen the brokerage brand by strengthening the personal brands** of each individual agent. Unlike older, more traditional brokerages, we’re not worried about overshadowing you; we want to highlight you.
 
 Working with us, you can set up your own subdomain, or tie your existing personal website to ours. This synergy ensures your brand is never “lost,” while still leveraging the power of a recognized brokerage name like Realty ONE Group. Plus, we’ll show you how AI can help with everything from content creation to social media scheduling, so you’re not bogged down in manual tasks as you expand your brand presence.
 
@@ -198,7 +198,7 @@ If you’ve read this far, congratulations! You’re clearly serious about eleva
 
 Click the button below to start the conversation with us. Whether you have just a few questions or you’re eager to move your license immediately, we want to hear your goals, challenges, and aspirations. There’s zero pressure. We only want to ensure that if you’re an agent seeking growth, you have the chance to explore all we have to offer.
 
-**[I’M READY TO TALK](https://www.santaclaritaopenhouses.com/contact)**
+**[I’M READY TO TALK](/contact)**
 
 (Make sure to mention “Connor referred me!” so we can tailor our conversation to your specific needs and ensure we give you top-priority service.)
 
@@ -210,7 +210,7 @@ By embracing **AI** now, you’re not just adopting a passing trend. You’re po
 
 **So, let’s do this.** Let’s harness technology, local expertise, and a supportive community to supercharge your real estate career. Again, your next step is just a click away:
 
-[**I’M READY TO TALK**](https://www.santaclaritaopenhouses.com/contact)
+[**I’M READY TO TALK**](/contact)
 
 We look forward to hearing about your story, your vision, and how we can help you write the next chapter in your real estate journey. Here’s to a bold, exciting future—together.
 
