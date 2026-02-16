@@ -613,3 +613,46 @@
 # Common page redirects
 /blog.html /blog 301
 /blog.htm /blog 301
+
+# IDX city/neighborhood pages → homepage with relevant content
+/valencia-homes / 301
+/santa-clarita-homes / 301
+/stevenson-ranch-homes / 301
+/saugus-homes / 301
+/newhall-homes / 301
+/canyon-country-homes / 301
+/castaic-homes / 301
+/ventura-homes / 301
+/losangeles / 301
+/acton / 301
+/agua-dulce / 301
+/valencia / 301
+/stevenson-ranch / 301
+/saugus / 301
+/newhall / 301
+/canyon-country / 301
+/castaic / 301
+
+# IDX search/filter pages → homepage
+/idx / 301
+/open-houses / 301
+/new-listings / 301
+/coming-soon / 301
+/homes-with-pools / 301
+/gated-communities / 301
+/golf-course / 301
+/rv-parking / 301
+/santa-clarita-market-report / 301
+
+# Contact page → book a consultation page
+/contact /book 301
+/contact/ /book 301
+
+# FAQ → about page
+/faq /about 301
+/faq/ /about 301
+
+# Catch common variations
+/blog/ /blog 301
+/about/ /about 301
+/book/ /book 301
