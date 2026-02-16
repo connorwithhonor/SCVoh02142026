@@ -19,7 +19,26 @@
       "WebFetch(domain:www.agentimage.com)",
       "WebFetch(domain:www.luxurypresence.com)",
       "WebFetch(domain:www.convertflow.com)",
-      "WebFetch(domain:www.proven.partners)"
+      "WebFetch(domain:www.proven.partners)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(iconv:*)",
+      "Bash(playwright install:*)",
+      "Bash(ls:*)",
+      "Bash(timeout:*)",
+      "Bash(grep:*)",
+      "Bash(powershell:*)",
+      "Bash(tee:*)",
+      "Bash(node -e:*)",
+      "Bash(test:*)",
+      "Bash(head:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(echo:*)",
+      "Bash(netlify login:*)",
+      "Bash(netlify deploy:*)",
+      "Bash(git remote get-url:*)",
+      "Bash(git config:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
