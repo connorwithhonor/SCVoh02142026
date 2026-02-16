@@ -215,7 +215,7 @@ Explore our [coming soon listings](https://www.SantaClaritaOpenHouses.com/coming
 
 ### Latest Blog Posts
 
-Stay informed with our [latest blog posts](https://santaclaritaopenhouses.com/blog), where we share expert advice, market updates, and tips to help you navigate the Santa Clarita Valley real estate landscape effectively.
+Stay informed with our [latest blog posts](https:///blog/blog), where we share expert advice, market updates, and tips to help you navigate the Santa Clarita Valley real estate landscape effectively.
 
 ### How to Buy and Sell Real Estate Book
 
@@ -247,7 +247,7 @@ Whether you're buying your dream home, selling a cherished property, or explorin
 
 ### Contact Connor with Honor:
 
-Stay connected through our [social media channels](#social-media) and explore our [latest blog posts](https://santaclaritaopenhouses.com/blog) for ongoing insights and updates. Here's to a successful real estate journey in 2025 and beyond!
+Stay connected through our [social media channels](#social-media) and explore our [latest blog posts](https:///blog/blog) for ongoing insights and updates. Here's to a successful real estate journey in 2025 and beyond!
 
 ### About Connor T. MacIvor
 

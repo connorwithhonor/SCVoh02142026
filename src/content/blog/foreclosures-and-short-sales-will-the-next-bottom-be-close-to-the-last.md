@@ -142,7 +142,7 @@ Here’s what you’ll discover:
 
 We’ll also discuss how **expired, canceled, and hold listings** might impact your buying or selling strategy in the near future.
 
-If you're navigating this competitive real estate market, tune in for the latest data and trends to help you make informed decisions. For more information on foreclosure and short sale opportunities, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](http://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
+If you're navigating this competitive real estate market, tune in for the latest data and trends to help you make informed decisions. For more information on foreclosure and short sale opportunities, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](https://www./blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
 
 **Don’t miss out – listen now and get the edge you need!**
 
@@ -156,7 +156,7 @@ Welcome to your **Santa Clarita Valley Real Estate Update for September 2024**! 
 
 Here's what you’ll learn in today’s update:
 
-For more details on foreclosures and short sales, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](http://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
+For more details on foreclosures and short sales, visit **[www.santaclaritaopenhouses.com/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last](https://www./blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last)**.
 
 Also, check out our latest podcast episode for an even deeper dive into the real estate market trends: **[https://www.buzzsprout.com/298109/episodes/15898336](https://www.buzzsprout.com/298109/episodes/15898336)**.
 

@@ -39,7 +39,7 @@ Key elements from the complaint:
 
 Why should you care as a Santa Clarita buyer or seller? Because this deal hands Zillow near-monopoly control over a "crucial segment" of rentals. In our valley, where multifamily units are popping up to meet demand from young professionals and families, reduced competition could mean inflated ad costs for landlords – costs that get passed to tenants via higher rents. And for agents? Those tens of thousands poured into Zillow for leads might feel even more like a rigged casino.
 
-For more on how local markets like ours are evolving, check out our active listings at [https://www.santaclaritaopenhouses.com/active-listings](/) – real-time data without the corporate spin.
+For more on how local markets like ours are evolving, check out our active listings at [https://www./blog/active-listings](/) – real-time data without the corporate spin.
 
 ## Why This Matters: Higher Costs, Less Innovation, and the Death of Choice
 
@@ -49,7 +49,7 @@ But it's deeper than dollars. Diminished competition means less pressure to inno
 
 In Santa Clarita, we've got our own vibrant market, but portals like these siphon leads from local pros. I've never advertised on Zillow – why pay for scraps when I can deliver boots-on-the-ground expertise? Agents here work tirelessly on listings, only to see big tech hoover up data and profits. This lawsuit exposes that "too big to fail" attitude Connor mentions in the transcript – ignoring the locals who truly honor the community.
 
-Thinking of selling? Get a free market analysis tailored to Santa Clarita at [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact) – no strings, just honest insights.
+Thinking of selling? Get a free market analysis tailored to Santa Clarita at [https://www./blog/free-market-analysis](/contact) – no strings, just honest insights.
 
 ## From LAPD to Listings: Lessons in Precision and Fair Play
 
@@ -71,7 +71,7 @@ Over at SantaClaritaArtificialIntelligence.com, we're architecting AI for local 
 
 Let's localize this. Santa Clarita's real estate is booming – from Acton ranches to Stevenson Ranch luxury. But with multifamily rentals growing (think apartments near College of the Canyons), Zillow's potential dominance could warp our market.
 
-Our search-by-area tool breaks it down city-by-city: https://www.santaclaritaopenhouses.com/search-by-area – find Acton gems or Agua Dulce escapes without corporate filters.
+Our search-by-area tool breaks it down city-by-city: https://www./blog/search-by-area – find Acton gems or Agua Dulce escapes without corporate filters.
 
 ## The Broader Real Estate Revolution: Blurred Lines and Broker Tensions
 
@@ -79,7 +79,7 @@ Portals aren't just listings anymore – they're brokerages, lead gens, ad hubs.
 
 In Santa Clarita, we're ahead: Independent sites like mine tie directly to MLS without manipulation risks. Why trust portals when local expertise delivers?
 
-For property types from condos to estates, explore https://www.santaclaritaopenhouses.com/search-santa-clarita-valley-ca-by-property-type.
+For property types from condos to estates, explore https://www./blog/search-santa-clarita-valley-ca-by-property-type.
 
 ## Employee Layoffs and Talent Grabs: The Human Cost
 
@@ -97,7 +97,7 @@ We'll track this – as Connor promises, follow-ups incoming. For now, it's a re
 
 This targets high-value multifamily – ad dollars galore. In Santa Clarita, it could set precedents for syndication.
 
-Why care? Reduced choice hurts everyone. Stay informed via our newsletter: https://www.santaclaritaopenhouses.com/newsletter.
+Why care? Reduced choice hurts everyone. Stay informed via our newsletter: https://www./blog/newsletter.
 
 ## Advice for Santa Clarita Players: Navigate Smarter
 

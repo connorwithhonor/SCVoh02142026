@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-invent
 # Santa Clarita real estate inventory is starting to bubble over 
 
 Connor with Honor at SantaClaritaOpenHouses(com) - July 12, 2024** Tags: [Santa Clarita Real Estate](/-/Blog/tag/Santa Clarita Real Estate), [Connor with Honor](/-/Blog/tag/Connor with Honor), [SantaClaritaOpenHouses](/-/Blog/tag/SantaClaritaOpenHouses), [Real Estate Updates](/-/Blog/tag/Real Estate Updates), [Home Buying](/-/Blog/tag/Home Buying), [Home Selling](/-/Blog/tag/Home Selling), [Market Trends](/-/Blog/tag/Market Trends), [Real Estate Tips](/-/Blog/tag/Real Estate Tips), [Santa Clarita Valley](/-/Blog/tag/Santa Clarita Valley), [New Listings](/-/Blog/tag/New Listings), [Price Changes](/-/Blog/tag/Price Changes), [Open House](/-/Blog/tag/Open House), [First-Time Homebuyer Seminar](/-/Blog/tag/First-Time Homebuyer Seminar), [Mortgage Ra](/-/Blog/tag/Mortgage Ra)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-Welcome to the Daily Santa Clarita Real Estate Show, proudly sponsored by [SantaClaritaOpenHouses.com](http://www.santaclaritaopenhouses.com) and presented by Connor with Honor. Today, we have some groundbreaking updates that every buyer and seller in Santa Clarita needs to know about. So, let’s dive in!
+Welcome to the Daily Santa Clarita Real Estate Show, proudly sponsored by [SantaClaritaOpenHouses.com](/) and presented by Connor with Honor. Today, we have some groundbreaking updates that every buyer and seller in Santa Clarita needs to know about. So, let’s dive in!
 
 **Market Watch Update:**
 
@@ -50,7 +50,7 @@ We have some fantastic properties available in Santa Clarita. Here are a few hig
 
 ### Upcoming Events:
 
-**Open House Weekend:** Join us for open houses this weekend. Visit [SantaClaritaOpenHouses.com](http://www.santaclaritaopenhouses.com) for a complete list of open houses and times.
+**Open House Weekend:** Join us for open houses this weekend. Visit [SantaClaritaOpenHouses.com](/) for a complete list of open houses and times.
 
 **First-Time Homebuyer Seminar:** Learn the ins and outs of buying your first home. Our next seminar is scheduled for [insert date]. Reserve your spot on our website.
 

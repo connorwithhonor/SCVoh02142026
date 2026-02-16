@@ -112,7 +112,7 @@ Watch here: [https://youtu.be/n2DaGZYpdlI](https://youtu.be/n2DaGZYpdlI)
 
 Prefer listening? Check out the podcast: [https://www.buzzsprout.com/298109/episodes/16045661](https://www.buzzsprout.com/298109/episodes/16045661)
 
-For a detailed read, visit the blog: https://www.santaclaritaopenhouses.com/paying-less-than-sticker-price-for-a-santa-clarita-home-requires-proof-of-value
+For a detailed read, visit the blog: https://www./blog/paying-less-than-sticker-price-for-a-santa-clarita-home-requires-proof-of-value
 
 #SantaClaritaRealEstate #ConnorWithHonor #MarketUpdate #RealEstateTips #HomeBuying #EscrowProcess #OpenHouse #SantaClaritaHomes #RealEstateStrategies
 

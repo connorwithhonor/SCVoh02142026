@@ -34,7 +34,7 @@ This shift isn’t just numbers—it’s a signal. For buyers, it means less com
 
 One of the juiciest opportunities right now is the 10 “coming soon” listings in Santa Clarita. These are properties not yet officially on the Multiple Listing Service (MLS), meaning they’re hidden from syndication sites like Zillow or Redfin. Here’s the deal:
 
-Want in? Head to https://www.santaclaritaopenhouses.com/comingsoon and sign up to get these exclusive listings. Or, better yet, call me at 661-888-4983 to dial in your search for specific needs—bedrooms, bathrooms, or that dream pool.
+Want in? Head to https://www./blog/comingsoon and sign up to get these exclusive listings. Or, better yet, call me at 661-888-4983 to dial in your search for specific needs—bedrooms, bathrooms, or that dream pool.
 
 ## Market Snapshot: What’s Moving in Santa Clarita?
 
@@ -56,13 +56,13 @@ The real estate game has changed, and buyers need to be sharp. As of September 2
 
 ### Key Considerations Before Signing
 
-Need help navigating these new rules? Call me at 661-888-4983 or visit https://www.santaclaritaopenhouses.com/buying-a-home-key-considerations-before-signing-a-buyer-broker-agreement for a deep dive.
+Need help navigating these new rules? Call me at 661-888-4983 or visit https://www./blog/buying-a-home-key-considerations-before-signing-a-buyer-broker-agreement for a deep dive.
 
 ## Sellers: Price Smart or Pay the Price
 
 Sellers, listen up: pricing your home too high is a death sentence in this market. Here’s how to win:
 
-Want to sell fast and for top dollar? Visit https://www.santaclaritaopenhouses.com/sell-your-home-santa-clarita-now or schedule a Zoom at [https://zoommescv.com/](https://zoommescv.com/) to craft a winning strategy.
+Want to sell fast and for top dollar? Visit https://www./blog/sell-your-home-santa-clarita-now or schedule a Zoom at [https://zoommescv.com/](https://zoommescv.com/) to craft a winning strategy.
 
 ## The First Responder Edge: Why Choose Me?
 
@@ -74,25 +74,25 @@ Ready to work with a Realtor who’s got your back? Contact me at [connor@santac
 
 With the Fed cutting rates, mortgage rates are inching closer to the “magic number” that sparks buyer frenzy. Here’s the lowdown:
 
-Want to crunch the numbers? Check out https://www.santaclaritaopenhouses.com/how-much-with-a-1-million-dollar-mortgage-cost-after-rates-are-cut or call me at 661-888-4983.
+Want to crunch the numbers? Check out https://www./blog/how-much-with-a-1-million-dollar-mortgage-cost-after-rates-are-cut or call me at 661-888-4983.
 
 ## The Santa Clarita Advantage: Neighborhoods and Opportunities
 
 Santa Clarita offers diverse neighborhoods, each with unique perks:
 
-Explore all options at https://www.santaclaritaopenhouses.com/search-by-area or use the dream home finder at [https://www.santaclaritaopenhouses.com/dream-home-finder](/contact).
+Explore all options at https://www./blog/search-by-area or use the dream home finder at [https://www./blog/dream-home-finder](/contact).
 
 ## Foreclosures and Short Sales: A Buyer’s Opportunity?
 
 With inventory tightening, distressed properties could be your ticket to a deal:
 
-Check out available distressed properties at https://www.santaclaritaopenhouses.com/foreclosure-search.
+Check out available distressed properties at https://www./blog/foreclosure-search.
 
 ## My Personal Journey: From LAPD to Your Realtor
 
 As a former LAPD officer, I’ve seen it all—high-pressure situations, quick thinking, and protecting those in need. That’s the same energy I bring to real estate. Whether it’s negotiating a deal or sniffing out a scam, I’ve got your back. Plus, my own transformation—dropping 135 pounds at 52 through fasting—shows I’m all about discipline and results.
 
-Ready to make your move? Visit [https://www.santaclaritaopenhouses.com/about](/) to learn more about my approach or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
+Ready to make your move? Visit [https://www./blog/about](/) to learn more about my approach or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 ## Recap
 

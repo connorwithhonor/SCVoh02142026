@@ -46,7 +46,7 @@ See how I’ve saved clients from bad deals in my testimonials.
 
 ### The AI Revolution: Smarter Inspections in 2025
 
-Here’s where my AI expertise kicks in. At HonorElevate.com, I’m leveraging AI to transform real estate. AI can analyze inspection reports in seconds, flagging issues like recurring foundation problems in specific Santa Clarita neighborhoods. It can also estimate repair costs based on local data, so you know exactly what you’re facing. Want to learn more? Check out my AI insights at https://www.santaclaritaopenhouses.com/artificial-intelligence-in-real-estate or email [connor@honorelevate.com](mailto:connor@honorelevate.com).
+Here’s where my AI expertise kicks in. At HonorElevate.com, I’m leveraging AI to transform real estate. AI can analyze inspection reports in seconds, flagging issues like recurring foundation problems in specific Santa Clarita neighborhoods. It can also estimate repair costs based on local data, so you know exactly what you’re facing. Want to learn more? Check out my AI insights at https://www./blog/artificial-intelligence-in-real-estate or email [connor@honorelevate.com](mailto:connor@honorelevate.com).
 
 ### Myths About Skipping Inspections—Busted!
 
@@ -56,7 +56,7 @@ Let’s squash some nonsense:
 
 Ready to buy in Santa Clarita without rolling the dice? Here’s how to do it right:
 
-Don’t let a bad decision haunt you. Watch my YouTube video for the full scoop, and browse listings at [https://www.santaclaritaopenhouses.com/active-listings](/) to find your dream home.
+Don’t let a bad decision haunt you. Watch my YouTube video for the full scoop, and browse listings at [https://www./blog/active-listings](/) to find your dream home.
 
 **Recap**:
 

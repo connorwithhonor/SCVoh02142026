@@ -104,7 +104,7 @@ If you’re selling, make sure your pricing strategy is aligned with the market 
 
 Santa Clarita Real Estate Expert
 
-[www.santaclaritaopenhouses.com](http://www.santaclaritaopenhouses.com)
+[www.santaclaritaopenhouses.com](/)
 
 ** Share This Post## Comments
 

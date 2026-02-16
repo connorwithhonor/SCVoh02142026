@@ -44,15 +44,29 @@ def fix_links(content):
     # Fix malformed links with ]( patterns
     body = re.sub(r'\]\(https://[^\)]+\]\(https://([^\)]+)\)', r'](https://\1)', body)
 
-    # Replace old site URLs with new routes
+    # Fix http:// to https:// for all santaclaritaopenhouses.com links
+    body = body.replace('http://santaclaritaopenhouses.com', 'https://santaclaritaopenhouses.com')
+    body = body.replace('http://www.santaclaritaopenhouses.com', 'https://www.santaclaritaopenhouses.com')
+
+    # Replace old site URLs with new routes (known pages)
     for old_url, new_route in URL_REDIRECTS.items():
         # Handle both with and without markdown link text
         body = body.replace(f']({old_url})', f']({new_route})')
         body = body.replace(f'({old_url})', f'({new_route})')
 
-    # Remove links to pages that don't exist (like specific property pages)
-    # Keep the link text but remove the broken URL
-    body = re.sub(r'\[([^\]]+)\]\(https://www\.santaclaritaopenhouses\.com/[^\)]+\)', r'\1', body)
+    # Convert blog post URLs to internal links
+    # Pattern: https://santaclaritaopenhouses.com/blog-post-slug or https://www.santaclaritaopenhouses.com/blog-post-slug
+    def convert_blog_link(match):
+        full_url = match.group(0)
+        slug = match.group(1)
+        # Return internal blog link
+        return full_url.replace(f'santaclaritaopenhouses.com/{slug}', f'/blog/{slug}').replace(f'www.santaclaritaopenhouses.com/{slug}', f'/blog/{slug}')
+
+    # Convert remaining santaclaritaopenhouses.com URLs to internal blog links
+    body = re.sub(r'https?://(?:www\.)?santaclaritaopenhouses\.com/([a-z0-9\-]+)', convert_blog_link, body)
+
+    # Unwrap Google search URLs that contain our blog links
+    body = re.sub(r'https://www\.google\.com/search\?q=https://www\.santaclaritaopenhouses\.com/([^")]+)', r'/blog/\1', body)
 
     return f'---{frontmatter}---{body}'
 

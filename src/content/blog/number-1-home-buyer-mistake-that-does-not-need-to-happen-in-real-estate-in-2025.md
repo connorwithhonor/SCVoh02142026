@@ -43,7 +43,7 @@ Expect to spend $300-$600, depending on the home’s size. This is money well sp
 
 As an ex-LAPD officer, I’ve learned to trust my gut when something feels off. If the inspector flags something minor, like a loose railing, but it hints at bigger neglect, dig deeper. I once had a client pass on a Canyon Country home because the “minor” dry rot turned out to be a structural nightmare. Don’t be afraid to ask for a second opinion or a specialist (like a structural engineer) if the report raises red flags.
 
-For more on why inspections are critical, check out https://www.santaclaritaopenhouses.com/importance-of-inspection.
+For more on why inspections are critical, check out https://www./blog/importance-of-inspection.
 
 ## Step 2: The Appraisal – Making Sure It’s Worth the Price
 
@@ -59,7 +59,7 @@ If the appraisal comes in lower than your offer, you’ve got options: negotiate
 
 ### My First Responder Tip
 
-I’ve seen buyers get burned by skipping the appraisal contingency to “sweeten” their offer. Bad move. In a competitive market like Santa Clarita, where 71 new listings hit the market last week alone, you might feel pressure to waive contingencies. Don’t. If the appraisal tanks, you could be stuck with a home worth less than your mortgage. Always have me there to review the report and negotiate if needed. Learn more about appraisals at https://www.santaclaritaopenhouses.com/understanding-preliminary-reports.
+I’ve seen buyers get burned by skipping the appraisal contingency to “sweeten” their offer. Bad move. In a competitive market like Santa Clarita, where 71 new listings hit the market last week alone, you might feel pressure to waive contingencies. Don’t. If the appraisal tanks, you could be stuck with a home worth less than your mortgage. Always have me there to review the report and negotiate if needed. Learn more about appraisals at https://www./blog/understanding-preliminary-reports.
 
 ## Step 3: Neighborhood Vibe Check – Knock on Doors Like a Cop
 
@@ -87,7 +87,7 @@ Look for:
 
 ### My First Responder Tip
 
-Treat disclosures like a suspect’s statement – assume they’re holding something back until proven otherwise. Cross-reference the disclosures with your inspection report and neighborhood intel. If something smells fishy, I’ll dig in with you to get answers. For more on disclosures, visit https://www.santaclaritaopenhouses.com/you-better-read-before-you-sign-that-real-estate-document-as-a-home-buyer.
+Treat disclosures like a suspect’s statement – assume they’re holding something back until proven otherwise. Cross-reference the disclosures with your inspection report and neighborhood intel. If something smells fishy, I’ll dig in with you to get answers. For more on disclosures, visit https://www./blog/you-better-read-before-you-sign-that-real-estate-document-as-a-home-buyer.
 
 ## Step 5: Handling Issues – Negotiate, Fix, or Walk Away
 
@@ -99,7 +99,7 @@ Your inspection might uncover:
 
 ### My First Responder Tip
 
-Negotiation is like a high-stakes standoff – stay calm, but don’t back down. I’ll help you craft a request that’s fair but firm, using data from the inspection and appraisal. If the seller’s playing hardball, we’ll weigh the costs and decide if it’s worth fighting for. For more on negotiating, check out https://www.santaclaritaopenhouses.com/negotiating-written-buyer-agreements-how-the-first-responder-realtor-protects.
+Negotiation is like a high-stakes standoff – stay calm, but don’t back down. I’ll help you craft a request that’s fair but firm, using data from the inspection and appraisal. If the seller’s playing hardball, we’ll weigh the costs and decide if it’s worth fighting for. For more on negotiating, check out https://www./blog/negotiating-written-buyer-agreements-how-the-first-responder-realtor-protects.
 
 ## Step 6: The Timeline – Don’t Get Caught Off Guard
 
@@ -127,7 +127,7 @@ Santa Clarita’s market is unique – 786 active listings as of August 16, 2025
 
 ### Locking in Your Loan
 
-Your lender will need the appraisal and inspection reports to finalize your loan. Avoid major credit purchases during this time – a new car could tank your approval. If rates are dropping (they’re inching toward that “magic number” – see https://www.santaclaritaopenhouses.com/mortgage-rates-continue-to-shrink-closer-to-the-magic-number), talk to your lender about locking in now.
+Your lender will need the appraisal and inspection reports to finalize your loan. Avoid major credit purchases during this time – a new car could tank your approval. If rates are dropping (they’re inching toward that “magic number” – see https://www./blog/mortgage-rates-continue-to-shrink-closer-to-the-magic-number), talk to your lender about locking in now.
 
 ### Closing Prep
 
@@ -147,7 +147,7 @@ I’ve seen buyers fall in love with a home and ignore red flags. Don’t let em
 
 ## Step 10: Next Steps – Let’s Talk
 
-Ready to take the next step? I’m Connor MacIvor, your first responder turned Realtor. I’ve walked the streets and closed the deals, and I’m here to guide you through this process with no fluff, just results. Book a free, no-obligation consultation at [https://zoommescv.com](/) or call me at 661-888-4983. Want to check out the latest listings? Visit [https://www.santaclaritaopenhouses.com/active-listings](/).
+Ready to take the next step? I’m Connor MacIvor, your first responder turned Realtor. I’ve walked the streets and closed the deals, and I’m here to guide you through this process with no fluff, just results. Book a free, no-obligation consultation at [https://zoommescv.com](/) or call me at 661-888-4983. Want to check out the latest listings? Visit [https://www./blog/active-listings](/).
 
 ## Recap: Key Takeaways
 

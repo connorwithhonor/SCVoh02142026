@@ -118,7 +118,7 @@ In this episode, I explain why it’s important to take down online images of yo
 
 Listen now at:
 
-https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles
+https://www./blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles
 
 **Episode 2: Photo Removal of Your Home After You Buy It – First Responder Turned Realtor**
 
@@ -140,7 +140,7 @@ In these episodes, I’m sharing everything you need to know to protect your pri
 
 If you’re buying or selling a home in Santa Clarita or Los Angeles, or just want to learn more about securing your home’s online presence, make sure to check out both episodes. I’ll walk you through the steps and explain the risks—and how to avoid them.
 
-https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles
+https://www./blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles
 
 [https://www.buzzsprout.com/admin/298109/episodes/15877111-photo-removal-of-your-home-from-online-after-you-buy-it-first-responder-turned-realtor-connor-with-honor](https://www.buzzsprout.com/admin/298109/episodes/15877111-photo-removal-of-your-home-from-online-after-you-buy-it-first-responder-turned-realtor-connor-with-honor)
 

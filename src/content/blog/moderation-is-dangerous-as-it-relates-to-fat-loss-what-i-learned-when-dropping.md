@@ -51,7 +51,7 @@ I tried the trendy intermittent fasting schedules (like 16:8, where you fast for
 
 ### Why Fasting Isn’t Starvation
 
-Let’s clear this up: fasting isn’t about starving yourself. It’s a controlled, intentional choice to give your body a break from digestion and let it burn stored energy. You’re not locked in a prison—you can break your fast if you need to. The key is planning and discipline, just like preparing for a home purchase. Curious about how to approach big decisions with clarity? Check out my real estate tips at https://www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale.
+Let’s clear this up: fasting isn’t about starving yourself. It’s a controlled, intentional choice to give your body a break from digestion and let it burn stored energy. You’re not locked in a prison—you can break your fast if you need to. The key is planning and discipline, just like preparing for a home purchase. Curious about how to approach big decisions with clarity? Check out my real estate tips at https://www./blog/your-ultimate-buying-guide-santa-clarita-homes-for-sale.
 
 ## Habits Over Hype: Building a Sustainable Routine
 
@@ -69,9 +69,9 @@ Here’s where most people trip up:
 
 ## My Journey: From LAPD to Lean and Leading in Real Estate
 
-As a former LAPD motor cop, I learned to stay sharp under pressure. That same focus helped me drop 135 pounds and now drives my work as a Santa Clarita realtor (CALDRE 01238257). Whether I’m helping clients find their dream home or guiding them through a divorce-related sale (see https://www.santaclaritaopenhouses.com/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce), I bring the same no-nonsense approach.
+As a former LAPD motor cop, I learned to stay sharp under pressure. That same focus helped me drop 135 pounds and now drives my work as a Santa Clarita realtor (CALDRE 01238257). Whether I’m helping clients find their dream home or guiding them through a divorce-related sale (see https://www./blog/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce), I bring the same no-nonsense approach.
 
-Discipline isn’t about perfection—it’s about progress. Just like I forgave myself for food slip-ups, I help clients navigate setbacks in the housing market. Ready to make a move? Call 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/contact](/contact) for a free, no-obligation consultation.
+Discipline isn’t about perfection—it’s about progress. Just like I forgave myself for food slip-ups, I help clients navigate setbacks in the housing market. Ready to make a move? Call 661-888-4983 or visit [https://www./blog/contact](/contact) for a free, no-obligation consultation.
 
 ## How to Start Your Transformation Today
 

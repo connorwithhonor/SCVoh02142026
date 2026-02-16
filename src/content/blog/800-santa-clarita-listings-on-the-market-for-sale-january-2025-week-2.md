@@ -94,7 +94,7 @@ Here’s the rub: those automated valuations can be wildly off. Syndication site
 
 ### 7.2 The Importance of Accurate Sold Data
 
-A far better resource is the **Multiple Listing Service (MLS)**. The MLS is the official database where licensed agents list properties, record final sales prices, and keep track of days on market. My site, [SantaClaritaOpenHouses.com](http://santaclaritaopenhouses.com/), taps directly into MLS data, ensuring accuracy.
+A far better resource is the **Multiple Listing Service (MLS)**. The MLS is the official database where licensed agents list properties, record final sales prices, and keep track of days on market. My site, [SantaClaritaOpenHouses.com](https://santaclaritaopenhouses.com/), taps directly into MLS data, ensuring accuracy.
 
 If an online aggregator’s “Zestimate” or “Find-Your-Home-Value-Here!” widget says your property in Valencia is worth $900,000 yet local MLS sales for identical floor plans are closing at $825,000, the aggregator is likely off by tens of thousands of dollars.
 

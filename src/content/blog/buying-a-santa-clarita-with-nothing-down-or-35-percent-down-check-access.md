@@ -54,7 +54,7 @@ Some properties in **Santa Clarita** only accept cash offers. This is typically 
 
 ## Stay Informed with Our Daily Blogs
 
-For the latest insights into the **Santa Clarita real estate** market, check out our daily blog posts at [https://santaclaritaopenhouses.com/blog](https://santaclaritaopenhouses.com/blog). We cover everything from market trends to financing tips to help you make informed decisions.
+For the latest insights into the **Santa Clarita real estate** market, check out our daily blog posts at [https:///blog/blog](https:///blog/blog). We cover everything from market trends to financing tips to help you make informed decisions.
 
 ## Connect with Us on Social Media
 

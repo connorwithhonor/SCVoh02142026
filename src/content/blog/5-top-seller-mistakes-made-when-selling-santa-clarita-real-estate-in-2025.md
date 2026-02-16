@@ -30,7 +30,7 @@ In this guide, I’m breaking down the **top five mistakes homeowners make when 
 
 ### Why It’s a Problem
 
-The Santa Clarita real estate market isn’t a time machine. Pricing your home based on what it *might* have sold for during the 2007 boom or the 2022 frenzy is a recipe for disaster. Markets shift – sometimes monthly, sometimes daily. For example, back in 2011-2012, Santa Clarita hit rock bottom post-crash, with prices at their lowest in major metropolitan areas. By 2022, we saw multiple price increases per month in some neighborhoods. Today, as of July 27, 2025, inventory is swelling – check out my latest update at https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-inventory-is-starting-to-bubble-over – with over 500 active listings, the highest in two years.
+The Santa Clarita real estate market isn’t a time machine. Pricing your home based on what it *might* have sold for during the 2007 boom or the 2022 frenzy is a recipe for disaster. Markets shift – sometimes monthly, sometimes daily. For example, back in 2011-2012, Santa Clarita hit rock bottom post-crash, with prices at their lowest in major metropolitan areas. By 2022, we saw multiple price increases per month in some neighborhoods. Today, as of July 27, 2025, inventory is swelling – check out my latest update at https://www./blog/santa-clarita-real-estate-inventory-is-starting-to-bubble-over – with over 500 active listings, the highest in two years.
 
 Ignoring these trends can leave your home languishing on the market. Overprice in a cooling market, and you’re chasing buyers away. Underprice in a hot market, and you’re leaving money on the table. Either way, you lose.
 
@@ -38,7 +38,7 @@ Ignoring these trends can leave your home languishing on the market. Overprice i
 
 ### Real-World Example
 
-In 2024, a seller in Valencia listed their home at $1.2 million, banking on 2022’s hot market. Problem? Inventory was climbing, and buyers were pickier. After 60 days with no offers, they dropped to $1.05 million – and still struggled. Had they priced at $1.1 million from the start, based on current trends, they’d have sold in weeks. Don’t make this mistake – check https://www.santaclaritaopenhouses.com/pricing-your-home-too-high-maybe-the-reason-its-not-selling for more on this.
+In 2024, a seller in Valencia listed their home at $1.2 million, banking on 2022’s hot market. Problem? Inventory was climbing, and buyers were pickier. After 60 days with no offers, they dropped to $1.05 million – and still struggled. Had they priced at $1.1 million from the start, based on current trends, they’d have sold in weeks. Don’t make this mistake – check https://www./blog/pricing-your-home-too-high-maybe-the-reason-its-not-selling for more on this.
 
 ## Mistake #2: Curb Appeal That Screams “Run Away!”
 
@@ -50,13 +50,13 @@ First impressions are everything. If your front yard looks like a scene from a p
 
 ### Pro Tip
 
-Buyers in Santa Clarita often browse open houses (see https://www.santaclaritaopenhouses.com/over-150-open-houses-scheduled-for-the-last-weekend-in-october-of-2024-in-scv). A killer curb appeal can make your home the one they can’t stop talking about. Don’t let a messy front yard sabotage your sale.
+Buyers in Santa Clarita often browse open houses (see https://www./blog/over-150-open-houses-scheduled-for-the-last-weekend-in-october-of-2024-in-scv). A killer curb appeal can make your home the one they can’t stop talking about. Don’t let a messy front yard sabotage your sale.
 
 ## Mistake #3: Skimping on Staging (Or Faking It Online)
 
 ### Why It’s a Problem
 
-Staging isn’t just fluff – it’s a proven way to boost your home’s value. Empty homes feel cold and uninviting, while cluttered or outdated ones turn buyers off. Worse, some sellers try to “stage” online with Photoshopped images that don’t match reality. I’ve seen listings with fake granite countertops or digitally added furniture that doesn’t exist. Buyers show up expecting a dream kitchen and find dated tile instead. That’s a fast track to distrust – and a lost sale. Learn more about staging’s impact at https://www.santaclaritaopenhouses.com/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated.
+Staging isn’t just fluff – it’s a proven way to boost your home’s value. Empty homes feel cold and uninviting, while cluttered or outdated ones turn buyers off. Worse, some sellers try to “stage” online with Photoshopped images that don’t match reality. I’ve seen listings with fake granite countertops or digitally added furniture that doesn’t exist. Buyers show up expecting a dream kitchen and find dated tile instead. That’s a fast track to distrust – and a lost sale. Learn more about staging’s impact at https://www./blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated.
 
 ### How to Avoid It
 
@@ -68,7 +68,7 @@ A Canyon Country seller staged their vacant home with modern furniture and sold 
 
 ### Why It’s a Problem
 
-Sellers who skip pre-listing inspections are playing with fire. Buyers will order their own inspection, and surprise issues – like dry rot or faulty wiring – can derail the deal or lead to costly negotiations. Providing a clean inspection report upfront builds trust and shows you’ve got nothing to hide. Hiding from inspections? That’s a red flag that screams “problem house.” Learn why inspections matter at https://www.santaclaritaopenhouses.com/importance-of-inspection.
+Sellers who skip pre-listing inspections are playing with fire. Buyers will order their own inspection, and surprise issues – like dry rot or faulty wiring – can derail the deal or lead to costly negotiations. Providing a clean inspection report upfront builds trust and shows you’ve got nothing to hide. Hiding from inspections? That’s a red flag that screams “problem house.” Learn why inspections matter at https://www./blog/importance-of-inspection.
 
 ### How to Avoid It
 
@@ -80,17 +80,17 @@ In my current escrow, sellers who provided a detailed inspection report closed 1
 
 ### Why It’s a Problem
 
-Your agent can make or break your sale. Too many sellers pick someone based on a flashy suit, a big smile, or a promise of “top dollar.” Then they’re ghosted, stuck with an agent who’s more interested in their HGTV audition than your closing. In Santa Clarita, where competition is fierce (check https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-market-trends), you need an agent who’s accountable, responsive, and knows the market inside out.
+Your agent can make or break your sale. Too many sellers pick someone based on a flashy suit, a big smile, or a promise of “top dollar.” Then they’re ghosted, stuck with an agent who’s more interested in their HGTV audition than your closing. In Santa Clarita, where competition is fierce (check https://www./blog/santa-clarita-real-estate-market-trends), you need an agent who’s accountable, responsive, and knows the market inside out.
 
 ### How to Avoid It
 
 ### Why I’m Different
 
-As a former LAPD motor cop, I bring discipline, transparency, and a no-nonsense approach to every sale. I don’t hand you off to “so-and-so” or dodge your calls. I’m Connor MacIvor, your first-responder-turned-Realtor, and I’m here to get your home sold – fast and for top dollar. Want proof? Check my client testimonials at [https://www.santaclaritaopenhouses.com/testimonials](/).
+As a former LAPD motor cop, I bring discipline, transparency, and a no-nonsense approach to every sale. I don’t hand you off to “so-and-so” or dodge your calls. I’m Connor MacIvor, your first-responder-turned-Realtor, and I’m here to get your home sold – fast and for top dollar. Want proof? Check my client testimonials at [https://www./blog/testimonials](/).
 
 ## Bonus Tip: Don’t Skip the Net Sheet
 
-Before accepting any offer, review a net sheet to understand what you’ll actually pocket after commissions, fees, and concessions. It’s a game-changer for avoiding surprises. Learn more at https://www.santaclaritaopenhouses.com/why-is-a-net-sheet-important-to-view-before-accepting-any-offers.
+Before accepting any offer, review a net sheet to understand what you’ll actually pocket after commissions, fees, and concessions. It’s a game-changer for avoiding surprises. Learn more at https://www./blog/why-is-a-net-sheet-important-to-view-before-accepting-any-offers.
 
 ## Recap: Avoid These Deal-Killers
 

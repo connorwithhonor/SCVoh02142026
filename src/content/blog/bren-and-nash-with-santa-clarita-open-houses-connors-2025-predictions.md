@@ -20,7 +20,7 @@ Welcome to an in-depth look at the ever-evolving landscape of real estate in San
 
 By the end of this blog post, you’ll have a comprehensive understanding of the dynamic forces shaping 2025’s real estate market. Whether you’re a prospective buyer, a homeowner thinking of selling, or a curious observer of market trends, this guide aims to provide the clarity and practical tips you need to succeed. We’ll also discuss how you can further bolster your knowledge with Connor’s latest publication, **How to Buy and Sell Real Estate, Updated for 2025 – Santa Clarita Edition**, available at
 
-**[https://santaclaritaopenhouses.com/book](https://santaclaritaopenhouses.com/book)**
+**[https:///blog/book](https:///blog/book)**
 
 Let’s get started.
 
@@ -172,7 +172,7 @@ To further empower buyers and sellers, Connor has authored a new book:
 
 **How to Buy and Sell Real Estate, Updated for 2025 – Santa Clarita Edition**
 
-([https://santaclaritaopenhouses.com/book](https://santaclaritaopenhouses.com/book))
+([https:///blog/book](https:///blog/book))
 
 In this resource, you’ll find:
 
@@ -212,7 +212,7 @@ Moreover, the potential hidden costs—especially Mello-Roos and HOA fees—rein
 
 Finally, if you’re looking to elevate your understanding of these issues, consider picking up Connor’s newly released book, **How to Buy and Sell Real Estate, Updated for 2025 – Santa Clarita Edition**, at
 
-**[https://santaclaritaopenhouses.com/book](https://santaclaritaopenhouses.com/book)**
+**[https:///blog/book](https:///blog/book)**
 
 Inside, you’ll find even more detailed breakdowns of local Santa Clarita market dynamics, step-by-step guides to each stage of a transaction, and real-life examples of how AI and local insights intersect in the home-buying process.
 

@@ -39,7 +39,7 @@ Fasting isn’t starvation. It’s giving your body a break from the constant fo
 
 I don’t eat for 2-3 days at a time, depending on my weight and goals. Sometimes longer. Sounds crazy? It’s not. Your body’s designed for this. Back when we were chasing mammoths, we didn’t have a fridge full of chips. Here’s how I do it:
 
-**Pro Tip**: If you’re on meds, talk to your doctor first. Some pills need food to work right. Don’t be a hero and screw up your health. Learn more about my approach at https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
+**Pro Tip**: If you’re on meds, talk to your doctor first. Some pills need food to work right. Don’t be a hero and screw up your health. Learn more about my approach at https://www./blog/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
 
 ## Weight Loss Drugs: The Shiny New Toy with a Catch
 
@@ -63,13 +63,13 @@ Here’s the deal: whether you’re fasting or on drugs, you’ve got to move. M
 
 ### Why It Matters
 
-I was 365 pounds, huffing and puffing. Now I’m 230, lifting weights, and feeling like I could chase down a suspect like my LAPD days. You don’t need a gym membership to start—just a plan. Get inspired at https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
+I was 365 pounds, huffing and puffing. Now I’m 230, lifting weights, and feeling like I could chase down a suspect like my LAPD days. You don’t need a gym membership to start—just a plan. Get inspired at https://www./blog/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting.
 
 ## Testosterone Therapy: The Secret Sauce?
 
 At 51, I started testosterone replacement therapy (TRT). Game-changer. Low T was killing my energy, my drive, my ability to push iron. TRT fixed that, but it’s not a magic bullet. Here’s the deal:
 
-TRT helped me, but fasting and movement were the real MVPs. Curious about how I balanced health and hustle? Check out https://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge for my story.
+TRT helped me, but fasting and movement were the real MVPs. Curious about how I balanced health and hustle? Check out https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge for my story.
 
 ## The Mental Game: Forgive and Keep Going
 
@@ -85,7 +85,7 @@ Weight loss drugs might work, but they’re a gamble. Fasting is free, natural, 
 
 Ready to try? Here’s your no-BS starter plan:
 
-Want more? Check out https://www.santaclaritaopenhouses.com/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting for my full story.
+Want more? Check out https://www./blog/unlock-the-secret-to-my-fat-to-fit-transformation-the-truth-about-fasting for my full story.
 
 ## Why Trust Me?
 
@@ -93,7 +93,7 @@ I’m Connor MacIvor, ex-LAPD motor cop turned Realtor (CALDRE 01238257). I went
 
 ## Real Estate Tie-In: Health and Homeownership
 
-Why’s this on a real estate site? Because health and wealth go hand-in-hand. Dropping weight gave me the energy to hustle harder as a Realtor, helping clients find homes in Santa Clarita’s hottest neighborhoods. A clear mind and strong body make you a sharper buyer or seller. Check out https://www.santaclaritaopenhouses.com/best-neighborhoods-santa-clarita-2024 for the top spots to live, or [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact) to see what your home’s worth.
+Why’s this on a real estate site? Because health and wealth go hand-in-hand. Dropping weight gave me the energy to hustle harder as a Realtor, helping clients find homes in Santa Clarita’s hottest neighborhoods. A clear mind and strong body make you a sharper buyer or seller. Check out https://www./blog/best-neighborhoods-santa-clarita-2024 for the top spots to live, or [https://www./blog/free-market-analysis](/contact) to see what your home’s worth.
 
 ## Recap
 

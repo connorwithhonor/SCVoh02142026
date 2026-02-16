@@ -45,7 +45,7 @@ Although mortgage rates are higher than the record lows of 2021, they remain his
 
 Explore how **mortgage rates** impact buyers and sellers:
 
-[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](http://www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate)
+[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www./blog/mortgage-rates-santa-clarita-real-estate)
 
 ### **5. Strong Property Value Appreciation**
 
@@ -69,7 +69,7 @@ Santa Clarita is consistently ranked as one of the most desirable places to live
 
 Learn why **Santa Clarita** is an ideal location:
 
-[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](http://www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita)
+[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](https://www./blog/top-reasons-buy-home-2024-santa-clarita)
 
 ### **8. Strong Local Economy and Job Market**
 

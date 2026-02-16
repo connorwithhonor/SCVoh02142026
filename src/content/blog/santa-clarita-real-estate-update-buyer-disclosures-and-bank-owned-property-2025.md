@@ -27,7 +27,7 @@ Let's cut to the chase—Santa Clarita real estate isn't the Wild West it was du
 
 As someone who's traded LAPD streets for Santa Clarita open houses, I see this as a sweet spot for buyers. More choices mean less desperation—gone are the days of bidding wars over every fixer-upper. But sellers? You're not out of the game. Properties priced right (think aligned with recent comps or a hair above) are still flying off the shelves in 45-50 days. If you're overreaching, though, expect crickets. Sarcasm alert: Nothing says "motivated seller" like a home gathering dust because you thought your '80s kitchen remodel deserved a premium.
 
-Want to dive deeper into active listings? Check out our comprehensive list at [https://www.santaclaritaopenhouses.com/active-listings](/). It's updated daily, no fluff—just the facts on what's available in areas like Canyon Country or Valencia.
+Want to dive deeper into active listings? Check out our comprehensive list at [https://www./blog/active-listings](/). It's updated daily, no fluff—just the facts on what's available in areas like Canyon Country or Valencia.
 
 ## Why Coming Soon Listings Are Your Hidden Edge
 
@@ -35,7 +35,7 @@ Out of those 760 actives, 10 are in "coming soon" status. These aren't splashed 
 
 Buyers, this is where strategy shines. With inventory climbing, you're not scrambling like in 2021. But don't sleep—well-priced homes in hot spots like Saugus still draw multiple offers. Sellers, if you're listing soon, tease it as "coming soon" to build buzz without the full exposure. It's like dangling a carrot, Generation X style: straightforward, no games.
 
-For a full search by area, explore https://www.santaclaritaopenhouses.com/search-by-area. Filter by Canyon Country, Newhall, or wherever your heart (and budget) leads.
+For a full search by area, explore https://www./blog/search-by-area. Filter by Canyon Country, Newhall, or wherever your heart (and budget) leads.
 
 ## Disclosures: The No-BS Truth Sellers Hate But Buyers Need
 
@@ -45,7 +45,7 @@ Buyers, this is gold. A solid disclosure package reveals the home's skeletons be
 
 As your first-responder-turned-Realtor (CALDRE 01238257), I've seen disclosures save deals—and torpedo them. One client spotted undisclosed dry rot in a Newhall gem; we negotiated repairs before closing. Another ignored the fine print on a pool home in Castaic and regretted it. Pro tip: Read every line. Digital signatures make it too easy to skim—treat it like LAPD paperwork, where one missed detail could bite hard.
 
-Curious about market reports for specific areas? Peek at [https://www.santaclaritaopenhouses.com/santa-clarita-market-report](/blog) for trends that tie into disclosures and pricing.
+Curious about market reports for specific areas? Peek at [https://www./blog/santa-clarita-market-report](/blog) for trends that tie into disclosures and pricing.
 
 ## Golden Handcuffs: Why Low Rates Are Trapping Sellers
 
@@ -53,7 +53,7 @@ Here's the sarcasm-laden truth: Many Santa Clarita homeowners are "golden handcu
 
 If rates dip (fingers crossed on the Fed's next move), expect a shift. Sellers might jump ship to states like Texas or Florida, while tech folks flock in for L.A.'s vibe. Weather's unbeatable here—earthquakes and fires aside. But seriously, if you're locked in, crunch numbers: What's your all-in monthly cost post-sale? Factor HOA, Mello-Roos, utilities, solar leases. A $800K pre-qual doesn't mean you can swing the lifestyle.
 
-Veterans or first-timers? Let's chat VA loans or down payment hacks. Schedule at https://www.santaclaritaopenhouses.com/dream-home-finder—free, no strings.
+Veterans or first-timers? Let's chat VA loans or down payment hacks. Schedule at https://www./blog/dream-home-finder—free, no strings.
 
 ## Interest Rates: The Fed's Dance and What It Means for You
 
@@ -61,7 +61,7 @@ The Fed's funds rate isn't directly tied to mortgages (that's the 10-year bond's
 
 Watch the Fed's upcoming meeting—pressure's on for cuts. If they slash, inventory could vanish as buyers flood in. Sellers, price smart now; overprice, and you're the one left holding the bag. Buyers, get pre-approved legit—scams are rampant. I've busted a few in my cop days; now, I vet lenders like suspects.
 
-For current rates, visit [https://www.santaclaritaopenhouses.com/mortgage-rates](/blog). It's raw data, no sales pitch.
+For current rates, visit [https://www./blog/mortgage-rates](/blog). It's raw data, no sales pitch.
 
 ## Buyer Scams: Don't Get Played in a Digital World
 
@@ -69,7 +69,7 @@ Scams haven't slowed. Fake lenders, wire fraud—I've seen it all. Always verify
 
 As Connor MacIvor, ex-LAPD motor cop and firearms instructor, I bring that protective edge. No fluff: I'm your strategist, solving buyer/seller puzzles with honor. Confidence? Built from streets to sales.
 
-Explore foreclosures at https://www.santaclaritaopenhouses.com/foreclosure-search—real deals, vetted.
+Explore foreclosures at https://www./blog/foreclosure-search—real deals, vetted.
 
 ## Neighborhood Spotlights: Where to Buy in Santa Clarita
 
@@ -79,7 +79,7 @@ Each area's got its quirks—disclosures reveal 'em.
 
 Sellers, know thy comps. Too high? Languish. Right price? Quick close. Buyers, negotiate concessions—sellers are giving more in 2025.
 
-Free market analysis? [https://www.santaclaritaopenhouses.com/free-market-analysis](/contact).
+Free market analysis? [https://www./blog/free-market-analysis](/contact).
 
 ## Home Types: Condos, Pools, Gated—Pick Your Poison
 
@@ -87,7 +87,7 @@ From 55+ communities to pools, options abound. But inspect thoroughly—disclosu
 
 ## The Buyer's Journey: From Pre-Approval to Closing
 
-Step 1: Pre-approve. Step 2: Hunt (use [https://www.santaclaritaopenhouses.com/advanced-search](/)). Step 3: Disclose dive. Step 4: Close strong.
+Step 1: Pre-approve. Step 2: Hunt (use [https://www./blog/advanced-search](/)). Step 3: Disclose dive. Step 4: Close strong.
 
 ## Seller's Playbook: Maximize Without the Hype
 

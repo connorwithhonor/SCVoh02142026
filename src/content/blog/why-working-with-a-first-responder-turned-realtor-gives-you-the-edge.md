@@ -94,7 +94,7 @@ The real estate market in **Santa Clarita** continues to show **positive growth*
 
 When you choose me as your realtor, you're getting more than just a real estate agent. You’re getting someone with **decades of experience** in law enforcement and real estate, someone who knows how to **protect your interests** and **guide you through the process** with integrity and dedication. If you’re ready to make your next move in the Santa Clarita real estate market, let’s connect.
 
-Visit **[SantaClaritaOpenHouses.com](http://santaclaritaopenhouses.com)** for the latest listings, or reach out directly to schedule a consultation. Whether you're buying or selling, I’m here to provide the level of service and protection you deserve.
+Visit **[SantaClaritaOpenHouses.com](https://santaclaritaopenhouses.com)** for the latest listings, or reach out directly to schedule a consultation. Whether you're buying or selling, I’m here to provide the level of service and protection you deserve.
 
 **Connor with Honor**
 
@@ -118,7 +118,7 @@ Curious how my first responder experience benefits you in real estate? Check out
 
 Read the blog here:
 
-[http://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](http://www.santaclaritaopenhouses.com/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge)
+[https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge)
 
 Here’s a quick post with additional info:
 

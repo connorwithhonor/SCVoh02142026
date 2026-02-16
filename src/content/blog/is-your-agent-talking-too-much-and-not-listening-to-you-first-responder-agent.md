@@ -56,7 +56,7 @@ Here’s one more tip for buyers: **Don’t make big financial moves during escr
 
 As your First Responder Realtor, I don’t just sell homes—I offer guidance that’s rooted in years of experience, dedication, and a commitment to protecting your interests. From helping you navigate the market, understanding contracts, and keeping an eye on financing, I’m here to save the world—one honest real estate transaction at a time.
 
-Visit [SantaClaritaOpenHouses.com](http://www.santaclaritaopenhouses.com) to explore the latest listings, find upcoming open houses using our **custom Google Maps interface**, and discover what’s happening in the dynamic Santa Clarita real estate market. You can also reach out to me directly at **661.400.1720** for personalized advice.
+Visit [SantaClaritaOpenHouses.com](/) to explore the latest listings, find upcoming open houses using our **custom Google Maps interface**, and discover what’s happening in the dynamic Santa Clarita real estate market. You can also reach out to me directly at **661.400.1720** for personalized advice.
 
 #### Hashtags to Boost Visibility
 

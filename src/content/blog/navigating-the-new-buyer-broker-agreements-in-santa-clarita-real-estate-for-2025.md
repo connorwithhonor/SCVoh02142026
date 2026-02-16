@@ -64,7 +64,7 @@ As we move into 2025, these changes are designed to offer more transparency and 
 
 &nbsp;
 
-Don't forget to explore my book for a comprehensive guide on buying and selling real estate in Santa Clarita, available at [SantaClaritaOpenhouses.com/book](https://santaclaritaopenhouses.com/book).
+Don't forget to explore my book for a comprehensive guide on buying and selling real estate in Santa Clarita, available at [SantaClaritaOpenhouses.com/book](https:///blog/book).
 
 &nbsp;
 

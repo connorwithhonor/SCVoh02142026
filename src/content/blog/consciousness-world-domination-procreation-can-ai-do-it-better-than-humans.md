@@ -42,7 +42,7 @@ The idea of AI achieving human-like consciousness is both thrilling and unnervin
 
 AI doesn’t “live” like we do—it doesn’t eat food or bask in the sun—but it does require energy, often from fossil fuels or solar power. In a way, this energy is its life force, much like food is ours. AI can also “procreate” by creating millions of copies of itself, far surpassing human reproduction rates. If consciousness is about self-awareness and decision-making, AI is already showing signs of it. It can analyze data, make predictions, and even “learn” from its environment. But does this make it conscious, or is it just a sophisticated mimic?
 
-In real estate, AI is transforming how we search for homes and analyze market trends. But it’s the human element—trust, intuition, and experience—that closes deals. As a first responder turned realtor, I bring that human edge to every transaction. Learn more about my approach at [https://www.santaclaritaopenhouses.com/about](/).
+In real estate, AI is transforming how we search for homes and analyze market trends. But it’s the human element—trust, intuition, and experience—that closes deals. As a first responder turned realtor, I bring that human edge to every transaction. Learn more about my approach at [https://www./blog/about](/).
 
 **The Dark Side of AI: Cloning and Manipulation**
 
@@ -50,7 +50,7 @@ AI’s ability to clone voices and images is a double-edged sword. It’s not ha
 
 As AI becomes more advanced, it could push us toward a state of indifference, where we’re desensitized to manipulation. Growing up, certain words or images were taboo, rarely seen or heard. Now, the internet exposes us to everything—violence, explicit content, you name it. If AI can amplify this exposure, what does that mean for our collective consciousness? Will we become numb to the point where we can’t distinguish truth from fiction?
 
-For homebuyers, this underscores the importance of working with a trusted agent who prioritizes your interests. My background as a first responder gives me a unique perspective on protecting clients from scams and misinformation. Check out my guide on avoiding real estate scams at https://www.santaclaritaopenhouses.com/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing or call me at 661-51-HOMES for a free consultation.
+For homebuyers, this underscores the importance of working with a trusted agent who prioritizes your interests. My background as a first responder gives me a unique perspective on protecting clients from scams and misinformation. Check out my guide on avoiding real estate scams at https://www./blog/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing or call me at 661-51-HOMES for a free consultation.
 
 **AI Consciousness vs. Human Consciousness**
 
@@ -64,7 +64,7 @@ At [https://www.santaclaritaopenhouses.com](/), I combine AI-driven insights wit
 
 Humans thrive on competition—it’s what drives us to improve. The same is true for the tech giants racing to develop AI. This competition is pushing AI to new heights, but it’s also raising ethical questions. If AI becomes conscious, will it have a moral compass? Will it care about fair housing or client trust? Probably not, unless we program it to.
 
-In real estate, competition is fierce. Buyers are vying for the same homes, and sellers are adjusting prices to stand out. AI can help analyze these trends, but it’s the human touch—understanding your needs, negotiating on your behalf—that makes the difference. As a former LAPD officer, I bring a disciplined, no-nonsense approach to every deal. Learn why clients trust me at [https://www.santaclaritaopenhouses.com/testimonials](/).
+In real estate, competition is fierce. Buyers are vying for the same homes, and sellers are adjusting prices to stand out. AI can help analyze these trends, but it’s the human touch—understanding your needs, negotiating on your behalf—that makes the difference. As a former LAPD officer, I bring a disciplined, no-nonsense approach to every deal. Learn why clients trust me at [https://www./blog/testimonials](/).
 
 **The Soul Question: Does AI Have a Place for It?**
 

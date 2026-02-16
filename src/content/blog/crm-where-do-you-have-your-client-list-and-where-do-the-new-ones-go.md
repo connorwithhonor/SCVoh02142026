@@ -29,7 +29,7 @@ Here’s the deal: A CRM organizes your leads, past clients, and potential refer
 
 ### What a CRM Does for You
 
-Want to see how it works? Check out my system at [https://santaclaritaopenhouses.com/contact](https://santaclaritaopenhouses.com/contact) and book a free consult to get started.
+Want to see how it works? Check out my system at [https:///blog/contact](https:///blog/contact) and book a free consult to get started.
 
 ## Step 1: Build Your CRM Foundation—It’s Easier Than You Think
 
@@ -37,7 +37,7 @@ Starting a CRM doesn’t require a PhD in tech (though I’ve got one in AI, so 
 
 ### Gather Your Contacts
 
-You’ve got names on napkins, emails in your inbox, and numbers in your phone. Step one is to collect them all. Don’t worry about duplicates or missing info yet—just dump everything into one place. Use a simple spreadsheet or, better yet, a free CRM like the one I can hook you up with (hit me at [https://santaclaritaopenhouses.com/contact](https://santaclaritaopenhouses.com/contact) for details).
+You’ve got names on napkins, emails in your inbox, and numbers in your phone. Step one is to collect them all. Don’t worry about duplicates or missing info yet—just dump everything into one place. Use a simple spreadsheet or, better yet, a free CRM like the one I can hook you up with (hit me at [https:///blog/contact](https:///blog/contact) for details).
 
 **Pro Tip**: Focus on these key fields:
 
@@ -49,7 +49,7 @@ Most CRMs let you upload a CSV or text file with your contacts. If your data’s
 
 Once your contacts are in, tag them based on their status:
 
-This sets the stage for automation, which we’ll get to in a bit. Curious about the best CRMs for real estate? Check my insights at [https://santaclaritaopenhouses.com/artificial-intelligence-in-real-estate](https://santaclaritaopenhouses.com/artificial-intelligence-in-real-estate).
+This sets the stage for automation, which we’ll get to in a bit. Curious about the best CRMs for real estate? Check my insights at [https:///blog/artificial-intelligence-in-real-estate](https:///blog/artificial-intelligence-in-real-estate).
 
 ## Step 2: Supercharge Your CRM with AI
 
@@ -61,7 +61,7 @@ I’m already using AI to streamline my real estate game. Want to see how? Visit
 
 ### How to Add AI to Your CRM
 
-Check out my AI-driven strategies at [https://santaclaritaopenhouses.com/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated](https://santaclaritaopenhouses.com/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated) for more.
+Check out my AI-driven strategies at [https:///blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated](https:///blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated) for more.
 
 ## Step 3: Turn Contacts into Cash with Smart Nurturing
 
@@ -89,15 +89,15 @@ Want to work with a Realtor who’s been there, done that? Book a free consultat
 
 ## Step 5: Scale Your Empire with Referrals
 
-Your CRM isn’t just for current clients—it’s a referral goldmine. Past clients who loved your service (check my testimonials at [https://santaclaritaopenhouses.com/testimonials](https://santaclaritaopenhouses.com/testimonials)) can connect you to new buyers. Here’s how to make it happen:
+Your CRM isn’t just for current clients—it’s a referral goldmine. Past clients who loved your service (check my testimonials at [https:///blog/testimonials](https:///blog/testimonials)) can connect you to new buyers. Here’s how to make it happen:
 
-I’ve built a referral network that keeps my pipeline full. Want in? Join my newsletter at [https://santaclaritaopenhouses.com/newsletter](https://santaclaritaopenhouses.com/newsletter) for exclusive tips.
+I’ve built a referral network that keeps my pipeline full. Want in? Join my newsletter at [https:///blog/newsletter](https:///blog/newsletter) for exclusive tips.
 
 ## Common Pitfalls to Avoid
 
 Even with a killer CRM, you can trip up if you’re not careful. Here’s what to watch out for:
 
-Need help dodging these traps? I’ve got your back—reach out at [https://santaclaritaopenhouses.com/contact](https://santaclaritaopenhouses.com/contact).
+Need help dodging these traps? I’ve got your back—reach out at [https:///blog/contact](https:///blog/contact).
 
 ## The Future of Real Estate CRMs in Santa Clarita
 

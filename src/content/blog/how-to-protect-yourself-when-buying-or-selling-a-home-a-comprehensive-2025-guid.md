@@ -110,7 +110,7 @@ Throughout this guide, I’ve touched on multiple aspects of protecting yourself
 
 #### Website Pages
 
-*(Note: For a full listing of available pages, see the sitemap at https://www.santaclaritaopenhouses.com/sitemap.xml.)*
+*(Note: For a full listing of available pages, see the sitemap at https://www./blog/sitemap.xml.)*
 
 #### YouTube
 
@@ -125,7 +125,7 @@ Real estate transactions demand vigilance. The stories shared here—whether fro
 Remember, your home is not just four walls and a roof—it’s your sanctuary, your future financial asset, and often the foundation of your family’s daily life. Approach each phase of the purchase or sale with the seriousness it deserves. With the right combination of caution, knowledge, and an ethical real estate professional in your corner, you can avoid most pitfalls and close your transaction with peace of mind.
 
 If you’re searching for more insights, please visit my blog at:
-https://www.santaclaritaopenhouses.com/blog
+https://www./blog/blog
 
 Feel free to explore my **YouTube Channel** for daily market updates and real estate tips:
 [https://youtu.be/X0L_na4bjOk](https://youtu.be/X0L_na4bjOk)

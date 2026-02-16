@@ -62,7 +62,7 @@ I’ve built a business around supporting this vision. My “Fat to Fit First Re
 
 For me, real estate isn’t just a career; it’s an extension of my commitment to service. Whether I’m helping clients find their dream home or guiding them through the complexities of selling, I bring the same discipline, energy, and resilience that helped me transform my own life. If you’re looking to make a change—whether it’s buying a new home or starting a journey to better health—I’m here as your partner in the process.
 
-For more insights into my journey, or if you’re interested in the benefits of an active, healthy lifestyle, check out my latest blog post: https://www.santaclaritaopenhouses.com/being-active-when-working-from-your-desk-may-be-the-change-you-need
+For more insights into my journey, or if you’re interested in the benefits of an active, healthy lifestyle, check out my latest blog post: https://www./blog/being-active-when-working-from-your-desk-may-be-the-change-you-need
 
 And for those interested in connecting with my Fat to Fit First Responder business, see my Google Business page: [https://maps.app.goo.gl/j2nba2ySBMny1rtU6](https://maps.app.goo.gl/j2nba2ySBMny1rtU6)
 

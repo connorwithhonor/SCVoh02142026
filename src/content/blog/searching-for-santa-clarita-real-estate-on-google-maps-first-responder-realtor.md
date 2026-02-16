@@ -37,7 +37,7 @@ My embedded map interface makes it easy to start your home search. Whether you�
 
 #### Contact Connor with Honor
 
-Are you ready to find your next home or investment property? Take the first step by using my Google Maps interface at [SantaClaritaOpenHouses.com](http://www.santaclaritaopenhouses.com). When you're ready to dive deeper into the process, I’m here to help with every detail. Call me at **661.400.1720** or send me an email, and let’s get started on your real estate journey.
+Are you ready to find your next home or investment property? Take the first step by using my Google Maps interface at [SantaClaritaOpenHouses.com](/). When you're ready to dive deeper into the process, I’m here to help with every detail. Call me at **661.400.1720** or send me an email, and let’s get started on your real estate journey.
 
 **Connor with Honor – First Responder Realtor** Serving the Santa Clarita Valley and surrounding areas with honesty, integrity, and a commitment to your best interests.
 

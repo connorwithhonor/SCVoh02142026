@@ -124,7 +124,7 @@ I want to show you exactly how this works. Below are three transcripts of conver
 
 **Q: I see "Zillow Premier Agents" with 5 stars. Aren't they good?** **A:** Maybe. Maybe not. "Premier" just means they pay a monthly advertising fee. Reviews can be curated. My vetting process involves looking at their actual closing data and their reputation among other brokers. I know the "ugly" that doesn't make it to the review page.
 
-**Q: Can you help me with commercial real estate?** **A:** Yes. The economic data shows SCV is a prime location for business. Whether you need a warehouse near the industrial center or an office near **[College of the Canyons](https://www.google.com/search?q=https://www.santaclaritaopenhouses.com/college-of-the-canyons)**, I have commercial specialists in my rolodex.
+**Q: Can you help me with commercial real estate?** **A:** Yes. The economic data shows SCV is a prime location for business. Whether you need a warehouse near the industrial center or an office near **[College of the Canyons](https://www.google.com/search?q=https://www./blog/college-of-the-canyons)**, I have commercial specialists in my rolodex.
 
 **Q: What if I start working with your referred agent and we don't click?** **A:** You call me. I am your overwatch. If the agent isn't performing to the "Connor with Honor" standard, I will step in, fix the situation, or replace them immediately. You are never alone in this.
 

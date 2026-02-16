@@ -25,7 +25,7 @@ While **mortgage rates** have increased from their historic lows in 2021, they a
 
 For more on **mortgage rates in Santa Clarita**, visit:
 
-[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](http://www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate)
+[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www./blog/mortgage-rates-santa-clarita-real-estate)
 
 ### **2. Tight Inventory Levels**
 
@@ -57,7 +57,7 @@ In the wake of the pandemic, the demand for **suburban homes** in places like **
 
 To explore why **Santa Clarita** is perfect for suburban living, check out:
 
-[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](http://www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita)
+[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](https://www./blog/top-reasons-buy-home-2024-santa-clarita)
 
 ### **6. Long-Term Appreciation Potential**
 
