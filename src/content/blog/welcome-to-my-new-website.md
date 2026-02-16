@@ -36,8 +36,6 @@ To look at or edit your saved searches, you must be logged in. On the homepage, 
 
 If you would like any assistance, please do not hesitate to Contact Me or call me directly at (661) 400-1720
 
-
-
 ** Share This Post## Comments
 
 Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)

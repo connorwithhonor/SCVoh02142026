@@ -83,173 +83,11 @@ Pro tip: After scanning the city pages, jump to niche searches to align lifestyl
 
 ## Buyer Playbook: Step‑by‑Step Guide to Winning the Right Home
 
-```
-
-### Step 1: Set Your Search Like a Pro
-
-Two paths: quick scan or precision scan. Use [Quick Search](https://www.santaclaritaopenhouses.com/quick-search) if you are early and exploring. When you’re ready to narrow, switch to [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search) and save alerts. If you want me to do the heavy lifting, fill out the [Dream Home Finder](https://www.santaclaritaopenhouses.com/dream-home-finder)—I’ll configure a search that matches budget, timing, and lifestyle.
-
-### Step 2: Get Your Money Right
-
-In 2025, pre‑approval is the ticket to be taken seriously. Leverage a local lender who can answer the phone on a Sunday. Read today’s rate context and common loan options before you tour: start with our [Mortgage Rates](https://www.santaclaritaopenhouses.com/mortgage-rates) page and then skim a few of my interest‑rate posts on the blog to understand buydowns, points, and what matters in an offer beyond rate.
-
-### Step 3: Shortlist Open Houses
-
-Use the dedicated [SCV Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-the-santa-clarita-valley-ca) page to plan your weekend. If you’re covering a wider radius, include [California Open Houses](https://www.santaclaritaopenhouses.com/homes-with-an-open-house-for-sale-in-california). Group your list by neighborhood proximity to save time, and map the drive times with traffic in mind.
-
-### Step 4: Load the Questions That Uncover the Truth
-
-	- “What would the seller love to see in an offer besides price?” (Close date? Rent‑back? No repairs?)
-
-	- “How many disclosures are out and how many offers expected by when?”
-
-	- “Any non‑obvious issues: easements, noise, neighbors, HOA rules, past insurance claims?”
-
-	- “If you were me, what would you fix, improve, or negotiate first?”
-
-### Step 5: Tour with a Framework
-
-Evaluate each property against the same simple framework so you can compare apples to apples:
-
-	- **Condition:** Roof, HVAC age, windows, moisture signs, and electrical panels.
-
-	- **Layout:** Bedroom configuration, flow, and practical use of space.
-
-	- **Location:** Street position, noise, sun path, and commute.
-
-	- **Cost to Own:** Property tax, HOA, Mello‑Roos, utilities, and likely first‑year upgrades.
-
-### Step 6: Capture the Data You’ll Forget
-
-During crowded opens, your brain will lie to you. Use your phone’s notes and photos to track what matters: address, top three pros/cons, and questions for disclosure review. Keep a running shortlist and eliminate aggressively.
-
-### Step 7: Sharpen Your Offer
-
-Clean beats cute. Tight timelines, reasonable contingencies, and verified funds beat emotional letters nine times out of ten. If the home is popular, consider shortening contingency periods you can perform on quickly. If the home has been sitting, resist overbidding and focus on terms that solve the seller’s problem.
-
-### Step 8: Use the Glossary to Stay Sharp
-
-If any term sounds squishy, look it up in our [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary). Confusion costs money.
-
-### Step 9: Know When to Walk Away
-
-If the numbers don’t work *and* the story doesn’t make sense, that’s God’s way of saying “Not this one.” Another home is coming—often in the same tract—within weeks. Keep your peace. Keep your plan.
-
-### Step 10: Keep Your Pipeline Full
-
-Subscribe to the [newsletter](https://www.santaclaritaopenhouses.com/newsletter) and watch the [blog](https://www.santaclaritaopenhouses.com/blog) to stay calibrated on price reductions, rate moves, and open house trends. When the right property hits, you’ll be ready.
-
-### Step 11: Verify Inventory in Real Time
-
-Before writing, confirm nothing better has appeared. Scan [Active Listings](https://www.santaclaritaopenhouses.com/active-listings) and then check your target city page from the list above. If the offer feels rushed, it probably is—slow down, re‑read disclosures, and make sure you’re writing to win, not writing to “be done.”
-
-### Step 12: Ask for Help When It Adds Leverage
-
-Buyers who manage the process alone sometimes miss leverage points. When you want a second set of eyes on strategy, timing, or terms, [reach out](https://www.santaclaritaopenhouses.com/contact). I’m happy to be your sounding board with no pressure.
-
-```
-
 ## Seller Playbook: Open House Operations Plan (Safety‑First, Results‑Focused)
 
 Open houses don’t sell every home, but they absolutely can accelerate demand and surface the best buyer faster—if you run them like a disciplined operation. Here’s the plan my clients use to generate real‑world results without drama.
 
-```
-
-### Pre‑Launch: Build the Demand Before the Doors Open
-
-	- **Market Value Calibration:** Get a [free market analysis](https://www.santaclaritaopenhouses.com/free-market-analysis) and align with the current micro‑market, not last spring’s stories.
-
-	- **Photo‑First Prep:** Declutter, paint touch‑ups, landscaping refresh, minor handyman items. Photograph the home only after it’s camera‑ready.
-
-	- **Story and Sequence:** Publish a clear property story on the site and sequence: Coming Soon → Active → Open House → Offer Deadline.
-
-	- **Agent‑Access Readiness:** Decide on showing rules, lockbox position, and agent communication script to maintain consistent messaging.
-
-### Safety Protocols (My LAPD Playbook)
-
-	- **Ingress/Egress:** Keep one primary door monitored and a clear secondary exit. I avoid dead‑end furniture arrangements.
-
-	- **Valuables &amp; Meds:** Secure anything portable: jewelry, cash, prescriptions, documents, spare keys, weapons.
-
-	- **Sign‑In with Purpose:** Use digital sign‑in. Verify ID upon request. Genuine buyers have no issue; it protects everyone.
-
-	- **Buddy System:** Two‑person coverage on high‑traffic opens. I prefer one greeter and one flow manager.
-
-	- **Video Coverage:** Visible cameras deter nonsense and help reconstruct timelines if needed.
-
-### Open House Day: Roles, Script, and Flow
-
-	- **Staging &amp; Scent:** Neutral, light, and clean. No heavy candles or air fresheners that read “cover‑up.”
-
-	- **Directional Signage:** Get out early, follow local rules, and place signs at “decision nodes” drivers naturally follow.
-
-	- **Greeter Script:** “Welcome in—what neighborhood are you comparing us to today?” Always ask a question that reveals motive and timing.
-
-	- **Traffic Meter:** Track headcount and conversations; these become signals when you set offer deadlines.
-
-	- **Disclosure Station:** Paper or tablet with key reports visible: inspections, permits, HOA, upgrades—anything that answers objections.
-
-### After the Open: Turn Conversations into Offers
-
-	- **Follow‑Up Fast:** Within hours, call the real buyers and their agents. Ask what they need to write.
-
-	- **Offer Window:** Publish a clear offer deadline if traffic was strong. If light, use one‑on‑one follow‑ups instead.
-
-	- **Counter with Clarity:** Keep counters simple: price, terms, timelines. Avoid emotional ping‑pong. Aim for win‑win with a clean path to close.
-
-	- **Proof of Performance:** If you’re interviewing agents, view my [Sold Listings](https://www.santaclaritaopenhouses.com/my-sold-listings) and ask for a sample campaign plan. Results matter.
-
-```
-
 ## Open House Checklists (Buyers &amp; Sellers)
-
-```
-
-### Buyer’s 10‑Minute Property Scan
-
-	- Curb appeal &amp; roof line: obvious sag, patching, or shingle mismatch?
-
-	- Entry smell &amp; temp: moisture, pet, or HVAC stress?
-
-	- Window seals &amp; sills: condensation, softness, paint overspray?
-
-	- Kitchen &amp; baths: water stains at baseboards, under sinks, and around toilets.
-
-	- Electrical panel photo: brand and breaker labels, signs of DIY.
-
-	- Attic access noted: insulation type, venting, or active fans?
-
-	- Yard grading: slope away from the house, obvious pooling spots?
-
-	- Noise test: step outside—street, neighbors, pets, utilities.
-
-	- Cell coverage + Wi‑Fi test: dead zones matter in daily life.
-
-	- Block walk: count “for sale,” “pending,” and “recently sold” within 2–3 streets.
-
-### Seller’s Day‑Before Checklist
-
-	- Finish punch‑list: bulbs, squeaks, small caulk/paint patches.
-
-	- Deep clean kitchens/baths; clear countertops to 3–5 items max.
-
-	- Hide personal photos and valuables; secure meds and documents.
-
-	- Set HVAC to a comfortable showing temperature.
-
-	- Place a printed features sheet and upgrade list.
-
-	- Prepare disclosure binders and QR code for digital packet.
-
-	- Confirm sign route &amp; compliance with local rules.
-
-	- Pet plan set: offsite or crated; litter boxes sanitized.
-
-	- Lights on, blinds adjusted for daylight; fans on low where appropriate.
-
-	- Safety check: confirm secondary exit clear and cameras active.
-
-```
 
 ## Offers &amp; Negotiation: Clean Beats Cute
 
@@ -277,34 +115,6 @@ Rates move. Good decisions don’t. Study the basics, talk with a lender who can
 
 Yes—when used as intelligence. You’re not just “looking at a house.” You’re measuring demand, condition signals, and competition. Fifteen minutes can inform a strong, clean offer.
 
-```
-
-### Can I buy without writing the highest price?
-
-Often. If the seller values timing, rent‑back, or certainty, the right terms can beat a higher, messier offer.
-
-### Should I skip inspection to win?
-
-No. Adjust timelines if necessary, but do not buy blind. The cost of a missed defect dwarfs any perceived speed advantage.
-
-### Do I need my own agent if I found the home at an open house?
-
-If you want representation focused on your interests, yes. The listing agent owes the seller a duty first. I’m happy to be your advocate and strategist.
-
-### How do I compare neighborhoods quickly?
-
-Open the city pages in tabs and compare: condition of sold comps, days on market, and inventory mix. Then walk the blocks. Online is a preview; the street is the truth.
-
-### What if I’m relocating?
-
-Use the [Relocation](https://www.santaclaritaopenhouses.com/relocation-1) page to get oriented, set target areas, and then plan an “intensive weekend” with back‑to‑back opens.
-
-### Where do I start if I’m totally new?
-
-Begin with [Quick Search](https://www.santaclaritaopenhouses.com/quick-search), watch the [blog](https://www.santaclaritaopenhouses.com/blog), and subscribe to the [newsletter](https://www.santaclaritaopenhouses.com/newsletter). When you’re close to serious, switch to [Advanced Search](https://www.santaclaritaopenhouses.com/advanced-search) and set up targeted alerts.
-
-```
-
 ## Common Mistakes &amp; Fixes
 
 	- **Winging It:** Touring without a plan leads to fuzzy decisions. *Fix:* Use the Buyer’s 10‑Minute Scan and the four‑point evaluation (Condition, Layout, Location, Cost to Own).
@@ -322,30 +132,6 @@ Begin with [Quick Search](https://www.santaclaritaopenhouses.com/quick-search), 
 	- **Stale Follow‑Up:** Waiting days after a good open to engage buyers. *Fix:* Same‑day calls to the right parties with a clear next step.
 
 ## AEO‑Friendly Segments (Answer‑Engine Ready)
-
-```
-
-### What should I bring to an open house?
-
-Government ID, your pre‑approval letter (on phone), proof of funds (redacted), a short list of must‑haves, and your 10‑Minute Scan checklist.
-
-### How long should I spend at each open?
-
-Ten to fifteen minutes is enough for a first pass. If it’s a contender, return with me or your inspector for deeper inspection before writing.
-
-### Is Sunday better than Saturday?
-
-Neither is “better.” Look at the listing’s offer plan. If offers are due Monday, tour on Saturday to leave Sunday for second looks and paperwork.
-
-### What’s the fastest way to compare across SCV?
-
-Open [Active Listings](https://www.santaclaritaopenhouses.com/active-listings), your top two city pages, and the niche search that matches your lifestyle (e.g., [Pool Homes](https://www.santaclaritaopenhouses.com/homes-with-a-pool-for-sale-in-santa-clarita-valley-ca)). Decide what you’ll “trade” (yard vs. commute vs. school zone) before you write.
-
-### Where do I find definitions and timelines?
-
-Use the [Real Estate Glossary](https://www.santaclaritaopenhouses.com/real-estate-glossary). If you’re stuck, message me—quick answers save money.
-
-```
 
 ## Resources (Internal Links)
 
