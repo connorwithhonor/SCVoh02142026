@@ -1,7 +1,7 @@
 ---
 title: "Santa Clarita Real Estate Referrals: Why LAPD Experience Makes the Difference"
 description: "TL;DR  Twenty years of law enforcement taught Connor MacIvor how to assess character under pressure, spot deception, and verify credibility—skills that translate directly to vetting real estate agents"
-publishDate: 2026-02-15T12:59:13.541266
+publishDate: 2026-02-15T16:07:54.629070
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-13%20093021.png"
 source: "https://www.santaclaritaopenhouses.com/santa-clarita-real-estate-referrals-why-lapd-experience-makes-the-difference-1"
 ---

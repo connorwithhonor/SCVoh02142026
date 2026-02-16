@@ -1,7 +1,7 @@
 ---
 title: "Why Santa Clarita Real Estate Agents Must Vet Every Lender Before Presenting"
 description: "The Due Diligence That Protects Your Sellers  TLDR: Before you present any offer to your Santa Clarita seller, you must contact the lender directly to verify funding capability, timeline feasibility, "
-publishDate: 2026-02-15T12:59:13.558781
+publishDate: 2026-02-15T16:07:54.644578
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-10%20085918.png"
 source: "https://www.santaclaritaopenhouses.com/why-santa-clarita-real-estate-agents-must-vet-every-lender-before-presenting"
 ---

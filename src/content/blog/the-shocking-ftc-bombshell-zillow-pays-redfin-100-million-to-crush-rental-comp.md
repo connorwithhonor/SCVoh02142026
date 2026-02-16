@@ -1,7 +1,7 @@
 ---
 title: "The Shocking FTC Bombshell: Zillow Pays Redfin $100 Million to Crush Rental Comp"
 description: "The Shocking FTC Bombshell: Zillow Pays Redfin $100 Million to Crush Rental Competition – What This Means for Santa Clarita's Real Estate Game          TL;DR: The Federal Trade Commission just dropped"
-publishDate: 2026-02-15T12:59:13.606721
+publishDate: 2026-02-15T16:07:54.699180
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/ftc%20filing%20against%20zillow%20and%20redfin%201003.png"
 source: "https://www.santaclaritaopenhouses.com/the-shocking-ftc-bombshell-zillow-pays-redfin-100-million-to-crush-rental-comp"
 ---

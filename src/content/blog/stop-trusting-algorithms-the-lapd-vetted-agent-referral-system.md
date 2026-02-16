@@ -1,7 +1,7 @@
 ---
 title: "Stop Trusting Algorithms: The LAPD Vetted Agent Referral System"
 description: "TL;DR: Big corporate referral sites like Zillow and Ramsey often sell your data to the highest bidder, not necessarily the best agent. Connor MacIvor, a retired LAPD officer and 27-year real estate ve"
-publishDate: 2026-02-15T12:59:13.577672
+publishDate: 2026-02-15T16:07:54.665659
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/find%20the%20best%20santa%20clarita%20real%20estate%20agents%20vetted%20by%20a%20lapd%20veteran.png"
 source: "https://www.santaclaritaopenhouses.com/stop-trusting-algorithms-the-lapd-vetted-agent-referral-system"
 ---

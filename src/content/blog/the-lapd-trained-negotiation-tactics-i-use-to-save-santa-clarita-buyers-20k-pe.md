@@ -1,7 +1,7 @@
 ---
 title: "The LAPD-Trained Negotiation Tactics I Use to Save Santa Clarita Buyers $20K+ Pe"
 description: "TL;DR  Connor MacIvor spent 20 years as an LAPD officer, including training in hostage negotiation and crisis intervention. Those same tactics—building rapport, creating leverage, staying calm under p"
-publishDate: 2026-02-15T12:59:13.529607
+publishDate: 2026-02-15T16:07:54.619059
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-15%20174752.png"
 source: "https://www.santaclaritaopenhouses.com/the-lapd-trained-negotiation-tactics-i-use-to-save-santa-clarita-buyers-20k-pe"
 ---

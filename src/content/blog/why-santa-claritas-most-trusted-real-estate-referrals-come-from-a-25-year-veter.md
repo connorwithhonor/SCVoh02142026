@@ -1,7 +1,7 @@
 ---
 title: "Why Santa Clarita's Most Trusted Real Estate Referrals Come From a 25-Year Veter"
 description: "TL;DR  After 25 years in Santa Clarita real estate and 20 years with LAPD, Connor MacIvor knows the difference between agents who talk and agents who deliver. As a referral-only professional, he conne"
-publishDate: 2026-02-15T12:59:13.545265
+publishDate: 2026-02-15T16:07:54.632070
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-12-13%20091607.png"
 source: "https://www.santaclaritaopenhouses.com/why-santa-claritas-most-trusted-real-estate-referrals-come-from-a-25-year-veter"
 ---

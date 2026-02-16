@@ -1,7 +1,7 @@
 ---
 title: "The Real Estate Agent's Guide to AI-Powered Lead Generation: Why Local Expertise"
 description: "The Real Estate Agent's Guide to AI-Powered Lead Generation: Why Local Expertise Beats Syndication Platforms in 2025           The real estate industry is undergoing a seismic shift. Agents across the"
-publishDate: 2026-02-15T12:59:13.580176
+publishDate: 2026-02-15T16:07:54.668659
 heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12032025%20the%20evolution%20of%20santa%20clarita%20real%20estate.png"
 source: "https://www.santaclaritaopenhouses.com/the-real-estate-agents-guide-to-ai-powered-lead-generation-why-local-expertise"
 ---
