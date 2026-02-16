@@ -36,7 +36,7 @@ To look at or edit your saved searches, you must be logged in. On the homepage, 
 
 If you would like any assistance, please do not hesitate to Contact Me or call me directly at (661) 400-1720
 
-![](/images/web/template/common/featurette-contact-me.png)
+
 
 ** Share This Post## Comments
 

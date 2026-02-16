@@ -8,9 +8,9 @@ from pathlib import Path
 
 def fix_missing_images(content):
     """Remove or fix broken image references"""
-    # Pattern: ![](open-house-setup.jpg) or ![](virtual-open-house-setup.jpg)
-    # Remove these since they don't exist
-    content = re.sub(r'!\[\]\((virtual-)?open-house-setup\.jpg\)', '', content)
+    # Pattern: ![](filename.jpg) - any relative path (no http/https)
+    # Remove these since they don't exist in our project
+    content = re.sub(r'!\[\]\((?!https?://)[^\)]+\)', '', content)
     return content
 
 def main():
