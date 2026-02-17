@@ -90,7 +90,7 @@ Stay tuned for more updates, and don’t hesitate to reach out if you have any q
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going/colorful-yard.jpg)
 
   
 ## Explore
@@ -127,4 +127,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going/equal-housing-opportunity.png) ![](/images/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going/realtor.png) ![](/images/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/being-active-when-working-from-y
 # Being active when working from your desk may be the change you need
 
 Connor "with Honor" MacIvor - November 5, 2024** Tags: [SantaClaritaRealEstate](/-/Blog/tag/SantaClaritaRealEstate), [FirstResponderRealtor](/-/Blog/tag/FirstResponderRealtor), [ConnorWithHonor](/-/Blog/tag/ConnorWithHonor), [HealthTransformation](/-/Blog/tag/HealthTransformation), [RealEstateJourney](/-/Blog/tag/RealEstateJourney), [SantaClaritaLiving](/-/Blog/tag/SantaClaritaLiving), [HomeBuying](/-/Blog/tag/HomeBuying), [WeightLossSuccess](/-/Blog/tag/WeightLossSuccess), [FromFatToFit](/-/Blog/tag/FromFatToFit), [DeskWorkoutTips](/-/Blog/tag/DeskWorkoutTips), [SantaClaritaCommunity](/-/Blog/tag/SantaClaritaCommunity), [LifestyleRealEstate](/-/Blog/tag/LifestyleRealEstate), [ActiveLiving](/-/Blog/tag/ActiveLiving), [RealEstate](/-/Blog/tag/RealEstate)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### **![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/fat%20to%20fit%20first%20responder%20santa%20clarita%20help%20with%20fat%20loss%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Being Active When Working from Your Desk May Be the Change You Need**
+### **![](/images/blog/being-active-when-working-from-your-desk-may-be-the-change-you-need/fat_to_fit_first_responder_santa_clarita_help_with_fat_loss_sq.png)Being Active When Working from Your Desk May Be the Change You Need**
 
 The path to transforming your health is a lot like navigating the real estate journey—both require dedication, strategy, and sometimes even a leap of faith. As someone who once weighed 365 pounds, with a 65” waist, I know the challenges of transformation. I didn’t just lose weight; I redefined my approach to life, health, and, ultimately, how I serve as a realtor. My success in the Santa Clarita real estate market is rooted in the same principles that helped me shed over 135 pounds and turn my life around.
 
@@ -70,7 +70,7 @@ And for those interested in connecting with my Fat to Fit First Responder busine
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/being-active-when-working-from-your-desk-may-be-the-change-you-need/colorful-yard.jpg)
 
   
 ## Explore
@@ -107,4 +107,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/being-active-when-working-from-your-desk-may-be-the-change-you-need/equal-housing-opportunity.png) ![](/images/blog/being-active-when-working-from-your-desk-may-be-the-change-you-need/realtor.png) ![](/images/blog/being-active-when-working-from-your-desk-may-be-the-change-you-need/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/google-map-and-photos-as-a-first
 # Google map and photos as a first responder turned realtor in Los Angeles
 
 Connor "with Honor" MacIvor - October 6, 2024** Tags: [real estate](/-/Blog/tag/real estate), [google maps](/-/Blog/tag/google maps), [images](/-/Blog/tag/images), [connor with honor](/-/Blog/tag/connor with honor)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/lapd%20officer%20turned%20realtor,%20first%20responder%20turned%20realtor%20keeping%20clients%20safe%20from%20the%20bs.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)How to Remove Your Home Images from Google Maps and Google Street View: A Simple Step-by-Step Guide**
+**![](/images/blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles/lapd_officer_turned_realtor__first_responder_turned_realtor_keeping_clients_safe_from_the_bs.png)How to Remove Your Home Images from Google Maps and Google Street View: A Simple Step-by-Step Guide**
 
 In today’s world, privacy is becoming harder to maintain, especially with tools like Google Maps and Google Street View offering detailed images of our homes to anyone with an internet connection. While these tools are useful for many things, they can also pose security risks if photos of your home reveal too much information, such as entrances, windows, or other vulnerabilities. Fortunately, Google provides a way to request the removal or blurring of these images.
 
@@ -150,7 +150,7 @@ Connor with Honor
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles/colorful-yard.jpg)
 
   
 ## Explore
@@ -187,4 +187,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles/equal-housing-opportunity.png) ![](/images/blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles/realtor.png) ![](/images/blog/google-map-and-photos-as-a-first-responder-turned-realtor-in-los-angeles/mls.png)

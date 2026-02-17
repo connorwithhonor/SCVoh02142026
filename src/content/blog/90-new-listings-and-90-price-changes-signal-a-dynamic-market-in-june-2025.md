@@ -22,7 +22,7 @@ The Santa Clarita Valley real estate market is buzzing with activity as we close
 
 ## TL;DR
 
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Screenshot%202025-06-30%20083140.png)In the past seven days ending June 30, 2025, Santa Clarita Valley saw 90 new listings, 90 price changes, and 73 closed sales, signaling a competitive yet opportunity-rich real estate market. Buyers can capitalize on fresh inventory and price adjustments, while sellers need strategic pricing to stand out. Work with Connor MacIvor, a first-responder-turned-realtor, to navigate this dynamic market. Visit SantaClaritaOpenHouses.com to explore listings or request a free market analysis.
+![](/images/blog/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025/Screenshot_2025-06-30_083140.png)In the past seven days ending June 30, 2025, Santa Clarita Valley saw 90 new listings, 90 price changes, and 73 closed sales, signaling a competitive yet opportunity-rich real estate market. Buyers can capitalize on fresh inventory and price adjustments, while sellers need strategic pricing to stand out. Work with Connor MacIvor, a first-responder-turned-realtor, to navigate this dynamic market. Visit SantaClaritaOpenHouses.com to explore listings or request a free market analysis.
 
 ## Understanding the Santa Clarita Valley Market: A Snapshot of the Past 7 Days
 
@@ -122,7 +122,7 @@ The Santa Clarita Valley real estate market is poised for continued activity in 
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025/colorful-yard.jpg)
 
   
 ## Explore
@@ -159,4 +159,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025/equal-housing-opportunity.png) ![](/images/blog/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025/realtor.png) ![](/images/blog/90-new-listings-and-90-price-changes-signal-a-dynamic-market-in-june-2025/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/274-2024-why-hire-connor-with-ho
 # 274-2024 Why hire Connor with Honor as your Santa Clarita Realtor update
 
 Connor "with Honor" MacIvor - September 30, 2024** Tags: [real estate](/-/Blog/tag/real estate), [agents](/-/Blog/tag/agents), [top realtor](/-/Blog/tag/top realtor), [connor with honor](/-/Blog/tag/connor with honor), [santa clarita open houses](/-/Blog/tag/santa clarita open houses)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/274-2024%20Santa%20Clarita%20choosing%20your%20agent%20wisely%20and%20not%20hiring%20a%20clown.jpg?width=400&amp;height=389&amp;aspect_ratio=400%3A389)1. **Experience Across Two Worlds: Law Enforcement and Real Estate**
+### ![](/images/blog/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update/274-2024_Santa_Clarita_choosing_your_agent_wisely_and_not_hiring_a_clown.jpg)1. **Experience Across Two Worlds: Law Enforcement and Real Estate**
 
 Having served for decades as a police officer with LAPD, you’ve honed skills in attention to detail, quick decision-making, and handling high-pressure situations, all of which transfer directly into real estate transactions. Clients know they’re dealing with someone who can foresee challenges and mitigate risks, keeping their best interests in focus at every step. Your law enforcement background also adds a unique layer of safety and security to the process that very few agents can offer.
 
@@ -86,7 +86,7 @@ Thanks Ray, that was awesome.
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update/colorful-yard.jpg)
 
   
 ## Explore
@@ -123,4 +123,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update/equal-housing-opportunity.png) ![](/images/blog/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update/realtor.png) ![](/images/blog/274-2024-why-hire-connor-with-honor-as-your-santa-clarita-realtor-update/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/2024-263-the-fed-reduced-the-rat
 # 2024-263 The FED reduced the rate to 4.75-5.00 percent!
 
 Connor "with Honor" MacIvor - September 19, 2024** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/263%20santa%20clarita%20real%20estate%20news%20and%20market%20update%20by%20connor%20with%20honor.png?width=400&amp;height=225&amp;aspect_ratio=400%3A225)What exactly does that mean?
+![](/images/blog/2024-263-the-fed-reduced-the-rate-to-475-500-percent/263_santa_clarita_real_estate_news_and_market_update_by_connor_with_honor.png)What exactly does that mean?
 
 ### **Federal Funds Rate (Fed Rate):**
 
@@ -82,7 +82,7 @@ That wraps up today’s **Santa Clarita Real Estate Market Update**. To stay inf
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/2024-263-the-fed-reduced-the-rate-to-475-500-percent/colorful-yard.jpg)
 
   
 ## Explore
@@ -119,4 +119,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/2024-263-the-fed-reduced-the-rate-to-475-500-percent/equal-housing-opportunity.png) ![](/images/blog/2024-263-the-fed-reduced-the-rate-to-475-500-percent/realtor.png) ![](/images/blog/2024-263-the-fed-reduced-the-rate-to-475-500-percent/mls.png)

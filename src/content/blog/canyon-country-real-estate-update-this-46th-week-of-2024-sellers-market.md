@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-updat
 # Canyon Country real estate update this 46th week of 2024 - sellers market
 
 Connor "with Honor" MacIvor - November 15, 2024** Tags: [santa clarita real estate](/-/Blog/tag/santa clarita real estate), [canyon country homes](/-/Blog/tag/canyon country homes), [santa clarita open houses](/-/Blog/tag/santa clarita open houses), [canyon country real estate market](/-/Blog/tag/canyon country real estate market), [canyon country homes for sale](/-/Blog/tag/canyon country homes for sale), [santa clarita realtor](/-/Blog/tag/santa clarita realtor), [connor with honor](/-/Blog/tag/connor with honor), [first responder realtor](/-/Blog/tag/first responder realtor), [real estate guide 2025](/-/Blog/tag/real estate guide 2025), [santa clarita home](/-/Blog/tag/santa clarita home)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11152024%20Canyon%20Country%20real%20estate%20update%20by%20santa%20clarita%20open%20houses%20first%20responder%20realtor%20connor%20with%20honor%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Canyon Country Real Estate Market Update
+### ![](/images/blog/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market/11152024_Canyon_Country_real_estate_update_by_santa_clarita_open_houses_first_responder_realtor_connor_with_honor_sq.png)Canyon Country Real Estate Market Update
 
 **Date:** November 15, 2024 | **Day of Year:** 320 | **Week of Year:** 46
 
@@ -60,7 +60,7 @@ Thank you for joining me in this update. Reach out if you have any questions abo
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market/colorful-yard.jpg)
 
   
 ## Explore
@@ -97,4 +97,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market/equal-housing-opportunity.png) ![](/images/blog/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market/realtor.png) ![](/images/blog/canyon-country-real-estate-update-this-46th-week-of-2024-sellers-market/mls.png)

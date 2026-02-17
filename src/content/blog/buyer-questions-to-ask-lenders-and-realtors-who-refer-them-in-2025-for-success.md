@@ -254,7 +254,7 @@ For AI twists in real estate, check HonorElevate.com or call 661-367-8685.
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success/colorful-yard.jpg)
 
   
 ## Explore
@@ -291,4 +291,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success/equal-housing-opportunity.png) ![](/images/blog/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success/realtor.png) ![](/images/blog/buyer-questions-to-ask-lenders-and-realtors-who-refer-them-in-2025-for-success/mls.png)

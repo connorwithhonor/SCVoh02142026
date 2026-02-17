@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-and-the-lake
 # Castaic real estate and the lake, don't be shy when making offers ending 2024
 
 Connor "with Honor" MacIvor - November 23, 2024** Tags: [Castaic Real Estate](/-/Blog/tag/Castaic Real Estate), [Santa Clarita Real Estate](/-/Blog/tag/Santa Clarita Real Estate), [Castaic Homes for Sale](/-/Blog/tag/Castaic Homes for Sale), [Santa Clarita Valley](/-/Blog/tag/Santa Clarita Valley), [Real Estate Market Update](/-/Blog/tag/Real Estate Market Update), [First Responder Realtor](/-/Blog/tag/First Responder Realtor), [Connor with Honor](/-/Blog/tag/Connor with Honor), [Castaic Lake Homes](/-/Blog/tag/Castaic Lake Homes), [Castaic Property Listings](/-/Blog/tag/Castaic Property Listings), [Real Estate Negotiation](/-/Blog/tag/Real Estate Negotiation), [Home Selling Tips](/-/Blog/tag/Home Selling Tips)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### **![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11232024%20Castaic%20real%20estate%20update%20by%20santa%20clarita%20real%20estate%20agents%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Castaic Real Estate Market Update Blog Post**
+### **![](/images/blog/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024/11232024_Castaic_real_estate_update_by_santa_clarita_real_estate_agents_sq.png)Castaic Real Estate Market Update Blog Post**
 
 **November 23, 2024 – Day 328 of the Year – Week 47**
 
@@ -60,7 +60,7 @@ Have a wonderful Thanksgiving, and I’ll see you next Saturday for our next Cas
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024/colorful-yard.jpg)
 
   
 ## Explore
@@ -97,4 +97,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024/equal-housing-opportunity.png) ![](/images/blog/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024/realtor.png) ![](/images/blog/castaic-real-estate-and-the-lake-dont-be-shy-when-making-offers-ending-2024/mls.png)

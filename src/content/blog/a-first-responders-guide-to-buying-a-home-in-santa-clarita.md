@@ -54,7 +54,7 @@ Let’s make your dream of homeownership in Santa Clarita a reality. Contact me 
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/a-first-responders-guide-to-buying-a-home-in-santa-clarita/colorful-yard.jpg)
 
   
 ## Explore
@@ -91,4 +91,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/a-first-responders-guide-to-buying-a-home-in-santa-clarita/equal-housing-opportunity.png) ![](/images/blog/a-first-responders-guide-to-buying-a-home-in-santa-clarita/realtor.png) ![](/images/blog/a-first-responders-guide-to-buying-a-home-in-santa-clarita/mls.png)

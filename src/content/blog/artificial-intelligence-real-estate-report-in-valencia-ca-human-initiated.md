@@ -92,7 +92,7 @@ Staying ahead of these trends is key, and that's where my local expertise and in
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated/colorful-yard.jpg)
 
   
 ## Explore
@@ -129,4 +129,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated/equal-housing-opportunity.png) ![](/images/blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated/realtor.png) ![](/images/blog/artificial-intelligence-real-estate-report-in-valencia-ca-human-initiated/mls.png)

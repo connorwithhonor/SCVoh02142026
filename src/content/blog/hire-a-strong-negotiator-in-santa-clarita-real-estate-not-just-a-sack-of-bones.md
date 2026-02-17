@@ -82,7 +82,7 @@ For more tips, insights, and up-to-date market information, visit [SantaClaritaO
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/hire-a-strong-negotiator-in-santa-clarita-real-estate-not-just-a-sack-of-bones/colorful-yard.jpg)
 
   
 ## Explore
@@ -119,4 +119,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/hire-a-strong-negotiator-in-santa-clarita-real-estate-not-just-a-sack-of-bones/equal-housing-opportunity.png) ![](/images/blog/hire-a-strong-negotiator-in-santa-clarita-real-estate-not-just-a-sack-of-bones/realtor.png) ![](/images/blog/hire-a-strong-negotiator-in-santa-clarita-real-estate-not-just-a-sack-of-bones/mls.png)

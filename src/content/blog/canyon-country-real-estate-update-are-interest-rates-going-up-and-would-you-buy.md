@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-updat
 # Canyon Country real estate update are interest rates going up and would you buy
 
 Connor "with Honor" MacIvor - November 22, 2024** Tags: [Canyon Country Real Estate](/-/Blog/tag/Canyon Country Real Estate), [Santa Clarita Homes](/-/Blog/tag/Santa Clarita Homes), [Santa Clarita Real Estate](/-/Blog/tag/Santa Clarita Real Estate), [Canyon Country Homes for Sale](/-/Blog/tag/Canyon Country Homes for Sale), [Real Estate Market Update](/-/Blog/tag/Real Estate Market Update), [Canyon Country Realtors](/-/Blog/tag/Canyon Country Realtors), [Santa Clarita Real Estate Agents](/-/Blog/tag/Santa Clarita Real Estate Agents), [First Responder Realtor](/-/Blog/tag/First Responder Realtor), [Connor with Honor](/-/Blog/tag/Connor with Honor), [Santa Clarita](/-/Blog/tag/Santa Clarita)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/11222024%20Canyon%20Country%20real%20estate%20update%20for%20home%20buyers%20and%20home%20sellers%20with%20questions%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Canyon Country Real Estate Update: Are Interest Rates Going Up and Would You Buy?
+### ![](/images/blog/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy/11222024_Canyon_Country_real_estate_update_for_home_buyers_and_home_sellers_with_questions_sq.png)Canyon Country Real Estate Update: Are Interest Rates Going Up and Would You Buy?
 
 **November 22, 2024**&nbsp;– Day 327 of the Year – Week 47
 
@@ -80,7 +80,7 @@ Let’s make your real estate dreams a reality. I’ll see you tomorrow for the 
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy/colorful-yard.jpg)
 
   
 ## Explore
@@ -117,4 +117,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy/equal-housing-opportunity.png) ![](/images/blog/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy/realtor.png) ![](/images/blog/canyon-country-real-estate-update-are-interest-rates-going-up-and-would-you-buy/mls.png)

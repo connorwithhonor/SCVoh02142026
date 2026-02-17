@@ -196,7 +196,7 @@ When you’re ready for a side-by-side **net sheet** comparison, a *Coming Soon*
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/critical-market-update-it-may-be-that-santa-clarita-real-estate-works-for-2025/colorful-yard.jpg)
 
   
 ## Explore
@@ -233,4 +233,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/critical-market-update-it-may-be-that-santa-clarita-real-estate-works-for-2025/equal-housing-opportunity.png) ![](/images/blog/critical-market-update-it-may-be-that-santa-clarita-real-estate-works-for-2025/realtor.png) ![](/images/blog/critical-market-update-it-may-be-that-santa-clarita-real-estate-works-for-2025/mls.png)

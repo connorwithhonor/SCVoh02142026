@@ -72,7 +72,7 @@ Thank you for being part of *AI with Honor*. This platform is more than just a b
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/ai-and-the-three-connor-with-honor-laws-to-safe-and-responsible-artificial-intel/colorful-yard.jpg)
 
   
 ## Explore
@@ -109,4 +109,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/ai-and-the-three-connor-with-honor-laws-to-safe-and-responsible-artificial-intel/equal-housing-opportunity.png) ![](/images/blog/ai-and-the-three-connor-with-honor-laws-to-safe-and-responsible-artificial-intel/realtor.png) ![](/images/blog/ai-and-the-three-connor-with-honor-laws-to-safe-and-responsible-artificial-intel/mls.png)

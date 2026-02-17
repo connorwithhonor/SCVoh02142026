@@ -119,7 +119,7 @@ To make the most of this market, partner with Connor MacIvor. His first responde
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/case-study-22206-claibourne-lane-saugus-ca-rare-santa-clarita-homes-for-sale/colorful-yard.jpg)
 
   
 ## Explore
@@ -156,4 +156,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/case-study-22206-claibourne-lane-saugus-ca-rare-santa-clarita-homes-for-sale/equal-housing-opportunity.png) ![](/images/blog/case-study-22206-claibourne-lane-saugus-ca-rare-santa-clarita-homes-for-sale/realtor.png) ![](/images/blog/case-study-22206-claibourne-lane-saugus-ca-rare-santa-clarita-homes-for-sale/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/foreclosures-and-short-sales-wil
 # Foreclosures and short sales will the next bottom be close to the last
 
 Connor "with Honor" MacIvor - October 9, 2024** Tags: [santa clarita real estate](/-/Blog/tag/santa clarita real estate), [homes for sale](/-/Blog/tag/homes for sale), [santa clarita open houses](/-/Blog/tag/santa clarita open houses)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/10092024%20283%20foreclosures%20and%20reo%20distressed%20real%20estate%20santa%20clarita%20connor%20with%20honor%20square.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Santa Clarita Valley Real Estate Market Update – September 2024: What Buyers and Sellers Need to Know**
+**![](/images/blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last/10092024_283_foreclosures_and_reo_distressed_real_estate_santa_clarita_connor_with_honor_square.png)Santa Clarita Valley Real Estate Market Update – September 2024: What Buyers and Sellers Need to Know**
 
 Welcome to our in-depth look at the **Santa Clarita Valley real estate market** for September 2024. Whether you're a potential buyer, seller, or just keeping an eye on market trends, this update provides valuable insights into the current state of the SCV housing market. Let’s break down the numbers, key trends, and what they mean for you!
 
@@ -174,7 +174,7 @@ For more on foreclosures and short sales, visit:
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last/colorful-yard.jpg)
 
   
 ## Explore
@@ -211,4 +211,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last/equal-housing-opportunity.png) ![](/images/blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last/realtor.png) ![](/images/blog/foreclosures-and-short-sales-will-the-next-bottom-be-close-to-the-last/mls.png)

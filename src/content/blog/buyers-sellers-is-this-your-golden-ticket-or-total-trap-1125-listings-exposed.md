@@ -121,7 +121,7 @@ No BS – let's make your move honorable.
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/buyers-sellers-is-this-your-golden-ticket-or-total-trap-1125-listings-exposed/colorful-yard.jpg)
 
   
 ## Explore
@@ -158,4 +158,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/buyers-sellers-is-this-your-golden-ticket-or-total-trap-1125-listings-exposed/equal-housing-opportunity.png) ![](/images/blog/buyers-sellers-is-this-your-golden-ticket-or-total-trap-1125-listings-exposed/realtor.png) ![](/images/blog/buyers-sellers-is-this-your-golden-ticket-or-total-trap-1125-listings-exposed/mls.png)

@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/castaic-real-estate-market-updat
 # Castaic real estate market update and tribute to December 7, 1941 be resilient
 
 Connor "with Honor" MacIvor - December 7, 2024** Tags: [santa clarita real estate](/-/Blog/tag/santa clarita real estate), [castaic real estate](/-/Blog/tag/castaic real estate), [santa clarita homes for sale](/-/Blog/tag/santa clarita homes for sale), [castaic homes for sale](/-/Blog/tag/castaic homes for sale), [connor with honor](/-/Blog/tag/connor with honor), [first responder realtor](/-/Blog/tag/first responder realtor), [santa clarita valley real estate](/-/Blog/tag/santa clarita valley real estate), [scv real estate update](/-/Blog/tag/scv real estate update), [santa clarita market trends](/-/Blog/tag/santa clarita market trends), [castaic market trends](/-/Blog/tag/castaic market trends)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-# ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12072024%20castaic%20real%20estate%20update%20for%20connor%20macivor%20the%20first%20responder%20realtor%20with%20honor%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Santa Clarita and Castaic, CA Real Estate Market Update – December 7, 2024
+# ![](/images/blog/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient/12072024_castaic_real_estate_update_for_connor_macivor_the_first_responder_realtor_with_honor_sq.png)Santa Clarita and Castaic, CA Real Estate Market Update – December 7, 2024
 
 **By Connor with Honor, Your First Responder Realtor in Santa Clarita**
 
@@ -106,7 +106,7 @@ For personalized assistance or to explore specific listings, visit:
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient/colorful-yard.jpg)
 
   
 ## Explore
@@ -143,4 +143,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient/equal-housing-opportunity.png) ![](/images/blog/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient/realtor.png) ![](/images/blog/castaic-real-estate-market-update-and-tribute-to-december-7-1941-be-resilient/mls.png)

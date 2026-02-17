@@ -22,7 +22,7 @@ Connor "with Honor" MacIvor - October 11, 2024** Tags: [energy efficiency](/-/Bl
 
 This data provides insight into market trends and activity levels in the Santa Clarita Valley. The number of new listings, closed transactions, and price changes are particularly important for evaluating the current market climate.
 
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/285%202024%20youtube%20thumbnail%20first%20responder%20realtor%20connor%20with%20honor%20macivor.png?width=400&amp;height=225&amp;aspect_ratio=400%3A225)As a *First Responder Realtor*, my approach to real estate is fundamentally different from many others. Over two decades of law enforcement experience have taught me invaluable lessons in safety, strategy, and meticulous attention to detail. I bring these qualities into my real estate practice to ensure my clients experience not only professional expertise but also an added layer of security and preparedness in every transaction. Today, I want to share a key aspect of how I conduct business—particularly during home viewings—and why understanding exits, locking doors behind you, and ensuring full accountability during a showing is more important than ever.
+![](/images/blog/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6/285_2024_youtube_thumbnail_first_responder_realtor_connor_with_honor_macivor.png)As a *First Responder Realtor*, my approach to real estate is fundamentally different from many others. Over two decades of law enforcement experience have taught me invaluable lessons in safety, strategy, and meticulous attention to detail. I bring these qualities into my real estate practice to ensure my clients experience not only professional expertise but also an added layer of security and preparedness in every transaction. Today, I want to share a key aspect of how I conduct business—particularly during home viewings—and why understanding exits, locking doors behind you, and ensuring full accountability during a showing is more important than ever.
 
 ### The Importance of Preparation When Viewing a Home
 
@@ -82,7 +82,7 @@ Open, honest communication about these issues is essential. In some cases, the p
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6/colorful-yard.jpg)
 
   
 ## Explore
@@ -119,4 +119,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6/equal-housing-opportunity.png) ![](/images/blog/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6/realtor.png) ![](/images/blog/first-responder-realtor-the-viewing-of-home-exit-id-and-not-exposing-your-6/mls.png)

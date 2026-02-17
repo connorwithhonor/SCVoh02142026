@@ -28,7 +28,7 @@ We need rules - religions - whether true or not or some variation there of, they
 
 And I have been reading and self discovering, thanks to being concerned. Here is the Santa Clarita real estate daily show.
 
-**![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/WIN_20240925_07_36_03_Pro.jpg?width=400&amp;height=225&amp;aspect_ratio=400%3A225)Intro**
+**![](/images/blog/artificial-intelligence-truth-humanize-santa-clarita-daily/WIN_20240925_07_36_03_Pro.jpg)Intro**
 
 Hey Santa Clarita Valley, Connor with Honor here, your trusted Santa Clarita Realtor. Today, we're diving deep into the latest real estate trends and how they're shaping our local market. We'll also take a peek at some interesting insights from recent sales in Valencia. So, let's get started!
 
@@ -290,7 +290,7 @@ Here is a script for your video, incorporating the data analysis and current rea
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/artificial-intelligence-truth-humanize-santa-clarita-daily/colorful-yard.jpg)
 
   
 ## Explore
@@ -327,4 +327,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/artificial-intelligence-truth-humanize-santa-clarita-daily/equal-housing-opportunity.png) ![](/images/blog/artificial-intelligence-truth-humanize-santa-clarita-daily/realtor.png) ![](/images/blog/artificial-intelligence-truth-humanize-santa-clarita-daily/mls.png)

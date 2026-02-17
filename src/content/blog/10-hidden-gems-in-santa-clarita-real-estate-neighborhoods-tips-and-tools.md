@@ -80,7 +80,7 @@ By looking beyond the standard address, you can find a home that offers distinct
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/10-hidden-gems-in-santa-clarita-real-estate-neighborhoods-tips-and-tools/colorful-yard.jpg)
 
   
 ## Explore
@@ -117,4 +117,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/10-hidden-gems-in-santa-clarita-real-estate-neighborhoods-tips-and-tools/equal-housing-opportunity.png) ![](/images/blog/10-hidden-gems-in-santa-clarita-real-estate-neighborhoods-tips-and-tools/realtor.png) ![](/images/blog/10-hidden-gems-in-santa-clarita-real-estate-neighborhoods-tips-and-tools/mls.png)

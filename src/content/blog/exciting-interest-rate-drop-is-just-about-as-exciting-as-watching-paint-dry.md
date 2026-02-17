@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/exciting-interest-rate-drop-is-j
 # Exciting interest rate drop is just about as exciting as watching paint dry
 
 Connor with Honor - August 25, 2024** Tags: [interest rates](/-/Blog/tag/interest rates), [santa clarita valley](/-/Blog/tag/santa clarita valley), [homes for sale](/-/Blog/tag/homes for sale), [connor with honor](/-/Blog/tag/connor with honor), [top agents](/-/Blog/tag/top agents)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Exciting%20interest%20rate%20drop%20in%20anta.png?width=449&amp;height=258&amp;aspect_ratio=449%3A258)We have been told, buy the experts, interest rates are dropping soon. I have been a long time advocate of telling people never buy a home predicated on what other people are telling you about something that cannot be known for sure.
+![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/Exciting_interest_rate_drop_in_anta.png)We have been told, buy the experts, interest rates are dropping soon. I have been a long time advocate of telling people never buy a home predicated on what other people are telling you about something that cannot be known for sure.
 
 Such as the promised interest rate reductions we have been hearing rumors about since the rates jumped up several months ago.
 
@@ -80,7 +80,7 @@ Well - here is the current data feed breakdown regarding interest rates. I have 
 
 &nbsp; - The direction of mortgage rates and the broader economy will influence the housing market's future.
 
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/xl%20white%20board%20stickies%20post%20it%20notes.jpg?width=401&amp;height=267&amp;aspect_ratio=401%3A267)As you can see there has been some movement. This FED rate that is typically talked about is not the "home buying mortgage" interest rate. That is something that will get impacted by the "trickle down" effect. The FED rate is the rate the banks are charged to move their money, aka your money. When they get a break - then the consumer who wants/needs to buy, refinance or take money out of the real estate they own will get a break with being able to pay a lower interest rate.
+![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/xl_white_board_stickies_post_it_notes.jpg)As you can see there has been some movement. This FED rate that is typically talked about is not the "home buying mortgage" interest rate. That is something that will get impacted by the "trickle down" effect. The FED rate is the rate the banks are charged to move their money, aka your money. When they get a break - then the consumer who wants/needs to buy, refinance or take money out of the real estate they own will get a break with being able to pay a lower interest rate.
 
 As an aside, regarding the HELOC, here is the home equity line of credit loan. Some have called to see if they can buy an investment property now or a move-up property using their home's equity to do so. There are several options, most of which cost the seller(buyer) a lot through interest rate charges and unfriendly loan terms. (what loan is friendly - I ask you :) )
 
@@ -182,7 +182,7 @@ Recent indicators have pointed to a positive shift in interest rates, with proje
 
 &nbsp; &nbsp;- However, recent trends have shown promising signs, with a significant downshift observed in the average rate for a 30-year mortgage to approximately 6.5%, triggering a notable increase in home refinancing loan applications. While home purchase loan applications have experienced a lag, this downward trend signals a potential opportunity for prospective buyers and existing homeowners.
 
-&nbsp; &nbsp;- Projections indicate a further downward trend in mortgage rates, with an expectation of continued decreases should economic conditions remain favorable. The Federal Reserve's anticipated rate cut next month is expected to contribute to this favorable trend, potentially offering relief to homeowners and homebuyers alike.![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/gun%20xlfunnymanincautiontapeshakinghand.jpg?width=450&amp;height=298&amp;aspect_ratio=450%3A298)
+&nbsp; &nbsp;- Projections indicate a further downward trend in mortgage rates, with an expectation of continued decreases should economic conditions remain favorable. The Federal Reserve's anticipated rate cut next month is expected to contribute to this favorable trend, potentially offering relief to homeowners and homebuyers alike.![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/gun_xlfunnymanincautiontapeshakinghand.jpg)
 
 Understanding the Impact of HELOCs and Home Equity Loans:
 
@@ -212,7 +212,7 @@ Have the best week, It's Sunday and things in the real estate landscape are movi
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/colorful-yard.jpg)
 
   
 ## Explore
@@ -249,4 +249,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/equal-housing-opportunity.png) ![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/realtor.png) ![](/images/blog/exciting-interest-rate-drop-is-just-about-as-exciting-as-watching-paint-dry/mls.png)

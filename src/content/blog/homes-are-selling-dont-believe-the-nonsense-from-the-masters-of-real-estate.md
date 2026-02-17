@@ -108,7 +108,7 @@ The Santa Clarita market is dynamic, but with Connor with Honor by your side, yo
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/homes-are-selling-dont-believe-the-nonsense-from-the-masters-of-real-estate/colorful-yard.jpg)
 
   
 ## Explore
@@ -145,4 +145,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/homes-are-selling-dont-believe-the-nonsense-from-the-masters-of-real-estate/equal-housing-opportunity.png) ![](/images/blog/homes-are-selling-dont-believe-the-nonsense-from-the-masters-of-real-estate/realtor.png) ![](/images/blog/homes-are-selling-dont-believe-the-nonsense-from-the-masters-of-real-estate/mls.png)

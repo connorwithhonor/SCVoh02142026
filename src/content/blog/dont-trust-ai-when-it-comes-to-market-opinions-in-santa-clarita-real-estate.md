@@ -97,7 +97,7 @@ First Responder Realtor® | Santa Clarita Open Houses
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/dont-trust-ai-when-it-comes-to-market-opinions-in-santa-clarita-real-estate/colorful-yard.jpg)
 
   
 ## Explore
@@ -134,4 +134,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/dont-trust-ai-when-it-comes-to-market-opinions-in-santa-clarita-real-estate/equal-housing-opportunity.png) ![](/images/blog/dont-trust-ai-when-it-comes-to-market-opinions-in-santa-clarita-real-estate/realtor.png) ![](/images/blog/dont-trust-ai-when-it-comes-to-market-opinions-in-santa-clarita-real-estate/mls.png)

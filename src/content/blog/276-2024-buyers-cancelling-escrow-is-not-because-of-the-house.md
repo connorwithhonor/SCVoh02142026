@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/276-2024-buyers-cancelling-escro
 # 276-2024 Buyers cancelling escrow is not because of the house
 
 Connor "with Honor" MacIvor - October 2, 2024** Tags: [santa clarita](/-/Blog/tag/santa clarita), [real estate](/-/Blog/tag/real estate), [saugus](/-/Blog/tag/saugus), [california](/-/Blog/tag/california), [connor with honor](/-/Blog/tag/connor with honor)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/WIN_20241002_10_55_01_Pro.jpg?width=300&amp;height=533&amp;aspect_ratio=300%3A533)
+![](/images/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house/WIN_20241002_10_55_01_Pro.jpg)
 
 ### Market Watch (7-Day Record):
 
@@ -84,7 +84,7 @@ Reach out today at [www.SantaClaritaOpenHouses.com](http://www.SantaClaritaOpenH
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house/colorful-yard.jpg)
 
   
 ## Explore
@@ -121,4 +121,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house/equal-housing-opportunity.png) ![](/images/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house/realtor.png) ![](/images/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house/mls.png)

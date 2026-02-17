@@ -18,7 +18,7 @@ source: "https://www.santaclaritaopenhouses.com/becoming-a-santa-clarita-commiss
 Connor with Honor at SantaClaritaOpenHouses(com) - July 27, 2024** Tags: [concessions](/-/Blog/tag/concessions), [real estate](/-/Blog/tag/real estate), [commissions](/-/Blog/tag/commissions), [what does it cost to sell your home](/-/Blog/tag/what does it cost to sell your home), [agents](/-/Blog/tag/agents)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
 ## Santa Clarita Valley Real Estate Market Update – July 27th, 2024
 
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/IMG_4263.JPG?width=400&amp;height=300&amp;aspect_ratio=400%3A300)Welcome to another insightful update on the real estate market in the Santa Clarita Valley. I'm Connor MacIvor, here to guide you through the latest trends and shifts in the market as of today, Saturday, July 27th, 2024.
+![](/images/blog/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate/IMG_4263.JPG)Welcome to another insightful update on the real estate market in the Santa Clarita Valley. I'm Connor MacIvor, here to guide you through the latest trends and shifts in the market as of today, Saturday, July 27th, 2024.
 
 ### Current Market Overview
 
@@ -50,7 +50,7 @@ Thank you for joining me today. Don’t forget to check out SantaClaritaOpenHous
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate/colorful-yard.jpg)
 
   
 ## Explore
@@ -87,4 +87,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate/equal-housing-opportunity.png) ![](/images/blog/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate/realtor.png) ![](/images/blog/becoming-a-santa-clarita-commission-and-concessions-expert-in-real-estate/mls.png)

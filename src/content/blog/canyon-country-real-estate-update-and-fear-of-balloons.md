@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/canyon-country-real-estate-updat
 # Canyon Country real estate update and fear of balloons
 
 Connor "with Honor" MacIvor - December 13, 2024** Tags: [Canyon Country real estate](/-/Blog/tag/Canyon Country real estate), [Santa Clarita Valley homes](/-/Blog/tag/Santa Clarita Valley homes), [Canyon Country homes for sale](/-/Blog/tag/Canyon Country homes for sale), [Canyon Country market update](/-/Blog/tag/Canyon Country market update), [affordable homes in Santa Clarita](/-/Blog/tag/affordable homes in Santa Clarita), [Canyon Country condos](/-/Blog/tag/Canyon Country condos), [Canyon Country townhomes](/-/Blog/tag/Canyon Country townhomes), [Santa Clarita real estate trends](/-/Blog/tag/Santa Clarita real estate trends), [Canyon Country listi](/-/Blog/tag/Canyon Country listi)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-### ![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/12132024%20Canyon%20country%20real%20estate%20update%20by%20Connor%20with%20honor%20first%20responder%20realtor%20santa%20clarita%20open%20houses%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Canyon Country Real Estate Update: December 13, 2024
+### ![](/images/blog/canyon-country-real-estate-update-and-fear-of-balloons/12132024_Canyon_country_real_estate_update_by_Connor_with_honor_first_responder_realtor_santa_clarita_open_houses_sq.png)Canyon Country Real Estate Update: December 13, 2024
 
 #### Introduction
 
@@ -112,7 +112,7 @@ If you’re ready to explore Canyon Country real estate, contact me, Connor with
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/canyon-country-real-estate-update-and-fear-of-balloons/colorful-yard.jpg)
 
   
 ## Explore
@@ -149,4 +149,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/canyon-country-real-estate-update-and-fear-of-balloons/equal-housing-opportunity.png) ![](/images/blog/canyon-country-real-estate-update-and-fear-of-balloons/realtor.png) ![](/images/blog/canyon-country-real-estate-update-and-fear-of-balloons/mls.png)

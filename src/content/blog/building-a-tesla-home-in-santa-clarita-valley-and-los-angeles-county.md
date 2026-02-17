@@ -105,7 +105,7 @@ I’m **Connor with Honor**, and as always, I’m here to guide you through the 
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county/colorful-yard.jpg)
 
   
 ## Explore
@@ -142,4 +142,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county/equal-housing-opportunity.png) ![](/images/blog/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county/realtor.png) ![](/images/blog/building-a-tesla-home-in-santa-clarita-valley-and-los-angeles-county/mls.png)

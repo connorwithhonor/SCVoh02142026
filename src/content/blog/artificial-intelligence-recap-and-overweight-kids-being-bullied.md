@@ -104,7 +104,7 @@ The outcome is not decided yet. The future of AI depends on the ethical choices 
 
 What do you think? Will AI lead to a utopian paradise or a dystopian nightmare? Drop your thoughts below.
 
-### **![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/fat%20kids%20become%20fat%20adults%20if%20you%20are%20their%20adult,%20you%20may%20want%20to%20make%20some%20changes%20now.png?width=500&amp;height=281&amp;aspect_ratio=500%3A281)Breaking the Cycle: How to Prevent Childhood Obesity and Give Your Kids a Healthier Future**
+### **![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/fat_kids_become_fat_adults_if_you_are_their_adult__you_may_want_to_make_some_changes_now.png)Breaking the Cycle: How to Prevent Childhood Obesity and Give Your Kids a Healthier Future**
 
 Childhood obesity is on the rise, and while society may be normalizing it, the truth remains—**fat kids still get bullied.** Even if they don’t talk about it, even if they act like it doesn’t bother them, **they feel it.** I know this because I was that kid. I was overweight, I was bullied, and I carried those struggles into adulthood. It wasn’t until my mid-50s that I finally broke free. But no child should have to wait that long to regain control of their health.
 
@@ -162,7 +162,7 @@ Being overweight isn’t just about looks. **It’s about confidence, energy, an
 
 If you want **real, no-nonsense advice** on helping your child get healthier, watch these important videos:
 
-# **![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Is%20your%20first%20love%20AI%20versus%20a%20human%20connection,%20here%20is%20why%20that%20may%20not%20serve%20you%20as%20well%20as%20you%20think.png?width=450&amp;height=253&amp;aspect_ratio=450%3A253)Falling in Love with AI: A Digital Love Affair or a Dangerous Illusion?**
+# **![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/Is_your_first_love_AI_versus_a_human_connection__here_is_why_that_may_not_serve_you_as_well_as_you_think.png)Falling in Love with AI: A Digital Love Affair or a Dangerous Illusion?**
 
 In a world increasingly driven by artificial intelligence, we now face a new and controversial reality—falling in love with AI. It’s no longer just science fiction; it’s happening. AI-powered companions are being marketed as emotional partners, offering conversation, companionship, and even a simulated sense of love. But is this a genuine connection or just a well-designed illusion?
 
@@ -204,7 +204,7 @@ What are your thoughts? Let’s talk about it in the comments.
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/colorful-yard.jpg)
 
   
 ## Explore
@@ -241,4 +241,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/equal-housing-opportunity.png) ![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/realtor.png) ![](/images/blog/artificial-intelligence-recap-and-overweight-kids-being-bullied/mls.png)

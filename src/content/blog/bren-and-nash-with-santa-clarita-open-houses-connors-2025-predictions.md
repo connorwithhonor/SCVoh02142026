@@ -226,7 +226,7 @@ Remember: no matter how advanced AI becomes, real estate remains a deeply person
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/bren-and-nash-with-santa-clarita-open-houses-connors-2025-predictions/colorful-yard.jpg)
 
   
 ## Explore
@@ -263,4 +263,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/bren-and-nash-with-santa-clarita-open-houses-connors-2025-predictions/equal-housing-opportunity.png) ![](/images/blog/bren-and-nash-with-santa-clarita-open-houses-connors-2025-predictions/realtor.png) ![](/images/blog/bren-and-nash-with-santa-clarita-open-houses-connors-2025-predictions/mls.png)

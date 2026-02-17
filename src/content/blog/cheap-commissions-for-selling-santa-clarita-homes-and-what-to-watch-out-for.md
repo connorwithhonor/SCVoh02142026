@@ -266,7 +266,7 @@ May your real estate endeavors be guided by clarity, empowered by knowledge, and
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/cheap-commissions-for-selling-santa-clarita-homes-and-what-to-watch-out-for/colorful-yard.jpg)
 
   
 ## Explore
@@ -303,4 +303,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/cheap-commissions-for-selling-santa-clarita-homes-and-what-to-watch-out-for/equal-housing-opportunity.png) ![](/images/blog/cheap-commissions-for-selling-santa-clarita-homes-and-what-to-watch-out-for/realtor.png) ![](/images/blog/cheap-commissions-for-selling-santa-clarita-homes-and-what-to-watch-out-for/mls.png)

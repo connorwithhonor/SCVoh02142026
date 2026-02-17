@@ -118,7 +118,7 @@ Thank you for reading, and we look forward to guiding you toward success in your
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/buying-a-home-with-solar-in-2025-santa-clarita-open-houses-for-this-weekend/colorful-yard.jpg)
 
   
 ## Explore
@@ -155,4 +155,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/buying-a-home-with-solar-in-2025-santa-clarita-open-houses-for-this-weekend/equal-housing-opportunity.png) ![](/images/blog/buying-a-home-with-solar-in-2025-santa-clarita-open-houses-for-this-weekend/realtor.png) ![](/images/blog/buying-a-home-with-solar-in-2025-santa-clarita-open-houses-for-this-weekend/mls.png)

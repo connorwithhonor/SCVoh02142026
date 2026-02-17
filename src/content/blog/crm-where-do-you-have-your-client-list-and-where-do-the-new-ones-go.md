@@ -115,7 +115,7 @@ I’ve walked the walk—from LAPD to top-tier Santa Clarita Realtor. My CRM sys
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/crm-where-do-you-have-your-client-list-and-where-do-the-new-ones-go/colorful-yard.jpg)
 
   
 ## Explore
@@ -152,4 +152,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/crm-where-do-you-have-your-client-list-and-where-do-the-new-ones-go/equal-housing-opportunity.png) ![](/images/blog/crm-where-do-you-have-your-client-list-and-where-do-the-new-ones-go/realtor.png) ![](/images/blog/crm-where-do-you-have-your-client-list-and-where-do-the-new-ones-go/mls.png)

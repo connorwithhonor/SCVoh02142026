@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/buyers-signing-contracts-to-just
 # Buyers signing contracts to just view homes for sale is now mandatory
 
 Connor with Honor - August 22, 2024** Tags: [real estate](/-/Blog/tag/real estate), [connor with honor](/-/Blog/tag/connor with honor), [santa clarita](/-/Blog/tag/santa clarita), [homes for sale](/-/Blog/tag/homes for sale), [top agents](/-/Blog/tag/top agents), [news](/-/Blog/tag/news)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Santa%20Clarita%20real%20estate%20agents.png?width=400&amp;height=225&amp;aspect_ratio=400%3A225)In real estate, some changes involve what a home buyer will sign to view homes.
+![](/images/blog/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory/Santa_Clarita_real_estate_agents.png)In real estate, some changes involve what a home buyer will sign to view homes.
 
 This stemmed from a judgment against the National Association of Realtors and is supposed to clear the waters and protect home buyers and sellers better.
 
@@ -74,7 +74,7 @@ When you are ready - I'll be here for you - I'm Connor with Honor - Over and Out
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory/colorful-yard.jpg)
 
   
 ## Explore
@@ -111,4 +111,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory/equal-housing-opportunity.png) ![](/images/blog/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory/realtor.png) ![](/images/blog/buyers-signing-contracts-to-just-view-homes-for-sale-is-now-mandatory/mls.png)

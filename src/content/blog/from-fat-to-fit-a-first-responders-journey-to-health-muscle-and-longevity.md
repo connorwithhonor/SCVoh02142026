@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/from-fat-to-fit-a-first-responde
 # From Fat to Fit: A First Responder’s Journey to Health, Muscle, and Longevity
 
 Connor "with Honor" MacIvor - November 7, 2024** Tags: [fat loss](/-/Blog/tag/fat loss), [muscle building](/-/Blog/tag/muscle building), [longevity](/-/Blog/tag/longevity), [first responder fitness](/-/Blog/tag/first responder fitness), [fat to fit](/-/Blog/tag/fat to fit), [Santa Clarita fitness](/-/Blog/tag/Santa Clarita fitness), [Santa Clarita weight loss](/-/Blog/tag/Santa Clarita weight loss), [health transformation](/-/Blog/tag/health transformation), [intermittent fasting](/-/Blog/tag/intermittent fasting), [testosterone therapy](/-/Blog/tag/testosterone therapy), [first responder health](/-/Blog/tag/first responder health), [sustainable weight loss](/-/Blog/tag/sustainable weight loss), [metabolic](/-/Blog/tag/metabolic)&nbsp; ** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/312%20Fat%20torching%20god%20humanness%20and%20truth%20Fat%20to%20Fit%20first%20responder%20realtor%20sq.png?width=400&amp;height=400&amp;aspect_ratio=400%3A400)Living a healthy life is about so much more than just numbers on a scale. As a first responder, I understand the unique physical and mental demands of high-stress jobs. But after years of struggling with weight, reaching a staggering 365 pounds with a 65-inch waist, I found myself on a journey that taught me how critical it is to build a body—and a life—that can withstand anything. Today, I’m here to share my story, the methods that worked for me, and how you too can torch body fat, build muscle, and unlock longevity.
+![](/images/blog/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity/312_Fat_torching_god_humanness_and_truth_Fat_to_Fit_first_responder_realtor_sq.png)Living a healthy life is about so much more than just numbers on a scale. As a first responder, I understand the unique physical and mental demands of high-stress jobs. But after years of struggling with weight, reaching a staggering 365 pounds with a 65-inch waist, I found myself on a journey that taught me how critical it is to build a body—and a life—that can withstand anything. Today, I’m here to share my story, the methods that worked for me, and how you too can torch body fat, build muscle, and unlock longevity.
 
 ### My Battle with Weight: Finding the Real Enemy
 
@@ -62,7 +62,7 @@ Let’s build a life of health, strength, and longevity together.
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity/colorful-yard.jpg)
 
   
 ## Explore
@@ -99,4 +99,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity/equal-housing-opportunity.png) ![](/images/blog/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity/realtor.png) ![](/images/blog/from-fat-to-fit-a-first-responders-journey-to-health-muscle-and-longevity/mls.png)

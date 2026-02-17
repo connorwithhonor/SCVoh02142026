@@ -16,7 +16,7 @@ source: "https://www.santaclaritaopenhouses.com/first-responder-realtor-in-santa
 # First responder realtor in Santa Clarita Connor with Honor daily show 284-2024
 
 Connor "with Honor" MacIvor - October 10, 2024** [0 Comments](/#comments) | [Add Comment](/#add-comment)
-![](https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/first%20responder%20realtor%20connor%20with%20honor%20standing%20tall%20for%20his%20real%20estate%20clients.png?width=450&amp;height=450&amp;aspect_ratio=450%3A450)Welcome to October 10, 2024 everyone. I'm connor with honor and today is the 284th day of 2024.
+![](/images/blog/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024/first_responder_realtor_connor_with_honor_standing_tall_for_his_real_estate_clients.png)Welcome to October 10, 2024 everyone. I'm connor with honor and today is the 284th day of 2024.
 
 ### **Connor with Honor: Your First Responder Realtor in Santa Clarita - Daily Show 284 (2024)**
 
@@ -80,7 +80,7 @@ Here’s a detailed recap of everything we published and created for today’s c
 
 ** Share This Post## Comments
 
-Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](https://library-ihouseprd.b-cdn.net/background/colorful-yard.jpg)
+Already have an account? Yes NoLog In and Post CommentProtected by reCAPTCHA. [Privacy](https://policies.google.com/privacy) • [Terms](https://policies.google.com/terms)![](/images/blog/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024/colorful-yard.jpg)
 
   
 ## Explore
@@ -117,4 +117,4 @@ My recommendations are based on YOUR specific needs and the complexity of your s
 
 [Privacy Policy](/-/Home/privacy/) | [DMCA](/-/Home/dmca/)
 
-![](https://library-ihouseprd.b-cdn.net/designations/small/white/equal-housing-opportunity.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/realtor.png) ![](https://library-ihouseprd.b-cdn.net/designations/small/white/mls.png)
+![](/images/blog/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024/equal-housing-opportunity.png) ![](/images/blog/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024/realtor.png) ![](/images/blog/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024/mls.png)
