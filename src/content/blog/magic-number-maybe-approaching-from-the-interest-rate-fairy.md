@@ -52,7 +52,7 @@ As always, interest rates play a critical role in determining market activity. W
 
 For a more detailed analysis of how this could impact your real estate decisions, visit the full article on our blog here:
 
-[www.santaclaritaopenhouses.com/magic-number-maybe-approaching-from-the-interest-rate-fairy](https://www./blog/magic-number-maybe-approaching-from-the-interest-rate-fairy)
+[www.santaclaritaopenhouses.com/magic-number-maybe-approaching-from-the-interest-rate-fairy](https://www.santaclaritaopenhouses.com/blog/magic-number-maybe-approaching-from-the-interest-rate-fairy)
 
 ## **Stay Informed and Prepared with Connor with Honor**
 

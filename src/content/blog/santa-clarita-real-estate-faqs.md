@@ -57,7 +57,7 @@ The time it takes to buy a home in **Santa Clarita** can vary depending on the m
 
 To learn more about the home-buying process, visit:
 
-[www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale](https://www./blog/your-ultimate-buying-guide-santa-clarita-homes-for-sale)
+[www.santaclaritaopenhouses.com/your-ultimate-buying-guide-santa-clarita-homes-for-sale](https://www.santaclaritaopenhouses.com/blog/your-ultimate-buying-guide-santa-clarita-homes-for-sale)
 
 ### **6. What Should I Look for During an Open House?**
 
@@ -65,7 +65,7 @@ Attending an **open house** is a great way to see potential homes and get a feel
 
 For more tips on what to expect during open houses, check out:
 
-[www.santaclaritaopenhouses.com/what-to-expect-open-houses-2024-santa-clarita](https://www./blog/what-to-expect-open-houses-2024-santa-clarita)
+[www.santaclaritaopenhouses.com/what-to-expect-open-houses-2024-santa-clarita](https://www.santaclaritaopenhouses.com/blog/what-to-expect-open-houses-2024-santa-clarita)
 
 ### **7. Is It a Good Time to Sell My Home in Santa Clarita?**
 
@@ -89,7 +89,7 @@ www.santaclaritaopenhouses.com/how-to-get-best-real-estate-agent-santa-clarita
 
 For a breakdown of current mortgage rates and their impact, visit:
 
-[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www./blog/mortgage-rates-santa-clarita-real-estate)
+[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www.santaclaritaopenhouses.com/blog/mortgage-rates-santa-clarita-real-estate)
 
 ### **10. Are There Investment Opportunities in Santa Clarita Real Estate?**
 

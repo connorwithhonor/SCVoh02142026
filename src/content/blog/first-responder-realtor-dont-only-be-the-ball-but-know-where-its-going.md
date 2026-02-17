@@ -60,7 +60,7 @@ Plus, I share insights on how recent **federal mortgage changes** are affecting 
 
 For more details, visit my blog post here:
 
-**[www.santaclaritaopenhouses.com/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going](https://www./blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going)**
+**[www.santaclaritaopenhouses.com/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going](https://www.santaclaritaopenhouses.com/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going)**
 
 **Stay informed, stay safe, and let’s make your real estate journey a successful one.**
 
@@ -78,7 +78,7 @@ Plus, I’ll be sharing open house details for today, including my own open hous
 
 As a former police officer, I’ve spent decades protecting the public, and now, as your realtor, I bring that same dedication to **protecting your real estate interests**. Whether it’s guiding you through a complex transaction or ensuring your investment is safe, you can count on me for **integrity, preparation, and expertise**.
 
-For even more details on today’s market trends, be sure to check out my blog post: **[www.santaclaritaopenhouses.com/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going](https://www./blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going)**
+For even more details on today’s market trends, be sure to check out my blog post: **[www.santaclaritaopenhouses.com/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going](https://www.santaclaritaopenhouses.com/blog/first-responder-realtor-dont-only-be-the-ball-but-know-where-its-going)**
 
 Catch the full podcast episode here:
 

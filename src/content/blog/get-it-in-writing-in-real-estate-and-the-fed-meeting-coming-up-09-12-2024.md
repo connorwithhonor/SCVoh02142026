@@ -26,7 +26,7 @@ To give you a clearer picture, here are some of the key points from today’s up
 
 For a more detailed breakdown of these trends and tips on navigating this changing market, you can check out today’s video update on YouTube: [https://youtu.be/P-8Fi7JXnMI](https://youtu.be/P-8Fi7JXnMI). Additionally, you can listen to the full podcast episode here: [https://www.buzzsprout.com/admin/298109/episodes/15741975-santa-clarita-s-real-estate-market-is-changing-fast-don-t-miss-these-crucial-updates](https://www.buzzsprout.com/admin/298109/episodes/15741975-santa-clarita-s-real-estate-market-is-changing-fast-don-t-miss-these-crucial-updates).
 
-To complement this information, I also wrote a blog post about the importance of getting everything in writing in real estate transactions, especially with the upcoming Fed meeting. You can read that post at [www.santaclaritaopenhouses.com/get-it-in-writing-in-real-estate-and-the-fed-meeting-coming-up-09-12-2024](https://www./blog/get-it-in-writing-in-real-estate-and-the-fed-meeting-coming-up-09-12-2024).
+To complement this information, I also wrote a blog post about the importance of getting everything in writing in real estate transactions, especially with the upcoming Fed meeting. You can read that post at [www.santaclaritaopenhouses.com/get-it-in-writing-in-real-estate-and-the-fed-meeting-coming-up-09-12-2024](https://www.santaclaritaopenhouses.com/blog/get-it-in-writing-in-real-estate-and-the-fed-meeting-coming-up-09-12-2024).
 
 ### **Breaking Free from the Scale: A Realistic Approach to Fitness**
 

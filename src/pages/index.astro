@@ -3,12 +3,29 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const homeSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'WebPage',
+	name: SITE_TITLE,
+	description: SITE_DESCRIPTION,
+	url: 'https://santaclaritaopenhouses.com/',
+	about: {
+		'@type': 'Service',
+		name: 'Exclusive Seller Representation',
+		provider: {
+			'@type': 'RealEstateAgent',
+			name: SITE_TITLE,
+		},
+	},
+};
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<script type="application/ld+json" set:html={JSON.stringify(homeSchema)} />
 		<style>
 			/* Sophisticated Tron-inspired grid background */
 			.tron-grid {

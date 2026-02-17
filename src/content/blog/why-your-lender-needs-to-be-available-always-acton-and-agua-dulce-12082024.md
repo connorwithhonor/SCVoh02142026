@@ -34,13 +34,13 @@ In the past 45 days, the real estate markets in Acton and Agua Dulce have showca
 
 Acton’s properties primarily consist of single-family homes, ranging from cozy ranch houses to luxurious estates. These homes often feature expansive yards and outdoor amenities, catering to buyers who value privacy and space.
 
-Explore Acton listings:&nbsp;https://www./blog/acton-homes
+Explore Acton listings:&nbsp;https://www.santaclaritaopenhouses.com/blog/acton-homes
 
 ### **Key Data Points for Agua Dulce**
 
 Agua Dulce offers a mix of custom homes and ranch-style properties, ideal for those seeking a rural lifestyle with modern touches. With slightly larger homes and lot sizes compared to Acton, Agua Dulce is a favorite for equestrian enthusiasts and nature lovers.
 
-Browse current Agua Dulce listings:&nbsp;https://www./blog/agua-dulce-homes
+Browse current Agua Dulce listings:&nbsp;https://www.santaclaritaopenhouses.com/blog/agua-dulce-homes
 
 ## **Buying Tips for Acton and Agua Dulce**
 

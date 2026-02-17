@@ -66,7 +66,7 @@ Real estate is a people game, but AI handles the grunt work. As a problem-solver
 
 Your CRM is your case file. I lean on Realty One Group’s system, but any robust CRM works. AI supercharges it:
 
-Dive into my CRM tips at https://www./blog/adding-value-to-the-home-buyer-experience-one-honest-sale-at-a-time.
+Dive into my CRM tips at https://www.santaclaritaopenhouses.com/blog/adding-value-to-the-home-buyer-experience-one-honest-sale-at-a-time.
 
 ### Chatbots That Deliver
 
@@ -84,15 +84,15 @@ Ready to rule with AI? Here’s your 2025 playbook:
 
 ## Real-World Wins: AI in the Trenches
 
-Last month, I used AI to analyze MLS data and uncovered a Valencia 3-bed, 2-bath under $750K. An AI-crafted Instagram post linked to https://www./blog/homes-for-sale-in-valencia-ca-500000-to-750000 pulled three solid leads in 24 hours—one’s in escrow now. That’s AI done right.
+Last month, I used AI to analyze MLS data and uncovered a Valencia 3-bed, 2-bath under $750K. An AI-crafted Instagram post linked to https://www.santaclaritaopenhouses.com/blog/homes-for-sale-in-valencia-ca-500000-to-750000 pulled three solid leads in 24 hours—one’s in escrow now. That’s AI done right.
 
-Another score: I helped a divorce attorney’s client sell their Saugus home fast by pricing it with AI precision (see https://www./blog/handling-real-estate-for-divorces-in-saugus). The net sheet was flawless, and the deal closed in record time.
+Another score: I helped a divorce attorney’s client sell their Saugus home fast by pricing it with AI precision (see https://www.santaclaritaopenhouses.com/blog/handling-real-estate-for-divorces-in-saugus). The net sheet was flawless, and the deal closed in record time.
 
 ## The Future: AI’s Here, and I’m Your Guide
 
 AI isn’t a fad—it’s the future, and I’m here to lead the charge. As a first-responder-turned-Realtor, I’ve mastered preparation and precision, whether dodging bullets or sealing deals. AI enhances that, but it’s not about replacing you—it’s about making you unstoppable.
 
-Want to see how AI can revolutionize your Santa Clarita real estate game? Book a free consult at [https://zoommescv.com](/) or call 661-888-4983. I’ll show you how to tap into the best listings at https://www./blog/homes-for-sale-in-santa-clarita-ca and close deals faster than ever. Let’s build your success together—Generation X style, no fluff, just results.
+Want to see how AI can revolutionize your Santa Clarita real estate game? Book a free consult at [https://zoommescv.com](/) or call 661-888-4983. I’ll show you how to tap into the best listings at https://www.santaclaritaopenhouses.com/blog/homes-for-sale-in-santa-clarita-ca and close deals faster than ever. Let’s build your success together—Generation X style, no fluff, just results.
 
 **Recap**:
 

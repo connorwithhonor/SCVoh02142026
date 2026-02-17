@@ -22,7 +22,7 @@ Connor "with Honor" MacIvor - October 10, 2024** [0 Comments](/#comments) | [Add
 
 **Real Estate Market Updates, Home Maintenance Tips, and First Responder Insights**
 
-[www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
+[www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](https://www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
 
 Welcome to the Santa Clarita Real Estate Update, **Day 284 of 2024**! As your **First Responder turned Realtor**, I bring a unique approach to real estate that blends my years of service and experience in law enforcement with the detailed knowledge needed to protect buyers and sellers in today’s housing market. Today’s blog post covers **market updates**, the importance of **quality home maintenance**, and the insights that come from a career in law enforcement, making sure you have everything you need to make informed decisions.
 
@@ -30,7 +30,7 @@ Welcome to the Santa Clarita Real Estate Update, **Day 284 of 2024**! As your **
 
 Here’s the latest breakdown for all residential listings in **Santa Clarita**, including **Canyon Country**, **Castaic**, **Newhall**, **Saugus**, **Stevenson Ranch**, and **Valencia**:
 
-That gives us a total of **537 active residential listings**. As mortgage rates begin to dip, we’re expecting increased competition in the coming months. This is especially important for buyers who are on the fence about entering the market now versus waiting for rates to drop even further. [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
+That gives us a total of **537 active residential listings**. As mortgage rates begin to dip, we’re expecting increased competition in the coming months. This is especially important for buyers who are on the fence about entering the market now versus waiting for rates to drop even further. [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](https://www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
 
 ### **Three Risks of Waiting for Mortgage Rates to Fall**
 
@@ -50,7 +50,7 @@ As a cop, I hated getting caught in the rain because it meant hours of carefully
 
 #### **Hiring the Best: Like Calling in SWAT**
 
-When things got serious in law enforcement, we called in SWAT—the best of the best. In real estate, you should have the same mindset when hiring inspectors, appraisers, or contractors. You don’t want just anyone; you want **experts** in their field. A top-notch inspector, for instance, can spot potential issues that others might miss, just like SWAT handles high-risk situations with precision. [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
+When things got serious in law enforcement, we called in SWAT—the best of the best. In real estate, you should have the same mindset when hiring inspectors, appraisers, or contractors. You don’t want just anyone; you want **experts** in their field. A top-notch inspector, for instance, can spot potential issues that others might miss, just like SWAT handles high-risk situations with precision. [www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024](https://www.santaclaritaopenhouses.com/first-responder-realtor-in-santa-clarita-connor-with-honor-daily-show-284-2024)
 
 ### **Protecting Your Home Investment: From Safety Equipment to Home Features**
 

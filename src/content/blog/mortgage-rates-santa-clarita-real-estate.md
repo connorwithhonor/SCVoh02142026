@@ -27,7 +27,7 @@ Mortgage rates are influenced by several factors, including:
 
 Stay informed about **mortgage rates in Santa Clarita** by visiting:
 
-[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www./blog/mortgage-rates-santa-clarita-real-estate)
+[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www.santaclaritaopenhouses.com/blog/mortgage-rates-santa-clarita-real-estate)
 
 ### **2. Current Mortgage Rate Trends in 2024**
 
@@ -45,7 +45,7 @@ For example:
 
 To explore how current **mortgage rates** affect your buying power, check out:
 
-[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www./blog/mortgage-rates-santa-clarita-real-estate)
+[www.santaclaritaopenhouses.com/mortgage-rates-santa-clarita-real-estate](https://www.santaclaritaopenhouses.com/blog/mortgage-rates-santa-clarita-real-estate)
 
 ### **4. Fixed-Rate vs. Adjustable-Rate Mortgages: What’s Best for You?**
 
@@ -69,7 +69,7 @@ Despite higher mortgage rates than in previous years, **2024** remains a great y
 
 For more reasons why 2024 is an excellent year to buy, visit:
 
-[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](https://www./blog/top-reasons-buy-home-2024-santa-clarita)
+[www.santaclaritaopenhouses.com/top-reasons-buy-home-2024-santa-clarita](https://www.santaclaritaopenhouses.com/blog/top-reasons-buy-home-2024-santa-clarita)
 
 ### **Final Thoughts: Understanding Mortgage Rates in Santa Clarita**
 

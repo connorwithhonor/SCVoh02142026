@@ -40,7 +40,7 @@ Then there’s **Gemini**, Google’s AI model that’s quietly holding its own 
 
 Now, I’m no physicist (my expertise is more in handcuffs and home closings), but Google’s quantum computing work has me intrigued. From what I’ve pieced together, their quantum systems are starting to show serious potential. We’re talking about machines that could one day manipulate *mass*—yeah, the stuff that makes up stars, planets, and that overpriced coffee table you’re eyeing for your new Valencia home.
 
-Why does this matter? If Google’s quantum tech can bend the fabric of space-time (bear with me here), we’re looking at breakthroughs that could redefine industries. Imagine real estate searches powered by quantum AI, instantly analyzing every property in Santa Clarita to find your dream home at [https://www./blog/dream-home-finder](/contact). Or logistics systems that optimize construction timelines for new developments in Canyon Country. The possibilities are endless, and Google’s not out there bragging about it—they’re just doing the work.
+Why does this matter? If Google’s quantum tech can bend the fabric of space-time (bear with me here), we’re looking at breakthroughs that could redefine industries. Imagine real estate searches powered by quantum AI, instantly analyzing every property in Santa Clarita to find your dream home at [https://www.santaclaritaopenhouses.com/blog/dream-home-finder](/contact). Or logistics systems that optimize construction timelines for new developments in Canyon Country. The possibilities are endless, and Google’s not out there bragging about it—they’re just doing the work.
 
 ## The Real Estate Connection: AI’s Impact on Santa Clarita
 
@@ -60,7 +60,7 @@ So, what’s the takeaway for you? Whether you’re buying a home in Santa Clari
 
 At 56, I’m still learning—whether it’s about AI, LLMs, or the latest Santa Clarita market trends. That’s why I’m excited about Google’s quiet revolution. They’re not just building tech; they’re building tools that empower people like you and me to make smarter decisions, whether it’s buying a home or understanding the cosmos.
 
-If you’re ready to take control of your real estate journey, start at https://www./blog/your-ultimate-buying-guide-santa-clarita-homes-for-sale. And if you want to geek out about AI’s role in real estate, join my community at [https://community.honorelevate.com](https://community.honorelevate.com) or call 661-367-8685. I’m Connor MacIvor—ex-cop, current Realtor, and AI enthusiast—here to help you navigate the market with honor.
+If you’re ready to take control of your real estate journey, start at https://www.santaclaritaopenhouses.com/blog/your-ultimate-buying-guide-santa-clarita-homes-for-sale. And if you want to geek out about AI’s role in real estate, join my community at [https://community.honorelevate.com](https://community.honorelevate.com) or call 661-367-8685. I’m Connor MacIvor—ex-cop, current Realtor, and AI enthusiast—here to help you navigate the market with honor.
 
 **Recap**:
 

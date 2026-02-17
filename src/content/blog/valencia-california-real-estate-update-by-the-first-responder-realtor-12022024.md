@@ -82,7 +82,7 @@ My website, [Santa Clarita Open Houses](/), is your go-to resource for real esta
 
 ### **Your Next Steps**
 
-Whether you’re buying, selling, or simply exploring your options in Valencia, I’m here to help. Connect with me today to discuss your real estate goals. Don’t forget to check out my book, *How to Buy and Sell Real Estate in Santa Clarita*, available [here](https:///blog/book).
+Whether you’re buying, selling, or simply exploring your options in Valencia, I’m here to help. Connect with me today to discuss your real estate goals. Don’t forget to check out my book, *How to Buy and Sell Real Estate in Santa Clarita*, available [here](https://www.santaclaritaopenhouses.com/blog/book).
 
 Thank you for joining me on this Valencia market update. Until next time, this is Connor with Honor, your trusted real estate guide in the Santa Clarita Valley.
 

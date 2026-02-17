@@ -64,7 +64,7 @@ While most criminals don’t plan their crimes, the fact that your home’s layo
 
 For more tips and the latest real estate updates, visit:
 
-https://www./blog/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing
+https://www.santaclaritaopenhouses.com/blog/daily-santa-clarita-real-estate-update-buyers-dont-get-scammed-when-signing
 
 ** Share This Post## Comments
 

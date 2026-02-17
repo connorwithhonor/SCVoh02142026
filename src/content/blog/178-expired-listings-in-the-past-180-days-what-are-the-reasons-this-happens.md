@@ -60,15 +60,15 @@ Sellers, listen up: I’ve walked the beat as an LAPD officer and now as a Realt
 
 ## The Interest Rate Factor: A Game-Changer?
 
-Interest rates are at a 10-month low, but don’t get too excited—it’s not like we’re back to 4% mortgages. Your rate depends on your FICO score, debt-to-income ratio, and job stability. Those websites promising “today’s rates”? Pure window dressing until you submit your paperwork. Want the real scoop? Visit https://www./blog/mortgage-rates-continue-to-shrink-closer-to-the-magic-number or call me at 661-888-4983 for a no-BS consultation.
+Interest rates are at a 10-month low, but don’t get too excited—it’s not like we’re back to 4% mortgages. Your rate depends on your FICO score, debt-to-income ratio, and job stability. Those websites promising “today’s rates”? Pure window dressing until you submit your paperwork. Want the real scoop? Visit https://www.santaclaritaopenhouses.com/blog/mortgage-rates-continue-to-shrink-closer-to-the-magic-number or call me at 661-888-4983 for a no-BS consultation.
 
 Lower rates are spurring some action, but they’re also making buyers pickier. With more inventory, they’re holding out for the best deals. Sellers, this means you can’t afford to mess around with pricing or presentation.
 
 ## AI in Real Estate: A Double-Edged Sword
 
-I’m all about AI innovation (check out my work at [https://honorelevate.com](https://honorelevate.com)), but it’s not a magic bullet. AI-generated listing photos or virtual staging can backfire if they misrepresent the property. Buyers walk in expecting a palace and find a fixer-upper? Game over. My post at https://www./blog/artificial-intelligence-truth-humanize-santa-clarita-daily dives into how to use AI the right way in real estate.
+I’m all about AI innovation (check out my work at [https://honorelevate.com](https://honorelevate.com)), but it’s not a magic bullet. AI-generated listing photos or virtual staging can backfire if they misrepresent the property. Buyers walk in expecting a palace and find a fixer-upper? Game over. My post at https://www.santaclaritaopenhouses.com/blog/artificial-intelligence-truth-humanize-santa-clarita-daily dives into how to use AI the right way in real estate.
 
-For agents looking to up their game, I’m hosting a show on AI strategies at https://www./blog/artificial-intelligence-in-real-estate. Join the conversation at [https://community.honorelevate.com](https://community.honorelevate.com).
+For agents looking to up their game, I’m hosting a show on AI strategies at https://www.santaclaritaopenhouses.com/blog/artificial-intelligence-in-real-estate. Join the conversation at [https://community.honorelevate.com](https://community.honorelevate.com).
 
 ## Your Next Move: Don’t Be a Statistic
 

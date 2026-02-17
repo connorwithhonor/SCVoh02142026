@@ -11,12 +11,31 @@ const posts = (await getCollection('blog')).sort((a, b) => {
 	const bDate = b.data.publishDate?.valueOf() || b.data.pubDate?.valueOf() || 0;
 	return bDate - aDate;
 });
+
+const blogIndexSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'CollectionPage',
+	name: `Seller's Guide | ${SITE_TITLE}`,
+	url: 'https://santaclaritaopenhouses.com/blog',
+	description: SITE_DESCRIPTION,
+	mainEntity: {
+		'@type': 'ItemList',
+		numberOfItems: posts.length,
+		itemListElement: posts.slice(0, 12).map((post, index) => ({
+			'@type': 'ListItem',
+			position: index + 1,
+			url: `https://santaclaritaopenhouses.com/blog/${post.id}/`,
+			name: post.data.title,
+		})),
+	},
+};
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={`Seller's Guide | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<script type="application/ld+json" set:html={JSON.stringify(blogIndexSchema)} />
 	</head>
 	<body class="bg-gray-50">
 		<Header />

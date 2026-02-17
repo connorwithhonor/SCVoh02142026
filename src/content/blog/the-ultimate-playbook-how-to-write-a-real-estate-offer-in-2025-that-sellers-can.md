@@ -71,7 +71,7 @@ Not all four-bedroom houses are created equal. You have to dissect the comps and
 
 Armed with your data, you can now build a strategy.
 
-Your offer price is your opening statement in a high-stakes negotiation. Make sure it’s intelligent, justified, and strategic. For a deeper dive into negotiating tactics, check out my guide on https://www./blog/how-to-negotiate-a-winning-offer-in-santa-clarita-real-estate-insider-tips-2025.
+Your offer price is your opening statement in a high-stakes negotiation. Make sure it’s intelligent, justified, and strategic. For a deeper dive into negotiating tactics, check out my guide on https://www.santaclaritaopenhouses.com/blog/how-to-negotiate-a-winning-offer-in-santa-clarita-real-estate-insider-tips-2025.
 
 ## Beyond the Price Tag: Crafting Terms That Tip the Scales
 

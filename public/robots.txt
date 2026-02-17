@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santaclaritaopenhouses.com/sitemap-index.xml

@@ -83,7 +83,7 @@ Artificial intelligence is changing real estate, from market analysis to virtual
 
 ### Ready to Close? Let’s Make It Happen
 
-The Santa Clarita market is ripe for buyers, but closing escrow requires precision. Whether you’re after a condo in Newhall or a pool home in Porter Ranch, I’ve got your back. Schedule a consultation at [https://zoommescv.com](/) or call 661-888-4983 to discuss your real estate plans. For more insights, visit [https://www./blog/blog](/blog).
+The Santa Clarita market is ripe for buyers, but closing escrow requires precision. Whether you’re after a condo in Newhall or a pool home in Porter Ranch, I’ve got your back. Schedule a consultation at [https://zoommescv.com](/) or call 661-888-4983 to discuss your real estate plans. For more insights, visit [https://www.santaclaritaopenhouses.com/blog/blog](/blog).
 
 **Recap**:
 

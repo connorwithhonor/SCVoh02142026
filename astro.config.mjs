@@ -9,7 +9,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://santa-clarita-open-houses.netlify.app',
+  site: 'https://santaclaritaopenhouses.com',
   integrations: [mdx(), sitemap(), react()],
 
   vite: {

@@ -3,12 +3,29 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_TITLE } from '../consts';
+
+const bookingSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'ContactPage',
+	name: `Get Started | ${SITE_TITLE}`,
+	url: 'https://santaclaritaopenhouses.com/book',
+	mainEntity: {
+		'@type': 'Service',
+		name: 'Seller Strategy Consultation',
+		provider: {
+			'@type': 'RealEstateAgent',
+			name: SITE_TITLE,
+		},
+		areaServed: 'Santa Clarita Valley',
+	},
+};
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={`Book a Consultation | ${SITE_TITLE}`} description="Schedule a free consultation to discuss selling your Santa Clarita home" />
+		<script type="application/ld+json" set:html={JSON.stringify(bookingSchema)} />
 	</head>
 	<body class="bg-gray-50">
 		<Header />

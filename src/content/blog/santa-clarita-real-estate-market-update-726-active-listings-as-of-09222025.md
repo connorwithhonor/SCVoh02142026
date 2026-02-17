@@ -75,7 +75,7 @@ The "Total santa clarita listings including coming soon, sfr, condo, townhome, a
 
 During a recent consultation on September 21, 2025, two sellers expressed reluctance to invest further in their property to prepare it for sale. Their primary concern was avoiding additional costs, with a secondary question about what improvements might be necessary. From a valuation perspective, several factors are critical:
 
-Monitoring daily updates at [https://www./blog/blog](/blog) can keep sellers informed on market shifts.
+Monitoring daily updates at [https://www.santaclaritaopenhouses.com/blog/blog](/blog) can keep sellers informed on market shifts.
 
 ## National Market Context
 
@@ -85,13 +85,13 @@ Nationally, home value growth has slowed to its lowest pace in two years, per Re
 
 With 726 listings, competition is high for desirable properties. Key actions include:
 
-Divorce buyers can seek support at https://www./blog/using-a-divorced-realtor-to-handle-your-santa-clarita-real-estate-as-a-divorced. Contact: ZoomMeSCV.com or 661-888-4983.
+Divorce buyers can seek support at https://www.santaclaritaopenhouses.com/blog/using-a-divorced-realtor-to-handle-your-santa-clarita-real-estate-as-a-divorced. Contact: ZoomMeSCV.com or 661-888-4983.
 
 ## Seller Considerations
 
 The low inventory favors sellers. Strategies include:
 
-Divorce sellers can contact https://www./blog/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce.
+Divorce sellers can contact https://www.santaclaritaopenhouses.com/blog/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce.
 
 ## Market Activity (Past 7 Days)
 
@@ -115,7 +115,7 @@ As Connor MacIvor, I offer LAPD-honed skills, AI expertise, and a 135-pound weig
 
 ## Conclusion
 
-With 726 listings, the SCV market favors sellers due to low inventory, with the $500,000-$900,000 range showing strongest demand. The 6.26% rate may boost buyers, but quick action is needed. Monitor [https://www./blog/blog](/blog) for updates.
+With 726 listings, the SCV market favors sellers due to low inventory, with the $500,000-$900,000 range showing strongest demand. The 6.26% rate may boost buyers, but quick action is needed. Monitor [https://www.santaclaritaopenhouses.com/blog/blog](/blog) for updates.
 
 **Recap:**
 

@@ -58,7 +58,7 @@ My LAPD background, combined with my personal discipline, forms the bedrock of m
 
 #### More Than Just an Agent: Your Advocate and Protector
 
-My personal journey of transformation is not just a story; it's a living example of the dedication and resilience I bring to my real estate practice. Just as I learned to break free from digital distraction to real-world victory in my health, I apply that same focus to achieving real estate victories for my clients. [Break Free from Digital Distraction to Real-World Victory](https://www.google.com/search?q=https://www./blog/break-free-from-digital-distraction-to-real-world-victory).
+My personal journey of transformation is not just a story; it's a living example of the dedication and resilience I bring to my real estate practice. Just as I learned to break free from digital distraction to real-world victory in my health, I apply that same focus to achieving real estate victories for my clients. [Break Free from Digital Distraction to Real-World Victory](https://www.google.com/search?q=https://www.santaclaritaopenhouses.com/blog/break-free-from-digital-distraction-to-real-world-victory).
 
 ### Conclusion: Your Partner for Success – Driven by Honor and Experience
 

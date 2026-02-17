@@ -74,7 +74,7 @@ With the recent election results, the Santa Clarita real estate market is poised
 
 Anticipated Mortgage Rate Drops: Pro-business policies could drive down interest rates, boosting buyer confidence and demand. If you’re thinking about buying, now may be the best time to get ahead of the competition. For sellers, this means more buyers and possibly higher offers as we head into a competitive market.
 
-For more in-depth insights, explore the full blog here: https://www./blog/what-a-trump-presidency-means-for-santa-clarita-real-estate
+For more in-depth insights, explore the full blog here: https://www.santaclaritaopenhouses.com/blog/what-a-trump-presidency-means-for-santa-clarita-real-estate
 
 Tune into the podcast episode for the latest updates: [https://www.buzzsprout.com/admin/298109/episodes/16058631-what-a-trump-presidency-means-for-santa-clarita-real-estate](https://www.buzzsprout.com/admin/298109/episodes/16058631-what-a-trump-presidency-means-for-santa-clarita-real-estate)
 

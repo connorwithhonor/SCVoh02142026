@@ -36,7 +36,7 @@ One of the most overlooked opportunities in real estate lies in listings that ar
 
 **Pro Tip**: Ask your realtor to track these listings for you, ideally going back 45 to 60 days. These properties may not be widely advertised, but a skilled agent can reach out to the listing agent to inquire about their status. For example, a canceled listing might be due to a seller’s personal circumstances rather than an issue with the property itself. By exploring these opportunities, you could find a home that perfectly matches your criteria at a potentially lower price.
 
-To ensure you don’t miss out, visit [https://www./blog/active-listings](/) and work with a realtor who knows how to navigate these off-market opportunities. I’ve helped countless clients secure deals on properties others overlooked, and I’m ready to do the same for you. Reach out at 661-888-4983 or [https://www.zoommescv.com/](https://www.zoommescv.com/).
+To ensure you don’t miss out, visit [https://www.santaclaritaopenhouses.com/blog/active-listings](/) and work with a realtor who knows how to navigate these off-market opportunities. I’ve helped countless clients secure deals on properties others overlooked, and I’m ready to do the same for you. Reach out at 661-888-4983 or [https://www.zoommescv.com/](https://www.zoommescv.com/).
 
 #### Vetting Your Lender: A Critical Step for Buyers
 

@@ -26,7 +26,7 @@ Buying a home in Santa Clarita is a big deal. You’ve navigated the emotional r
 
 As someone who’s walked the streets as an LAPD officer and now navigates the real estate jungle as a top-tier Santa Clarita realtor, I’ve seen what happens when buyers skip or mishandle this step. From tenants squatting post-closing to sellers leaving behind garbage or unrepaired damage, the final walkthrough is your chance to catch red flags before you’re stuck with them. In this guide, I’ll break down everything you need to know about the final walkthrough, drawing from my decades of experience and insider knowledge of the Santa Clarita real estate market.
 
-Let’s dive into why this step is non-negotiable, how to execute it like a pro, and what to do if things go sideways. Whether you’re eyeing homes in Valencia, Saugus, or Canyon Country, this is your roadmap to closing with confidence. Want to see the latest listings? Check out [https://www./blog/active-listings](/).
+Let’s dive into why this step is non-negotiable, how to execute it like a pro, and what to do if things go sideways. Whether you’re eyeing homes in Valencia, Saugus, or Canyon Country, this is your roadmap to closing with confidence. Want to see the latest listings? Check out [https://www.santaclaritaopenhouses.com/blog/active-listings](/).
 
 ## Why the Final Walkthrough Matters in Santa Clarita Real Estate
 
@@ -48,7 +48,7 @@ I’ve seen it all: tenants refusing to leave, flooded basements, or even missin
 
 Santa Clarita homes aren’t cheap. With prices steady but not declining (unlike some Midwest markets), you’re likely investing hundreds of thousands, if not over a million, in areas like Stevenson Ranch or Valencia. The walkthrough is your last chance to ensure you’re getting what you paid for before the deal closes.
 
-Ready to navigate the market with a pro? Contact me at 661-888-4983 or visit [https://www./blog/contact](/contact).
+Ready to navigate the market with a pro? Contact me at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/blog/contact](/contact).
 
 ## The Santa Clarita Market Context: Why Timing and Strategy Matter
 
@@ -124,13 +124,13 @@ Dual representation – where the listing agent also represents you – can comp
 
 As a former LAPD officer, I bring a protector’s mindset to real estate. My job isn’t just to find you a home; it’s to shield you from risks and fight for your best deal. During the final walkthrough, a seasoned realtor like me (CALDRE 01238257) will:
 
-Want a realtor who’s got your back? Reach out at 661-888-4983 or visit [https://www./blog/contact](/contact).
+Want a realtor who’s got your back? Reach out at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/blog/contact](/contact).
 
 ## Santa Clarita Market Insights: What’s Happening Now
 
 As of August 21, 2025, here’s the lay of the land in Santa Clarita:
 
-This data underscores the importance of the final walkthrough. With inventory tightening and competition heating up, you can’t afford to miss issues that could derail your purchase. Check the latest market trends at [https://www./blog/santa-clarita-market-report](/blog).
+This data underscores the importance of the final walkthrough. With inventory tightening and competition heating up, you can’t afford to miss issues that could derail your purchase. Check the latest market trends at [https://www.santaclaritaopenhouses.com/blog/santa-clarita-market-report](/blog).
 
 ## Special Considerations for Santa Clarita Buyers
 
@@ -186,7 +186,7 @@ Want to see how AI can give you an edge? Join our community at [https://communit
 
 As an ex-LAPD officer, I bring a protector’s mindset to real estate. My background in high-stakes situations – from patrolling streets to teaching firearms and drug recognition – translates into a relentless focus on your interests. I’m not just a realtor; I’m a strategist who anticipates problems and solves them before they derail your deal. Whether it’s spotting a shady repair or negotiating with a stubborn seller, I’ve got your back.
 
-Check out my approach at https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
+Check out my approach at https://www.santaclaritaopenhouses.com/blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
 
 ## Recap: Key Takeaways for Your Final Walkthrough
 

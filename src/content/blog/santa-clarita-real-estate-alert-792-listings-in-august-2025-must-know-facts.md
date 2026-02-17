@@ -34,25 +34,25 @@ Buying a home in Santa Clarita’s 792-listing market is like navigating a minef
 
 ### 1. New Buyer Agreements Are Mandatory
 
-California now requires written buyer-broker agreements before viewing homes, thanks to 2024 regulatory changes. These contracts outline agent fees and obligations, but poorly written ones can lock you into paying commissions even if the deal falls through. **Safety Tip**: Read every line before signing and ensure the agreement allows termination if the agent underperforms. Learn more at https://www./blog/why-buyers-need-written-agreements-by-the-first-responder-realtor.
+California now requires written buyer-broker agreements before viewing homes, thanks to 2024 regulatory changes. These contracts outline agent fees and obligations, but poorly written ones can lock you into paying commissions even if the deal falls through. **Safety Tip**: Read every line before signing and ensure the agreement allows termination if the agent underperforms. Learn more at https://www.santaclaritaopenhouses.com/blog/why-buyers-need-written-agreements-by-the-first-responder-realtor.
 
 ### 2. Inspections Are Non-Negotiable
 
-With 55 pending sales, many deals hinge on inspections. Skipping them to “save time” can leave you stuck with costly repairs like dry rot or faulty wiring. **Safety Tip**: Always hire a licensed inspector and review reports carefully. Hidden issues can cost thousands—check https://www./blog/no-man-with-a-gun-in-the-window-just-some-dry-rot-noted for red flags to watch.
+With 55 pending sales, many deals hinge on inspections. Skipping them to “save time” can leave you stuck with costly repairs like dry rot or faulty wiring. **Safety Tip**: Always hire a licensed inspector and review reports carefully. Hidden issues can cost thousands—check https://www.santaclaritaopenhouses.com/blog/no-man-with-a-gun-in-the-window-just-some-dry-rot-noted for red flags to watch.
 
 ### 3. Pre-Approval Is Your Shield
 
-In a market with 33 active under contract homes, weak offers get crushed. Buyers without pre-approval risk losing to cash offers or stronger bids. **Safety Tip**: Work with a reputable lender to get pre-approved before shopping. Avoid online lenders with sketchy reviews—start at https://www./blog/getting-a-legitimate-lender-and-getting-pre-approved.
+In a market with 33 active under contract homes, weak offers get crushed. Buyers without pre-approval risk losing to cash offers or stronger bids. **Safety Tip**: Work with a reputable lender to get pre-approved before shopping. Avoid online lenders with sketchy reviews—start at https://www.santaclaritaopenhouses.com/blog/getting-a-legitimate-lender-and-getting-pre-approved.
 
 ### 4. Title Issues Can Derail You
 
-Title problems—like liens or disputed ownership—can stall or kill your deal. With 71 homes sold last week, clean titles were key to closing. **Safety Tip**: Demand a preliminary title report early and review it with a professional to catch issues like mechanics’ liens. Learn why at https://www./blog/understanding-preliminary-reports.
+Title problems—like liens or disputed ownership—can stall or kill your deal. With 71 homes sold last week, clean titles were key to closing. **Safety Tip**: Demand a preliminary title report early and review it with a professional to catch issues like mechanics’ liens. Learn why at https://www.santaclaritaopenhouses.com/blog/understanding-preliminary-reports.
 
 ### 5. Mortgage Rate Shifts Affect Your Budget
 
-Rates are edging closer to a “magic number” that’s sparking buyer interest (see https://www./blog/mortgage-rates-continue-to-shrink-closer-to-the-magic-number). But rate fluctuations can change your monthly payments overnight. **Safety Tip**: Lock in your rate when possible and avoid major credit purchases during escrow to protect your loan approval. Details at https://www./blog/why-you-should-not-make-any-major-credit-purchases.
+Rates are edging closer to a “magic number” that’s sparking buyer interest (see https://www.santaclaritaopenhouses.com/blog/mortgage-rates-continue-to-shrink-closer-to-the-magic-number). But rate fluctuations can change your monthly payments overnight. **Safety Tip**: Lock in your rate when possible and avoid major credit purchases during escrow to protect your loan approval. Details at https://www.santaclaritaopenhouses.com/blog/why-you-should-not-make-any-major-credit-purchases.
 
-**Buyer Pro Move**: Use coming soon listings to beat the rush—check https://www./blog/comingsoon. For personalized guidance, call 661-888-4983 or book a free consultation at https://zoommescv.com.
+**Buyer Pro Move**: Use coming soon listings to beat the rush—check https://www.santaclaritaopenhouses.com/blog/comingsoon. For personalized guidance, call 661-888-4983 or book a free consultation at https://zoommescv.com.
 
 ## Sellers: 5 Must-Know Facts to Protect Your Sale
 
@@ -60,29 +60,29 @@ Selling in a market with 99 price changes and 22 homes back on the market is a h
 
 ### 1. Overpricing Is a Trap
 
-With 792 listings, buyers have options, and overpriced homes sit. The 99 price changes show sellers are adjusting to stay competitive. **Safety Tip**: Use a comparative market analysis to price realistically from day one. Avoid the temptation to “test the market” high—see why at https://www./blog/pricing-your-home-too-high-maybe-the-reason-its-not-selling.
+With 792 listings, buyers have options, and overpriced homes sit. The 99 price changes show sellers are adjusting to stay competitive. **Safety Tip**: Use a comparative market analysis to price realistically from day one. Avoid the temptation to “test the market” high—see why at https://www.santaclaritaopenhouses.com/blog/pricing-your-home-too-high-maybe-the-reason-its-not-selling.
 
 ### 2. Disclosures Are Your Legal Armor
 
-Failing to disclose known issues (like past repairs or pest problems) can lead to lawsuits post-sale. **Safety Tip**: Complete all disclosure forms honestly and thoroughly. Buyers’ inspections will catch issues anyway, so transparency saves you grief. Learn more at https://www./blog/importance-of-inspection.
+Failing to disclose known issues (like past repairs or pest problems) can lead to lawsuits post-sale. **Safety Tip**: Complete all disclosure forms honestly and thoroughly. Buyers’ inspections will catch issues anyway, so transparency saves you grief. Learn more at https://www.santaclaritaopenhouses.com/blog/importance-of-inspection.
 
 ### 3. Concessions Can Backfire
 
-Sellers are offering concessions—like closing cost credits or rate buydowns—to close deals. But giving too much can eat into your profit. **Safety Tip**: Understand what concessions are standard in Santa Clarita and negotiate strategically. Check https://www./blog/seller-concessions-explained-a-first-responder-realtors-guide-to-selling for guidance.
+Sellers are offering concessions—like closing cost credits or rate buydowns—to close deals. But giving too much can eat into your profit. **Safety Tip**: Understand what concessions are standard in Santa Clarita and negotiate strategically. Check https://www.santaclaritaopenhouses.com/blog/seller-concessions-explained-a-first-responder-realtors-guide-to-selling for guidance.
 
 ### 4. Fair Housing Laws Are Strict
 
-California’s fair housing laws prohibit discrimination based on race, religion, disability, or other protected classes. Violations can lead to fines or delayed sales. **Safety Tip**: Ensure all marketing and buyer interactions comply with fair housing rules. Get the basics at https://www./blog/fair-housing-in-california-how-a-first-responder-realtor-keeps-it-fair-honestly.
+California’s fair housing laws prohibit discrimination based on race, religion, disability, or other protected classes. Violations can lead to fines or delayed sales. **Safety Tip**: Ensure all marketing and buyer interactions comply with fair housing rules. Get the basics at https://www.santaclaritaopenhouses.com/blog/fair-housing-in-california-how-a-first-responder-realtor-keeps-it-fair-honestly.
 
 ### 5. Net Sheets Prevent Surprises
 
-Closing costs, commissions, and unexpected fees can shrink your proceeds. With 71 homes sold last week, sellers who reviewed net sheets avoided shocks. **Safety Tip**: Request a net sheet before accepting offers to know your true take-home amount. Learn why at https://www./blog/why-is-a-net-sheet-important-to-view-before-accepting-any-offers.
+Closing costs, commissions, and unexpected fees can shrink your proceeds. With 71 homes sold last week, sellers who reviewed net sheets avoided shocks. **Safety Tip**: Request a net sheet before accepting offers to know your true take-home amount. Learn why at https://www.santaclaritaopenhouses.com/blog/why-is-a-net-sheet-important-to-view-before-accepting-any-offers.
 
-**Seller Pro Move**: Stage your home to stand out in open houses—last October saw 150 scheduled (https://www./blog/over-150-open-houses-scheduled-for-the-last-weekend-in-october-of-2024-in-scv). Get a free market analysis at https://www./blog/free-market-analysis.
+**Seller Pro Move**: Stage your home to stand out in open houses—last October saw 150 scheduled (https://www.santaclaritaopenhouses.com/blog/over-150-open-houses-scheduled-for-the-last-weekend-in-october-of-2024-in-scv). Get a free market analysis at https://www.santaclaritaopenhouses.com/blog/free-market-analysis.
 
 ## Special Situations: Divorce and Distressed Sales
 
-Divorce or foreclosure sales add complexity, with 18 cancellations and 7 expired listings showing how deals can unravel. **Safety Tip**: Work with a professional experienced in sensitive transactions to avoid delays or legal issues. See how at https://www./blog/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce and https://www./blog/understanding-foreclosures.
+Divorce or foreclosure sales add complexity, with 18 cancellations and 7 expired listings showing how deals can unravel. **Safety Tip**: Work with a professional experienced in sensitive transactions to avoid delays or legal issues. See how at https://www.santaclaritaopenhouses.com/blog/why-attorneys-choose-me-for-their-clients-real-estate-needs-during-divorce and https://www.santaclaritaopenhouses.com/blog/understanding-foreclosures.
 
 ## How to Take Action Safely
 

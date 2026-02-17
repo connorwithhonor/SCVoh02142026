@@ -74,7 +74,7 @@ Phone: [661.400.1720](tel:6614001720)
 
 Email: [connor@santaclaritaopenhouses.com](mailto:connor@santaclaritaopenhouses.com)
 
-Visit the blog for more updates: [Santa Clarita Real Estate Blog](https:///blog/blog)
+Visit the blog for more updates: [Santa Clarita Real Estate Blog](https://www.santaclaritaopenhouses.com/blog/blog)
 
 # The Ultimate Guide to Keeping Fat Off and Eating Right for Life
 

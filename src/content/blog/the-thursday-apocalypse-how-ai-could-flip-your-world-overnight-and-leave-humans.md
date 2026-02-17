@@ -67,11 +67,11 @@ Test my AI voice at 661-219-7299 or call 661-51-Homes for real estate/AI mashups
 
 ## AI in Real Estate: A Sneak Peek at Disruption
 
-Tying back to my roots – Santa Clarita real estate (browse [https://www./blog/active-listings](/)). AI's already here: virtual staging, predictive pricing. But full ASI? Agents become consultants, not door-openers.
+Tying back to my roots – Santa Clarita real estate (browse [https://www.santaclaritaopenhouses.com/blog/active-listings](/)). AI's already here: virtual staging, predictive pricing. But full ASI? Agents become consultants, not door-openers.
 
-Buyers: Sign agreements wisely under new rules. Sellers: Price right or languish (free analysis at [https://www./blog/free-market-analysis](/contact)).
+Buyers: Sign agreements wisely under new rules. Sellers: Price right or languish (free analysis at [https://www.santaclaritaopenhouses.com/blog/free-market-analysis](/contact)).
 
-Market reports? Dive into [https://www./blog/santa-clarita-market-report](/blog) for trends.
+Market reports? Dive into [https://www.santaclaritaopenhouses.com/blog/santa-clarita-market-report](/blog) for trends.
 
 ## The Human Edge: Why We're Not Doomed (Yet)
 
@@ -93,7 +93,7 @@ We're at AGI stealthily – systems self-improve. ASI? Months away, fueled by co
 
 Schools: AI tutors personalize, but job loss looms. Law: Licensing protects, but AI drafts flawlessly.
 
-Real estate: Check foreclosures at https://www./blog/foreclosure-search.
+Real estate: Check foreclosures at https://www.santaclaritaopenhouses.com/blog/foreclosure-search.
 
 ## Economic Fallout: UBI or Bust?
 
@@ -109,7 +109,7 @@ Humbly, I've chased perps, taught radar, sold homes, and now probe AI. It's all 
 
 That Thursday's coming – utopia or dystopia? Depends on us. Don't sleep on it.
 
-For real estate in Canyon Country: [https://www./blog/homes-for-sale-in-canyon-country-ca](/).
+For real estate in Canyon Country: [https://www.santaclaritaopenhouses.com/blog/homes-for-sale-in-canyon-country-ca](/).
 
 **Recap:**
 

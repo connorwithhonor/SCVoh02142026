@@ -10,11 +10,51 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = FallbackImage } = Astro.props;
+const { title, description, image = FallbackImage, noindex = false } = Astro.props;
+
+const siteUrl = 'https://santaclaritaopenhouses.com';
+const organizationSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'RealEstateAgent',
+	'@id': `${siteUrl}/#organization`,
+	name: SITE_TITLE,
+	url: siteUrl,
+	telephone: '+1-661-400-1720',
+	email: 'connor@santaclaritaopenhouses.com',
+	areaServed: ['Santa Clarita', 'Valencia', 'Canyon Country', 'Saugus', 'Stevenson Ranch', 'Newhall', 'Castaic'],
+	address: {
+		'@type': 'PostalAddress',
+		streetAddress: '25060 Avenue Stanford, Suite 150',
+		addressLocality: 'Valencia',
+		addressRegion: 'CA',
+		postalCode: '91355',
+		addressCountry: 'US',
+	},
+	sameAs: [
+		'https://facebook.com/santaclaritaopenhouses',
+		'https://instagram.com/santaclaritaopenhouses',
+		'https://tiktok.com/@santaclaritaopenhouses',
+		'https://linkedin.com/company/santaclaritaopenhouses',
+		'https://x.com/connorwithhonor',
+	],
+};
+
+const websiteSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	'@id': `${siteUrl}/#website`,
+	url: siteUrl,
+	name: SITE_TITLE,
+	description,
+	publisher: {
+		'@id': `${siteUrl}/#organization`,
+	},
+};
 ---
 
 <!-- Global Metadata -->
@@ -30,6 +70,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 	href={new URL('rss.xml', Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
+<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'} />
 
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
@@ -56,3 +97,6 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />

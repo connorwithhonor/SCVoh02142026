@@ -27,21 +27,21 @@ Imagine you’re just days away from closing on your dream home in Santa Clarita
 
 As a former LAPD motor cop turned realtor (CALDRE 01238257), I’ve swapped high-speed chases for high-stakes real estate deals. My years of handling intense situations on the streets have sharpened my ability to spot issues and solve problems fast. In my recent YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)), I break down why the final walkthrough is your ultimate defense against costly surprises. This 5000+ word guide dives deeper, offering practical tips, real-world scenarios, and expert advice to navigate the final walkthrough in Santa Clarita’s competitive market.
 
-Whether you’re buying a condo in Canyon Country (https://www./blog/condos-for-sale-in-canyon-country-ca) or selling a luxury home in Stevenson Ranch ([https://www./blog/homes-for-sale-in-stevenson-ranch-ca](/)), I’ve got your back. Let’s dive into the final walkthrough process and how to ace it like a pro.
+Whether you’re buying a condo in Canyon Country (https://www.santaclaritaopenhouses.com/blog/condos-for-sale-in-canyon-country-ca) or selling a luxury home in Stevenson Ranch ([https://www.santaclaritaopenhouses.com/blog/homes-for-sale-in-stevenson-ranch-ca](/)), I’ve got your back. Let’s dive into the final walkthrough process and how to ace it like a pro.
 
 ## What Is a Final Walkthrough?
 
 The final walkthrough is the buyer’s last opportunity to inspect a property before escrow closes, typically scheduled 24–48 hours before the closing date. It’s not a full home inspection—that happens earlier in the process—but a focused check to confirm the property is in the agreed-upon condition, all repairs are complete, and no new issues have surfaced. For sellers, it’s about proving you’ve met your contractual obligations, from leaving the home clean to ensuring utilities are on.
 
-In my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)), I explain how the walkthrough catches issues like uncompleted repairs or unexpected tenants, particularly in foreclosure scenarios. In Santa Clarita, where inventory hit a record-breaking 505 active listings in July 2025 (https://www./blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years), a smooth walkthrough can keep your deal on track in this fast-paced market.
+In my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)), I explain how the walkthrough catches issues like uncompleted repairs or unexpected tenants, particularly in foreclosure scenarios. In Santa Clarita, where inventory hit a record-breaking 505 active listings in July 2025 (https://www.santaclaritaopenhouses.com/blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years), a smooth walkthrough can keep your deal on track in this fast-paced market.
 
 ### Why It’s Critical
 
-As a first responder turned realtor, I approach walkthroughs with the same precision I used in law enforcement—checking every detail to protect your interests. Learn more about my unique approach at https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
+As a first responder turned realtor, I approach walkthroughs with the same precision I used in law enforcement—checking every detail to protect your interests. Learn more about my unique approach at https://www.santaclaritaopenhouses.com/blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
 
 ## The Santa Clarita Real Estate Market: Setting the Stage
 
-Santa Clarita’s real estate market is a wild ride, with high inventory levels creating opportunities for buyers and challenges for sellers. As of July 2025, we’re seeing over 505 active listings—the highest in over two years (https://www./blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years). This surge means buyers have more choices, from affordable condos in Valencia (https://www./blog/condos-for-sale-in-valencia-ca) to gated homes in Saugus (https://www./blog/gated-homes-for-sale-in-saugus-ca). For sellers, it’s a competitive landscape where a flawless final walkthrough can set you apart.
+Santa Clarita’s real estate market is a wild ride, with high inventory levels creating opportunities for buyers and challenges for sellers. As of July 2025, we’re seeing over 505 active listings—the highest in over two years (https://www.santaclaritaopenhouses.com/blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years). This surge means buyers have more choices, from affordable condos in Valencia (https://www.santaclaritaopenhouses.com/blog/condos-for-sale-in-valencia-ca) to gated homes in Saugus (https://www.santaclaritaopenhouses.com/blog/gated-homes-for-sale-in-saugus-ca). For sellers, it’s a competitive landscape where a flawless final walkthrough can set you apart.
 
 My YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)) gives a quick snapshot of what to expect during a walkthrough, but this guide dives into the details, covering everything from repairs to tenant issues. Whether you’re a first-time buyer or a seasoned seller, understanding the walkthrough process is key to closing with confidence.
 
@@ -69,11 +69,11 @@ For example, if a home inspection revealed dry rot in a window frame, the buyer 
 
 ### Tips for Sellers
 
-For more on the importance of written agreements, check out my blog post at https://www./blog/why-buyers-need-written-agreements-by-the-first-responder-realtor.
+For more on the importance of written agreements, check out my blog post at https://www.santaclaritaopenhouses.com/blog/why-buyers-need-written-agreements-by-the-first-responder-realtor.
 
 ## Navigating Tenant Holdovers and Foreclosure Challenges
 
-During the foreclosure wave, final walkthroughs could be a logistical nightmare. As I noted in my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)), “back in the day was kind o in the last foreclosure we would go through prope closing and those people tenants, they didn’t want weren’t going anywhere.” While tenant holdovers are less common today, they still occur, especially with investment properties or foreclosures listed on https://www./blog/foreclosure-search.
+During the foreclosure wave, final walkthroughs could be a logistical nightmare. As I noted in my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)), “back in the day was kind o in the last foreclosure we would go through prope closing and those people tenants, they didn’t want weren’t going anywhere.” While tenant holdovers are less common today, they still occur, especially with investment properties or foreclosures listed on https://www.santaclaritaopenhouses.com/blog/foreclosure-search.
 
 ### Handling Tenant Holdovers
 
@@ -89,7 +89,7 @@ Preparation is the key to a seamless final walkthrough. Here’s how buyers and 
 
 ### For Sellers
 
-For more tips on preparing your home for sale, visit https://www./blog/sell-your-home-santa-clarita-now.
+For more tips on preparing your home for sale, visit https://www.santaclaritaopenhouses.com/blog/sell-your-home-santa-clarita-now.
 
 ## Real-World Final Walkthrough Scenarios in Santa Clarita
 
@@ -105,7 +105,7 @@ Let’s explore some common scenarios you might encounter during a final walkthr
 
 **Issue**: The seller removed a chandelier that was supposed to stay with the home.
 
-**Solution**: Refer to the purchase agreement to confirm what was included in the sale. Your realtor can negotiate a replacement or credit. Learn more about purchase agreements at https://www./blog/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate.
+**Solution**: Refer to the purchase agreement to confirm what was included in the sale. Your realtor can negotiate a replacement or credit. Learn more about purchase agreements at https://www.santaclaritaopenhouses.com/blog/the-2024-residential-purchase-agreement-for-a-home-buyer-buying-real-estate.
 
 ### Scenario 3: Utilities Turned Off
 
@@ -125,13 +125,13 @@ Let’s explore some common scenarios you might encounter during a final walkthr
 
 **Solution**: Document the damage and notify your realtor. You may need to file an insurance claim or renegotiate with the seller to cover repair costs.
 
-These scenarios underscore the importance of working with a realtor who can handle unexpected challenges. My experience as a first responder turned realtor ensures quick, effective solutions. Check out my daily market updates at https://www./blog/santa-clarita-real-estate-daily-update-by-your-first-responder-realtor-295-2024 for the latest insights.
+These scenarios underscore the importance of working with a realtor who can handle unexpected challenges. My experience as a first responder turned realtor ensures quick, effective solutions. Check out my daily market updates at https://www.santaclaritaopenhouses.com/blog/santa-clarita-real-estate-daily-update-by-your-first-responder-realtor-295-2024 for the latest insights.
 
 ## The Role of a Realtor in the Final Walkthrough
 
 A skilled realtor is your greatest asset during the final walkthrough. Here’s how I, Connor MacIvor, can help:
 
-Learn why a first responder turned realtor gives you the edge at https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
+Learn why a first responder turned realtor gives you the edge at https://www.santaclaritaopenhouses.com/blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge.
 
 ## Pricing Strategies and Their Impact on the Final Walkthrough
 
@@ -141,17 +141,17 @@ In my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](http
 
 ### Tips for Sellers
 
-For more on pricing strategies, visit https://www./blog/pricing-your-home-too-high-maybe-the-reason-its-not-selling.
+For more on pricing strategies, visit https://www.santaclaritaopenhouses.com/blog/pricing-your-home-too-high-maybe-the-reason-its-not-selling.
 
 ## Leveraging AI to Enhance the Final Walkthrough Process
 
-As an AI influencer and adopter (https://www./blog/artificial-intelligence-in-real-estate), I see how technology can streamline real estate processes, including final walkthroughs. Here’s how AI can help:
+As an AI influencer and adopter (https://www.santaclaritaopenhouses.com/blog/artificial-intelligence-in-real-estate), I see how technology can streamline real estate processes, including final walkthroughs. Here’s how AI can help:
 
 At [https://honorelevate.com/](https://honorelevate.com/), I help realtors and businesses adopt AI to enhance their processes. Join my community at [https://community.honorelevate.com/](https://community.honorelevate.com/) or watch my AI channel at [https://www.youtube.com/@aiwithhonor](https://www.youtube.com/@aiwithhonor) for insights on AI’s role in real estate.
 
 ## FAQs About Final Walkthroughs
 
-For more FAQs, visit https://www./blog/santa-clarita-real-estate-faqs.
+For more FAQs, visit https://www.santaclaritaopenhouses.com/blog/santa-clarita-real-estate-faqs.
 
 ## Common Misconceptions About Final Walkthroughs
 
@@ -173,7 +173,7 @@ There are several myths about final walkthroughs that can trip up buyers and sel
 
 **Reality**: Unless specified in the contract, the home should be empty and clean. Leaving items behind can lead to disputes.
 
-For more clarity on real estate myths, check out https://www./blog/santa-clarita-real-estate-faqs.
+For more clarity on real estate myths, check out https://www.santaclaritaopenhouses.com/blog/santa-clarita-real-estate-faqs.
 
 ## How to Handle Disputes During the Final Walkthrough
 
@@ -199,25 +199,25 @@ In foreclosure cases, tenants may refuse to leave. Your realtor should coordinat
 
 If utilities are off, request the seller to restore them. If that’s not possible, negotiate a contingency to test systems post-closing.
 
-My experience as a first responder turned realtor equips me to handle these disputes with calm and precision. Watch my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)) for real examples, and visit https://www./blog/negotiating-written-buyer-agreements-how-the-first-responder-realtor-protects for more on protecting your interests.
+My experience as a first responder turned realtor equips me to handle these disputes with calm and precision. Watch my YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)) for real examples, and visit https://www.santaclaritaopenhouses.com/blog/negotiating-written-buyer-agreements-how-the-first-responder-realtor-protects for more on protecting your interests.
 
 ## The Impact of Market Trends on Final Walkthroughs
 
-Santa Clarita’s market trends directly affect the final walkthrough. With inventory at a two-year high (https://www./blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years), buyers have more leverage to be picky, while sellers need to ensure their property stands out. Here’s how market dynamics play a role:
+Santa Clarita’s market trends directly affect the final walkthrough. With inventory at a two-year high (https://www.santaclaritaopenhouses.com/blog/505-the-highest-number-of-santa-clarita-real-estate-listings-in-over-two-years), buyers have more leverage to be picky, while sellers need to ensure their property stands out. Here’s how market dynamics play a role:
 
-Sellers can stay ahead by pricing competitively and preparing thoroughly. Buyers should use their leverage wisely, focusing on contract terms rather than new demands. For the latest market insights, visit https://www./blog/santa-clarita-real-estate-market-trends.
+Sellers can stay ahead by pricing competitively and preparing thoroughly. Buyers should use their leverage wisely, focusing on contract terms rather than new demands. For the latest market insights, visit https://www.santaclaritaopenhouses.com/blog/santa-clarita-real-estate-market-trends.
 
 ## Integrating AI into the Final Walkthrough Process
 
-As an AI influencer (https://www./blog/artificial-intelligence-in-real-estate), I’m passionate about using technology to streamline real estate. AI can enhance the final walkthrough in several ways:
+As an AI influencer (https://www.santaclaritaopenhouses.com/blog/artificial-intelligence-in-real-estate), I’m passionate about using technology to streamline real estate. AI can enhance the final walkthrough in several ways:
 
 At [https://honorelevate.com/](https://honorelevate.com/), I help realtors and businesses adopt AI to boost efficiency. Join my community at [https://community.honorelevate.com/](https://community.honorelevate.com/) or watch my AI channel at [https://www.youtube.com/@aiwithhonor](https://www.youtube.com/@aiwithhonor) for insights on AI’s role in real estate. My YouTube Short ([https://youtube.com/shorts/hRcTnL3vl0w?feature=share](https://youtube.com/shorts/hRcTnL3vl0w?feature=share)) also touches on how technology is changing the game.
 
 ## Special Considerations for Unique Properties
 
-Santa Clarita offers a variety of properties, from new constructions (https://www./blog/new-construction-properties-for-sale-in-santa-clarita-ca) to 55+ community homes (https://www./blog/homes-in-a-55-community-for-sale-in-santa-clarita-ca). Each type has unique walkthrough considerations:
+Santa Clarita offers a variety of properties, from new constructions (https://www.santaclaritaopenhouses.com/blog/new-construction-properties-for-sale-in-santa-clarita-ca) to 55+ community homes (https://www.santaclaritaopenhouses.com/blog/homes-in-a-55-community-for-sale-in-santa-clarita-ca). Each type has unique walkthrough considerations:
 
-No matter the property type, I can guide you through the walkthrough process. Contact me at [https://www./blog/contact](/contact) or 661-888-4983.
+No matter the property type, I can guide you through the walkthrough process. Contact me at [https://www.santaclaritaopenhouses.com/blog/contact](/contact) or 661-888-4983.
 
 ## Tips for First-Time Buyers and Sellers
 

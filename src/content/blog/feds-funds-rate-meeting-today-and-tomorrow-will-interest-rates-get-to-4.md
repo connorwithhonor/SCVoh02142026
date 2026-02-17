@@ -70,7 +70,7 @@ Today, on the 261st day of 2024, we are diving into a crucial topic that could i
 
 Are you ready to make informed decisions in this dynamic market? Watch the video to get all the latest insights and strategies!
 
-**Read More:** For a detailed breakdown, check out my latest blog post: [Fed Funds Rate Meeting Today and Tomorrow - Will Interest Rates Get to 4%?](www.santaclaritaopenhouses.com/feds-funds-rate-meeting-today-and-tomorrow-will-interest-rates-get-to-4)
+**Read More:** For a detailed breakdown, check out my latest blog post: [Fed Funds Rate Meeting Today and Tomorrow - Will Interest Rates Get to 4%?](https://www.santaclaritaopenhouses.com/feds-funds-rate-meeting-today-and-tomorrow-will-interest-rates-get-to-4)
 
 **Stay Connected:**
 

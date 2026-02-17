@@ -44,7 +44,7 @@ At 52, I hit rock bottom. At 365 pounds, I was battling health issues and fed up
 
 Fasting isn’t just about not eating—it’s about giving your body a break to reset. Here’s what happens when you fast:
 
-For a deeper dive into fasting science, check out my videos at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who delivers results, visit [https://www./blog/about](/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
+For a deeper dive into fasting science, check out my videos at [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who delivers results, visit [https://www.santaclaritaopenhouses.com/blog/about](/) or book a consultation at [https://zoommescv.com/](https://zoommescv.com/).
 
 #### My Fasting Journey
 
@@ -52,13 +52,13 @@ I started small, skipping a meal here and there. The first few days were rough�
 
 The result? I dropped 135 pounds in 7.5 months, going from 365 to 230 pounds. More importantly, I broke free from the drive-through diet. I stopped hiding in parking lots and started living with purpose.
 
-If you’re curious about fasting or want to explore Santa Clarita real estate, reach out at 661-888-4983 or visit [https://www./blog/contact](/contact).
+If you’re curious about fasting or want to explore Santa Clarita real estate, reach out at 661-888-4983 or visit [https://www.santaclaritaopenhouses.com/blog/contact](/contact).
 
 ### Practical Tips to Combat Food Addiction with Fasting
 
 Ready to take control? Here’s how to start fasting and break the cycle of food addiction:
 
-For more fasting tips, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who’s all about results, check out [https://www./blog/about](/) or call 661-888-4983.
+For more fasting tips, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and need a realtor who’s all about results, check out [https://www.santaclaritaopenhouses.com/blog/about](/) or call 661-888-4983.
 
 ### The Mental Battle: Overcoming the Hunger Dilemma
 
@@ -70,13 +70,13 @@ If you’re struggling with the mental side of fasting, I’m here to help. Chec
 
 Fasting isn’t a quick fix—it’s a lifestyle shift. Here’s why it’s effective for breaking food addiction:
 
-For more on fasting’s benefits, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and want to explore real estate while working on your health, check out [https://www./blog/active-listings](/) or call 661-888-4983.
+For more on fasting’s benefits, visit [https://www.youtube.com/@homemuscle](https://www.youtube.com/@homemuscle). If you’re in Santa Clarita and want to explore real estate while working on your health, check out [https://www.santaclaritaopenhouses.com/blog/active-listings](/) or call 661-888-4983.
 
 ### My Story: From First Responder to Transformation Specialist
 
 As a former LAPD motor cop and firearms instructor, I’ve faced high-stakes situations. But nothing prepared me for the battle with food addiction. At 365 pounds, I was a prisoner in my own body. Fasting was my way out. It wasn’t easy, but it was worth it. Today, I’m 230 pounds, healthier than ever, and helping others transform their lives.
 
-I bring the same no-nonsense approach to my real estate business. Whether you’re buying or selling in Santa Clarita, I’m here to guide you with honesty and expertise. Check out my sold listings at https://www./blog/my-sold-listings or get a free market analysis at [https://www./blog/free-market-analysis](/contact).
+I bring the same no-nonsense approach to my real estate business. Whether you’re buying or selling in Santa Clarita, I’m here to guide you with honesty and expertise. Check out my sold listings at https://www.santaclaritaopenhouses.com/blog/my-sold-listings or get a free market analysis at [https://www.santaclaritaopenhouses.com/blog/free-market-analysis](/contact).
 
 ### FAQs About Fasting and Food Addiction
 

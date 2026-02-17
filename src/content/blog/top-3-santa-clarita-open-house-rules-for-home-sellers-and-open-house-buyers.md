@@ -36,7 +36,7 @@ Since January 1, 2025, this agreement has been mandatory for buyers before engag
 
 If you’re a buyer looking to avoid contractual commitments, consider these strategies:
 
-For more tips on buying and selling real estate, grab a copy of my book, ["How to Buy and Sell Real Estate" Santa Clarita Edition](https:///blog/book).
+For more tips on buying and selling real estate, grab a copy of my book, ["How to Buy and Sell Real Estate" Santa Clarita Edition](https://www.santaclaritaopenhouses.com/blog/book).
 
 ## Tips for Sellers: Maximizing Open House Success
 

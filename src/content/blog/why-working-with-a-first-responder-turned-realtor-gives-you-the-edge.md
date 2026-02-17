@@ -118,7 +118,7 @@ Curious how my first responder experience benefits you in real estate? Check out
 
 Read the blog here:
 
-[https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www./blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge)
+[https://www.santaclaritaopenhouses.com/blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge](https://www.santaclaritaopenhouses.com/blog/why-working-with-a-first-responder-turned-realtor-gives-you-the-edge)
 
 Here’s a quick post with additional info:
 

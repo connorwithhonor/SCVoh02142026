@@ -78,7 +78,7 @@ With over two decades of experience in the Santa Clarita real estate market, Iâ€
 
 For more detailed information, check out the latest video: [https://youtu.be/NL2odPfWjS8](https://youtu.be/NL2odPfWjS8)
 
-Visit our related blog post: [www.santaclaritaopenhouses.com/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house](https://www./blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house)
+Visit our related blog post: [www.santaclaritaopenhouses.com/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house](https://www.santaclaritaopenhouses.com/blog/276-2024-buyers-cancelling-escrow-is-not-because-of-the-house)
 
 Reach out today at [www.SantaClaritaOpenHouses.com](http://www.SantaClaritaOpenHouses.com) to discuss how we can help you find your perfect home or sell your property for the best price.
 
