@@ -4,7 +4,7 @@ description: "Newhall's 75-day market time is the slowest in SCV, but smart sell
 publishDate: 2026-02-16T08:00:00
 pubDate: 2026-02-16T08:00:00
 neighborhood: "Newhall"
-heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/newhall-2026-real-estate.webp"
+heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/the%20santa%20clarita%20open%20houses%20market%20by%20connor%20with%20honor.jpg"
 ---
 
 If you listen to the headlines, you'd think Newhall's real estate market is struggling. With just **83 active listings** taking an average of **75 days to sell**, Newhall has the longest market times in the Santa Clarita Valley.

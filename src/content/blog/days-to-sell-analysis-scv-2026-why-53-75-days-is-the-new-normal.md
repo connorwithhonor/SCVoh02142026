@@ -4,7 +4,7 @@ description: "Santa Clarita homes are taking 53-75 days to sell in 2026. Here's 
 publishDate: 2026-02-16T08:00:00
 pubDate: 2026-02-16T08:00:00
 neighborhood: "Santa Clarita Valley"
-heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/days-to-sell-scv-2026.webp"
+heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/0720%20santa%20clarita%20real%20estate%20open%20houses%20connor%20macivor%20thumbnail.png"
 ---
 
 "Why is my home taking so long to sell?"

@@ -4,7 +4,7 @@ description: "SCV's total inventory is up 246% from 2024 lows. Here's why this i
 publishDate: 2026-02-16T08:00:00
 pubDate: 2026-02-16T08:00:00
 neighborhood: "Santa Clarita Valley"
-heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/scv-inventory-2026-analysis.webp"
+heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/Marketing%20Santa%20Clarita%20homes%20for%20sale%20by%20the%20top%20real%20estate%20experts%20in%20Santa%20Clarita%20open%20houses.png"
 ---
 
 **638 active homes for sale** across Santa Clarita Valley.
