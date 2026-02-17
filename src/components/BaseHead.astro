@@ -100,3 +100,55 @@ const websiteSchema = {
 
 <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+
+<script is:inline>
+	(function () {
+		const pushEvent = (eventName, eventParams) => {
+			if (typeof window === 'undefined') {
+				return;
+			}
+
+			if (typeof window.gtag === 'function') {
+				window.gtag('event', eventName, eventParams);
+			}
+
+			if (Array.isArray(window.dataLayer)) {
+				window.dataLayer.push({ event: eventName, ...eventParams });
+			}
+		};
+
+		document.addEventListener('click', (event) => {
+			const target = event.target;
+			if (!(target instanceof Element)) {
+				return;
+			}
+
+			const anchor = target.closest('a');
+			if (!(anchor instanceof HTMLAnchorElement)) {
+				return;
+			}
+
+			const href = anchor.getAttribute('href') || '';
+			const linkText = (anchor.textContent || '').trim().slice(0, 120);
+			const currentPath = window.location.pathname;
+
+			if (href.startsWith('tel:')) {
+				pushEvent('click_to_call', {
+					link_url: href,
+					link_text: linkText,
+					page_path: currentPath,
+				});
+				return;
+			}
+
+			const isBookingLink = href === '/book' || href.startsWith('/book?') || href.includes('honorelevate.com/widget/booking');
+			if (isBookingLink) {
+				pushEvent('click_book_consultation', {
+					link_url: href,
+					link_text: linkText,
+					page_path: currentPath,
+				});
+			}
+		});
+	})();
+</script>
