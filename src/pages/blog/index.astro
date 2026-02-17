@@ -22,20 +22,20 @@ const posts = (await getCollection('blog')).sort((a, b) => {
 		<Header />
 
 		<!-- Page Header -->
-		<section class="relative overflow-hidden text-white py-18 px-6 bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900">
+		<section class="relative overflow-hidden text-white py-14 sm:py-16 md:py-20 px-4 sm:px-6 bg-gradient-to-br from-slate-950 via-blue-950 to-slate-900">
 			<div class="absolute inset-0 opacity-25 pointer-events-none bg-[linear-gradient(rgba(56,189,248,0.15)_1px,transparent_1px),linear-gradient(90deg,rgba(56,189,248,0.15)_1px,transparent_1px)] bg-[size:48px_48px]"></div>
 			<div class="absolute inset-x-0 top-1/2 h-px bg-gradient-to-r from-transparent via-cyan-300/80 to-transparent"></div>
 			<div class="max-w-6xl mx-auto text-center relative z-10">
-				<div class="inline-block bg-slate-950/35 backdrop-blur-md rounded-2xl px-6 py-6 border border-cyan-300/35 shadow-[0_0_48px_rgba(56,189,248,0.35)]">
+				<div class="inline-block bg-slate-950/35 backdrop-blur-md rounded-2xl px-4 sm:px-6 py-5 sm:py-6 border border-cyan-300/35 shadow-[0_0_48px_rgba(56,189,248,0.35)]">
 				<div class="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] bg-white/10 border border-white/20 rounded-full px-4 py-2 mb-6">
 					<span class="w-1.5 h-1.5 rounded-full bg-amber-400"></span>
 					Seller Resources
 				</div>
-				<h1 class="text-4xl md:text-5xl font-bold mb-4 tracking-tight text-cyan-50 drop-shadow-[0_0_24px_rgba(34,211,238,0.9)]">Santa Clarita Seller's Guide</h1>
-				<p class="text-xl text-cyan-100 mb-4 drop-shadow-[0_0_14px_rgba(34,211,238,0.5)]">
+				<h1 class="text-3xl sm:text-4xl md:text-5xl font-bold mb-3 sm:mb-4 tracking-tight text-cyan-50 drop-shadow-[0_0_24px_rgba(34,211,238,0.9)]">Santa Clarita Seller's Guide</h1>
+				<p class="text-base sm:text-lg md:text-xl text-cyan-100 mb-3 sm:mb-4 drop-shadow-[0_0_14px_rgba(34,211,238,0.5)]">
 					Seller-first strategy, market intelligence, and execution for Santa Clarita homeowners.
 				</p>
-				<p class="text-lg text-sky-100 drop-shadow-[0_0_14px_rgba(56,189,248,0.5)]">
+				<p class="text-sm sm:text-base md:text-lg text-sky-100 drop-shadow-[0_0_14px_rgba(56,189,248,0.5)]">
 					This is <strong class="text-white">not an IDX home-search site</strong>. This is my seller playbook—real-world strategy, sold-market context, and custom guidance to help you list smart, protect your equity, and sell on your terms.
 				</p>
 				</div>
@@ -43,7 +43,7 @@ const posts = (await getCollection('blog')).sort((a, b) => {
 		</section>
 
 		<!-- Blog Posts Grid -->
-		<main class="max-w-6xl mx-auto px-6 py-12">
+		<main class="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-12">
 			<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
 				{posts.map((post) => (
 					<article class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">

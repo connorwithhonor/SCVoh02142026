@@ -4,7 +4,7 @@ import HeaderLink from './HeaderLink.astro';
 
 <header class="sticky top-0 z-50">
 	<nav class="max-w-6xl mx-auto">
-		<div class="flex items-center justify-between">
+		<div class="top-row flex items-center justify-between">
 			<h2 class="logo">
 				<a href="/" class="flex items-center gap-3">
 					<svg class="w-9 h-9 flex-shrink-0 brand-icon" fill="currentColor" viewBox="0 0 20 20">
@@ -17,7 +17,7 @@ import HeaderLink from './HeaderLink.astro';
 				</a>
 			</h2>
 
-			<div class="internal-links">
+			<div class="internal-links desktop-links">
 				<HeaderLink href="/">Home</HeaderLink>
 				<HeaderLink href="/blog">Seller's Guide</HeaderLink>
 				<HeaderLink href="/about">Why Exclusive</HeaderLink>
@@ -32,6 +32,23 @@ import HeaderLink from './HeaderLink.astro';
 					<span>661.400.1720</span>
 				</a>
 			</div>
+
+			<button class="mobile-menu-button" type="button" id="mobile-menu-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle mobile menu">
+				<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+				</svg>
+				<span>Menu</span>
+			</button>
+		</div>
+
+		<div id="mobile-nav" class="mobile-nav" hidden>
+			<div class="mobile-links">
+				<HeaderLink href="/">Home</HeaderLink>
+				<HeaderLink href="/blog">Seller's Guide</HeaderLink>
+				<HeaderLink href="/about">Why Exclusive</HeaderLink>
+				<HeaderLink href="/book">Get Started</HeaderLink>
+			</div>
+			<a href="tel:6614001720" class="mobile-phone">Call 661.400.1720</a>
 		</div>
 	</nav>
 </header>
@@ -144,31 +161,127 @@ import HeaderLink from './HeaderLink.astro';
 	}
 
 	@media (max-width: 768px) {
+		nav {
+			padding: 0 0.9rem;
+		}
+
+		.top-row {
+			gap: 0.6rem;
+		}
+
+		.desktop-links,
 		.cta-button {
 			display: none;
 		}
 
-		.internal-links {
-			gap: 0.25rem;
+		.logo a {
+			padding: 0.65rem 0;
 		}
 
-		.internal-links :global(a) {
-			padding: 0.9rem 0.45rem;
-			font-size: 0.84rem;
+		.mobile-menu-button {
+			display: inline-flex;
+			align-items: center;
+			gap: 0.45rem;
+			padding: 0.5rem 0.7rem;
+			border-radius: 0.65rem;
+			border: 1px solid rgba(148, 163, 184, 0.35);
+			color: #e2e8f0;
+			font-size: 0.8rem;
+			font-weight: 700;
+			background: rgba(15, 23, 42, 0.72);
 		}
 
 		.logo svg {
-			width: 1.5rem;
-			height: 1.5rem;
+			width: 1.2rem;
+			height: 1.2rem;
 		}
 
 		.brand-main {
-			font-size: 1.02rem;
+			font-size: 0.82rem;
+			letter-spacing: 0;
 		}
 
 		.brand-sub {
-			font-size: 0.64rem;
-			letter-spacing: 0.07em;
+			font-size: 0.56rem;
+			letter-spacing: 0.05em;
+		}
+
+		.mobile-nav {
+			margin: 0 0 0.8rem;
+			padding: 0.75rem;
+			border: 1px solid rgba(100, 116, 139, 0.32);
+			border-radius: 0.9rem;
+			background: rgba(2, 6, 23, 0.86);
+			backdrop-filter: blur(10px);
+			-webkit-backdrop-filter: blur(10px);
+		}
+
+		.mobile-links {
+			display: grid;
+			gap: 0.35rem;
+			margin-bottom: 0.7rem;
+		}
+
+		.mobile-links :global(a) {
+			display: block;
+			padding: 0.72rem 0.8rem;
+			border-radius: 0.6rem;
+			color: #cbd5e1;
+			border: 1px solid transparent;
+			font-size: 0.93rem;
+			font-weight: 600;
+		}
+
+		.mobile-links :global(a.active) {
+			color: #fecdd3;
+			background: rgba(251, 113, 133, 0.09);
+			border-color: rgba(251, 113, 133, 0.35);
+			text-shadow: none;
+			box-shadow: none;
+		}
+
+		.mobile-phone {
+			display: block;
+			text-align: center;
+			padding: 0.72rem 0.85rem;
+			border-radius: 0.65rem;
+			text-decoration: none;
+			font-size: 0.9rem;
+			font-weight: 700;
+			color: #fff;
+			background: linear-gradient(135deg, #1e3a8a, #111827);
+			border: 1px solid rgba(96, 165, 250, 0.35);
 		}
 	}
+
+	@media (min-width: 769px) {
+		.mobile-menu-button,
+		.mobile-nav {
+			display: none !important;
+		}
+	}
+
+	.mobile-menu-button {
+		display: none;
+	}
 </style>
+
+<script>
+	const toggleButton = document.getElementById('mobile-menu-toggle');
+	const mobileNav = document.getElementById('mobile-nav');
+
+	if (toggleButton && mobileNav) {
+		toggleButton.addEventListener('click', () => {
+			const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
+			toggleButton.setAttribute('aria-expanded', String(!isExpanded));
+			mobileNav.hidden = isExpanded;
+		});
+
+		mobileNav.querySelectorAll('a').forEach((link) => {
+			link.addEventListener('click', () => {
+				toggleButton.setAttribute('aria-expanded', 'false');
+				mobileNav.hidden = true;
+			});
+		});
+	}
+</script>
