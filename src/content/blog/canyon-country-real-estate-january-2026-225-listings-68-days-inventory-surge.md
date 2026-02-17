@@ -4,7 +4,7 @@ description: "Canyon Country's inventory has surged to 225 homes with 68 days to
 publishDate: 2026-02-16T08:00:00
 pubDate: 2026-02-16T08:00:00
 neighborhood: "Canyon Country"
-heroImage: "https://idx-acnt-ihouseprd.b-cdn.net/AR1197716/file_manager/263%20santa%20clarita%20real%20estate%20news%20and%20market%20update%20by%20connor%20with%20honor.png"
+heroImage: "https://storage.googleapis.com/msgsndr/3z37W4oH1lMfraSObL1X/media/6993b47a3b3cc9650e042f9e.png"
 ---
 
 The Canyon Country real estate market is experiencing a dramatic shift that every seller needs to understand. With **225 active listings** and homes taking an average of **68 days to sell**, we've moved from a fast-paced seller's market to a more measured, buyer-friendly environment.
