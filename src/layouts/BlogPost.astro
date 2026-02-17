@@ -153,12 +153,61 @@ const jsonLd = {
 				border: 0;
 				border-top: 2px solid #e5e7eb;
 			}
+			.seller-pathway {
+				margin-top: 2.5rem;
+				padding: 1.5rem;
+				border-radius: 14px;
+				border: 1px solid #dbeafe;
+				background: linear-gradient(135deg, #eff6ff, #f8fafc);
+			}
+			.seller-pathway h2 {
+				font-size: 1.35rem;
+				margin: 0 0 0.75rem;
+				color: #0f172a;
+			}
+			.seller-pathway p {
+				margin: 0 0 1rem;
+				color: #334155;
+			}
+			.seller-pathway-links {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.75rem;
+			}
+			.seller-pathway-links a {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				padding: 0.6rem 0.95rem;
+				border-radius: 10px;
+				text-decoration: none;
+				font-weight: 700;
+				font-size: 0.95rem;
+			}
+			.seller-pathway-links a.primary {
+				background: #1e3a8a;
+				color: #fff;
+			}
+			.seller-pathway-links a.secondary {
+				background: #fff;
+				color: #1e3a8a;
+				border: 1px solid #bfdbfe;
+			}
 			@media (max-width: 768px) {
 				.title h1 {
 					font-size: 2rem;
 				}
 				.hero-image img {
 					height: 300px;
+				}
+				.seller-pathway {
+					padding: 1.2rem;
+				}
+				.seller-pathway h2 {
+					font-size: 1.2rem;
+				}
+				.seller-pathway-links a {
+					width: 100%;
 				}
 			}
 		</style>
@@ -202,6 +251,16 @@ const jsonLd = {
 						</div>
 					</div>
 					<slot />
+					<section class="seller-pathway" aria-label="Seller strategy next steps">
+						<h2>Ready to sell with a deliberate strategy?</h2>
+						<p>
+							Get seller-focused guidance built around your timeline, equity goals, and negotiation leverage.
+						</p>
+						<div class="seller-pathway-links">
+							<a href="/book" class="primary">Book Your Seller Strategy Session</a>
+							<a href="/about" class="secondary">Why Exclusive Representation</a>
+						</div>
+					</section>
 				</div>
 			</article>
 		</main>
