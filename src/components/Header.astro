@@ -19,6 +19,7 @@ import HeaderLink from './HeaderLink.astro';
 
 			<div class="internal-links desktop-links">
 				<HeaderLink href="/">Home</HeaderLink>
+				<HeaderLink href="/search">Home Search</HeaderLink>
 				<HeaderLink href="/blog">Seller's Guide</HeaderLink>
 				<HeaderLink href="/about">Why Exclusive</HeaderLink>
 				<HeaderLink href="/book">Get Started</HeaderLink>
@@ -42,12 +43,13 @@ import HeaderLink from './HeaderLink.astro';
 		</div>
 
 		<div id="mobile-nav" class="mobile-nav" hidden>
-			<div class="mobile-links">
-				<HeaderLink href="/">Home</HeaderLink>
-				<HeaderLink href="/blog">Seller's Guide</HeaderLink>
-				<HeaderLink href="/about">Why Exclusive</HeaderLink>
-				<HeaderLink href="/book">Get Started</HeaderLink>
-			</div>
+				<div class="mobile-links">
+					<HeaderLink href="/">Home</HeaderLink>
+					<HeaderLink href="/search">Home Search</HeaderLink>
+					<HeaderLink href="/blog">Seller's Guide</HeaderLink>
+					<HeaderLink href="/about">Why Exclusive</HeaderLink>
+					<HeaderLink href="/book">Get Started</HeaderLink>
+				</div>
 			<a href="tel:6614001720" class="mobile-phone">Call 661.400.1720</a>
 		</div>
 	</nav>
