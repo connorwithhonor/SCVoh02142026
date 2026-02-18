@@ -52,6 +52,24 @@ import HeaderLink from './HeaderLink.astro';
 				</div>
 			<a href="tel:6614001720" class="mobile-phone">Call 661.400.1720</a>
 		</div>
+<input type="checkbox" id="mobile-menu-toggle" class="mobile-menu-toggle" hidden />
+<label for="mobile-menu-toggle" class="mobile-menu-button">
+	<svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+		<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+	</svg>
+	<span>Menu</span>
+</label>
+
+<div id="mobile-nav" class="mobile-nav">
+	<div class="mobile-links">
+		<HeaderLink href="/">Home</HeaderLink>
+		<HeaderLink href="/search">Home Search</HeaderLink>
+		<HeaderLink href="/blog">Seller's Guide</HeaderLink>
+		<HeaderLink href="/about">Why Exclusive</HeaderLink>
+		<HeaderLink href="/book">Get Started</HeaderLink>
+	</div>
+	<a href="tel:6614001720" class="mobile-phone">Call 661.400.1720</a>
+</div>
 	</nav>
 </header>
 
@@ -265,6 +283,33 @@ import HeaderLink from './HeaderLink.astro';
 
 	.mobile-menu-button {
 		display: none;
+	}
+	.mobile-menu-toggle {
+		display: none;
+	}
+	.mobile-menu-button {
+		display: none;
+		cursor: pointer;
+		align-items: center;
+		gap: 0.45rem;
+		padding: 0.5rem 0.7rem;
+		border-radius: 0.65rem;
+		border: 1px solid rgba(148, 163, 184, 0.35);
+		color: #e2e8f0;
+		font-size: 0.8rem;
+		font-weight: 700;
+		background: rgba(15, 23, 42, 0.72);
+	}
+	@media (max-width: 768px) {
+		.mobile-menu-button {
+			display: inline-flex;
+		}
+		#mobile-nav {
+			display: none;
+		}
+		.mobile-menu-toggle:checked ~ .mobile-menu-button + #mobile-nav {
+			display: block;
+		}
 	}
 </style>
 
